@@ -1,0 +1,837 @@
+provider,lat,lon,num_stops_per_week,score
+Marin Transit,37.96278,-122.50201,670,4
+Marin Transit,37.96442,-122.50124,365,3
+Marin Transit,37.96789,-122.49945,365,3
+Marin Transit,37.96695,-122.50354,365,3
+Marin Transit,37.96587,-122.50604,365,3
+Marin Transit,37.96458,-122.50895,365,3
+Marin Transit,37.96656,-122.51644,365,3
+Marin Transit,37.97103,-122.51901,415,3
+Marin Transit,37.97097,-122.52263,390,3
+Marin Transit,37.97448,-122.52329,86,1
+Marin Transit,37.97807,-122.52205,86,1
+Marin Transit,37.98116,-122.52281,100,1
+Marin Transit,37.98407,-122.52471,100,1
+Marin Transit,37.98688,-122.52653,100,1
+Marin Transit,37.99375,-122.5338,86,1
+Marin Transit,37.99735,-122.52873,138,2
+Marin Transit,37.99822,-122.53124,138,2
+Marin Transit,38.00143,-122.53642,138,2
+Marin Transit,38.00467,-122.54179,152,2
+Marin Transit,38.02007,-122.53915,162,2
+Marin Transit,38.03349,-122.53681,162,2
+Marin Transit,38.04857,-122.53172,110,1
+Marin Transit,38.06687,-122.53704,177,2
+Marin Transit,38.09347,-122.558,125,2
+Marin Transit,38.10443,-122.56138,125,2
+Marin Transit,38.10557,-122.56604,125,2
+Marin Transit,38.10644,-122.57055,215,2
+Marin Transit,38.1114,-122.56856,177,2
+Marin Transit,37.87228,-122.51157,432,3
+Marin Transit,37.88857,-122.51636,161,2
+Marin Transit,37.90249,-122.51379,240,2
+Marin Transit,37.90089,-122.51494,306,2
+Marin Transit,37.89861,-122.51328,373,3
+Marin Transit,37.8978,-122.51431,308,2
+Marin Transit,37.88913,-122.5162,236,2
+Marin Transit,37.9019,-122.51546,233,2
+Marin Transit,37.92627,-122.51405,53,1
+Marin Transit,37.92527,-122.51896,53,1
+Marin Transit,37.92551,-122.52378,53,1
+Marin Transit,37.92645,-122.52962,53,1
+Marin Transit,37.92947,-122.53392,53,1
+Marin Transit,37.93265,-122.53593,53,1
+Marin Transit,37.93622,-122.53508,53,1
+Marin Transit,37.94339,-122.54071,53,1
+Marin Transit,37.94501,-122.54294,53,1
+Marin Transit,37.94696,-122.54636,53,1
+Marin Transit,37.94839,-122.54894,53,1
+Marin Transit,37.9509,-122.54959,53,1
+Marin Transit,37.95473,-122.54824,73,1
+Marin Transit,37.95631,-122.54817,111,1
+Marin Transit,37.95971,-122.55291,111,1
+Marin Transit,37.96273,-122.55586,111,1
+Marin Transit,37.96975,-122.56049,111,1
+Marin Transit,37.97282,-122.56152,111,1
+Marin Transit,37.97549,-122.56161,111,1
+Marin Transit,37.97639,-122.55418,149,2
+Marin Transit,37.97612,-122.55019,149,2
+Marin Transit,37.97486,-122.54421,149,2
+Marin Transit,37.97408,-122.53823,149,2
+Marin Transit,37.97356,-122.53306,149,2
+Marin Transit,37.97335,-122.53055,149,2
+Marin Transit,37.97299,-122.52688,149,2
+Marin Transit,37.97113,-122.52285,287,2
+Marin Transit,38.12058,-122.56627,105,1
+Marin Transit,38.11586,-122.56744,53,1
+Marin Transit,38.11117,-122.56905,169,2
+Marin Transit,38.10629,-122.57081,209,2
+Marin Transit,38.10402,-122.57224,93,1
+Marin Transit,38.10225,-122.57282,93,1
+Marin Transit,38.09946,-122.57108,93,1
+Marin Transit,38.09179,-122.5676,93,1
+Marin Transit,38.08772,-122.56502,93,1
+Marin Transit,38.08535,-122.56202,93,1
+Marin Transit,38.0811,-122.55847,53,1
+Marin Transit,38.0781,-122.55702,53,1
+Marin Transit,38.07746,-122.55254,53,1
+Marin Transit,38.06725,-122.53871,169,2
+Marin Transit,38.06445,-122.53478,69,1
+Marin Transit,38.06163,-122.53075,109,1
+Marin Transit,38.05883,-122.52215,109,1
+Marin Transit,38.05663,-122.51938,211,2
+Marin Transit,38.05627,-122.52908,105,1
+Marin Transit,38.05066,-122.53091,105,1
+Marin Transit,38.04833,-122.53332,69,1
+Marin Transit,38.03424,-122.53738,154,2
+Marin Transit,38.02052,-122.53983,154,2
+Marin Transit,38.00836,-122.54545,53,1
+Marin Transit,38.00849,-122.54921,53,1
+Marin Transit,38.0067,-122.54581,106,1
+Marin Transit,38.00517,-122.54191,147,2
+Marin Transit,38.00129,-122.53649,130,2
+Marin Transit,37.99816,-122.5311,194,2
+Marin Transit,37.99711,-122.529,194,2
+Marin Transit,37.99459,-122.53423,130,2
+Marin Transit,37.97125,-122.52242,438,3
+Marin Transit,37.9703,-122.51997,346,3
+Marin Transit,37.96066,-122.50441,305,2
+Marin Transit,37.97313,-122.52728,147,2
+Marin Transit,37.9735,-122.53094,147,2
+Marin Transit,37.97372,-122.53345,147,2
+Marin Transit,37.97416,-122.53799,147,2
+Marin Transit,37.97511,-122.54423,147,2
+Marin Transit,37.97633,-122.54987,147,2
+Marin Transit,37.97663,-122.55464,147,2
+Marin Transit,37.97523,-122.5619,105,1
+Marin Transit,37.97242,-122.56171,105,1
+Marin Transit,37.96936,-122.56066,105,1
+Marin Transit,37.9624,-122.55574,105,1
+Marin Transit,37.95925,-122.55246,105,1
+Marin Transit,37.95623,-122.54852,105,1
+Marin Transit,37.95426,-122.54863,74,1
+Marin Transit,37.95167,-122.54977,56,1
+Marin Transit,37.94683,-122.54636,56,1
+Marin Transit,37.94459,-122.54302,56,1
+Marin Transit,37.94303,-122.54054,48,1
+Marin Transit,37.93592,-122.53531,48,1
+Marin Transit,37.93258,-122.53606,48,1
+Marin Transit,37.92909,-122.53344,48,1
+Marin Transit,37.92636,-122.52951,48,1
+Marin Transit,37.9253,-122.5237,48,1
+Marin Transit,37.9252,-122.52174,48,1
+Marin Transit,37.92503,-122.51851,48,1
+Marin Transit,37.8893,-122.51743,48,1
+Marin Transit,37.85714,-122.48047,169,2
+Marin Transit,37.85861,-122.4833,87,1
+Marin Transit,37.85966,-122.48589,87,1
+Marin Transit,37.86156,-122.48993,87,1
+Marin Transit,37.86197,-122.49362,87,1
+Marin Transit,37.86546,-122.49923,87,1
+Marin Transit,37.86838,-122.50233,87,1
+Marin Transit,37.87116,-122.50388,87,1
+Marin Transit,37.87977,-122.5153,104,1
+Marin Transit,37.87961,-122.51636,203,2
+Marin Transit,37.88147,-122.52448,104,1
+Marin Transit,37.88382,-122.52462,130,2
+Marin Transit,37.88757,-122.52475,130,2
+Marin Transit,37.89371,-122.53147,130,2
+Marin Transit,37.89561,-122.53455,78,1
+Marin Transit,37.89873,-122.53824,78,1
+Marin Transit,37.90162,-122.54152,78,1
+Marin Transit,37.90551,-122.54737,78,1
+Marin Transit,37.90526,-122.54418,78,1
+Marin Transit,37.90373,-122.53954,78,1
+Marin Transit,37.90208,-122.53349,78,1
+Marin Transit,37.90171,-122.53263,78,1
+Marin Transit,37.90067,-122.52994,78,1
+Marin Transit,37.90027,-122.52769,78,1
+Marin Transit,37.90347,-122.5192,78,1
+Marin Transit,37.92544,-122.51403,171,2
+Marin Transit,37.93866,-122.51611,171,2
+Marin Transit,37.94603,-122.51081,102,1
+Marin Transit,37.94681,-122.50656,87,1
+Marin Transit,37.94753,-122.51145,102,1
+Marin Transit,37.9709,-122.52241,350,3
+Marin Transit,38.00022,-122.60413,83,1
+Marin Transit,37.99908,-122.60045,83,1
+Marin Transit,37.99704,-122.59907,83,1
+Marin Transit,37.99566,-122.5967,83,1
+Marin Transit,37.99338,-122.59421,83,1
+Marin Transit,37.98979,-122.59164,83,1
+Marin Transit,37.9873,-122.58879,124,2
+Marin Transit,37.98656,-122.58092,124,2
+Marin Transit,37.98645,-122.5768,124,2
+Marin Transit,37.98539,-122.57429,124,2
+Marin Transit,37.98218,-122.56878,124,2
+Marin Transit,37.98092,-122.56673,124,2
+Marin Transit,37.97879,-122.56433,124,2
+Marin Transit,37.9766,-122.56302,211,2
+Marin Transit,37.9543,-122.54602,39,1
+Marin Transit,37.9536,-122.54332,39,1
+Marin Transit,37.95323,-122.53999,39,1
+Marin Transit,37.95275,-122.53809,39,1
+Marin Transit,37.94898,-122.53626,39,1
+Marin Transit,37.94382,-122.53566,39,1
+Marin Transit,37.94507,-122.52872,39,1
+Marin Transit,37.94714,-122.52924,39,1
+Marin Transit,37.94828,-122.52736,46,1
+Marin Transit,37.94728,-122.52483,46,1
+Marin Transit,37.94543,-122.52011,46,1
+Marin Transit,38.10548,-122.56647,116,1
+Marin Transit,38.10445,-122.56261,116,1
+Marin Transit,38.09129,-122.56084,116,1
+Marin Transit,38.0491,-122.53236,101,1
+Marin Transit,37.98676,-122.5266,94,1
+Marin Transit,37.98373,-122.52464,94,1
+Marin Transit,37.98056,-122.52262,77,1
+Marin Transit,37.97803,-122.52221,77,1
+Marin Transit,37.97419,-122.52351,77,1
+Marin Transit,37.99531,-122.53251,60,1
+Marin Transit,38.00585,-122.54033,24,1
+Marin Transit,38.00689,-122.54624,102,1
+Marin Transit,38.00672,-122.55002,50,1
+Marin Transit,38.00414,-122.55235,50,1
+Marin Transit,38.01174,-122.56107,50,1
+Marin Transit,38.01271,-122.55853,50,1
+Marin Transit,38.01141,-122.55537,50,1
+Marin Transit,38.0114,-122.54864,50,1
+Marin Transit,38.0131,-122.54921,50,1
+Marin Transit,38.01907,-122.55125,50,1
+Marin Transit,38.0222,-122.54995,50,1
+Marin Transit,38.02499,-122.54821,50,1
+Marin Transit,38.01953,-122.53274,36,1
+Marin Transit,38.01843,-122.52827,72,1
+Marin Transit,38.01976,-122.53283,36,1
+Marin Transit,38.02528,-122.54839,52,1
+Marin Transit,38.02249,-122.55014,52,1
+Marin Transit,38.01902,-122.55169,52,1
+Marin Transit,38.01327,-122.54951,52,1
+Marin Transit,38.0103,-122.54897,52,1
+Marin Transit,38.00974,-122.54963,52,1
+Marin Transit,38.01184,-122.55541,52,1
+Marin Transit,38.01292,-122.55937,52,1
+Marin Transit,38.00552,-122.55466,52,1
+Marin Transit,38.00391,-122.55324,53,1
+Marin Transit,38.00411,-122.5522,53,1
+Marin Transit,38.00703,-122.54961,53,1
+Marin Transit,37.99533,-122.53336,60,1
+Marin Transit,38.01211,-122.64371,70,1
+Marin Transit,37.95323,-122.49064,87,1
+Marin Transit,37.95253,-122.49706,46,1
+Marin Transit,37.95675,-122.50031,46,1
+Marin Transit,37.95866,-122.50113,46,1
+Marin Transit,37.97893,-122.56412,125,2
+Marin Transit,37.98125,-122.56706,125,2
+Marin Transit,37.98256,-122.56921,125,2
+Marin Transit,37.98469,-122.57282,125,2
+Marin Transit,37.98597,-122.57517,125,2
+Marin Transit,37.98684,-122.57846,125,2
+Marin Transit,37.98671,-122.58275,125,2
+Marin Transit,37.98709,-122.58879,125,2
+Marin Transit,38.00813,-122.54875,52,1
+Marin Transit,38.0073,-122.54408,52,1
+Marin Transit,38.05168,-122.53059,106,1
+Marin Transit,38.05621,-122.53017,106,1
+Marin Transit,38.05891,-122.52121,66,1
+Marin Transit,38.0619,-122.53292,66,1
+Marin Transit,38.06444,-122.53442,66,1
+Marin Transit,38.0776,-122.55141,52,1
+Marin Transit,38.07851,-122.55711,52,1
+Marin Transit,38.08184,-122.55858,52,1
+Marin Transit,38.0855,-122.56202,88,1
+Marin Transit,38.08901,-122.56576,88,1
+Marin Transit,38.09276,-122.56773,88,1
+Marin Transit,38.09706,-122.56954,88,1
+Marin Transit,38.10256,-122.57273,88,1
+Marin Transit,38.10368,-122.57252,88,1
+Marin Transit,38.11595,-122.56706,52,1
+Marin Transit,37.90376,-122.51609,110,1
+Marin Transit,37.88947,-122.51712,110,1
+Marin Transit,37.87195,-122.51131,90,1
+Marin Transit,37.87022,-122.5037,82,1
+Marin Transit,37.8669,-122.50109,82,1
+Marin Transit,37.86528,-122.49937,82,1
+Marin Transit,37.86179,-122.49388,82,1
+Marin Transit,37.86107,-122.48932,82,1
+Marin Transit,37.85927,-122.48528,82,1
+Marin Transit,37.94696,-122.53731,53,1
+Marin Transit,37.94888,-122.53562,45,1
+Marin Transit,37.95031,-122.5335,7,1
+Marin Transit,37.93782,-122.51703,168,2
+Marin Transit,37.9265,-122.5152,168,2
+Marin Transit,37.90281,-122.51479,69,1
+Marin Transit,37.90369,-122.51916,73,1
+Marin Transit,37.90104,-122.52624,73,1
+Marin Transit,37.90063,-122.52918,73,1
+Marin Transit,37.90184,-122.53265,73,1
+Marin Transit,37.90357,-122.53635,73,1
+Marin Transit,37.90381,-122.53867,73,1
+Marin Transit,37.90505,-122.54363,73,1
+Marin Transit,37.90566,-122.54741,73,1
+Marin Transit,37.9014,-122.54176,73,1
+Marin Transit,37.89759,-122.53729,73,1
+Marin Transit,37.8951,-122.53442,73,1
+Marin Transit,37.8929,-122.53063,125,2
+Marin Transit,37.88719,-122.52483,125,2
+Marin Transit,37.88399,-122.52484,125,2
+Marin Transit,37.88139,-122.52463,99,1
+Marin Transit,38.01273,-122.5095,64,1
+Marin Transit,38.01345,-122.51036,67,1
+Marin Transit,38.01331,-122.5142,34,1
+Marin Transit,38.01248,-122.51598,33,1
+Marin Transit,38.011,-122.51776,33,1
+Marin Transit,38.00855,-122.52,33,1
+Marin Transit,38.00588,-122.5192,33,1
+Marin Transit,38.00433,-122.5206,33,1
+Marin Transit,38.00183,-122.52248,33,1
+Marin Transit,38.00004,-122.52437,33,1
+Marin Transit,37.99796,-122.52693,33,1
+Marin Transit,37.9934,-122.5346,33,1
+Marin Transit,37.98232,-122.52074,50,1
+Marin Transit,37.98119,-122.51691,50,1
+Marin Transit,37.97952,-122.51585,50,1
+Marin Transit,37.977,-122.51689,50,1
+Marin Transit,37.97527,-122.51859,50,1
+Marin Transit,37.97253,-122.51688,50,1
+Marin Transit,37.97099,-122.51636,50,1
+Marin Transit,38.0595,-122.53212,36,1
+Marin Transit,38.06106,-122.53355,36,1
+Marin Transit,38.06288,-122.53562,36,1
+Marin Transit,38.06495,-122.5395,36,1
+Marin Transit,38.06608,-122.54147,50,1
+Marin Transit,38.06649,-122.54285,50,1
+Marin Transit,38.06827,-122.54585,50,1
+Marin Transit,38.06893,-122.5498,50,1
+Marin Transit,38.06906,-122.55332,50,1
+Marin Transit,38.06876,-122.55809,50,1
+Marin Transit,38.0717,-122.56405,50,1
+Marin Transit,38.07336,-122.5654,50,1
+Marin Transit,38.07496,-122.5684,90,1
+Marin Transit,38.0763,-122.57346,90,1
+Marin Transit,38.0758,-122.57719,106,1
+Marin Transit,38.07584,-122.56819,36,1
+Marin Transit,38.08046,-122.56593,36,1
+Marin Transit,38.08215,-122.56399,36,1
+Marin Transit,38.08415,-122.56306,36,1
+Marin Transit,38.08823,-122.56456,76,1
+Marin Transit,38.09026,-122.56194,36,1
+Marin Transit,38.09352,-122.55696,76,1
+Marin Transit,38.08995,-122.55192,76,1
+Marin Transit,38.08773,-122.55336,76,1
+Marin Transit,38.0924,-122.55586,76,1
+Marin Transit,38.09372,-122.5571,76,1
+Marin Transit,38.09115,-122.56105,76,1
+Marin Transit,38.10807,-122.57259,38,1
+Marin Transit,38.1088,-122.57607,38,1
+Marin Transit,38.10877,-122.57841,38,1
+Marin Transit,38.10716,-122.57848,38,1
+Marin Transit,38.10685,-122.58021,38,1
+Marin Transit,38.10866,-122.58429,38,1
+Marin Transit,38.11013,-122.58755,38,1
+Marin Transit,38.11191,-122.59153,38,1
+Marin Transit,38.11217,-122.59733,38,1
+Marin Transit,38.11487,-122.60407,38,1
+Marin Transit,38.11881,-122.60906,38,1
+Marin Transit,38.12164,-122.60405,38,1
+Marin Transit,38.12191,-122.60201,38,1
+Marin Transit,38.11843,-122.59686,38,1
+Marin Transit,38.11873,-122.59448,38,1
+Marin Transit,38.11932,-122.59293,38,1
+Marin Transit,38.11995,-122.59123,38,1
+Marin Transit,38.12352,-122.59158,72,1
+Marin Transit,37.99006,-122.59157,81,1
+Marin Transit,37.99379,-122.59434,81,1
+Marin Transit,37.99563,-122.59641,81,1
+Marin Transit,37.99718,-122.59907,81,1
+Marin Transit,37.99921,-122.60041,81,1
+Marin Transit,38.00021,-122.60304,81,1
+Marin Transit,37.9713,-122.52272,38,1
+Marin Transit,37.90928,-122.68655,40,1
+Marin Transit,37.92996,-122.68258,20,1
+Marin Transit,37.898,-122.64122,47,1
+Marin Transit,37.89846,-122.63996,28,1
+Marin Transit,37.90446,-122.60386,28,1
+Marin Transit,37.90922,-122.6012,26,1
+Marin Transit,37.91006,-122.57708,26,1
+Marin Transit,37.90103,-122.5677,26,1
+Marin Transit,37.89676,-122.56033,26,1
+Marin Transit,37.89307,-122.557,26,1
+Marin Transit,37.87952,-122.53518,26,1
+Marin Transit,37.87896,-122.53259,26,1
+Marin Transit,37.87898,-122.52949,26,1
+Marin Transit,38.12212,-122.60212,34,1
+Marin Transit,38.12179,-122.60451,34,1
+Marin Transit,38.11883,-122.60934,36,1
+Marin Transit,38.11424,-122.60334,36,1
+Marin Transit,38.11212,-122.59758,36,1
+Marin Transit,38.11208,-122.59319,36,1
+Marin Transit,38.11003,-122.58762,36,1
+Marin Transit,38.10836,-122.5839,36,1
+Marin Transit,38.10645,-122.57872,36,1
+Marin Transit,38.1089,-122.57826,36,1
+Marin Transit,38.10861,-122.57571,36,1
+Marin Transit,38.10794,-122.57249,36,1
+Marin Transit,38.08427,-122.56303,40,1
+Marin Transit,38.08222,-122.56405,40,1
+Marin Transit,38.08053,-122.56605,40,1
+Marin Transit,38.07423,-122.56677,56,1
+Marin Transit,38.07318,-122.56538,56,1
+Marin Transit,38.0686,-122.55821,56,1
+Marin Transit,38.06899,-122.55322,56,1
+Marin Transit,38.06883,-122.54956,56,1
+Marin Transit,38.06807,-122.54569,56,1
+Marin Transit,38.06622,-122.54276,56,1
+Marin Transit,38.06587,-122.54131,56,1
+Marin Transit,38.0629,-122.53577,40,1
+Marin Transit,38.06101,-122.53368,40,1
+Marin Transit,38.05957,-122.53223,40,1
+Marin Transit,38.04927,-122.53313,40,1
+Marin Transit,37.90197,-122.51106,67,1
+Marin Transit,37.89898,-122.50449,67,1
+Marin Transit,37.89852,-122.50114,65,1
+Marin Transit,37.89699,-122.49848,65,1
+Marin Transit,37.89761,-122.48901,67,1
+Marin Transit,37.89468,-122.48654,65,1
+Marin Transit,37.89258,-122.48334,65,1
+Marin Transit,37.88864,-122.47755,67,1
+Marin Transit,37.8861,-122.47442,67,1
+Marin Transit,37.88402,-122.47208,67,1
+Marin Transit,37.88172,-122.46713,67,1
+Marin Transit,37.88009,-122.46472,67,1
+Marin Transit,37.87705,-122.46227,67,1
+Marin Transit,37.87511,-122.45897,67,1
+Marin Transit,37.87383,-122.4561,133,2
+Marin Transit,37.9631,-122.5101,41,1
+Marin Transit,37.96521,-122.50806,41,1
+Marin Transit,37.96579,-122.5059,41,1
+Marin Transit,37.96702,-122.50311,41,1
+Marin Transit,37.96788,-122.49971,41,1
+Marin Transit,37.96444,-122.50152,41,1
+Marin Transit,37.96245,-122.50219,41,1
+Marin Transit,37.9612,-122.50356,41,1
+Marin Transit,37.94581,-122.52044,46,1
+Marin Transit,37.94783,-122.52567,46,1
+Marin Transit,37.94709,-122.52942,38,1
+Marin Transit,37.94512,-122.53019,38,1
+Marin Transit,37.94393,-122.53555,38,1
+Marin Transit,37.95071,-122.53386,46,1
+Marin Transit,37.95322,-122.5389,46,1
+Marin Transit,37.95363,-122.54085,46,1
+Marin Transit,37.95386,-122.54308,46,1
+Marin Transit,37.95432,-122.54569,46,1
+Marin Transit,38.03351,-122.54074,16,1
+Marin Transit,38.03243,-122.54469,16,1
+Marin Transit,38.02909,-122.54592,16,1
+Marin Transit,38.02694,-122.54732,16,1
+Marin Transit,38.00135,-122.54266,17,1
+Marin Transit,37.9984,-122.54171,17,1
+Marin Transit,37.99478,-122.54102,17,1
+Marin Transit,37.9924,-122.53641,17,1
+Marin Transit,38.00797,-122.54226,24,1
+Marin Transit,37.97208,-122.51557,45,1
+Marin Transit,37.97267,-122.51674,45,1
+Marin Transit,37.9747,-122.51823,45,1
+Marin Transit,37.97703,-122.51675,45,1
+Marin Transit,37.97948,-122.51566,45,1
+Marin Transit,37.98134,-122.51694,45,1
+Marin Transit,37.9825,-122.52086,45,1
+Marin Transit,37.99252,-122.5366,14,1
+Marin Transit,37.99488,-122.54092,14,1
+Marin Transit,37.99825,-122.54152,14,1
+Marin Transit,38.00107,-122.54236,14,1
+Marin Transit,38.02668,-122.54731,14,1
+Marin Transit,38.02871,-122.54593,14,1
+Marin Transit,38.03258,-122.54401,14,1
+Marin Transit,38.03324,-122.54052,14,1
+Marin Transit,37.87505,-122.45937,8,1
+Marin Transit,37.87307,-122.4633,8,1
+Marin Transit,37.87564,-122.45941,66,1
+Marin Transit,37.87702,-122.462,66,1
+Marin Transit,37.88065,-122.46506,66,1
+Marin Transit,37.88186,-122.46716,66,1
+Marin Transit,37.88423,-122.47211,66,1
+Marin Transit,37.88627,-122.47432,62,1
+Marin Transit,37.88919,-122.47781,62,1
+Marin Transit,37.89258,-122.48283,62,1
+Marin Transit,37.89475,-122.48642,62,1
+Marin Transit,37.89766,-122.48918,66,1
+Marin Transit,37.89777,-122.49874,62,1
+Marin Transit,37.89887,-122.50198,66,1
+Marin Transit,37.89925,-122.50453,66,1
+Marin Transit,38.02066,-122.53604,12,1
+Marin Transit,37.89605,-122.49183,58,1
+Marin Transit,38.01413,-122.69557,38,1
+Marin Transit,38.01498,-122.69006,31,1
+Marin Transit,38.01632,-122.67596,31,1
+Marin Transit,38.01435,-122.66818,31,1
+Marin Transit,37.9854,-122.5237,31,1
+Marin Transit,37.98755,-122.52576,31,1
+Marin Transit,37.99731,-122.52749,31,1
+Marin Transit,37.99958,-122.52469,31,1
+Marin Transit,38.00215,-122.52196,31,1
+Marin Transit,38.00462,-122.52006,31,1
+Marin Transit,38.00622,-122.51886,31,1
+Marin Transit,38.00916,-122.51947,31,1
+Marin Transit,38.01087,-122.51732,31,1
+Marin Transit,37.88197,-122.52537,26,1
+Marin Transit,37.87912,-122.53287,26,1
+Marin Transit,37.87958,-122.53492,26,1
+Marin Transit,37.8936,-122.557,26,1
+Marin Transit,37.89692,-122.56046,26,1
+Marin Transit,37.90103,-122.56728,26,1
+Marin Transit,37.91058,-122.577,26,1
+Marin Transit,37.90946,-122.60173,26,1
+Marin Transit,37.9045,-122.604,28,1
+Marin Transit,37.89855,-122.63967,28,1
+Marin Transit,37.93004,-122.683,20,1
+Marin Transit,38.0144,-122.66795,31,1
+Marin Transit,38.01649,-122.67631,31,1
+Marin Transit,38.01536,-122.68874,31,1
+Marin Transit,38.09652,-122.85152,48,1
+Marin Transit,38.0631,-122.82064,24,1
+Marin Transit,38.06787,-122.80561,48,1
+Marin Transit,38.04401,-122.78975,48,1
+Marin Transit,38.04103,-122.8,47,1
+Marin Transit,38.01963,-122.72951,24,1
+Marin Transit,38.01234,-122.70139,24,1
+Marin Transit,38.01506,-122.69004,24,1
+Marin Transit,38.01196,-122.70211,24,1
+Marin Transit,38.01961,-122.72981,24,1
+Marin Transit,38.06288,-122.82001,24,1
+Marin Transit,37.94891,-122.52846,8,1
+Marin Transit,37.94337,-122.53981,8,1
+Golden Gate Transit,37.87022,-122.5037,63,2
+Golden Gate Transit,37.87116,-122.50387,66,2
+Golden Gate Transit,37.86546,-122.49923,66,2
+Golden Gate Transit,37.86528,-122.49937,63,2
+Golden Gate Transit,37.86178,-122.49388,63,2
+Golden Gate Transit,37.86197,-122.49362,66,2
+Golden Gate Transit,37.86107,-122.48932,63,2
+Golden Gate Transit,37.86156,-122.48993,66,2
+Golden Gate Transit,37.85927,-122.48527,63,2
+Golden Gate Transit,37.85966,-122.4859,66,2
+Golden Gate Transit,37.85861,-122.4833,66,2
+Golden Gate Transit,37.8559,-122.47962,63,2
+Golden Gate Transit,37.85683,-122.48022,66,2
+Golden Gate Transit,37.84873,-122.48084,63,2
+Golden Gate Transit,37.84906,-122.4807,66,2
+Golden Gate Transit,37.84405,-122.47814,63,2
+Golden Gate Transit,37.84491,-122.47781,66,2
+Golden Gate Transit,37.83806,-122.48311,63,2
+Golden Gate Transit,37.85338,-122.49321,82,2
+Golden Gate Transit,37.85205,-122.49069,86,2
+Golden Gate Transit,37.8542,-122.49286,86,2
+Golden Gate Transit,37.87228,-122.51158,136,3
+Golden Gate Transit,37.90369,-122.51916,13,1
+Golden Gate Transit,37.90347,-122.5192,14,1
+Golden Gate Transit,37.90104,-122.52625,13,1
+Golden Gate Transit,37.90026,-122.52769,14,1
+Golden Gate Transit,37.90184,-122.53265,13,1
+Golden Gate Transit,37.90067,-122.52994,14,1
+Golden Gate Transit,37.90357,-122.53635,13,1
+Golden Gate Transit,37.90171,-122.53263,14,1
+Golden Gate Transit,37.90381,-122.53866,13,1
+Golden Gate Transit,37.90208,-122.53349,14,1
+Golden Gate Transit,37.90505,-122.54363,13,1
+Golden Gate Transit,37.90373,-122.53954,14,1
+Golden Gate Transit,37.90526,-122.54418,14,1
+Golden Gate Transit,37.90566,-122.54741,13,1
+Golden Gate Transit,37.90141,-122.54176,13,1
+Golden Gate Transit,37.90162,-122.54152,14,1
+Golden Gate Transit,37.89759,-122.53729,13,1
+Golden Gate Transit,37.89873,-122.53824,14,1
+Golden Gate Transit,37.8951,-122.53442,13,1
+Golden Gate Transit,37.89561,-122.53455,14,1
+Golden Gate Transit,37.8929,-122.53063,13,1
+Golden Gate Transit,37.89371,-122.53147,14,1
+Golden Gate Transit,37.88719,-122.52483,13,1
+Golden Gate Transit,37.88757,-122.52475,14,1
+Golden Gate Transit,37.88399,-122.52484,13,1
+Golden Gate Transit,37.88382,-122.52462,14,1
+Golden Gate Transit,37.88139,-122.52463,13,1
+Golden Gate Transit,37.88147,-122.52448,14,1
+Golden Gate Transit,37.90551,-122.54737,14,1
+Golden Gate Transit,37.89861,-122.51327,16,1
+Golden Gate Transit,37.87961,-122.51637,27,1
+Golden Gate Transit,37.90376,-122.51609,132,3
+Golden Gate Transit,37.87977,-122.51531,14,1
+Golden Gate Transit,37.9019,-122.51546,138,3
+Golden Gate Transit,37.90281,-122.51479,8,1
+Golden Gate Transit,37.90249,-122.51378,8,1
+Golden Gate Transit,37.90089,-122.51494,8,1
+Golden Gate Transit,37.88947,-122.51712,132,3
+Golden Gate Transit,37.88857,-122.51636,138,3
+Golden Gate Transit,37.94696,-122.54636,2,1
+Golden Gate Transit,37.93782,-122.51703,134,3
+Golden Gate Transit,37.93866,-122.51611,140,3
+Golden Gate Transit,37.92636,-122.52951,2,1
+Golden Gate Transit,37.92645,-122.52962,2,1
+Golden Gate Transit,37.9253,-122.5237,2,1
+Golden Gate Transit,37.92551,-122.52378,2,1
+Golden Gate Transit,37.9252,-122.52174,2,1
+Golden Gate Transit,37.92527,-122.51896,2,1
+Golden Gate Transit,37.92503,-122.51851,2,1
+Golden Gate Transit,37.92649,-122.5152,130,3
+Golden Gate Transit,37.92544,-122.51403,136,3
+Golden Gate Transit,37.94683,-122.54636,2,1
+Golden Gate Transit,37.94839,-122.54894,2,1
+Golden Gate Transit,37.94459,-122.54302,2,1
+Golden Gate Transit,37.94501,-122.54294,2,1
+Golden Gate Transit,37.94303,-122.54054,2,1
+Golden Gate Transit,37.94339,-122.54071,2,1
+Golden Gate Transit,37.93592,-122.53531,2,1
+Golden Gate Transit,37.93622,-122.53508,2,1
+Golden Gate Transit,37.93258,-122.53606,2,1
+Golden Gate Transit,37.93266,-122.53593,2,1
+Golden Gate Transit,37.92909,-122.53344,2,1
+Golden Gate Transit,37.92947,-122.53392,2,1
+Golden Gate Transit,37.95323,-122.53999,4,1
+Golden Gate Transit,37.95275,-122.53809,4,1
+Golden Gate Transit,37.95322,-122.5389,4,1
+Golden Gate Transit,37.95031,-122.5335,4,1
+Golden Gate Transit,37.95071,-122.53386,4,1
+Golden Gate Transit,37.94828,-122.52736,4,1
+Golden Gate Transit,37.94891,-122.52846,4,1
+Golden Gate Transit,37.94728,-122.52483,4,1
+Golden Gate Transit,37.94774,-122.52547,4,1
+Golden Gate Transit,37.94542,-122.52011,4,1
+Golden Gate Transit,37.94581,-122.52044,4,1
+Golden Gate Transit,37.95473,-122.54824,2,1
+Golden Gate Transit,37.95925,-122.55246,4,1
+Golden Gate Transit,37.95971,-122.55291,4,1
+Golden Gate Transit,37.95624,-122.54852,4,1
+Golden Gate Transit,37.95631,-122.54817,4,1
+Golden Gate Transit,37.9543,-122.54602,4,1
+Golden Gate Transit,37.95432,-122.5457,4,1
+Golden Gate Transit,37.9536,-122.54332,4,1
+Golden Gate Transit,37.95386,-122.54308,4,1
+Golden Gate Transit,37.95363,-122.54085,4,1
+Golden Gate Transit,37.9624,-122.55576,4,1
+Golden Gate Transit,37.96273,-122.55586,4,1
+Golden Gate Transit,37.95426,-122.54863,2,1
+Golden Gate Transit,37.97613,-122.55019,4,1
+Golden Gate Transit,37.97633,-122.54987,3,1
+Golden Gate Transit,37.97512,-122.54422,3,1
+Golden Gate Transit,37.97486,-122.54422,4,1
+Golden Gate Transit,37.97416,-122.53799,3,1
+Golden Gate Transit,37.97407,-122.53823,4,1
+Golden Gate Transit,37.97356,-122.53306,4,1
+Golden Gate Transit,37.97372,-122.53345,3,1
+Golden Gate Transit,37.9735,-122.53094,3,1
+Golden Gate Transit,37.97335,-122.53055,4,1
+Golden Gate Transit,37.97313,-122.52728,3,1
+Golden Gate Transit,37.97299,-122.52688,4,1
+Golden Gate Transit,37.96054,-122.5118,57,2
+Golden Gate Transit,37.96364,-122.51713,57,2
+Golden Gate Transit,37.95866,-122.50113,57,2
+Golden Gate Transit,37.9612,-122.50355,57,2
+Golden Gate Transit,37.95722,-122.50745,66,2
+Golden Gate Transit,37.95535,-122.50421,63,2
+Golden Gate Transit,37.95747,-122.50759,63,2
+Golden Gate Transit,37.98645,-122.57679,4,1
+Golden Gate Transit,37.98684,-122.57846,4,1
+Golden Gate Transit,37.98539,-122.57428,4,1
+Golden Gate Transit,37.98597,-122.57517,4,1
+Golden Gate Transit,37.98218,-122.56878,4,1
+Golden Gate Transit,37.98469,-122.57281,4,1
+Golden Gate Transit,37.98092,-122.56673,4,1
+Golden Gate Transit,37.98256,-122.56921,4,1
+Golden Gate Transit,37.98125,-122.56706,4,1
+Golden Gate Transit,37.97893,-122.56412,4,1
+Golden Gate Transit,37.97879,-122.56433,4,1
+Golden Gate Transit,37.9766,-122.56302,7,1
+Golden Gate Transit,37.97242,-122.56172,4,1
+Golden Gate Transit,37.97282,-122.56152,4,1
+Golden Gate Transit,37.96936,-122.56066,4,1
+Golden Gate Transit,37.96975,-122.56049,4,1
+Golden Gate Transit,37.97639,-122.55418,4,1
+Golden Gate Transit,37.97663,-122.55464,3,1
+Golden Gate Transit,38.00022,-122.60413,4,1
+Golden Gate Transit,38.00021,-122.60304,4,1
+Golden Gate Transit,37.99908,-122.60045,4,1
+Golden Gate Transit,37.99921,-122.60041,4,1
+Golden Gate Transit,37.99704,-122.59907,4,1
+Golden Gate Transit,37.99718,-122.59906,4,1
+Golden Gate Transit,37.99566,-122.5967,4,1
+Golden Gate Transit,37.99563,-122.59641,4,1
+Golden Gate Transit,37.99338,-122.59421,4,1
+Golden Gate Transit,37.99379,-122.59435,4,1
+Golden Gate Transit,37.9873,-122.58879,4,1
+Golden Gate Transit,37.98709,-122.58879,4,1
+Golden Gate Transit,37.98979,-122.59165,4,1
+Golden Gate Transit,37.99006,-122.59156,4,1
+Golden Gate Transit,37.98656,-122.58092,4,1
+Golden Gate Transit,37.98671,-122.58275,4,1
+Golden Gate Transit,38.02528,-122.54839,2,1
+Golden Gate Transit,38.025,-122.54821,2,1
+Golden Gate Transit,38.02249,-122.55014,2,1
+Golden Gate Transit,38.0222,-122.54995,2,1
+Golden Gate Transit,38.01902,-122.55169,2,1
+Golden Gate Transit,38.01908,-122.55125,2,1
+Golden Gate Transit,38.01327,-122.54952,2,1
+Golden Gate Transit,38.0131,-122.54921,2,1
+Golden Gate Transit,38.0103,-122.54898,2,1
+Golden Gate Transit,38.0114,-122.54864,2,1
+Golden Gate Transit,38.01995,-122.57332,4,1
+Golden Gate Transit,38.01858,-122.57076,4,1
+Golden Gate Transit,38.01847,-122.5708,4,1
+Golden Gate Transit,38.01604,-122.56685,4,1
+Golden Gate Transit,38.01628,-122.56682,4,1
+Golden Gate Transit,38.01471,-122.56162,4,1
+Golden Gate Transit,38.015,-122.56184,4,1
+Golden Gate Transit,38.01271,-122.55854,4,1
+Golden Gate Transit,38.01335,-122.55878,4,1
+Golden Gate Transit,38.0114,-122.55537,4,1
+Golden Gate Transit,38.01184,-122.55541,4,1
+Golden Gate Transit,38.00974,-122.54963,4,1
+Golden Gate Transit,38.00849,-122.54921,2,1
+Golden Gate Transit,38.00665,-122.54578,2,1
+Golden Gate Transit,38.00689,-122.54624,2,1
+Golden Gate Transit,38.00517,-122.5419,2,1
+Golden Gate Transit,38.00467,-122.54179,2,1
+Golden Gate Transit,38.00135,-122.54265,2,1
+Golden Gate Transit,38.00107,-122.54236,2,1
+Golden Gate Transit,37.9984,-122.54171,2,1
+Golden Gate Transit,37.99825,-122.54152,2,1
+Golden Gate Transit,37.99478,-122.54102,2,1
+Golden Gate Transit,37.99488,-122.54092,2,1
+Golden Gate Transit,37.99241,-122.53641,2,1
+Golden Gate Transit,37.99252,-122.5366,2,1
+Golden Gate Transit,38.00813,-122.54875,2,1
+Golden Gate Transit,37.9934,-122.5346,2,1
+Golden Gate Transit,37.99459,-122.53423,2,1
+Golden Gate Transit,37.99533,-122.53336,70,2
+Golden Gate Transit,37.99531,-122.53251,75,2
+Golden Gate Transit,38.02052,-122.53983,70,2
+Golden Gate Transit,38.02007,-122.53915,75,2
+Golden Gate Transit,38.03097,-122.55198,2,1
+Golden Gate Transit,38.0309,-122.55234,2,1
+Golden Gate Transit,38.03319,-122.54964,2,1
+Golden Gate Transit,38.0334,-122.54991,2,1
+Golden Gate Transit,38.03258,-122.54402,2,1
+Golden Gate Transit,38.03295,-122.54498,2,1
+Golden Gate Transit,38.03324,-122.54052,2,1
+Golden Gate Transit,38.03351,-122.54074,2,1
+Golden Gate Transit,38.02884,-122.55239,2,1
+Golden Gate Transit,38.02863,-122.55282,2,1
+Golden Gate Transit,38.11888,-122.56749,4,1
+Golden Gate Transit,38.11845,-122.56742,4,1
+Golden Gate Transit,38.12169,-122.58496,4,1
+Golden Gate Transit,38.12144,-122.58448,4,1
+Golden Gate Transit,38.12448,-122.58772,4,1
+Golden Gate Transit,38.12426,-122.58776,4,1
+Golden Gate Transit,38.12362,-122.59176,4,1
+Golden Gate Transit,38.12352,-122.59158,4,1
+Golden Gate Transit,38.12002,-122.59138,4,1
+Golden Gate Transit,38.11995,-122.59123,4,1
+Golden Gate Transit,38.11863,-122.59506,4,1
+Golden Gate Transit,38.11873,-122.59448,4,1
+Golden Gate Transit,38.11843,-122.59799,4,1
+Golden Gate Transit,38.11843,-122.59687,4,1
+Golden Gate Transit,38.12212,-122.60212,4,1
+Golden Gate Transit,38.12191,-122.60201,4,1
+Golden Gate Transit,38.12179,-122.60451,4,1
+Golden Gate Transit,38.12164,-122.60405,4,1
+Golden Gate Transit,38.11883,-122.60934,4,1
+Golden Gate Transit,38.11881,-122.60905,4,1
+Golden Gate Transit,38.11424,-122.60334,4,1
+Golden Gate Transit,38.11487,-122.60407,4,1
+Golden Gate Transit,38.11212,-122.59758,4,1
+Golden Gate Transit,38.11217,-122.59732,4,1
+Golden Gate Transit,38.11207,-122.59319,4,1
+Golden Gate Transit,38.11191,-122.59153,4,1
+Golden Gate Transit,38.11003,-122.58761,4,1
+Golden Gate Transit,38.11013,-122.58755,4,1
+Golden Gate Transit,38.10836,-122.5839,4,1
+Golden Gate Transit,38.10866,-122.58429,4,1
+Golden Gate Transit,38.10645,-122.57872,9,1
+Golden Gate Transit,38.10685,-122.58021,4,1
+Golden Gate Transit,38.1089,-122.57825,9,1
+Golden Gate Transit,38.10877,-122.5784,8,1
+Golden Gate Transit,38.10861,-122.57571,9,1
+Golden Gate Transit,38.1088,-122.57608,8,1
+Golden Gate Transit,38.10794,-122.57249,9,1
+Golden Gate Transit,38.10807,-122.57258,8,1
+Golden Gate Transit,38.11117,-122.56905,131,3
+Golden Gate Transit,38.1114,-122.56856,136,3
+Golden Gate Transit,38.10629,-122.57081,123,3
+Golden Gate Transit,38.10645,-122.57055,127,3
+Golden Gate Transit,38.10548,-122.56647,123,3
+Golden Gate Transit,38.10557,-122.56604,127,3
+Golden Gate Transit,38.10225,-122.57282,4,1
+Golden Gate Transit,38.10256,-122.57273,5,1
+Golden Gate Transit,38.09946,-122.57109,4,1
+Golden Gate Transit,38.09706,-122.56954,5,1
+Golden Gate Transit,38.09179,-122.5676,4,1
+Golden Gate Transit,38.09276,-122.56774,5,1
+Golden Gate Transit,38.08772,-122.56503,4,1
+Golden Gate Transit,38.08901,-122.56576,5,1
+Golden Gate Transit,38.08535,-122.56202,4,1
+Golden Gate Transit,38.08549,-122.56202,5,1
+Golden Gate Transit,38.0811,-122.55847,4,1
+Golden Gate Transit,38.08184,-122.55858,5,1
+Golden Gate Transit,38.0781,-122.55702,4,1
+Golden Gate Transit,38.07852,-122.55711,5,1
+Golden Gate Transit,38.07746,-122.55254,4,1
+Golden Gate Transit,38.07759,-122.55141,5,1
+Golden Gate Transit,38.06687,-122.53704,75,2
+Golden Gate Transit,38.0491,-122.53237,70,2
+Golden Gate Transit,38.09129,-122.56085,66,2
+Golden Gate Transit,38.09347,-122.558,70,2
+Golden Gate Transit,37.8357,-122.48375,66,2
+Golden Gate Transit,38.11932,-122.59294,4,1
+Golden Gate Transit,38.11939,-122.59308,4,1
+Golden Gate Transit,37.9593,-122.50666,57,2
+Golden Gate Transit,37.9594,-122.50634,57,2
+Golden Gate Transit,37.90063,-122.52918,13,1
+Golden Gate Transit,37.86838,-122.50232,66,2
+Golden Gate Transit,38.11683,-122.56427,4,1
+Golden Gate Transit,38.11729,-122.56575,4,1
+Golden Gate Transit,38.11586,-122.56744,57,2
+Golden Gate Transit,38.11595,-122.56706,57,2
+Golden Gate Transit,38.12067,-122.56917,4,1
+Golden Gate Transit,38.12057,-122.56969,4,1
+Golden Gate Transit,38.11377,-122.56564,153,3
+Golden Gate Transit,38.12131,-122.57535,4,1
+Golden Gate Transit,38.12075,-122.57865,4,1
+Golden Gate Transit,37.94299,-122.48033,57,2
+Golden Gate Transit,37.94412,-122.48072,57,2
+Golden Gate Transit,37.94514,-122.48642,57,2
+Golden Gate Transit,37.94696,-122.49099,57,2
+Golden Gate Transit,37.94916,-122.49346,57,2
+Golden Gate Transit,37.95253,-122.49706,57,2
+Golden Gate Transit,37.95675,-122.50031,57,2
+Golden Gate Transit,38.10443,-122.56138,127,3
+Golden Gate Transit,38.10445,-122.56262,123,3
+Golden Gate Transit,38.10716,-122.57848,8,1
+Golden Gate Transit,37.9554,-122.50376,129,3
+Golden Gate Transit,37.95104,-122.49345,57,2
+Golden Gate Transit,37.94689,-122.49033,57,2
+Golden Gate Transit,37.9755,-122.56161,4,1
+Golden Gate Transit,37.97523,-122.5619,4,1
+Golden Gate Transit,37.95167,-122.54977,2,1
+Golden Gate Transit,37.92627,-122.51405,2,1
+Golden Gate Transit,38.04856,-122.53172,75,2
+Golden Gate Transit,37.9509,-122.54959,2,1
+Golden Gate Transit,38.00584,-122.54039,75,2
+Golden Gate Transit,38.03349,-122.53681,75,2
+Golden Gate Transit,37.8669,-122.50109,63,2
+Golden Gate Transit,38.0079,-122.54227,70,2
+Golden Gate Transit,38.03424,-122.53737,70,2
+Golden Gate Transit,38.06725,-122.53871,70,2
+Golden Gate Transit,37.8978,-122.51432,8,1
+Golden Gate Transit,38.09262,-122.55795,8,1
+Golden Gate Transit,37.8564,-122.47825,4,1
+Golden Gate Transit,37.94532,-122.50874,14,1
+Golden Gate Transit,37.87323,-122.45628,4,1
+Golden Gate Transit,37.97103,-122.52253,127,3
+Golden Gate Transit,37.9709,-122.52241,191,3
+Golden Gate Transit,37.97135,-122.52257,183,3
+Golden Gate Transit,37.87195,-122.51131,129,3
+Sonoma Marin Area Rail Transit,37.94759,-122.51266,26,1
+Sonoma Marin Area Rail Transit,38.00156,-122.5373,26,1
+Sonoma Marin Area Rail Transit,38.10595,-122.5644,26,1
+Sonoma Marin Area Rail Transit,38.05632,-122.5239,26,1
+Sonoma Marin Area Rail Transit,38.12063,-122.5661,26,1
+Sonoma Marin Area Rail Transit,37.9719,-122.5228,26,1

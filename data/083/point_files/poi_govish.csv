@@ -1,0 +1,86 @@
+,osm_id,code,fclass,name,lon,lat
+0,648573972,2002,fire_station,Santa Barabara County Fire Department Station #22,-120.40178,34.86562
+1,648576000,2002,fire_station,Santa Barbara County Fire Department Station #23,-120.29439,34.86658
+2,1187179408,2002,fire_station,Santa Maria Fire Department Station #5,-120.40567,34.96714
+3,1188012502,2002,fire_station,Los Padres National Forest Pine Canyon Station,-120.19461,35.02936
+4,1224068357,2001,police,California Highway Patrol Station 14,-120.42195,34.97047
+5,368170520,2007,library,Santa Barbara Historical Society Library,-119.697,34.42145
+6,368170526,2007,library,Santa Barbara County Law Library,-119.70203,34.42416
+7,368170652,2007,library,David L Reeves Medical Library,-119.72302,34.43015
+8,368170685,2007,library,Eastside Branch Santa Barbara Public Library,-119.68041,34.42694
+9,368170762,2007,library,International Academy of Santa Barbara Library,-119.69569,34.42305
+10,368171124,2099,public_building,Santa Barbara County Administration Building,-119.70346,34.42501
+11,368171125,2099,public_building,East Side Social Center Catholic Welfare Bureau,-119.68819,34.42389
+12,368171136,2099,public_building,Cathedral Oaks Fire Administrative Center,-119.78514,34.43
+13,648626809,2002,fire_station,SB Fire Station 2,-119.67711,34.41939
+14,648628259,2002,fire_station,SB Fire Station 3,-119.70218,34.43006
+15,648628260,2002,fire_station,SB Fire Station 5,-119.73219,34.42512
+16,4903112323,2009,courthouse,United states bankruptcy court,-119.70781,34.42529
+17,1779893706,2002,fire_station,Santa Barbara City Fire Department Station #7,-119.69048,34.44346
+18,1809386708,2002,fire_station,Santa Barbara County Fire Department Station #15,-119.71039,34.44632
+19,2509930261,2005,post_office,The UPS Store,-119.7052,34.42255
+20,648508461,2001,police,City of Goleta Police Marketplace Substation,-119.87291,34.42938
+21,648546568,2002,fire_station,SB Fire Station 8,-119.83939,34.43247
+22,648626128,2001,police,Old Town Goleta Police Station,-119.82681,34.43569
+23,1469714020,2005,post_office,The Mail Box,-119.8029,34.43625
+24,3611957793,2005,post_office,The UPS Store,-119.87644,34.4282
+25,6033089467,2005,post_office,Mail Services,-119.85677,34.42302
+26,627239953,2002,fire_station,United States Forest Service CA-LPF E-46,-119.69049,34.44365
+27,648539962,2002,fire_station,,-119.65939,34.44043
+28,648613520,2002,fire_station,Santa Barbara County Fire Department Station #12,-119.81211,34.44296
+29,648627111,2001,police,Goleta Valley Sheriff Station,-119.77671,34.44369
+30,648628563,2002,fire_station,SB Fire Station 4,-119.74037,34.44115
+31,6545851388,2005,post_office,San Roque Branch,-119.7364,34.44
+32,448146530,2007,library,Arts Library,-119.84751,34.41237
+33,451015271,2005,post_office,,-119.84817,34.41144
+34,451497806,2001,police,,-119.85282,34.42191
+35,628277347,2002,fire_station,Santa Barabara County Fire Department Station #17,-119.85318,34.422
+36,5329457308,2005,post_office,Amazon@IslaVista,-119.85557,34.41095
+37,2323291066,2002,fire_station,Los Padres Station 42,-119.79319,34.54472
+38,2323414390,2002,fire_station,Forest Service Barracks,-119.79464,34.54495
+39,2323414391,2002,fire_station,Forest Service Barracks,-119.79468,34.54441
+40,2323414392,2002,fire_station,Los Padres Station 43,-119.79375,34.54516
+41,1774392995,2002,fire_station,Santa Maria Fire Department Station #3,-120.43563,34.98256
+42,358848103,2005,post_office,Orcutt Post Office,-120.44617,34.86437
+43,368170505,2007,library,Orcutt Branch Santa Maria Public Library,-120.44823,34.86467
+44,368170517,2007,library,Guadalupe Station Santa Maria Public Library,-120.57267,34.97192
+45,368171720,2008,town_hall,Guadalupe City Hall,-120.56916,34.96927
+46,1187174301,2002,fire_station,Santa Maria Fire Department Station #2,-120.44139,34.92465
+47,1187186683,2002,fire_station,Santa Maria Fire Department Station #6,-120.44618,34.89812
+48,1190325583,2001,police,SB County Sheriff Santa Maria Substation,-120.44642,34.88201
+49,3950640888,2001,police,SM Police Station 1,-120.45225,34.92126
+50,358848600,2005,post_office,Carpinteria Post Office,-119.51401,34.39468
+51,358848629,2005,post_office,Summerland Post Office,-119.60196,34.42186
+52,368170542,2007,library,Carpinteria Branch Santa Barbara Public Library,-119.51692,34.39737
+53,368171717,2008,town_hall,Carpinteria City Hall,-119.50688,34.39032
+54,648623835,2002,fire_station,Carpenteria Fire Station 1,-119.51738,34.39688
+55,648625077,2002,fire_station,Summerland Fire Station # 2,-119.59811,34.42086
+56,775211906,2001,police,,-119.50648,34.3901
+57,358848209,2005,post_office,Buellton Post Office,-120.19621,34.61407
+58,358848239,2005,post_office,Los Alamos Post Office,-120.27796,34.7442
+59,358848242,2005,post_office,Los Olivos Post Office,-120.11348,34.66526
+60,358848257,2005,post_office,Santa Ynez Post Office,-120.08117,34.61273
+61,358848266,2005,post_office,Solvang Post Office,-120.1382,34.59526
+62,368170509,2007,library,Ellen Gleason Library,-120.07903,34.61415
+63,368170606,2007,library,Solvang Branch Santa Barbara Public Library,-120.1357,34.59638
+64,368170627,2007,library,Los Olivos Library,-120.11404,34.66582
+65,648542004,2002,fire_station,Santa Barbara County Fire Department Station #30,-120.14155,34.59347
+66,648580512,2002,fire_station,Santa Barbara County Fire Department Station #24,-120.27978,34.7451
+67,648600612,2002,fire_station,Santa Barbara County Fire Department Station #32,-120.06942,34.6075
+68,648616926,2002,fire_station,Santa Barbara County Fire Department Station #18,-120.2145,34.47667
+69,1324571088,2001,police,California Highway Patrol Station 3,-120.19936,34.61345
+70,1467767945,2007,library,Buellton Library,-120.19624,34.61378
+71,5620677148,2002,fire_station,Chumash Fire Department,-120.08901,34.60868
+72,368170507,2007,library,Santa Maria Public Library,-120.43534,34.94861
+73,630350633,2002,fire_station,Santa Maria Fire Department Station #4,-120.42457,34.91138
+74,1187166129,2002,fire_station,Santa Maria Fire Department Station #1,-120.43928,34.94957
+75,368170504,2007,library,New Cuyama Branch Santa Maria Public Library,-119.68202,34.94554
+76,648603455,2002,fire_station,Santa Barbara County Fire Department Station #41,-119.68195,34.94573
+77,358848182,2005,post_office,Lompoc Post Office,-120.46717,34.63929
+78,368170510,2007,library,Lompoc Public Library,-120.45804,34.65726
+79,368170511,2007,library,Vandenberg Village Library,-120.46683,34.69998
+80,368171137,2099,public_building,Santa Barbara County Building;Lompoc Museum;Lompoc Museum Associates Research Library,-120.45767,34.63708
+81,368171719,2008,town_hall,Lompoc City Hall,-120.45236,34.63789
+82,648612507,2002,fire_station,Santa Barbara County Fire Department Station #51,-120.44724,34.69078
+83,6872306893,2007,library,,-120.53756,34.73459
+84,6872306895,2005,post_office,,-120.53847,34.73515

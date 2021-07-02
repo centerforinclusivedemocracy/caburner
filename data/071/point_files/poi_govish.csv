@@ -1,0 +1,174 @@
+,osm_id,code,fclass,name,lon,lat
+0,358841603,2005,post_office,Wrightwood Post Office,-117.63005,34.36
+1,358859687,2005,post_office,Alta Loma Post Office,-117.59781,34.13339
+2,519579483,2005,post_office,The UPS Store,-117.5384,34.13421
+3,587616130,2005,post_office,The UPS Store,-117.61474,34.13309
+4,368170266,2007,library,Grand Terrace Branch San Bernardino County Library,-117.30699,34.03529
+5,368168861,2002,fire_station,San Manuel Fire Department,-117.22185,34.15011
+6,368171775,2008,town_hall,Highland City Hall,-117.21073,34.12068
+7,1844530511,2005,post_office,US Post Office,-117.18819,34.11308
+8,5366149397,2007,library,Highland Branch Library,-117.21691,34.1107
+9,994133237,2002,fire_station,San Bernardino County Fire Department Station 53,-116.06168,35.27427
+10,358841093,2005,post_office,Barstow Post Office,-117.0256,34.8947
+11,358841107,2005,post_office,Hinkley Post Office,-117.18921,34.93192
+12,358841139,2005,post_office,Daggett Post Office,-116.88615,34.86221
+13,358841169,2005,post_office,Newberry Springs Post Office,-116.66272,34.82387
+14,358841216,2005,post_office,Adelanto Post Office,-117.40616,34.57888
+15,358841235,2005,post_office,Helendale Post Office,-117.33533,34.7436
+16,358841290,2005,post_office,Oro Grande Post Office,-117.33438,34.59911
+17,368170193,2007,library,Adelanto Branch San Bernardino County Library,-117.41394,34.57944
+18,368170209,2007,library,Weed Army Community Hospital Medical Library,-116.68839,35.26569
+19,368170211,2007,library,Barstow Branch San Bernardino County Library,-117.02429,34.89535
+20,368170215,2007,library,Fort Irwin Post Library,-116.6836,35.26048
+21,368171785,2008,town_hall,Barstow City Hall,-117.02504,34.89248
+22,728112843,2001,police,SBCS,-117.02552,34.89343
+23,728113844,2001,police,California Highway Patrol,-117.0244,34.89284
+24,728116177,2001,police,Barstow Police Department,-117.02509,34.89281
+25,736010839,2002,fire_station,Apple Valley Fire Center BLM,-117.16834,34.59129
+26,6074792658,2002,fire_station,Yermo Fire Station,-116.82413,34.90381
+27,368167857,2002,fire_station,Fire Station Number 2,-117.15531,34.02613
+28,358841486,2005,post_office,Hesperia Post Office,-117.2881,34.41611
+29,358841516,2005,post_office,Spring Valley Lake Branch Victorville Post Office,-117.2681,34.49222
+30,358852075,2005,post_office,Brylane Post Office,-117.45088,34.45889
+31,5617320937,2005,post_office,The UPS Store,-117.22001,34.52698
+32,6342353163,2005,post_office,The UPS Store,-117.24115,34.47455
+33,351918282,2002,fire_station,Mormon Rocks,-117.50219,34.31666
+34,358841863,2005,post_office,Crestline Post Office,-117.28143,34.24278
+35,358841890,2005,post_office,Lake Arrowhead Post Office,-117.18893,34.24917
+36,358841901,2005,post_office,Rimforest Post Office,-117.2256,34.22973
+37,358841919,2005,post_office,Skyforest Post Office,-117.17921,34.23556
+38,358841936,2005,post_office,Twin Peaks Post Office,-117.23365,34.23917
+39,358859698,2005,post_office,Lytle Creek Post Office,-117.50072,34.25967
+40,368170190,2007,library,Crestline Branch San Bernardino County Library,-117.27703,34.24203
+41,368170191,2007,library,Lake Arrowhead Branch San Bernardino County Library,-117.18893,34.24862
+42,554637915,2002,fire_station,,-117.35971,34.19251
+43,4742716410,2007,library,Blue Jay Library,-117.20924,34.24644
+44,368170267,2007,library,Running Springs Branch San Bernardino County Library,-117.10479,34.2063
+45,97051991,2001,police,,-117.18616,34.05571
+46,368167850,2002,fire_station,Redlands Fire Station #1,-117.17634,34.05579
+47,368167856,2002,fire_station,Fire Station #3,-117.18282,34.0739
+48,1587937477,2005,post_office,,-117.1634,34.06322
+49,358841782,2005,post_office,Northfork Station San Bernardino Post Office,-117.34199,34.17168
+50,358842136,2005,post_office,Rialto Post Office,-117.37338,34.09807
+51,358859705,2005,post_office,Northpark Post Office,-117.34078,34.17027
+52,358859710,2005,post_office,Rialto Annex Post Office,-117.37052,34.12931
+53,368168882,2002,fire_station,Rialto City Fire Department,-117.37426,34.09969
+54,368170263,2007,library,Rialto Branch San Bernardino County Library,-117.37421,34.10029
+55,358841580,2005,post_office,Big Bear City Post Office,-116.84668,34.26143
+56,358841587,2005,post_office,Fawnskin Post Office,-116.94855,34.26915
+57,358842030,2005,post_office,Big Bear Lake Post Office,-116.9117,34.24417
+58,368170285,2007,library,San Bernardino County Library,-116.88725,34.2464
+59,1456522341,2005,post_office,United States Post Office,-116.88584,34.25182
+60,2267847658,2002,fire_station,,-116.94713,34.26984
+61,2476362921,2009,courthouse,Big Bear Superior Court,-116.88801,34.24397
+62,2476362946,2001,police,Sheriff's Department,-116.88779,34.24373
+63,2789823950,2005,post_office,The UPS Store,-116.91309,34.23978
+64,6493463083,2005,post_office,Kathy's Postal Plus,-116.8838,34.2534
+65,368170192,2007,library,Needles Branch San Bernardino County Library,-114.61802,34.83389
+66,728145559,2002,fire_station,BLM/NPS,-115.38551,35.04213
+67,3549099662,2005,post_office,Cima,-115.50302,35.23505
+68,368170208,2007,library,Trona Branch San Bernardino County Library,-117.37877,35.75772
+69,368171593,2099,public_building,Randsburg Wash Headquarters,-117.29616,35.51941
+70,4083326921,2002,fire_station,San Bernardino County Fire Station 57,-117.36831,35.774
+71,4083326932,2001,police,San Bernardino County Sheriff,-117.37652,35.75888
+72,4083326941,2005,post_office,US Post Office,-117.37655,35.7592
+73,358841067,2005,post_office,Morongo Valley Post Office,-116.58279,34.04473
+74,358841594,2005,post_office,Landers Post Office,-116.39335,34.26584
+75,358842213,2005,post_office,Pioneertown Post Office,-116.4989,34.15667
+76,358842220,2005,post_office,Twentynine Palms Post Office,-116.0511,34.13911
+77,368170261,2007,library,Joshua Tree National Monument Library,-116.03778,34.12584
+78,368170262,2007,library,Joshua Tree Branch San Bernardino County Library,-116.31498,34.13558
+79,765408759,2002,fire_station,Morongo Valley Fire Department,-116.5781,34.04862
+80,765409316,2002,fire_station,Twentynine Palms Fire Department Station #422,-116.15096,34.18376
+81,1108657015,2005,post_office,Mom's Homemade Shipping,-116.41906,34.12154
+82,1575113767,2008,town_hall,Twentynine Palms City Hall,-116.05467,34.1422
+83,3317903800,2005,post_office,Joshua Tree Post Office,-116.32343,34.13554
+84,358841363,2005,post_office,Victorville Post Office,-117.30393,34.52861
+85,358841413,2005,post_office,Phelan Post Office,-117.57549,34.42778
+86,358841419,2005,post_office,Pinon Hills Post Office,-117.64061,34.43694
+87,368170188,2007,library,Hesperia Branch San Bernardino County Library,-117.31529,34.42383
+88,368170194,2007,library,Victorville Branch San Bernardino County Library,-117.30393,34.52333
+89,368171781,2008,town_hall,Hesperia City Hall,-117.31643,34.42389
+90,1323035145,2007,library,Phelan Library,-117.57523,34.4285
+91,5897658688,2002,fire_station,Adelanto Fire Station 322,-117.43907,34.558
+92,358859706,2005,post_office,Ontario Post Office,-117.62055,34.06345
+93,368170264,2007,library,Rancho Cucamonga Branch San Bernardino County Library,-117.6045,34.12112
+94,5440538293,2002,fire_station,Pioneer Town Station 38,-116.504,34.15538
+95,418624983,2002,fire_station,San Bernardino County Fire Department,-117.46598,34.16245
+96,568379917,2007,library,Carter Branch,-117.40214,34.14627
+97,358859697,2005,post_office,Lugonia Post Office,-117.19463,34.05782
+98,358841601,2005,post_office,Parker Dam Post Office,-114.14189,34.2864
+99,358842189,2005,post_office,Eart Post Office,-114.30356,34.16418
+100,358840938,2005,post_office,Yucaipa Post Office,-117.04309,34.03307
+101,358841009,2005,post_office,Mentone Post Office,-117.13226,34.07001
+102,358842020,2005,post_office,Angelus Oaks Post Office,-116.98087,34.14918
+103,368170214,2007,library,Mentone Branch San Bernardino County Library,-117.13142,34.07001
+104,368170218,2007,library,Yucaipa Branch San Bernardino County Library,-117.05652,34.03503
+105,368171776,2008,town_hall,Yucaipa City Hall,-117.05831,34.03478
+106,473707135,2002,fire_station,County Fire Station,-117.12127,34.0702
+107,583601538,2099,public_building,Yucaipa Community Center,-117.04149,34.04892
+108,584865592,2005,post_office,PostalAnnex,-117.07204,34.03464
+109,585334848,2002,fire_station,Crafton Hills Station 552,-117.09229,34.03422
+110,942831751,2002,fire_station,CAL FIRE - Yucaipa Fire Station. Station 551,-117.03516,34.04638
+111,1370507198,2005,post_office,,-116.92053,34.08843
+112,1370507203,2002,fire_station,,-116.91329,34.08611
+113,1595812920,2002,fire_station,Yucaipa Fire Station 553,-117.05662,34.01551
+114,4076189539,2001,police,Yucaipa Police / San Bernardino Sheriff,-117.05987,34.03414
+115,4765459923,2005,post_office,VP7,-116.93522,34.09299
+116,4765463721,2005,post_office,VP1,-116.93855,34.08819
+117,4765463722,2005,post_office,VP4,-116.92281,34.08628
+118,4765463821,2005,post_office,Swimming Pool,-116.9308,34.08784
+119,4765463822,2005,post_office,VP3,-116.92676,34.08555
+120,4765463823,2005,post_office,VP5,-116.91995,34.08637
+121,4765463824,2005,post_office,VP6,-116.92891,34.09291
+122,358842791,2005,post_office,Upland Post Office,-117.64478,34.09723
+123,358842810,2005,post_office,Downtown Station Ontario Post Office,-117.65212,34.0632
+124,358859707,2005,post_office,Plaza Center Post Office,-117.67027,34.07796
+125,368167854,2002,fire_station,Fire Station Number 1,-117.64644,34.06501
+126,368170243,2007,library,Ovitt Family Community Library,-117.64945,34.06593
+127,368170245,2007,library,Upland Public Library,-117.65061,34.09862
+128,368170246,2007,library,Weber Memorial Library,-117.63839,34.1014
+129,368171594,2099,public_building,Ontario Schools Administration Building,-117.66672,34.06751
+130,368171791,2008,town_hall,Upland City Hall,-117.64894,34.09862
+131,358842253,2005,post_office,Bloomington Post Office,-117.39949,34.07029
+132,358842415,2005,post_office,Fontana Post Office,-117.43644,34.10307
+133,368167855,2002,fire_station,Central Valley Fire District Headquarters,-117.46949,34.07779
+134,368170249,2007,library,Fontana Branch San Bernardino County Library,-117.43338,34.10223
+135,368170259,2007,library,Bloomington Branch San Bernardino County Library,-117.39866,34.07029
+136,368171587,2099,public_building,San Bernardino County Office of Emergency Services Hazardous Materials Division Building,-117.4066,34.12513
+137,368171782,2008,town_hall,Fontana City Hall,-117.43533,34.10223
+138,2811215224,2002,fire_station,,-117.53757,34.12436
+139,358841956,2005,post_office,Del Rosa Station San Bernardino Post Office,-117.25282,34.14084
+140,358842010,2005,post_office,Upton Station San Bernardino Post Office,-117.29004,34.13557
+141,358842365,2005,post_office,Colton Post Office,-117.32421,34.06862
+142,358842366,2005,post_office,Downtown Station San Bernardino Post Office,-117.29171,34.10862
+143,358842378,2005,post_office,Norton Air Force Base Station San Bernardino Post Office,-117.25429,34.09995
+144,358842397,2005,post_office,Westside Station San Bernardino Post Office,-117.31366,34.11862
+145,368168860,2002,fire_station,San Bernardino County Fire Department County Community Safety Division Building,-117.29456,34.09009
+146,368168883,2002,fire_station,California State Forestry and Fire Protection Department,-117.28545,34.15975
+147,368170250,2007,library,Del E Webb Memorial Library,-117.26342,34.05239
+148,368170251,2007,library,San Bernardino Public Library,-117.29547,34.10949
+149,368170253,2007,library,San Bernardino Sun Library,-117.29171,34.10807
+150,368170255,2007,library,Samuel E Adams Memorial Library,-117.3131,34.08862
+151,368170256,2007,library,Division Two Library California State Court of Appeals,-117.29004,34.1089
+152,368170257,2007,library,Colton Public Library,-117.32254,34.07168
+153,368170258,2007,library,Carnegie Public Library,-117.32366,34.06862
+154,368170265,2007,library,Luque Branch Colton Public Library,-117.32338,34.05946
+155,368170302,2007,library,Rowe Branch San Bernardino Public Library,-117.28449,34.14945
+156,368171230,2007,library,San Bernardino County Law Library,-117.29234,34.10666
+157,376973076,2002,fire_station,,-117.29377,34.13997
+158,4630841209,2002,fire_station,,-117.24751,34.04739
+159,5321317117,2007,library,John M Pfau Library,-117.32399,34.18262
+160,368167741,2002,fire_station,Fire Station Number 1,-117.68894,34.09223
+161,368167742,2002,fire_station,Fire Station Number 2,-117.68894,34.06279
+162,368170247,2007,library,Montclair Branch San Bernardino County Library,-117.69339,34.07291
+163,368171787,2008,town_hall,Montclair City Hall,-117.69311,34.07372
+164,6943221395,2001,police,Upland Police Department,-117.67781,34.11091
+165,6936102241,2005,post_office,The UPS Store,-117.59387,34.02036
+166,1041546769,2007,library,Rancho Cucamonga Public Library,-117.59404,34.12012
+167,358842668,2005,post_office,Chino Post Office,-117.68756,34.01418
+168,368170248,2007,library,Chino Branch San Bernardino County Library,-117.68984,34.0139
+169,4567738216,2005,post_office,The UPS Store,-117.74401,34.01474
+170,4849197691,2008,town_hall,Chino Hills City Hall,-117.73061,33.99801
+171,6524138498,2005,post_office,,-117.71318,33.98196
+172,6901027325,2005,post_office,The UPS Store,-117.65348,34.00346

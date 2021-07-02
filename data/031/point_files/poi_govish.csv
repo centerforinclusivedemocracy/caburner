@@ -1,0 +1,21 @@
+,osm_id,code,fclass,name,lon,lat
+0,358833335,2005,post_office,Armona Post Office,-119.70874,36.31717
+1,358833353,2005,post_office,Lemoore Post Office,-119.78276,36.3024
+2,358833447,2005,post_office,Hanford Post Office,-119.64619,36.32742
+3,358833473,2005,post_office,Stratford Post Office,-119.82402,36.18967
+4,358833490,2005,post_office,Corcoran Post Office,-119.56096,36.10023
+5,368166666,2099,public_building,Corcoran Unified School District Office,-119.56735,36.1019
+6,368167619,2009,courthouse,Kings County Courthouse,-119.6468,36.32801
+7,368170339,2007,library,Kings County Free Library,-119.65016,36.32791
+8,368170340,2007,library,Hanford Branch Kings County Library,-119.64568,36.32912
+9,368170341,2007,library,Stratford Branch Kings County Library,-119.82317,36.18947
+10,368170343,2007,library,Corcoran Branch Kings County Library,-119.55957,36.0994
+11,368171876,2008,town_hall,Corcoran City Hall,-119.55957,36.09884
+12,368171879,2008,town_hall,Hanford City Hall,-119.64687,36.3293
+13,368171880,2008,town_hall,Lemoore City Hall,-119.7868,36.30023
+14,358833474,2005,post_office,Avenal Post Office,-120.1268,36.00607
+15,358833477,2001,police,Avenal Police Department,-120.13374,36.01329
+16,358833506,2005,post_office,Kettleman City Post Office,-119.95986,36.00884
+17,368170342,2007,library,Avenal Branch Kings County Library,-120.13125,36.00329
+18,368170344,2007,library,Kettleman City Branch Kings County Library,-119.95986,36.00801
+19,368171877,2008,town_hall,Avenal City Hall,-120.12264,36.00773

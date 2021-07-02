@@ -45,6 +45,8 @@
     <link rel="stylesheet" href="./mapcontrols/leaflet-control-countypicker.css" />
     <script src="./mapcontrols/leaflet-control-countypicker.js"></script>
 
+    <script src="./mapcontrols/leaflet-pattern.js"></script>
+
     <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
 
@@ -73,10 +75,10 @@
     <script src="./simple_statistics.js?cachebust-d48c98f031"></script>
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
-    <link rel="stylesheet" href="./sitewide.css?cachebust-b2ff84c5cd" />
-    <script src="./sitewide.js?cachebust-96b8ca325d"></script>
-    <link rel="stylesheet" href="./county.css?cachebust-d7a6ec190f" />
-    <script src="./county.js?cachebust-d8b30f5f01"></script>
+    <link rel="stylesheet" href="./sitewide.css?cachebust-b40954767c" />
+    <script src="./sitewide.js?cachebust-b420eb744b"></script>
+    <link rel="stylesheet" href="./county.css?cachebust-2ff4d76941" />
+    <script src="./county.js?cachebust-9361aaab6b"></script>
 </head>
 <body>
 
@@ -113,13 +115,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <p id="outoforder" class="p-2"></p>
 
                 <div class="px-2 mb-3">
-                    <h2 class="m-0">Suggested Vote Center and Drop Box Areas <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="suggestedareas"]'></i></h2>
+                    <h2 class="m-0" id="suggestedHeader">Suggested Vote Center and Drop Box Locations <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="suggestedareas"]'></i></h2>
                     <div data-section="suggestedareas" class="pl-3">
                     </div>
                 </div>
 
                 <div class="px-2 mb-3">
-                    <h2 class="m-0">Additional Vote Center Options <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="additionalareas"]'></i></h2>
+                    <h2 class="m-0" id="suggestedAdditionalHeader">Additional Vote Center Options <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="additionalareas"]'></i></h2>
                     <div data-section="additionalareas" class="pl-3">
                     </div>
                 </div>
@@ -307,9 +309,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <img src="./images/usc-logo.png" title="University of Southern California Logo" style="margin-right: 10px;" />
                 &copy; 2018 <a href="https://cid.usc.edu/" target="_blank">CID</a>
             </div>
-            <div class="col-12 col-sm-6 text-md-right">
+            <!-- <div class="col-12 col-sm-6 text-md-right">
                 Updated by <a href="https://www.greeninfo.org/">GreenInfo Network</a>
-            </div>
+            </div> -->
         </div>
     </div>
 </footer>

@@ -1,0 +1,53 @@
+osm_id,code,fclass,name,lon,lat
+358768463,2082,school,Johnson School,-120.82243,37.46105
+1796561222,2303,cafe,Stockyard Cafe,-120.84832,37.4398
+358762989,2082,school,Canal School,-121.00909,37.28161
+358764180,2082,school,Cottonwood School,-121.03159,37.18772
+358773617,2082,school,Riverside School,-120.88632,37.38244
+358773759,2082,school,Romero School,-121.01437,37.13022
+358778625,2082,school,West Side Union High School,-120.84685,37.05782
+358834843,2082,school,Our Lady of Miracles Education Center,-121.00798,37.25522
+358835100,2082,school,Los Banos Elementary School,-120.84686,37.058
+401947756,2402,motel,Los Banos Motel,-120.81708,37.05635
+780716162,2303,cafe,Starbucks,-120.83358,37.05733
+2511065853,2501,supermarket,Wolfsen's Meat Market,-120.99695,37.2529
+3171712661,2303,cafe,Hilmar Coffee,-120.84918,37.40333
+3171712663,2501,supermarket,Hilmar Market,-120.84894,37.41087
+3172042328,2501,supermarket,Circle K,-120.83423,37.07418
+3208512116,2303,cafe,Starbucks,-120.8746,37.05588
+4504593895,2012,community_centre,,-120.32172,37.29146
+2947981003,2303,cafe,Cafe 33,-120.6362,37.04806
+2948010979,2501,supermarket,State Foods Supermarket,-120.63843,36.9855
+2948019630,2303,cafe,Dos Palos Donuts,-120.6293,36.98581
+3171712128,2303,cafe,Barb's Breakfast & Brunch,-120.63589,37.04785
+6128283522,2303,cafe,Jantz Café & Bakery,-120.6035,37.36077
+358778142,2082,school,Vincent School,-120.77631,37.46327
+358834826,2082,school,Delhi Development Center,-120.77742,37.43105
+358834860,2082,school,Ariel Dear Academy,-120.59652,37.34254
+358834934,2082,school,Le Conte Kindergarten,-120.47991,37.30716
+358835039,2082,school,Merced Adult School,-120.47408,37.30037
+358852031,2082,school,Tri-C Community Day School,-120.56408,37.36022
+576883124,2303,cafe,Starbucks,-120.45423,37.2888
+582973803,2303,cafe,Starbucks,-120.47742,37.31898
+2359670257,2501,supermarket,Merced Food Center,-120.48325,37.29472
+2359671471,2303,cafe,Mario's Taco Shop,-120.48579,37.29139
+3171712628,2303,cafe,Starbucks,-120.61149,37.34153
+3172059990,2081,university,"University of California, Merced",-120.43194,37.36333
+3172167399,2303,cafe,Rose's Old Fashion Chili Dog,-120.52817,37.33103
+3172167436,2501,supermarket,Westside Grocery,-120.74034,37.3606
+5434507078,2014,arts_centre,Lens 360,-120.48321,37.30204
+5780008194,2303,cafe,Starbucks,-120.48136,37.29894
+358834886,2005,post_office,Gustine Post Office,-120.99993,37.25716
+368170365,2007,library,Gustine Branch Merced County Library,-121.00215,37.25772
+368170387,2007,library,Los Banos Branch Merced County Library,-120.84742,37.05661
+358835094,2005,post_office,Dos Palos Post Office,-120.62741,36.98634
+368170390,2007,library,Dos Palos Branch Merced County Library,-120.62796,36.98636
+368171758,2008,town_hall,Dos Palos City Hall,-120.62796,36.98634
+358834827,2005,post_office,Delhi Post Office,-120.77636,37.43085
+358835042,2005,post_office,Merced Post Office,-120.48158,37.30216
+368170364,2007,library,Atwater Branch Merced County Library,-120.60631,37.35077
+368170389,2007,library,Merced County Law Library,-120.48306,37.307
+368171756,2008,town_hall,Atwater City Hall,-120.60853,37.34744
+368171757,2008,town_hall,Livingston City Hall,-120.723,37.38478
+769526877,2001,police,Livingston Police,-120.722,37.38495
+3172099580,2007,library,Winton Branch Library,-120.61456,37.38931

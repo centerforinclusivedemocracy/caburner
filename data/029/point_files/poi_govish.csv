@@ -1,0 +1,84 @@
+,osm_id,code,fclass,name,lon,lat
+0,358840120,2005,post_office,Delano Post Office,-119.24511,35.76801
+1,368166712,2099,public_building,Delano Union Elementary School District Office,-119.23928,35.77301
+2,368166713,2099,public_building,Delano Joint Union High School District Office,-119.23844,35.77662
+3,368167837,2002,fire_station,Fire Station Number 1,-119.24455,35.77245
+4,368170167,2007,library,Delano Branch Kern County Library,-119.24455,35.76968
+5,368171157,2099,public_building,Civic Center Hall,-119.24344,35.77106
+6,368171160,2099,public_building,Kern County Building,-119.24122,35.76245
+7,358840866,2005,post_office,Boron Post Office,-117.65002,35.00174
+8,368167851,2002,fire_station,Boron Fire Station,-117.65034,35.00275
+9,4364189503,2007,library,Kern County Library - Boron Branch,-117.65074,34.99981
+10,358809642,2005,post_office,Keene Post Office,-118.55648,35.21746
+11,358840578,2005,post_office,Lamont Post Office,-118.91427,35.25996
+12,358840749,2005,post_office,Arvin Post Office,-118.83121,35.20941
+13,368170228,2007,library,Arvin Branch Kern County Library,-118.82899,35.20968
+14,368170232,2007,library,Lamont Branch Kern County Library,-118.91177,35.25663
+15,368171161,2099,public_building,Kern County Building,-118.82899,35.21024
+16,368171767,2008,town_hall,Arvin City Hall,-118.83288,35.21052
+17,1659694986,2007,library,,-118.91149,35.25626
+18,1659694996,2005,post_office,Post Office,-118.91488,35.24624
+19,4331564363,2005,post_office,Lebec Post Office,-118.86575,34.84234
+20,4331566343,2002,fire_station,Kern County Fire Dept. Station 56,-118.86501,34.83297
+21,358840850,2005,post_office,Mojave Post Office,-118.17035,35.05636
+22,368166718,2099,public_building,Mojave Unified School District Office,-118.19397,35.05941
+23,6139141622,2001,police,Kern County Sheriff's Department,-118.16229,35.04621
+24,358840816,2005,post_office,California City Post Office,-117.95946,35.12703
+25,368170221,2007,library,California City Branch Kern County Library,-117.95843,35.12649
+26,368171778,2008,town_hall,California City City Hall,-117.95915,35.12643
+27,358823430,2005,post_office,Delkern Post Office,-119.00288,35.26885
+28,358840077,2005,post_office,Shafter Post Office,-119.27289,35.50051
+29,358840096,2005,post_office,Wasco Post Office,-119.33481,35.59263
+30,358840111,2005,post_office,McFarland Post Office,-119.22955,35.67773
+31,358840199,2005,post_office,Buttonwillow Post Office,-119.46984,35.40024
+32,358840273,2005,post_office,Oildale Post Office,-119.0226,35.41912
+33,358840301,2005,post_office,Bakersfield Post Office,-119.02177,35.37551
+34,368166715,2099,public_building,Buttonwillow Union Elementary School District Office,-119.4754,35.39968
+35,368167835,2002,fire_station,Fire Station Number 1,-119.02121,35.37829
+36,368167840,2002,fire_station,Fire Station Number 2,-118.99121,35.37774
+37,368167841,2002,fire_station,Fire Station Number 11,-119.07941,35.35457
+38,368167853,2002,fire_station,Fire Station Number 6,-119.00482,35.35385
+39,368170154,2007,library,Rathbun Branch Kern County Library,-119.02399,35.42635
+40,368170155,2007,library,Baker Street Branch Kern County Library,-118.99066,35.38329
+41,368170157,2007,library,Buttonwillow Branch Kern County Library,-119.47401,35.39829
+42,368170158,2007,library,Eleanor N Wilson Branch Kern County Library,-119.02399,35.3319
+43,368170159,2007,library,Kern County Hall of Records Library,-119.01732,35.37413
+44,368170160,2007,library,Northeast Bakersfield Branch Kern County Library,-118.95121,35.3994
+45,368170161,2007,library,Beale Memorial Branch Kern County Library,-119.01017,35.37278
+46,368170166,2007,library,Jackson Branch Kern County Library,-119.22955,35.67718
+47,368170168,2007,library,Shafter Branch Kern County Library,-119.2775,35.50384
+48,368170169,2007,library,Wasco Branch Kern County Library,-119.33817,35.59468
+49,368170229,2007,library,Mercy Hospital Medical Library,-119.02732,35.37274
+50,368170230,2007,library,Kern County Law Library,-119.01816,35.37246
+51,368170231,2007,library,Holloway-Gonzale Branch Kern County Library,-118.99871,35.35413
+52,368171770,2008,town_hall,Bakersfield City Hall,-119.01927,35.37301
+53,368171810,2008,town_hall,McFarland City Hall,-119.23261,35.67773
+54,368171812,2008,town_hall,Wasco City Hall,-119.33341,35.59303
+55,3247328166,2001,police,Kern County Sherrif's Department,-119.04787,35.42029
+56,3627504614,2008,town_hall,Bakersfield City Hall,-119.02046,35.37368
+57,1704780543,2002,fire_station,,-119.54245,35.17973
+58,2491266046,2002,fire_station,Station 24 - McKittrick,-119.62218,35.30711
+59,358840054,2005,post_office,Inyokern Post Office,-117.81257,35.64662
+60,368167838,2002,fire_station,Fire Station Number 77,-117.68622,35.60035
+61,368170156,2007,library,Kernville Branch Kern County Library,-118.42523,35.75588
+62,368171813,2008,town_hall,Ridgecrest City Hall,-117.67236,35.62071
+63,368171815,2008,town_hall,Inyokern Town Hall,-117.81423,35.64884
+64,940002836,2005,post_office,US Post Office,-117.63259,35.37156
+65,358816340,2005,post_office,Kernville Post Office,-118.43703,35.71384
+66,368171768,2008,town_hall,Tehachapi City Hall,-118.4462,35.13108
+67,3146534571,2001,police,Tehachapi Police Department,-118.45085,35.12798
+68,358840679,2005,post_office,Taft Post Office,-119.45845,35.14136
+69,358840842,2005,post_office,Maricopa Post Office,-119.40203,35.06331
+70,368170220,2007,library,Maricopa Branch Kern County Library,-119.40183,35.06445
+71,368170225,2007,library,Taft College Library,-119.46012,35.14941
+72,368170226,2007,library,Taft Branch Kern County Library,-119.45901,35.14941
+73,368171162,2099,public_building,Taft Civic Center,-119.4485,35.13913
+74,368171575,2099,public_building,California Department of Natural Resources,-119.4654,35.14052
+75,368171771,2008,town_hall,Taft City Hall,-119.44847,35.13941
+76,368171779,2008,town_hall,Maricopa City Hall,-119.40148,35.06233
+77,1702288438,2002,fire_station,,-119.40297,35.05675
+78,3146583610,2002,fire_station,,-118.44971,35.12393
+79,3699391910,2005,post_office,The UPS Store,-118.46891,35.12476
+80,368168915,2002,fire_station,Apache Saddle Fire Station,-119.21094,34.86025
+81,772389819,2001,police,Frazier Park Substation,-118.94538,34.82164
+82,986082252,2002,fire_station,Frazier Park Sub-Station,-118.96254,34.82315

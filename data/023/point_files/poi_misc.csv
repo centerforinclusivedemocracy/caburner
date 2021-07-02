@@ -1,0 +1,135 @@
+osm_id,code,fclass,name,lon,lat
+358774820,2082,school,School of the Redwoods,-123.82476,40.23403
+358776289,2082,school,South Fork High School,-123.82281,40.23681
+358777933,2082,school,Upper Mattole School,-124.16643,40.25181
+358778820,2082,school,Whitethorn Elementary School,-123.93725,40.01903
+358797178,2082,school,Casterlin School,-123.62281,40.24153
+358798335,2082,school,Jewett School,-123.60975,40.17348
+358818171,2082,school,Agnes J Johnson Elementary School,-123.92393,40.32014
+358818226,2082,school,Miranda Junior High School,-123.82003,40.23764
+358818237,2082,school,Redway Elementary School,-123.8242,40.11903
+358818245,2110,hospital,Jerold Phelps Community Hospital,-123.7925,40.10162
+411397583,2303,cafe,Avenue Cafe,-123.8242,40.23551
+1328779418,2501,supermarket,Shop Smart,-123.82387,40.12022
+2868029201,2402,motel,BEST WESTERN PLUS Humboldt House Inn,-123.79457,40.10195
+3758495246,2402,motel,Inn of The Lost Coast,-124.07852,40.03463
+4096922048,2402,motel,Sherwood Forest Motel,-123.79596,40.09981
+4096922049,2402,motel,Lone Pine Motel,-123.79545,40.09813
+4096922050,2402,motel,Garberville Motel,-123.7954,40.09742
+4096922051,2402,motel,Humboldt Redwoods Inn,-123.79484,40.09644
+4322128049,2501,supermarket,Groceries,-124.06823,40.02361
+4406259190,2303,cafe,The Daily Grind,-123.87287,40.26652
+4406261491,2501,supermarket,Market,-123.87277,40.26646
+5750641026,2501,supermarket,Chautauqua Natural foods,-123.79347,40.10049
+5750682021,2303,cafe,Woodrose Cafe,-123.79497,40.09815
+358762185,2082,school,Bluff Prairie School,-123.97088,40.43486
+358763840,2082,school,Coffee Creek School,-124.22005,40.56957
+358764365,2082,school,Cuddeback Elementary School,-124.04255,40.53791
+358766058,2082,school,Fortuna Nursery School,-124.14922,40.51986
+358766498,2082,school,Georgeson School,-123.92476,40.40764
+358766804,2082,school,Grant Union School,-124.23117,40.59957
+358766938,2082,school,Grizzly Bluff School (disused),-124.17141,40.56188
+358768128,2082,school,Island School,-124.27367,40.61402
+358773078,2082,school,Price Creek School,-124.16415,40.52836
+358818037,2082,school,Christian Life Elementary School,-124.14783,40.58846
+358818051,2082,school,Ferndale Elementary School,-124.26783,40.57763
+358818077,2082,school,Fortuna Elementary School,-124.15939,40.57912
+358818080,2082,school,Fortuna Junior Academy,-124.14144,40.57735
+358818205,2082,school,Hydesville Elementary School,-124.09338,40.54902
+358818238,2082,school,Rio Dell Elementary School,-124.10449,40.50152
+358818239,2082,school,Rio Dell Primary School,-124.1031,40.50152
+358818246,2082,school,Stanwood A Murphy Elementary School,-124.10088,40.48208
+411009092,2501,supermarket,CC Market,-124.11238,40.50692
+411397582,2402,motel,Redcrest Resort,-123.94983,40.40106
+4096922044,2402,motel,Travel Inn,-124.15398,40.59313
+4096922045,2402,motel,6 Rivers Motel,-124.14628,40.58673
+4096922046,2402,motel,Scotia Inn,-124.10064,40.48435
+4322261644,2303,cafe,Ridgetop Cafe & Coffee Barn,-124.2012,40.6163
+4398110889,2303,cafe,Mind's Eye Coffee Lounge,-124.26414,40.57644
+4497509989,2501,supermarket,,-124.1014,40.48515
+5162160726,2303,cafe,Shotz Coffee,-124.10531,40.4966
+6133014487,2303,cafe,Starbucks,-124.14644,40.57895
+358762610,2082,school,Buck Mountain School,-123.73365,40.48208
+358770277,2082,school,Martins Ferry School,-123.75478,41.2104
+358798871,2082,school,Morek School,-123.79673,41.27679
+358818203,2082,school,Hoopa Valley Elementary School,-123.67645,41.05013
+358818204,2082,school,Hoopa Valley High School,-123.67561,41.04902
+358818231,2082,school,Orleans Elementary School,-123.54284,41.30152
+358818295,2082,school,Bridgeville Elementary School,-123.7956,40.47153
+4270192572,2501,supermarket,Ray's Food Place,-123.68692,41.06303
+4270230309,2501,supermarket,Rays Food Place,-123.63285,40.94011
+4270230329,2082,school,Trinity Valley Elementary School,-123.63946,40.94919
+4270977723,2501,supermarket,Orleans Market,-123.5398,41.30204
+5266338926,2501,supermarket,Pearson's Grocery,-123.70527,41.18464
+358761508,2082,school,Bay School,-124.10994,40.87975
+358765378,2082,school,Elk River School,-124.17145,40.72985
+358766175,2082,school,Humboldt County Office of Education (formerly Franklin School),-124.14951,40.80152
+358766799,2082,school,Grant Elementary School,-124.16173,40.77096
+358770095,2082,school,Manila School,-124.16867,40.84568
+358773750,2082,school,Rolph School,-124.19951,40.78624
+358776273,2082,school,South Bay Union School,-124.20756,40.73485
+358818184,2082,school,Cutten Elementary School,-124.14367,40.76624
+358818234,2082,school,Peninsula Union Elementary School,-124.18312,40.82207
+358818337,2082,school,George C Jacobs Junior High School,-124.17923,40.77429
+358818352,2082,school,Saint Bernards School,-124.16784,40.78374
+358818362,2082,school,Trinity Lutheran School,-124.15701,40.78235
+368167276,2014,arts_centre,Humboldt Cultural Center,-124.16784,40.80402
+1010382776,2402,motel,Econo Lodge,-124.154,40.8041
+1466035308,2303,cafe,Bless My Soul Cafe,-124.17062,40.80143
+1466035364,2402,motel,Days Inn Eureka,-124.1684,40.80135
+1466035366,2014,arts_centre,The Studio of Dance Arts,-124.17111,40.80131
+1467729508,2303,cafe,,-124.16297,40.80224
+1467729521,2014,arts_centre,North Coast Dance,-124.1663,40.80198
+1467729524,2402,motel,Royal Inn,-124.15857,40.80312
+1467729528,2303,cafe,Starbucks,-124.16731,40.80164
+1476087010,2501,supermarket,Grocery Outlet,-124.17414,40.79955
+1491083558,2402,motel,Heritage Motel,-124.17468,40.7987
+2246323021,2303,cafe,Starbucks,-124.14717,40.79927
+2246393989,2303,cafe,Gold Rush Coffee,-124.1838,40.78329
+2246394005,2501,supermarket,Ray's,-124.19213,40.77647
+2954339505,2303,cafe,Ramone's Bakery & Cafe,-124.13943,40.78721
+3646473712,2402,motel,Holiday Inn Express & Suites Eureka,-124.17971,40.79109
+3646476049,2501,supermarket,WinCo Foods,-124.17802,40.78162
+4076434516,2402,motel,Broadway Motel,-124.1787,40.79021
+4081905389,2501,supermarket,Stop and Shop Market,-124.1696,40.79138
+5715737121,2303,cafe,Because Coffee,-124.16648,40.80348
+358766443,2082,school,Garfield Elementary School,-124.06145,40.76069
+358799397,2082,school,Redwood School,-123.8595,40.87763
+358814848,2082,school,Kneeland Elementary School,-123.94478,40.72624
+358818025,2082,school,Blue Lake Elementary School,-123.99145,40.88513
+358818118,2082,school,Maple Creek Elementary School,-123.87005,40.76041
+358818153,2082,school,Stewart Elementary School,-124.08784,40.87513
+358818164,2082,school,Unitarian Elementary School,-124.07256,40.83485
+358858501,2082,school,Dell'arte International School of Physical Theatre,-123.98902,40.88096
+523636167,2501,supermarket,Wildberries Marketplace,-124.08534,40.87168
+588015818,2303,cafe,Northtown Coffee,-124.08378,40.87464
+588015822,2402,motel,Fairwinds Motel,-124.08333,40.87487
+761654351,2303,cafe,Jitter Bean Coffee Co.,-124.08563,40.86889
+761654372,2303,cafe,The Big Blue Cafe,-124.08583,40.86837
+767578353,2303,cafe,Mosgo's,-124.09103,40.88409
+1979018863,2501,supermarket,Murphy's,-124.09092,40.88442
+2187865337,2303,cafe,Cafe Phoenix,-124.08419,40.87241
+2355140730,2012,community_centre,D Street Neighborhood Center,-124.0817,40.87153
+2355172296,2082,school,Arcata Christian School,-124.0753,40.87401
+2807273475,2303,cafe,Beachcomber Cafe,-124.06692,40.8473
+5354000081,2014,arts_centre,Outer Space Arcata,-124.09128,40.87181
+85642795,2082,school,College of the Redwoods - Eureka Campus,-124.1986,40.69606
+358765207,2082,school,Eel River School,-124.28367,40.64318
+358768486,2082,school,Jones Prairie School,-124.142,40.69374
+358818112,2082,school,Loleta Elementary School,-124.21828,40.644
+358760690,2082,school,Airport School,-124.1084,40.97318
+358761308,2082,school,Bald Hills School,-123.95535,41.21901
+358761615,2082,school,Beaver School,-123.87673,41.04318
+358762991,2082,school,Canal School,-124.11006,40.91568
+358765853,2082,school,Fieldbrook Elementary School,-124.03312,40.95652
+358777873,2082,school,Big Lagoon School,-124.13118,41.15735
+358778324,2082,school,Warren Creek School,-124.04145,40.90346
+358799055,2082,school,Pecwan Union School,-123.85062,41.34262
+358814827,2082,school,Green Point Elementary School,-123.86701,41.02068
+358814843,2082,school,Jack Norton School,-123.86605,41.35005
+721572425,2501,supermarket,Ray's Food Place,-124.08189,40.90316
+721586808,2501,supermarket,Rite Aid,-124.10127,40.93314
+2334904322,2402,motel,Palm Cafe and Motel,-124.05902,41.28985
+3793533812,2501,supermarket,Safeway,-124.10315,40.94367
+3793533822,2303,cafe,Starbucks,-124.10141,40.94041
+4987263453,2501,supermarket,Eureka Natural Foods,-124.09997,40.94483

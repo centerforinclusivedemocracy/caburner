@@ -1,0 +1,220 @@
+,osm_id,code,fclass,name,lon,lat
+0,1315743921,2005,post_office,,-117.17963,33.57525
+1,1802473354,2002,fire_station,Murrieta Fire Department Station #3,-117.16822,33.55558
+2,2636161144,2005,post_office,UPS,-117.13906,33.55048
+3,358843343,2005,post_office,USPO Cabazon,-116.78326,33.91753
+4,1694310878,2002,fire_station,Riverside County Fire Department Station #24,-116.78211,33.90854
+5,1699178832,2002,fire_station,Riverside County Fire Department Station #77,-116.78936,33.50982
+6,1699148198,2002,fire_station,Riverside County Fire Department Station #73,-117.16714,33.51561
+7,1770065596,2001,police,CHP Temecula Office,-117.16063,33.51096
+8,945520451,2001,police,Gaming Commission,-117.10664,33.45715
+9,358843798,2005,post_office,Lake Elsinore Post Office,-117.3331,33.66919
+10,368170895,2007,library,Lake Elsinore Branch Riverside City and County Public Library,-117.33171,33.66919
+11,368171685,2008,town_hall,Lake Elsinore City Hall,-117.32782,33.66724
+12,826794566,2002,fire_station,U.S. Forest Service Temescal Fire Station,-117.48395,33.7622
+13,835835799,2002,fire_station,U.S. Forest Service El Cariso Fire Station,-117.41279,33.65082
+14,1691357680,2002,fire_station,Riverside County Fire Station #4,-117.37014,33.8391
+15,1692595197,2002,fire_station,CAL FIRE/Riverside County Fire Department Station #10,-117.33243,33.6691
+16,1692595683,2002,fire_station,Riverside County Fire Department Station #11,-117.3485,33.64098
+17,1695369632,2002,fire_station,Riverside County Fire Department Station #51,-117.41356,33.65079
+18,1699119361,2002,fire_station,Riverside County Fire Department Station #64,-117.45707,33.75199
+19,1699190820,2002,fire_station,Riverside County Fire Department Station #85,-117.40094,33.68738
+20,1802539224,2002,fire_station,Corona Fire Department Station #7,-117.52338,33.82374
+21,2358171906,2002,fire_station,Riverside County Fire Department station #97,-117.32212,33.70097
+22,368171691,2008,town_hall,Palm Springs City Hall,-116.51168,33.82419
+23,1846245987,2002,fire_station,Palm Springs Fire Department Station #4,-116.53228,33.79705
+24,1692644786,2002,fire_station,Riverside County Fire Department Station #16,-117.48644,33.97532
+25,368170235,2007,library,Norco Branch Riverside City and County Public Library,-117.5574,33.93897
+26,1694342262,2002,fire_station,Riverside County Fire Department Station #27,-117.55862,33.95939
+27,1695337490,2002,fire_station,Riverside County Fire Department Station #47,-117.53757,33.93873
+28,2871752728,2007,library,Norco College Library,-117.56995,33.91674
+29,2871752729,2001,police,Police,-117.56923,33.91673
+30,4748552487,2002,fire_station,Riverside County Fire Department Station #31,-117.59982,33.94655
+31,358843391,2005,post_office,Beaumont Post Office,-116.97697,33.93474
+32,368167743,2002,fire_station,CAL FIRE/Riverside County Fire Department Station #20,-116.94963,33.93001
+33,368167744,2002,fire_station,Riverside County Fire Department Station #66,-116.97277,33.92997
+34,368170882,2007,library,Banning Public Library,-116.87605,33.93029
+35,368170883,2007,library,Beaumont Library,-116.98169,33.93224
+36,368171689,2008,town_hall,Beaumont City Hall,-116.9753,33.92974
+37,1699196751,2002,fire_station,Riverside County Fire Department Station #89,-116.87528,33.92692
+38,358859688,2005,post_office,Arlington Post Office,-117.46358,33.91554
+39,368168884,2002,fire_station,Riverside Fire Department Station #5,-117.43119,33.94627
+40,368168887,2002,fire_station,Riverside Fire Department Station #2,-117.443,33.91727
+41,368168889,2002,fire_station,Riverside Fire Department Station #8,-117.48775,33.91878
+42,368168890,2002,fire_station,Riverside Fire Department Station #7,-117.47623,33.9432
+43,368170233,2007,library,La Sierra Branch Riverside Public Library,-117.48663,33.91548
+44,368170244,2007,library,Arlington Branch Riverside Public Library,-117.44736,33.91943
+45,927738749,2001,police,Riverside Police Department Magnolia Station,-117.46513,33.90774
+46,928841452,2007,library,Arlanza Branch Riverside Public Library,-117.4621,33.93934
+47,1532417635,2002,fire_station,Riverside Fire Department Station #12,-117.46326,33.90132
+48,1699183539,2002,fire_station,Riverside County Fire Department Station #82,-117.4579,33.86619
+49,2281492050,2005,post_office,La Sierra University Post Office,-117.50431,33.91008
+50,1692636834,2002,fire_station,Riverside County Fire Department Station #13,-117.52513,33.8745
+51,1802530736,2002,fire_station,Corona Fire Department Station #4,-117.52838,33.89789
+52,358859690,2005,post_office,Calimesa Post Office 92320,-117.06097,33.99971
+53,1693910108,2002,fire_station,City of Calimesa Fire Department,-117.0587,34.00351
+54,1693916021,2002,fire_station,Riverside County Fire Department Station #22,-116.97407,33.97542
+55,2789628021,2007,library,,-117.06166,34.0018
+56,358843053,2005,post_office,Sunnymead Post Office,-117.24254,33.94057
+57,358843633,2005,post_office,Mead Valley Post Office,-117.2881,33.83696
+58,358852087,2005,post_office,March Air Reserve Base Post Office,-117.25421,33.89502
+59,358859709,2005,post_office,Postal Avenue Station Post Office,-117.24291,33.94006
+60,368166788,2099,public_building,Val Verde School District Office,-117.2342,33.82419
+61,1692590095,2002,fire_station,Riverside County Fire Department Station #6,-117.27498,33.93225
+62,1696973598,2002,fire_station,Riverside County Fire Department Station #59,-117.28706,33.83212
+63,1699120098,2002,fire_station,Riverside County Fire Department Station #65,-117.23539,33.90182
+64,1802520084,2002,fire_station,Riverside Fire Department Station #13,-117.29666,33.93328
+65,6765417729,2007,library,,-117.26915,33.93854
+66,358843013,2005,post_office,USPS Moreno Station,-117.15703,33.91717
+67,368170237,2007,library,Moreno Valley Branch Riverside City and County Public Library,-117.21782,33.91752
+68,1691286921,2002,fire_station,Riverside County Fire Department Station #2,-117.22799,33.94241
+69,1696972765,2002,fire_station,Riverside County Fire Department Station #58,-117.17368,33.9377
+70,1699203695,2002,fire_station,Riverside County Fire Department Station #90,-117.219,33.82257
+71,1699217687,2002,fire_station,Riverside County Fire Department Station #91,-117.205,33.88803
+72,1978689275,2002,fire_station,Riverside County Fire Deparment Station #99,-117.19975,33.92534
+73,368170886,2007,library,Corona Public Library,-117.56644,33.87307
+74,1802523033,2002,fire_station,Corona Fire Department Station #1,-117.55926,33.85575
+75,1802525856,2002,fire_station,Corona Fire Department Station #2,-117.56323,33.88431
+76,1802528766,2002,fire_station,Corona Fire Department Station #3,-117.59279,33.87605
+77,1802536747,2002,fire_station,Corona Fire Department Station #6,-117.57331,33.83431
+78,368170900,2007,library,Lake Tamarisk Branch Riverside City and County Public Library,-115.39155,33.73772
+79,1128307196,2005,post_office,,-115.72079,33.66126
+80,1695344682,2002,fire_station,Riverside County Fire Department Station #49,-115.3923,33.73785
+81,1695318221,2002,fire_station,Riverside County Fire Department Station #43,-114.59799,33.6138
+82,1695323918,2002,fire_station,Riverside County Fire Department Station #44,-114.6555,33.52628
+83,1846256232,2002,fire_station,Blythe Fire Department Station #1,-114.60118,33.61246
+84,2496948033,2002,fire_station,Riverside County Fire Department Station #46,-114.53003,33.86127
+85,368168891,2002,fire_station,Riverside Fire Department Station #6,-117.35711,34.0061
+86,368170242,2007,library,Highgrove Branch Riverside City and County Public Library,-117.32615,34.01335
+87,1692658566,2002,fire_station,Riverside County Fire Department Station #19,-117.32098,34.01604
+88,1802532709,2002,fire_station,Corona Fire Department Station #5,-117.63558,33.87549
+89,358844115,2005,post_office,Murrieta Post Office,-117.21178,33.55191
+90,1696985481,2002,fire_station,Riverside County Fire Department Station #61,-117.27842,33.6042
+91,1699161166,2002,fire_station,Riverside County Fire Department Station #75,-117.26426,33.56525
+92,1846239503,2002,fire_station,Murrieta Fire Department Station #5,-117.24738,33.56354
+93,368170905,2007,library,Palm Desert Country Club Branch Riverside City and County Public Library,-116.30529,33.74169
+94,368171697,2008,town_hall,Indian Wells City Hall,-116.33828,33.7222
+95,592535204,2005,post_office,,-116.35681,33.7465
+96,1696968613,2002,fire_station,Riverside County Fire Department Station #55,-116.33834,33.72302
+97,1699181489,2002,fire_station,Riverside County Fire Department Station #81,-116.30286,33.77375
+98,1699234616,2002,fire_station,Riverside County Fire Department Station #93,-116.28699,33.72512
+99,1750227778,2001,police,Indian Wells Police (Riverside County Sheriff) sub station,-116.33849,33.7233
+100,368170903,2007,library,Coachella Branch Riverside City and County Public Library,-116.17547,33.67791
+101,368170909,2007,library,Max T McCandless Memorial Branch Riverside Public Library,-116.20251,33.71919
+102,368170910,2007,library,Indio Branch Riverside County Law Library,-116.22112,33.71447
+103,1699193047,2002,fire_station,Riverside County Fire Department Station #86,-116.21596,33.7081
+104,1699193644,2002,fire_station,Riverside County Fire Department Station #87,-116.19874,33.73714
+105,1699194149,2002,fire_station,Riverside County Fire Department Station #88,-116.25172,33.70975
+106,1699126855,2002,fire_station,Riverside County Fire Department Station #70,-116.25209,33.65604
+107,1865103406,2002,fire_station,Riverside County Fire Department Station #41,-115.93793,33.52145
+108,358843914,2005,post_office,Homeland Post Office,-117.10614,33.74363
+109,358843927,2005,post_office,US Post Office,-117.0853,33.70785
+110,368170899,2007,library,Valle Vista Branch Riverside City and County Public Library,-116.89363,33.74759
+111,368170901,2007,library,International Bank Note Society Library,-116.96364,33.73169
+112,368171150,2099,public_building,San Jacinto City Administration Building,-116.95808,33.78419
+113,368171151,2099,public_building,Hemet Civic Center,-116.96836,33.74974
+114,368171688,2008,town_hall,San Jacinto City Hall,-116.95752,33.78419
+115,1691308828,2002,fire_station,Riverside County Fire Station #3,-117.13024,33.82459
+116,1694333494,2002,fire_station,Riverside County Fire Department Station #26,-116.93224,33.74482
+117,1694435660,2002,fire_station,Riverside County Fire Department Station #34,-117.09067,33.70313
+118,1695377832,2002,fire_station,Riverside County Fire Department Station #54,-117.12747,33.7475
+119,1699105323,2002,fire_station,Riverside County Fire Department Station #63,-116.8613,33.84363
+120,1699145755,2002,fire_station,Riverside County Fire Department Station #72,-116.89362,33.75893
+121,1846219996,2002,fire_station,Hemet Fire Department Headquarters,-116.96707,33.74791
+122,1846222410,2002,fire_station,Hemet Fire Department Station #1,-116.96811,33.75033
+123,1846223944,2002,fire_station,Hemet Fire Department Station #2,-116.97972,33.72904
+124,1978700966,2002,fire_station,CAL FIRE Ryan Air Attack Base,-117.02248,33.73007
+125,3841813974,2005,post_office,Mail Pac. & Ship,-116.90254,33.74875
+126,4721493458,2007,library,Duffin Heritage Room,-116.96978,33.74955
+127,4844810416,2002,fire_station,Cranston Station,-116.83752,33.73786
+128,5899108586,2001,police,Hemet East Sheriff Station,-116.89366,33.74446
+129,358843367,2005,post_office,Riverside Post Offcie,-117.37339,33.98046
+130,358859700,2005,post_office,Magnolia Center Post Office,-117.39377,33.95476
+131,368167611,2009,courthouse,Riverside County Courthouse,-117.37532,33.97918
+132,368168880,2002,fire_station,Riverside Fire Department Station #10,-117.40298,33.91964
+133,368168881,2002,fire_station,Riverside Fire Department Station #1,-117.37116,33.98069
+134,368168885,2002,fire_station,Riverside Fire Department Station #4,-117.34389,33.97907
+135,368170234,2007,library,Casa Blanca Branch Riverside City Public Library,-117.39984,33.93032
+136,368170864,2007,library,Marcy Branch Riverside Public Library (Closed),-117.39465,33.95386
+137,368170884,2007,library,Central Branch Riverside City and County Public Library,-117.37162,33.98277
+138,368171149,2099,public_building,Riverside Municipal Auditorium and Soldiers Memorial Building,-117.37078,33.98209
+139,1335035221,2007,library,Riverside Public Library Marcy Branch,-117.40078,33.94799
+140,1393084460,2002,fire_station,Riverside Fire Department Station #9,-117.34589,33.93036
+141,1692593527,2002,fire_station,Riverside County Fire Department Station #8,-117.37326,33.87954
+142,1802505493,2002,fire_station,Riverside Fire Department Station #3,-117.38826,33.95108
+143,5908982885,2001,police,Riverside Police Department,-117.41216,33.92224
+144,5908982886,2001,police,California Highway Patrol,-117.41052,33.92202
+145,6057612390,2005,post_office,Hardman Post Office,-117.41522,33.94521
+146,6421485999,2007,library,Green Canyon Little Free Library,-117.38378,33.92677
+147,6522469439,2007,library,Riverside County Law Library,-117.37342,33.97924
+148,6635977625,2007,library,Riverside Public Library,-117.34929,33.97312
+149,368171686,2008,town_hall,La Quinta City Hall,-116.29588,33.67739
+150,1272574086,2002,fire_station,Riverside County Fire Department Station #32,-116.30133,33.67246
+151,1280099820,2007,library,La Quinta Public Library,-116.29872,33.67758
+152,1694378810,2002,fire_station,Riverside County Fire Department Station #30,-116.44801,33.58522
+153,2300216672,2005,post_office,,-116.30396,33.67574
+154,358843706,2005,post_office,Thousand Palms Post Office,-116.39446,33.81669
+155,368170892,2007,library,Cathedral City Branch Riverside City and County Public Library,-116.46224,33.77891
+156,368170904,2007,library,Rancho Mirage Public Library,-116.40779,33.73808
+157,368170908,2007,library,Palm Desert Branch Riverside City and County Public Library,-116.37334,33.71808
+158,368171687,2008,town_hall,Rancho Mirage City Hall,-116.44724,33.77113
+159,1218137835,2008,town_hall,Palm Desert City Hall,-116.38154,33.72932
+160,1218137843,2001,police,Palm Desert Sheriff Station,-116.38079,33.72933
+161,1472251796,2002,fire_station,Riverside County Fire Department Station #35,-116.39647,33.81689
+162,1694426310,2002,fire_station,Riverside County Fire Department Station #33,-116.39791,33.72686
+163,1695365960,2002,fire_station,Riverside County Fire Department Station #50,-116.43049,33.75277
+164,1699121951,2002,fire_station,Riverside County Fire Department Station #67,-116.38707,33.69574
+165,1699123315,2002,fire_station,Riverside County Fire Department Station #69,-116.41004,33.7867
+166,1846249462,2002,fire_station,Cathedral City Fire Department Station #411,-116.45832,33.78015
+167,1846250119,2002,fire_station,Cathedral City Fire Department Station #412,-116.46128,33.81492
+168,1967518796,2001,police,Cathedral City Police,-116.46434,33.78135
+169,1967519703,2008,town_hall,City Hall,-116.46375,33.78135
+170,358843356,2005,post_office,North Palm Springs Post Office,-116.5439,33.92474
+171,368170885,2007,library,Desert Hot Springs Branch Riverside City and County Public Library,-116.5106,33.96312
+172,368171788,2008,town_hall,Desert Hot Springs City Hall,-116.51161,33.96186
+173,1694447213,2002,fire_station,Riverside County Fire Department Station #36,-116.5634,33.96474
+174,1695258314,2002,fire_station,Riverside County Fire Department Station #37,-116.51052,33.96185
+175,1696971633,2002,fire_station,Riverside County Fire Department Station #56,-116.38976,33.9167
+176,1846245369,2002,fire_station,Palm Springs Fire Department Station #3,-116.54104,33.85247
+177,358790540,2001,police,California Military Institute,-117.2342,33.79141
+178,358843631,2005,post_office,Nuevo Post Office,-117.14614,33.80169
+179,358843812,2005,post_office,Romoland Post Office,-117.18087,33.74919
+180,368170887,2007,library,Nuevo Branch Riverside City and County Public Library,-117.14726,33.80169
+181,368171690,2008,town_hall,Perris City Hall,-117.22781,33.78752
+182,1144945774,2001,police,,-117.22512,33.78794
+183,1144948039,2007,library,Ceaser E. Chavez Library,-117.22672,33.7862
+184,1691316735,2002,fire_station,CAL FIRE Riverside Station #1,-117.22998,33.78693
+185,1692594491,2002,fire_station,Riverside County Fire Department Station #9,-117.28299,33.7623
+186,2034406099,2002,fire_station,Riverside County Fire Department Station #101,-117.22367,33.78606
+187,2034406941,2002,fire_station,CAL FIRE/Riverside County Fire Department Headquarters,-117.23026,33.78677
+188,358842886,2005,post_office,Glen Avon Post Office,-117.46699,34.01168
+189,358843012,2005,post_office,Mira Loma Post Office,-117.51977,33.99224
+190,358843228,2005,post_office,Rubidoux Post Office,-117.41338,33.99557
+191,368170240,2007,library,Glen Avon Branch Riverside City and County Public Library,-117.47533,34.00251
+192,368170876,2007,library,Louis Rubidoux Branch Riverside City and County Public Library,-117.41282,33.99529
+193,368171229,2007,library,Riverside County Library,-117.48511,34.00447
+194,368171231,2007,library,The Church of Jesus Christ of Latter-day Saints Jurupa Library,-117.47279,34.00895
+195,1692650849,2002,fire_station,Riverside County Fire Department Station #17,-117.51053,34.01377
+196,1692654354,2002,fire_station,CAL FIRE/Riverside County Fire Department Station #18,-117.44807,34.01244
+197,1695278284,2002,fire_station,Riverside County Fire Department Station #38,-117.40988,33.99886
+198,368170888,2007,library,Rupert Costo Library of the American Indian,-117.32727,33.97252
+199,368170889,2007,library,Tomas Rivera Library,-117.32769,33.97285
+200,1234168806,2002,fire_station,Riverside Fire Department Station #11,-117.32167,33.89431
+201,1802518105,2002,fire_station,Riverside Fire Department Station #14,-117.32585,33.95542
+202,6422516721,2005,post_office,PostalAnnex,-117.3225,33.88987
+203,358843808,2005,post_office,Quail Valley Post Office,-117.24115,33.70447
+204,368170894,2007,library,Sun City Library,-117.18958,33.71173
+205,368170897,2007,library,Canyon Lake Branch Riverside County Public Library,-117.25149,33.67241
+206,368171684,2008,town_hall,Sun City Town Hall,-117.19365,33.70947
+207,1691358085,2002,fire_station,Riverside County Fire Station #5,-117.2403,33.7017
+208,1699129001,2002,fire_station,Riverside County Fire Department Station #68,-117.20521,33.64903
+209,1699178218,2002,fire_station,Riverside County Fire Department Station #76,-117.15304,33.68651
+210,1699244431,2002,fire_station,Riverside County Fire Department Station #94,-117.26621,33.66378
+211,4951815456,2002,fire_station,Riverside County Fire Department Station #60,-117.26653,33.69879
+212,5880397238,2002,fire_station,Riverside County Fire Department Station 7,-117.18908,33.70984
+213,6839254239,2008,town_hall,Canyon Lake City Hall,-117.25149,33.67251
+214,6852822091,2005,post_office,Canyon Lake Post Office,-117.25255,33.67131
+215,358843947,2005,post_office,Idyllwild Post Office,-116.71349,33.74363
+216,1693941244,2002,fire_station,Riverside County Fire Department Station #23,-116.73748,33.76115
+217,1694367007,2002,fire_station,CAL FIRE/Riverside County Fire Department Station #29,-116.67428,33.5554
+218,1695377230,2002,fire_station,Riverside County Fire Department Station #53,-116.62789,33.61593

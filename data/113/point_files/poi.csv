@@ -1,0 +1,129 @@
+osm_id,code,fclass,name,lon,lat
+358778941,2082,school,Wildwood School,-122.06247,38.92545
+358778614,2082,school,West Sacramento School,-121.55607,38.52713
+358822702,2082,school,Clarksburg Elementary School,-121.52857,38.41713
+358837150,2082,school,Delta High School,-121.53023,38.4163
+358763019,2082,school,Cañon School,-122.15359,38.75351
+358763772,2082,school,Clover School,-121.92913,38.71546
+358764755,2082,school,Dingle Elementary School,-121.77635,38.67296
+358767723,2082,school,Holy Rosary Academy,-121.78774,38.6749
+358769135,2082,school,Laugenour School,-121.76469,38.72213
+358771266,2082,school,Mount Pleasant District School,-121.88497,38.66379
+358779026,2082,school,Willow Oak School,-121.8208,38.6849
+358822666,2013,nursing_home,Alderson Convalescent Hospital,-121.77858,38.68185
+358822717,2082,school,Douglass Junior High School,-121.77552,38.66824
+358822749,2082,school,Science and Technology Academy at Knights Landing (SciTech),-121.72052,38.79823
+358822773,2082,school,Madison Community High School,-121.97108,38.67935
+358822791,2082,school,Plainfield Elementary School,-121.82191,38.64213
+358822842,2082,school,Cache Creek High School,-121.8083,38.73185
+358822890,2084,college,Yuba Community College-Woodland Campus,-121.73569,38.66095
+2551989318,2303,cafe,Starbucks,-121.80085,38.67738
+2551989425,2501,supermarket,Raley's,-121.80127,38.67664
+4047545109,2501,supermarket,Walmart,-121.74126,38.67564
+4047546796,2402,motel,Motel 6,-121.7489,38.67628
+5315597553,2501,supermarket,Walmart Neighborhood Market,-121.76368,38.66134
+5315598128,2501,supermarket,Walmart Neighborhood Market,-121.78792,38.68087
+5326270116,2501,supermarket,Grocery Outlet,-121.7587,38.67606
+5326303605,2501,supermarket,Food 4 Less,-121.74499,38.67504
+6180225126,2110,hospital,Hansen Family Health Clinic,-121.79375,38.68434
+6180225129,2082,school,Greengate School,-121.79685,38.68426
+6180225130,2082,school,Cesar Chavez Community School,-121.79564,38.68445
+6262280253,2501,supermarket,Nugget Markets,-121.78061,38.67821
+5602128078,2081,university,Robert Mondavi Institute for Wine & Food Science,-121.75119,38.53265
+6086793587,2081,university,Cal Aggie Flying Farmers,-121.78842,38.53293
+597045822,2501,supermarket,Nugget Markets,-121.69601,38.55013
+597045846,2303,cafe,Starbucks,-121.69476,38.55013
+2588304798,2402,motel,Motel 6,-121.6931,38.55173
+632005118,2303,cafe,Noah's Bagels,-121.76531,38.56241
+2188177615,2303,cafe,Quickly,-121.75711,38.55989
+2188177617,2501,supermarket,Savemart,-121.75774,38.55961
+3534206003,2303,cafe,Peet's Coffee and Tea,-121.76521,38.56236
+4507142626,2303,cafe,Gongcha,-121.7655,38.56243
+358772058,2082,school,Oliver Wendell Holmes Junior High School,-121.73635,38.55657
+518279679,2303,cafe,Cargo Coffee,-121.75404,38.53557
+524176424,2082,school,Davis Joint Unified School District (DJUSD),-121.74548,38.54739
+524176764,2082,school,Davis School for Independent Study (DSIS),-121.74527,38.54712
+531004701,2303,cafe,Sodexho Coffee,-121.75021,38.53622
+559255145,2303,cafe,Bio Brew,-121.75508,38.54014
+559255147,2303,cafe,Starbucks,-121.75939,38.54254
+573949853,2303,cafe,Peet's Coffee,-121.7416,38.54418
+573949861,2303,cafe,Cultivé Frozen Yogurt,-121.74153,38.5443
+575320248,2303,cafe,Village Bakery,-121.73832,38.54362
+575324532,2303,cafe,Yogurt Shack,-121.74099,38.54243
+710823973,2303,cafe,Starbucks,-121.76043,38.54715
+720459104,2082,school,Robert E. Willett Elementary School,-121.76574,38.55468
+1052335476,2501,supermarket,Trader Joe's,-121.7615,38.54675
+1899064831,2303,cafe,Starbucks,-121.75275,38.53877
+1899070842,2303,cafe,CoHo South Café,-121.75164,38.53936
+1918194126,2303,cafe,Konditorei,-121.71833,38.55177
+1941881553,2303,cafe,Pinkberry,-121.74063,38.54136
+2312172449,2303,cafe,Fluffy Donuts,-121.75947,38.5476
+2312172451,2303,cafe,Old Teahouse,-121.76016,38.54715
+2588098686,2303,cafe,Dutch Bros. Coffee,-121.73856,38.54051
+3226037808,2303,cafe,Pachamama Coffee Cooperative,-121.74098,38.54212
+3385541430,2303,cafe,Common Grounds Coffee,-121.72372,38.54127
+3534205995,2303,cafe,Tea List,-121.74211,38.54366
+3534205997,2303,cafe,Starbucks,-121.73993,38.54381
+3534205998,2303,cafe,Barista Brew Cafe,-121.74022,38.54716
+3534205999,2303,cafe,Cafe Bernardo,-121.74222,38.54422
+3534206000,2303,cafe,Cloud Forest Cafe,-121.7422,38.54393
+4297142348,2303,cafe,Temple Coffee,-121.73941,38.54476
+5301304718,2303,cafe,Teabo Café,-121.72381,38.54092
+5301352991,2303,cafe,Starbucks,-121.72519,38.54135
+5754875821,2303,cafe,Philz Coffee,-121.74127,38.54335
+358809487,2082,school,California Highway Patrol Academy,-121.5592,38.59588
+358822864,2082,school,West Sacramento School for Independent Study,-121.53162,38.57713
+358858678,2082,school,Wyotech - Sacramento Campus,-121.56598,38.58591
+2120424332,2303,cafe,Starbucks,-121.55456,38.59123
+2120424347,2303,cafe,Starbucks,-121.57967,38.57246
+2120468034,2303,cafe,Starbucks,-121.53844,38.55079
+2589841944,2402,motel,Rodeway Inn Capitol,-121.51929,38.58164
+3748087527,2501,supermarket,Raley's,-121.51475,38.583
+3748094805,2501,supermarket,Arteaga's,-121.52567,38.59041
+3748097153,2402,motel,Flamingo Motel,-121.52012,38.58248
+3748097674,2303,cafe,Sal's West,-121.51167,38.58894
+3748098125,2402,motel,Crest Motel,-121.52077,38.58232
+3748099233,2501,supermarket,Yolo Fruit Stand,-121.64417,38.56159
+358777866,2082,school,Union School,-121.98914,38.59129
+358822764,2082,school,John Clayton Kinderschool,-121.9733,38.52268
+1919078196,2303,cafe,Chuy's Panaderia,-121.96864,38.52119
+1919078197,2303,cafe,Steady Eddy's,-121.96842,38.52216
+711012114,2501,supermarket,Westlake IGA Market,-121.78694,38.55446
+712336680,2082,school,Redbud Montessori,-121.79768,38.54561
+1426747132,2084,college,Sacramento City College,-121.77234,38.54067
+2281654805,2303,cafe,Hub Cafe,-121.77182,38.54116
+3534206002,2303,cafe,Starbucks,-121.76891,38.56257
+358822722,2005,post_office,Dunningan Post Office,-121.97108,38.88518
+358822731,2005,post_office,Esparto Post Office,-122.01664,38.6949
+358822771,2005,post_office,Knights Landing Post Office,-121.71802,38.80185
+358822775,2005,post_office,Madison Post Office,-121.96941,38.67907
+358822850,2005,post_office,Yolo Post Office,-121.8058,38.73351
+358822894,2005,post_office,Zamora Post Office,-121.88302,38.7974
+368167445,2009,courthouse,Yolo County Courthouse,-121.77112,38.67946
+368169005,2007,library,Woodland Public Library,-121.77365,38.67921
+368169007,2007,library,Knights Landing Branch (Yolo County Library),-121.71802,38.80046
+368171501,2008,town_hall,Woodland City Hall,-121.77357,38.67852
+1361030694,2002,fire_station,,-122.01696,38.69348
+2878842488,2002,fire_station,Woodland Fire Station No 1,-121.7825,38.67924
+5326303600,2002,fire_station,,-121.74878,38.67366
+6180225125,2007,library,Esparto Regional Library (Yolo County Library),-122.01637,38.69251
+6180225127,2007,library,Yolo County Archives and Records Center,-121.79483,38.68406
+6180225128,2007,library,"Yolo County Library Administration (""Central Services"")",-121.79482,38.68384
+272094727,2001,police,City of Davis Police Department,-121.71924,38.55117
+275629033,2002,fire_station,,-121.7575,38.54037
+275629058,2001,police,,-121.75734,38.54061
+575313692,2005,post_office,FedEx Office,-121.74077,38.54505
+1943488152,2005,post_office,United States Post Office,-121.74294,38.54412
+2591817577,2005,post_office,US Post Office,-121.74904,38.54209
+358822675,2005,post_office,Broderick Post Office,-121.52468,38.59018
+358822676,2005,post_office,Bryte Branch Broderick Post Office,-121.54135,38.5949
+368170436,2007,library,California Institute of Public Affairs Library,-121.53357,38.56463
+2120465152,2005,post_office,The UPS Store,-121.54805,38.57841
+2120467958,2005,post_office,FedEx Office Print and Ship Center,-121.53875,38.55045
+358822838,2005,post_office,Winters Post Office,-121.97025,38.52381
+368171500,2008,town_hall,Winters City Hall,-121.9708,38.52185
+1919035107,2007,library,Winters Branch Library (Yolo County Library),-121.97146,38.52561
+2356895719,2002,fire_station,,-121.60123,38.64953
+368171502,2008,town_hall,Rumsey Town Hall,-122.23692,38.88795
+3260413321,2005,post_office,,-122.19231,38.82901
+1778313859,2002,fire_station,West Plainfield Fire Department,-121.85829,38.57811

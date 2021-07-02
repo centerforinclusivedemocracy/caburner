@@ -1,0 +1,62 @@
+,osm_id,code,fclass,name,lon,lat
+0,358823875,2005,post_office,,-121.28506,38.74838
+1,638798261,2001,police,Roseville Police,-121.29586,38.75982
+2,358823869,2005,post_office,Rocklin Post Office,-121.23961,38.78491
+3,368169548,2007,library,Loomis Branch Auburn-Placer County Library,-121.19059,38.81998
+4,1342066313,2001,police,,-121.23287,38.78819
+5,1416733993,2002,fire_station,,-121.25498,38.80711
+6,3184251802,2005,post_office,,-121.22232,38.79856
+7,5379572660,2005,post_office,The UPS Store,-121.20459,38.80021
+8,5402931094,2005,post_office,Mail Biz Etc.,-121.19081,38.81822
+9,944918373,2002,fire_station,Vincent L. Kelley Jr. Memorial Fire Station,-121.28424,38.78297
+10,358823618,2005,post_office,Colfax Post Office,-120.95511,39.09929
+11,358823626,2005,post_office,Foresthill Post Office,-120.82637,39.01959
+12,358823648,2005,post_office,Weimar Post Office,-120.97283,39.04355
+13,358823720,2005,post_office,Applegate Post Office,-120.99467,38.99767
+14,368168989,2007,library,Applegate Branch Auburn-Placer County Library,-120.99467,38.99767
+15,368168990,2007,library,Colfax Branch Auburn-Placer County Library,-120.95482,39.09934
+16,1982624653,2002,fire_station,Foresthill Fire Station,-120.80638,39.02389
+17,2020521805,2002,fire_station,Iowa Hill Volunteer Fire Department,-120.85763,39.10982
+18,2020521894,2005,post_office,,-120.86026,39.10714
+19,2503344036,2002,fire_station,Placer Hills Fire Station,-120.97534,39.04454
+20,2533270445,2002,fire_station,,-120.94988,39.09838
+21,2533270447,2002,fire_station,,-120.9549,39.09984
+22,6075806993,2001,police,,-120.81657,39.02013
+23,6075807004,2007,library,Foresthill Library,-120.81662,39.02007
+24,358823635,2005,post_office,Tahoe City Post Office,-120.13637,39.17395
+25,358823763,2005,post_office,Homewood Post Office,-120.15854,39.08152
+26,358823773,2005,post_office,United States Post Office,-120.02092,39.23616
+27,358823827,2005,post_office,Tahoe Vista Post Office,-120.0484,39.23973
+28,360988514,2005,post_office,,-120.22849,39.19958
+29,360988559,2005,post_office,Olympic Valley,-120.22849,39.19958
+30,368169551,2007,library,Kings Beach Branch Auburn-Placer County Library,-120.03006,39.23857
+31,368169553,2007,library,Tahoe City Branch Auburn-Placer County Library,-120.13858,39.17259
+32,2414331620,2002,fire_station,Station 51,-120.14786,39.16752
+33,358823778,2005,post_office,Lincoln Post Office,-121.29162,38.89156
+34,368169554,2007,library,Lincoln Public Library,-121.29135,38.89203
+35,368171447,2008,town_hall,Lincoln City Hall,-121.29051,38.89156
+36,2366463240,2005,post_office,US Post Office,-121.29094,38.88487
+37,2366463342,2001,police,,-121.29379,38.89488
+38,4521168200,2005,post_office,The UPS Store,-121.29419,38.87861
+39,358823861,2005,post_office,Penryn Post Office,-121.16884,38.85184
+40,368167717,2002,fire_station,Station 20,-121.12437,38.82454
+41,368167720,2002,fire_station,Loomis Fire Station Number 2,-121.14113,38.81028
+42,5402931080,2001,police,Placer County Sheriff - South Placer Substation,-121.19098,38.81753
+43,358809699,2005,post_office,Blue Canyon Post Office,-120.70966,39.2549
+44,3143049779,2002,fire_station,,-120.51786,39.30681
+45,792205678,2005,post_office,The UPS Store,-121.31079,38.76087
+46,1099552944,2005,post_office,PostalAnnex,-121.31112,38.75387
+47,1834843123,2005,post_office,U.S. Post Office,-120.85516,39.18059
+48,1867002308,2001,police,California Highway Patrol Gold Run,-120.8345,39.18824
+49,358823736,2005,post_office,Auburn Post Office,-121.06962,38.89929
+50,358823850,2005,post_office,Newcastle Post Office,-121.13328,38.87351
+51,368171448,2008,town_hall,Auburn City Hall,-121.07411,38.89768
+52,2418620168,2002,fire_station,,-121.08042,38.8766
+53,2419576955,2002,fire_station,,-121.13032,38.90363
+54,2483251324,2009,courthouse,,-121.07686,38.89657
+55,5338304559,2005,post_office,,-121.08303,38.90746
+56,6353563129,2005,post_office,Mail 'N More,-121.09195,38.93546
+57,1014240664,2005,post_office,,-121.26266,38.74814
+58,1340871803,2005,post_office,FedEx Office,-121.25366,38.74463
+59,626997524,2002,fire_station,South Placer FPD Station 19,-121.16379,38.76601
+60,3011411937,2002,fire_station,South Placer Fire Station 17,-121.17218,38.73579

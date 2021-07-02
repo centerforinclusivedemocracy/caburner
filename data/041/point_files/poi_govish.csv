@@ -1,0 +1,75 @@
+,osm_id,code,fclass,name,lon,lat
+0,358833223,2005,post_office,Bolinas Post Office,-122.68721,37.90798
+1,358833235,2005,post_office,Stinson Beach Post Office,-122.64023,37.898
+2,368170333,2007,library,Bolinas Branch Marin County Free Library,-122.6858,37.90939
+3,368170334,2007,library,Stinson Beach Library,-122.64036,37.89843
+4,375960040,2002,fire_station,Stinson Beach Fire Department,-122.63754,37.89862
+5,3579299434,2002,fire_station,Stinson Beach Fire Station Number 2,-122.64643,37.90138
+6,358833200,2005,post_office,Novato Post Office,-122.5697,38.09631
+7,368170331,2007,library,Indian Valley Colleges Library,-122.57915,38.07548
+8,368171896,2008,town_hall,Novato City Hall,-122.56879,38.10616
+9,2728125461,2007,library,South Novato Library,-122.51456,38.05785
+10,4527800070,2005,post_office,The UPS Store,-122.54196,38.0676
+11,4812268984,2001,police,Novato Police Department,-122.56946,38.10657
+12,358832642,2005,post_office,Fairfax Post Office,-122.585,37.9863
+13,368169894,2007,library,Fairfax Regional Branch Marin County Free Library,-122.5925,37.99015
+14,368169949,2007,library,Marin County Library,-122.53029,37.9974
+15,1937562025,2008,town_hall,Sleepy Hollow Clubhouse SHHA.ORG,-122.58491,38.01066
+16,1937572631,2002,fire_station,Ross Valley Fire District (Station 20),-122.57614,37.99184
+17,4964902029,2005,post_office,US Post Office Terra Linda Branch,-122.55948,38.01325
+18,358832680,2005,post_office,Inverness Post Office,-122.85193,38.09673
+19,358832686,2005,post_office,Olema Post Office,-122.78916,38.04215
+20,358832689,2005,post_office,Point Reyes Station Post Office,-122.80565,38.06801
+21,358832710,2005,post_office,Forest Knolls Post Office,-122.68965,38.01514
+22,358832741,2005,post_office,Nicasio Post Office,-122.6986,38.06242
+23,358832751,2005,post_office,San Geronimo Post Office,-122.66804,38.01409
+24,358832768,2005,post_office,Woodacre Post Office,-122.64443,38.01298
+25,368169897,2007,library,Inverness Branch Marin County Free Library,-122.8536,38.09742
+26,368169898,2007,library,Point Reyes Station Branch Marin County Free Library,-122.80647,38.06968
+27,1437568127,2002,fire_station,,-122.70814,38.13854
+28,2614020406,2002,fire_station,Woodacre Fire Station,-122.63543,38.00735
+29,3767248273,2005,post_office,Shipping & Receiving,-122.65442,38.05968
+30,6534579756,2002,fire_station,Inverness Volunteer Fire Department,-122.8545,38.09692
+31,358833330,2005,post_office,Tiburon Post Office,-122.45942,37.87437
+32,368170336,2007,library,Belvedere Tiburon Library,-122.46167,37.87712
+33,368171881,2008,town_hall,Belvedere City Hall,-122.46525,37.87409
+34,368171891,2008,town_hall,Tiburon City Hall,-122.46608,37.88132
+35,1779663042,2002,fire_station,,-122.4572,37.87451
+36,358832650,2005,post_office,San Rafael Post Office,-122.53184,37.9728
+37,368167616,2009,courthouse,Marin County Courthouse,-122.52775,37.97381
+38,368167638,2002,fire_station,Central Fire Station,-122.53109,37.97437
+39,368169895,2007,library,Marin County Historical Society Archives and Library,-122.5297,37.97548
+40,368169896,2007,library,San Rafael Public Library,-122.5327,37.97497
+41,1937619752,2005,post_office,San Rafael Post Office,-122.50575,37.95925
+42,4415329397,2005,post_office,The UPS Store,-122.51732,37.96982
+43,5288534151,2005,post_office,Mailbox Services Plus,-122.53502,37.97369
+44,358832520,2005,post_office,Corte Madera Post Office,-122.5268,37.9265
+45,1053507822,2002,fire_station,,-122.52684,37.92574
+46,1053509087,2001,police,,-122.52684,37.92603
+47,4372810090,2005,post_office,UPS,-122.50012,37.89902
+48,4465272311,2005,post_office,United States Postal Service,-122.52572,37.90311
+49,5261548887,2002,fire_station,Mill Valley FIre Department Station 7,-122.52244,37.89669
+50,5261548888,2001,police,Mill Valley Police Department,-122.52229,37.89634
+51,5265400706,2002,fire_station,Southern Marin Fire Protection Dsitrict,-122.53391,37.8785
+52,962049882,2002,fire_station,Muir Beach Volunteer Fire Deparment,-122.57437,37.86546
+53,358763373,2007,library,Civic Center and Public Library,-122.48886,37.85965
+54,368170337,2007,library,Marin City Branch Marin County Free Library,-122.51359,37.87132
+55,358832556,2005,post_office,Larkspur Post Office,-122.53583,37.93645
+56,358833264,2005,post_office,San Quentin Post Office,-122.48452,37.94142
+57,368167648,2002,fire_station,Fire Station Number 2,-122.47942,37.90354
+58,368169945,2007,library,Corte Madera Regional Branch Marin County Free Library,-122.51817,37.92415
+59,368169948,2007,library,Larkspur Public Library,-122.53538,37.93424
+60,368171921,2008,town_hall,Larkspur City Hall,-122.5355,37.93433
+61,368171940,2008,town_hall,Corte Madera Town Hall,-122.5277,37.92578
+62,1746296693,2002,fire_station,Larkspur Fire Department,-122.53534,37.93452
+63,4608698145,2005,post_office,The UPS Store,-122.51779,37.92739
+64,4733216590,2005,post_office,United States Post Office,-122.50879,37.94692
+65,5333489223,2005,post_office,The UPS Store,-122.52216,37.94541
+66,5941521435,2005,post_office,PostalAnnex,-122.54698,37.90522
+67,358832621,2005,post_office,San Anselmo Post Office,-122.56192,37.97103
+68,368169950,2007,library,San Anselmo Public Library,-122.56288,37.97443
+69,368171933,2008,town_hall,San Anselmo Town Hall,-122.56271,37.97463
+70,1937574871,2001,police,Fairfax Police Dept.,-122.59061,37.98533
+71,1937574900,2002,fire_station,Fairfax Fire Station,-122.59091,37.98533
+72,2940011459,2002,fire_station,Ross Fire Station #18,-122.55663,37.9632
+73,4461136091,2002,fire_station,Ross Valley Fire Headquarters,-122.56406,37.97657

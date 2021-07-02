@@ -1,0 +1,513 @@
+osm_id,code,fclass,name,lon,lat
+358782595,2082,school,Cottonwood School,-116.9103,33.48086
+358792073,2082,school,San Ignacio School,-116.92808,33.55475
+358859582,2082,school,Red Mountain Christian School,-116.89912,33.60899
+358844130,2082,school,Shivela Middle School,-117.19871,33.57225
+602792279,2082,school,Warm Springs Middle School,-117.14895,33.55111
+602915493,2082,school,Daniel N. Buchanan Elementary School,-117.16023,33.54763
+602921085,2501,supermarket,Sams Club,-117.17776,33.55321
+603370893,2083,kindergarten,Tutor Time Learning Center,-117.15492,33.54754
+603370907,2303,cafe,Cafe Bravo,-117.15467,33.54561
+838955954,2082,school,West Coast Krav Maga,-117.13802,33.56025
+1066755663,2501,supermarket,Ralphs,-117.17969,33.55863
+1101055362,2501,supermarket,Albertson's,-117.13883,33.55121
+1208011190,2501,supermarket,Barons Market,-117.2031,33.57526
+1229681332,2303,cafe,Starbucks,-117.20446,33.56626
+1247205836,2501,supermarket,Stater Bros,-117.12187,33.59239
+1247208296,2303,cafe,Starbucks,-117.12377,33.59262
+1262446103,2303,cafe,Starbucks,-117.19926,33.55548
+1313313114,2303,cafe,@ Thai Bbq,-117.15899,33.55516
+1315743932,2303,cafe,El Gordito Mexican Food,-117.17771,33.57622
+1332824804,2303,cafe,Starbucks,-117.18247,33.57159
+1332824817,2501,supermarket,Stater Brothers,-117.18228,33.57107
+1368186446,2082,school,Swim to Shore,-117.19452,33.55098
+4071156825,2501,supermarket,Cardenas Market,-117.19527,33.55487
+5497907934,2501,supermarket,Sprouts Farmers Market,-117.14252,33.54127
+358802460,2082,school,Willow Brook School,-116.83308,33.73947
+358843339,2082,school,Cabazon Elementary School,-116.78724,33.91779
+358843363,2082,school,Ramsey High School,-116.78391,33.91752
+4048725002,2303,cafe,Starbucks,-116.81106,33.92555
+701686401,2501,supermarket,Trader Joe's,-117.1561,33.52883
+849020516,2082,school,Julian Charter School,-117.18071,33.5331
+938209092,2303,cafe,King Donut,-117.16155,33.52462
+976102239,2303,cafe,Starbucks,-117.15388,33.52569
+976102242,2303,cafe,White Lime,-117.15135,33.52285
+988350463,2303,cafe,Donut Depot,-117.139,33.47901
+994982888,2303,cafe,Cafe Daniel,-117.14947,33.49364
+1195866201,2082,school,Temecula Community School,-117.16188,33.52449
+1226174430,2082,school,U.S. Institute of Martial Arts,-117.16389,33.52848
+1238967364,2303,cafe,Starbucks,-117.14712,33.50555
+1238967368,2303,cafe,Golden Spoon,-117.14822,33.50478
+1238967372,2303,cafe,Rancho Donuts,-117.14731,33.50538
+4003867867,2012,community_centre,Above the Bank,-117.14914,33.49349
+2725471551,2303,cafe,Coffee Cart,-117.1062,33.45702
+358801040,2082,school,Castle Lake School,-117.35726,33.68419
+358843780,2082,school,Elsinore Elementary School,-117.3306,33.67197
+358843781,2082,school,Elsinore Middle School,-117.34058,33.6725
+358843809,2082,school,Railroad Canyon Elementary School,-117.30893,33.66474
+358843856,2082,school,Butterfield Elementary School,-117.36622,33.65068
+358843867,2082,school,Machado Elementary School,-117.37569,33.6836
+358843878,2082,school,Terra Cotta Middle School,-117.3931,33.69446
+358843880,2082,school,Withrow Elementary School,-117.39588,33.68335
+358844118,2082,school,Ortega High School,-117.33553,33.6816
+358859738,2082,school,California Ranch School,-117.4012,33.80068
+368168773,2083,kindergarten,A Small World for Little People Day Care Center,-117.37325,33.68854
+820215768,2501,supermarket,Trader Joe's,-117.50625,33.81116
+830267765,2303,cafe,Starbucks,-117.45411,33.74746
+3499335010,2501,supermarket,Stater Bros.,-117.523,33.82292
+3499335011,2303,cafe,It's a Grind,-117.52375,33.82223
+4365625590,2303,cafe,Starbucks,-117.36686,33.6862
+6007728091,2501,supermarket,Aldi,-117.33941,33.69187
+6008984286,2303,cafe,Starbucks,-117.34198,33.69047
+6013084614,2501,supermarket,Grocery Outlet,-117.336,33.69608
+6013130497,2303,cafe,The Coffee Bean & Tea Leaf,-117.33575,33.69504
+6645722829,2303,cafe,Starbucks,-117.51578,33.82337
+4748438128,2501,supermarket,Smart & Final Extra,-117.57507,33.9769
+358786803,2082,school,Katherine Finchy Elementary School,-116.53918,33.83752
+358801006,2082,school,Cahuilla Elementary School,-116.53863,33.80807
+358801073,2082,school,Cielo Vista Elementary School,-116.5014,33.81363
+358801797,2082,school,Nellie N Coffman School,-116.52335,33.81919
+358802064,2082,school,Saint Teresa School,-116.51557,33.81752
+358843669,2082,school,Agua Caliente Elementary School,-116.49001,33.82502
+358843695,2082,school,Landau Elementary School,-116.47501,33.82974
+358843696,2082,school,Mount San Jacinto Continuation High School,-116.47446,33.82363
+358843711,2082,school,Palm Springs High School,-116.52063,33.81648
+358843749,2082,school,Palm Springs Adult School,-116.52085,33.81641
+1221421814,2303,cafe,Starbucks,-116.54704,33.8229
+2388124404,2402,motel,Alcazar,-116.54611,33.83214
+2906160315,2501,supermarket,Nature's Health Food and Cafe,-116.52851,33.81421
+3095061089,2303,cafe,Coffe Bean and Tea Leaf,-116.54652,33.82326
+3229854199,2303,cafe,Cafe Europa,-116.54705,33.83071
+3229854200,2303,cafe,Palm Springs Koffi,-116.54704,33.83054
+3230281721,2303,cafe,L'Atelier Cafe,-116.54588,33.82181
+3411934044,2501,supermarket,Walmart Supercenter,-116.48689,33.81314
+4737108622,2303,cafe,Ristretto for Coffee Lovers,-116.54643,33.81559
+4737290983,2504,mall,The Vineyard Shopping Center,-116.54718,33.81996
+5405879522,2303,cafe,Townie,-116.54153,33.81245
+5888566786,2303,cafe,Starbucks,-116.54699,33.82322
+5888566885,2303,cafe,Juniper Table,-116.54759,33.82352
+6361510296,2303,cafe,Ernest Coffee,-116.547,33.83747
+6437328991,2082,school,Palm Springs High School,-116.52153,33.81809
+6530750489,2084,college,College of the Desert West Valley Campus,-116.51957,33.8216
+6617403429,2303,cafe,Chef Tanya's Kitchen,-116.49382,33.81187
+54653612,2501,supermarket,,-116.48488,33.79545
+358802193,2082,school,Smoke Tree School,-116.52632,33.79652
+3186044414,2303,cafe,Starbucks,-116.48143,33.7883
+4092128374,2402,motel,Sparrows Lodge,-116.5324,33.80179
+4092128375,2402,motel,Colt's Lodge,-116.5303,33.8017
+4092128384,2402,motel,Travelodge Cathedral City,-116.48458,33.78882
+4737394296,2303,cafe,Koffi South,-116.53889,33.80109
+358793618,2082,school,Troth Street Elementary School,-117.51699,33.98668
+358859503,2082,school,Mira Loma Christian School,-117.48111,33.98637
+3688664124,2501,supermarket,Walmart Neighborhood Market,-117.47686,33.97437
+358782535,2082,school,Corona Christian School,-117.55977,33.91837
+358789776,2082,school,Norco Senior High School,-117.54727,33.91196
+358789778,2082,school,Norco Intermediate School,-117.54338,33.9214
+358791206,2082,school,Riverview Elementary School,-117.53255,33.94863
+358791861,2082,school,Saint Mels School,-117.54561,33.94279
+358792607,2082,school,Sierra Vista Elementary School,-117.54655,33.93318
+358842848,2082,school,Auburndale Intermediate School,-117.57741,33.90365
+358842884,2082,school,George Washington Elementary School,-117.57503,33.90461
+358842932,2082,school,Norco Vista High School,-117.54745,33.91044
+358842936,2082,school,Parkridge Elementary School,-117.56033,33.89196
+358842971,2082,school,Victress Bower School for Exceptional Students,-117.57556,33.90583
+358842974,2082,school,William McKinley Elementary School,-117.53131,33.90314
+358859570,2082,school,Precious Cargo Christian Academy,-117.53097,33.93873
+358859634,2082,school,Town and Country Day School,-117.53302,33.93414
+358859792,2082,school,Creative Teaching School,-117.55249,33.91322
+358859821,2082,school,Fairview School of Fine Arts,-117.59086,33.911
+2869384845,2082,school,Payments,-117.56881,33.91696
+2869823017,2082,school,Norco College,-117.56826,33.9168
+2871752722,2082,school,Admissions & Records,-117.56876,33.91683
+2871752723,2082,school,College Resource Center,-117.56925,33.91686
+2871752724,2082,school,Counseling & Transfer,-117.5689,33.91688
+2871752725,2082,school,Financial aid,-117.56875,33.91677
+4760494769,2501,supermarket,Albertsons,-117.59157,33.9595
+4760494774,2303,cafe,Starbucks,-117.59198,33.95962
+4762210961,2303,cafe,Starbucks,-117.59508,33.96048
+358801418,2082,school,Hemmerling Elementary School,-116.8978,33.92863
+358802055,2082,school,Saint Boniface Indian School,-116.88863,33.93835
+358843381,2082,school,Andy and Toni Chavez Elementary School,-116.96355,33.95706
+358843387,2082,school,Nicolet Middle School,-116.87521,33.92918
+358843412,2082,school,Central Elementary School,-116.87724,33.92752
+358843497,2082,school,Hoffer Elementary School,-116.86419,33.9339
+358843506,2082,school,San Gorgonio middle school,-116.96515,33.95277
+358843511,2082,school,Palm Elementary School,-116.97225,33.93168
+358843517,2082,school,Precious Blood Catholic School,-116.87799,33.92946
+358843528,2082,school,San Andreas High School,-116.96975,33.93696
+358843533,2082,school,Susan B Coombs Intermediate School,-116.88974,33.93335
+358843536,2082,school,Wellwood Elementary School,-116.9828,33.93224
+358859563,2082,school,Pass Christian School,-116.93484,33.93299
+358859745,2082,school,Calvary Christian School,-116.92117,33.93721
+1666229374,2402,motel,Best Western El Rancho Motor Inn,-116.97643,33.92821
+2389063621,2082,school,Mountain View Middle School,-116.98077,33.95488
+2574536901,2303,cafe,Starbucks,-116.90175,33.92536
+6385556991,2084,college,Beaumont Adult School,-116.96476,33.95131
+6402841999,2501,supermarket,Food 4 Less,-116.94833,33.92798
+6402842004,2501,supermarket,Stater Bros.,-116.94988,33.92851
+6463390363,2402,motel,,-116.90253,33.92524
+358859533,2082,school,Mount Zion Academy,-117.4145,34.02979
+358779645,2082,school,Alvord Continuation High School,-117.48866,33.89169
+358779886,2082,school,Arizona Middle School,-117.46505,33.89252
+358779889,2082,school,Arlanza Elementary School,-117.46783,33.94168
+358782353,2082,school,Collett Elementary School,-117.4783,33.91324
+358784162,2082,school,Foothill Elementary School,-117.4616,33.93402
+358787099,2082,school,La Granada Elementary School,-117.47894,33.93307
+358787193,2082,school,La Sierra Academy,-117.49587,33.91735
+358787669,2082,school,Liberty Elementary School,-117.45068,33.92143
+358787902,2082,school,Myra Linn Elementary School,-117.47281,33.92002
+358790124,2082,school,Allan Orrenmaa Elementary School,-117.47755,33.89252
+358791953,2082,school,Saint Thomas School,-117.43949,33.9239
+358793188,2082,school,Sunshine Special School,-117.44912,33.92704
+358793723,2082,school,Twinhill Elementary School,-117.49366,33.93224
+358794491,2082,school,Wells Middle School,-117.46871,33.93217
+358803078,2082,school,Sherman Indian Institute,-117.43421,33.92252
+358842852,2082,school,Bethel Christian High School,-117.42939,33.90117
+358842970,2082,school,Valley View Elementary School,-117.50587,33.9218
+358842982,2082,school,Christa S McAuliffe Elementary School,-117.48536,33.90503
+358843066,2082,school,Arlington High School,-117.42866,33.9139
+358859466,2082,school,Learning Bee School,-117.47279,33.9295
+358859604,2082,school,Saint Joseph of Arimathea School,-117.43587,33.87055
+358859731,2082,school,Bethel Christian Preschool,-117.4294,33.90064
+928670437,2501,supermarket,El Tapatio Market,-117.45522,33.94192
+928670572,2501,supermarket,Cardenas Market,-117.45555,33.9451
+928670577,2501,supermarket,Food 4 Less,-117.45337,33.92758
+928693137,2501,supermarket,Walmart Supercenter,-117.45539,33.93712
+943239969,2110,hospital,Riverside University Health System - Arlington Mental Health Facility,-117.45973,33.9191
+943347768,2501,supermarket,Stater Bros,-117.48756,33.91602
+943349354,2501,supermarket,Rite Aid,-117.48858,33.91747
+943353228,2501,supermarket,Stater Bros.,-117.47302,33.89713
+943353907,2501,supermarket,Ralphs,-117.4716,33.89541
+943356324,2501,supermarket,Albertsons,-117.43634,33.9099
+943367513,2501,supermarket,Stater Bros.,-117.43633,33.94486
+943372599,2501,supermarket,Stater Bros.,-117.47951,33.94614
+1489069024,2303,cafe,Starbucks,-117.45431,33.94544
+1489074105,2303,cafe,Starbucks,-117.46144,33.91131
+5413590299,2303,cafe,Linda's Donuts,-117.45162,33.94626
+5874720685,2082,school,Hillcrest High School,-117.48957,33.88755
+6527647133,2303,cafe,Starbucks,-117.47033,33.89568
+6642404451,2110,hospital,Arlanza Family Health Center,-117.46742,33.94594
+6920795981,2303,cafe,Starbucks,-117.45963,33.90664
+358782108,2082,school,Christian School,-117.51977,33.87807
+358859490,2082,school,Magnolia Preschool and Kindergarten,-117.51424,33.88112
+5315600773,2501,supermarket,Walmart Supercenter,-117.51727,33.89087
+5752428667,2303,cafe,Starbucks,-117.5209,33.8877
+457359176,2501,supermarket,Stater Bros.,-117.05686,33.99576
+457748649,2303,cafe,The Donuts House,-117.05827,33.99644
+3922733925,2082,school,Office,-117.02525,34.00249
+358789143,2082,school,Midland Elementary School,-117.23921,33.95529
+358793117,2082,school,Sunnymead Middle School,-117.24476,33.93335
+358793969,2082,school,Val Verde Elementary School,-117.23532,33.8203
+358842977,2082,school,Badger Springs Middle School,-117.23421,33.9053
+358842981,2082,school,Chapparal Hills School,-117.23282,33.90474
+358843035,2082,school,Rainbow Ridge Elementary School,-117.2342,33.88891
+358843049,2082,school,Serrano Elementary School,-117.24137,33.90696
+358843118,2082,school,Seventh Day Adventist School,-117.23559,33.93585
+358843123,2082,school,Sugar Hill School,-117.23587,33.96863
+358843258,2082,school,Hidden Springs School,-117.26795,33.9779
+358843259,2082,school,Honey Hollow Elementary School,-117.25865,33.94946
+358843274,2082,school,Sunnymeadows Elementary School,-117.25615,33.93196
+358843615,2082,school,Glen View Elementary School,-117.2956,33.85891
+358843622,2082,school,Mead Valley Elementary School,-117.29393,33.85891
+358843656,2082,school,Tomas Rivera Middle School,-117.28698,33.84391
+358858430,2082,school,Sage College - Moreno Valley Campus,-117.27942,33.94529
+358859642,2082,school,Valley Adventist Christian School,-117.23528,33.93651
+358859840,2082,school,Harvest Time Christian School,-117.27,33.91099
+1326187928,2402,motel,Motel 7,-117.2511,33.91671
+6967971506,2504,mall,Palm Plaza Moreno Valley,-117.23353,33.93995
+358779902,2082,school,Armada Elementary School,-117.22309,33.90224
+358791626,2082,school,Saint Christophers School,-117.22448,33.92418
+358842980,2082,school,Butterfield Elementary School,-117.21698,33.92641
+358842985,2082,school,Cloverdale Elementary School,-117.21698,33.94641
+358842996,2082,school,Hendrick Ranch School,-117.21626,33.91444
+358843009,2082,school,March Mountain High School,-117.22726,33.91946
+358843014,2082,school,Moreno Valley Adult High School,-117.21837,33.92779
+358843029,2082,school,Oliver Elementary School,-117.18807,33.94433
+358843033,2082,school,Quail Valley School,-117.22754,33.96529
+358843036,2082,school,Ramona Elementary School,-117.22921,33.91946
+358843054,2082,school,Tree Farm Schools,-117.21115,33.94891
+358843061,2082,school,Wilmot Elementary School,-117.16319,33.91281
+358859525,2082,school,Moreno Valley Christian School,-117.2171,33.91728
+358859529,2082,school,Morning Dove Christian School,-117.22199,33.88058
+358859787,2082,school,Cornerstone Fellowship Academy,-117.21342,33.93532
+1043355273,2501,supermarket,Stater Bros.,-117.20933,33.89172
+1181942522,2082,school,Lake Side Middle School,-117.17791,33.82694
+1324652443,2303,cafe,Starbucks,-117.22419,33.84506
+2491611381,2082,school,Calvary Chapel Christian Church and School,-117.17318,33.94725
+5718997824,2303,cafe,Starbucks,-117.20797,33.89098
+5721427828,2082,school,Lasselle Elementary School,-117.20325,33.88394
+5721427835,2082,school,Rancho Verde high school,-117.20746,33.86261
+5721688085,2303,cafe,,-117.2068,33.86107
+6522224046,2501,supermarket,Walmart Supercenter,-117.18189,33.93583
+6529340930,2501,supermarket,Farm Market,-117.15615,33.91671
+6555663390,2303,cafe,Starbucks,-117.17883,33.93562
+358786953,2082,school,Buena Vista High School,-117.57783,33.87918
+358801104,2082,school,Coronita Elementary School,-117.60227,33.87307
+358801296,2082,school,Garretson Elementary School,-117.56144,33.8639
+358801511,2082,school,Jefferson Elementary School,-117.57616,33.87168
+358801976,2082,school,Letha Raney Intermediate School,-117.58255,33.86279
+358843462,2082,school,Foothill Elementary School,-117.58088,33.85113
+358843539,2082,school,Centennial High School,-117.54949,33.85613
+358843540,2082,school,Centennial Vista High School,-117.54949,33.85557
+358843551,2082,school,Corona Fundamental Intermediate School,-117.5681,33.86863
+358859516,2082,school,Montessori Academy of Corona,-117.59034,33.87788
+358859741,2082,school,Calvary Chapel Christian Academy,-117.572,33.84467
+358859765,2082,school,Childrens World Learning Center,-117.5711,33.87983
+358859777,2082,school,Christian Heritage School,-117.59243,33.87809
+358859788,2082,school,Corona Christian School,-117.60761,33.86035
+358859795,2082,school,Crossroads Christian School,-117.55426,33.86631
+1055559709,2501,supermarket,Albertsons,-117.57422,33.84354
+1055560548,2082,school,Citrus Middle School,-117.57057,33.83908
+2682295101,2082,school,Crossroads Christian School,-117.554,33.85074
+2682295102,2082,school,The Young Americans College of the Performing Arts,-117.54253,33.85921
+5315599002,2501,supermarket,Walmart Supercenter,-117.54126,33.84601
+5315599506,2501,supermarket,Walmart Neighborhood Market,-117.59614,33.87734
+358816448,2082,school,Eagle Mountain School,-115.47387,33.85029
+845325452,2303,cafe,Desert Center Cafe,-115.40283,33.71307
+2454599390,2402,motel,,-115.72111,33.66132
+358844206,2082,school,Ruth Brown Elementary School,-114.58885,33.61308
+358844215,2082,school,Twin Palms Continuation and Adult School,-114.60642,33.61783
+368167504,2014,arts_centre,Port Cultural Center,-114.59718,33.61141
+1078190105,2402,motel,Comfort Suites,-114.59075,33.61092
+3676644674,2501,supermarket,Ranch Market,-114.61257,33.61192
+358842899,2082,school,Highgrove Elementary School,-117.32588,34.01474
+358859733,2082,school,Big Springs School,-117.34009,34.00154
+358859762,2082,school,Childrens Montessori Center,-117.62614,33.86984
+358859461,2082,school,Las Brisas Christian Academy,-117.22012,33.56573
+358859549,2082,school,Oak Grove Institute-Jack Weaver School,-117.21841,33.56683
+358859723,2082,school,Anne Sullivan Nursery and Kindergarten,-117.26857,33.60159
+559244389,2303,cafe,Starbucks,-117.23319,33.57084
+565641705,2082,school,,-117.21379,33.5588
+1233213841,2303,cafe,Murrieta Cafe,-117.21442,33.55413
+1244962033,2082,school,David A. Brown Middle School,-117.27512,33.59325
+1248867397,2501,supermarket,Albertsons,-117.24156,33.59567
+1249130784,2303,cafe,Starbucks,-117.24777,33.59326
+1249130895,2501,supermarket,Stater Bros.,-117.24778,33.59725
+1249130986,2501,supermarket,Baron's,-117.24995,33.5908
+1250247065,2082,school,William Collier Elementary School,-117.30096,33.61646
+1260380983,2501,supermarket,Ralphs,-117.23462,33.57039
+1315774785,2303,cafe,It's Greek 2 U,-117.21164,33.56162
+1315774790,2303,cafe,Bob's Murrieta Pizza,-117.21194,33.56141
+1676307260,2303,cafe,Starbucks,-117.243,33.59518
+358781983,2082,school,Chase School,-116.34529,33.79141
+358843857,2082,school,Christian School of the Desert,-116.2989,33.75419
+595759505,2501,supermarket,Albertsons,-116.30544,33.74268
+605010212,2303,cafe,Starbucks,-116.36205,33.75551
+1235404787,2303,cafe,Starbucks coffee,-116.36296,33.72178
+1455156391,2501,supermarket,Stater Bros,-116.29304,33.71555
+1620345458,2501,supermarket,Walmart Supercenter,-116.28107,33.70364
+1636176350,2501,supermarket,Trader Joe's,-116.29425,33.71199
+5333830322,2501,supermarket,Aldi,-116.29329,33.71265
+6353712427,2303,cafe,The Cafe at Shields,-116.26687,33.7068
+358779751,2082,school,Andrew Jackson Elementary School,-116.21834,33.73363
+358785702,2082,school,Herbert Hoover Elementary School,-116.23306,33.72641
+358786530,2082,school,Thomas Jefferson Middle School,-116.21417,33.71474
+358787747,2082,school,Lincoln School,-116.22001,33.71891
+358790178,2082,school,Our Lady of Perpetual Help School,-116.22528,33.71974
+358791298,2082,school,Roosevelt School,-116.21667,33.71447
+358843982,2082,school,James Madison Elementary School,-116.25417,33.71391
+358844023,2082,school,Indio High School,-116.23917,33.71336
+358844025,2082,school,Indio Middle School,-116.25029,33.72169
+358844028,2082,school,John F Kennedy Elementary School,-116.24167,33.72113
+358844035,2082,school,Martin Van Buren Elementary School,-116.19973,33.70224
+358844049,2082,school,Peter Pendleton Elementary School,-116.18834,33.66891
+358844058,2082,school,Theodore Roosevelt Elementary School,-116.21306,33.70836
+1618253806,2501,supermarket,Save-A-Lot,-116.183,33.68668
+1618253809,2501,supermarket,,-116.18126,33.67448
+1733658725,2303,cafe,Starbucks,-116.21828,33.74011
+5607103030,2110,hospital,Riverside County Psychiatric Health Facility,-116.22154,33.70086
+6350020007,2303,cafe,Serrano's Juice Bar & Cafe,-116.23218,33.70776
+358782281,2082,school,Coachella Valley High School,-116.20069,33.64318
+358789959,2082,school,Oasis Elementary School,-116.11361,33.49892
+358793820,2082,school,John Kelley Elementary School,-116.1431,33.63988
+358844032,2082,school,La Familia Continuation High School,-116.14297,33.63665
+358789888,2082,school,Nuview Elementary School,-117.13114,33.82057
+358793778,2082,school,Union High School,-116.96225,33.75224
+358800739,2082,school,Alessandro High School,-116.97447,33.74891
+358801602,2082,school,,-116.92912,33.74332
+358843611,2082,school,De Anza Elementary School,-116.978,33.79537
+358843625,2082,school,Monte Vista Middle School,-116.96308,33.78808
+358843626,2082,school,Mount San Jacinto College,-116.9717,33.80732
+358843627,2082,school,Mountain Shadows Middle School,-117.12837,33.83141
+358843629,2082,school,Mountain View High School,-116.97517,33.79625
+358843637,2082,school,Saint Hyacinth Academy,-116.98114,33.78085
+358843640,2082,school,San Jacinto Elementary School,-116.96419,33.78752
+358843650,2082,school,San Jacinto Senior High School,-116.96641,33.79363
+358843665,2082,school,Hemet Adult School,-116.96391,33.75085
+358843740,2082,school,Hyatt Elementary School,-116.95336,33.77724
+358843750,2082,school,Park Hill Elementary School,-116.94113,33.77002
+358843884,2082,school,Baptist Christian High School,-116.95558,33.7428
+358843904,2082,school,Helen Hunt Jackson Alternative High School,-116.97475,33.74891
+358843905,2082,school,Hemet Adult School,-116.97475,33.74891
+358843906,2082,school,Hemet Elementary School,-116.96558,33.7453
+358843909,2082,school,Hemet Senior High School,-116.93419,33.7203
+358843913,2082,school,Hemet Valley Seventh Day Adventist School,-116.92308,33.73947
+358843919,2082,school,Ramona Elementary School,-116.94475,33.73613
+358843924,2082,school,Whittier Elementary School,-116.97447,33.73724
+358843928,2082,school,Bautista Creek Elementary School,-116.93641,33.73863
+358843965,2082,school,Valle Vista Elementary School,-116.93641,33.7403
+358859602,2082,school,Saint Johns Lutheran School,-116.94525,33.738
+358859615,2082,school,San Jacinto Alternative High School,-116.94106,33.77035
+358859647,2082,school,Valley Christian School,-116.95862,33.74123
+358859743,2082,school,Calvary Chapel San Jacinto Christian School,-116.98786,33.77951
+358859826,2082,school,Fleet Adventure School,-116.90398,33.75597
+358859832,2082,school,Grace Preparatory School,-117.10589,33.80444
+496545175,2082,school,Harmony Elementary School,-117.01621,33.722
+1933926070,2082,school,Valle Vista Elementary,-116.89353,33.74088
+3900669474,2082,school,,-116.93192,33.72997
+5315597930,2501,supermarket,Walmart Neighborhood Market,-116.97964,33.74545
+6209361036,2303,cafe,Starbucks,-117.00627,33.7738
+6456665049,2082,school,Truth Christian Academy,-116.88871,33.74946
+358779511,2082,school,Alcott Elementary School,-117.3639,33.95431
+358781653,2082,school,Casa Blanca School,-117.40116,33.93085
+358782095,2082,school,Riverside Christian Day School,-117.39199,33.94529
+358783719,2082,school,Emerson Elementary School,-117.35227,33.96557
+358784493,2082,school,Matthew Gage Middle School,-117.37977,33.93918
+358785014,2082,school,Grant Elementary School,-117.38171,33.97835
+358786560,2082,school,Jefferson Elementary School,-117.42255,33.94502
+358788069,2082,school,Longfellow Elementary School,-117.35893,33.97807
+358788410,2082,school,Madison Elementary School,-117.40643,33.93918
+358789878,2082,school,Notre Dame High School,-117.39643,33.94474
+358790158,2082,school,Our Lady of Guadalupe Academy,-117.36671,33.9689
+358790205,2082,school,Pachappa Elementary School,-117.38727,33.95613
+358791605,2082,school,Saint Catherines School,-117.3981,33.94585
+358791677,2082,school,Saint Francis School,-117.3731,33.97557
+358792480,2082,school,Seventh Day Adventist School,-117.40838,33.96113
+358793867,2012,community_centre,Cesar E. Chavez Community Center,-117.35616,33.97502
+358793885,2082,school,University of California Experiment Station,-117.33643,33.96446
+358794157,2082,school,Victoria Elementary School,-117.37504,33.94529
+358794409,2082,school,Washington Elementary School,-117.3831,33.93474
+358843285,2082,school,Woodcrest Elementary School,-117.36671,33.88057
+358843310,2082,school,Magnolia Elementary School,-117.39189,33.96258
+358859077,2082,school,Woodcrest Montessori Education Center,-117.3665,33.88406
+358859512,2082,school,Montessori Academy,-117.38221,33.95628
+358859593,2082,school,Riverside Montessori Academy,-117.39812,33.93922
+358859630,2082,school,Temple Beth El Child Development Center,-117.36874,33.95429
+358859835,2082,school,Growing Place School,-117.39847,33.96125
+943362632,2501,supermarket,Stater Bros.,-117.3863,33.93421
+943378231,2501,supermarket,Food 4 Less,-117.3469,33.97385
+943382740,2501,supermarket,Vacant,-117.34146,33.98482
+943382913,2501,supermarket,Stater Bros,-117.34144,33.98577
+943389742,2501,supermarket,Rite Aid,-117.39414,33.96012
+943390313,2501,supermarket,Ralphs,-117.39433,33.95923
+2409141414,2303,cafe,Backstreet,-117.39729,33.95005
+2412667659,2303,cafe,Back to the Grind,-117.37284,33.98136
+3723882388,2303,cafe,Starbucks,-117.3373,33.97588
+4410507590,2303,cafe,Jon's house,-117.36866,33.89251
+4805052563,2303,cafe,Starbucks,-117.36956,33.88289
+5047068820,2303,cafe,Lift Coffee Roasters,-117.39099,33.95301
+6330868944,2082,school,Alta Vista,-117.41528,33.9447
+6381026259,2303,cafe,Starbucks,-117.41628,33.94576
+6381060424,2501,supermarket,Alta Vista,-117.41509,33.94459
+6381060425,2501,supermarket,Advance America,-117.41548,33.9446
+6381060426,2303,cafe,Dalla's Pizza,-117.41551,33.94465
+6381060427,2303,cafe,Jackson Hewitt Tax,-117.4163,33.94459
+6381060429,2303,cafe,Avenue,-117.41716,33.94517
+6383242926,2501,supermarket,Madison Market Liquor,-117.41439,33.94538
+6383242928,2501,supermarket,Essence Beauty Supply,-117.41343,33.9446
+6527437345,2501,supermarket,Trader Joe's,-117.38844,33.95595
+6533012658,2303,cafe,Starbucks,-117.40596,33.93666
+6571973166,2303,cafe,The HoneyBaked Ham Company of Riverside,-117.41724,33.94528
+6571981935,2303,cafe,Bella's Pizza,-117.41556,33.9446
+6572004411,2303,cafe,WaBa Grill,-117.41746,33.94553
+6635978549,2303,cafe,Starbucks,-117.34024,33.97598
+358843969,2082,school,Adams-Truman Elementary School,-116.28806,33.68613
+358843988,2082,school,La Quinta Middle School,-116.28679,33.6877
+1272574093,2082,school,Benjamin Franklin School,-116.30591,33.67858
+1272574100,2082,school,John Adams School,-116.30091,33.68034
+1280097415,2501,supermarket,Ralphs,-116.29682,33.67917
+2301111317,2303,cafe,Starbucks,-116.29517,33.67955
+358790289,2082,school,The Palm Valley School,-116.44202,33.79099
+358801083,2082,school,College of the Desert,-116.38724,33.73256
+358843676,2082,school,Braille Institute of the Desert,-116.43835,33.8153
+358843682,2082,school,Cathedral City High School,-116.45029,33.80196
+358843693,2082,school,Della S Lindley Elementary School,-116.39783,33.82097
+358843698,2082,school,Nellie N Coffman Middle School,-116.45029,33.79669
+358843703,2082,school,Sunny Sands Elementary School,-116.45362,33.82363
+358843951,2082,school,Rancho Mirage Elementary School,-116.42112,33.74113
+358844017,2082,school,George Washington Elementary School,-116.37279,33.71613
+592813801,2501,supermarket,Bristol Markets,-116.38918,33.75693
+604986635,2303,cafe,Daily Grill,-116.38981,33.71952
+608323586,2303,cafe,Barnes & Noble Cafe,-116.39495,33.7229
+663001961,2501,supermarket,Trader Joe's,-116.39658,33.72749
+1209124113,2402,motel,The Mohave,-116.37878,33.71766
+1427481377,2501,supermarket,Pavilions 3218,-116.40753,33.78574
+1967507397,2082,school,Cathedral City Elementary,-116.45372,33.79156
+1976122011,2303,cafe,Starbucks,-116.39134,33.72081
+3926508957,2501,supermarket,Fil Am Oriental Mart,-116.45771,33.80117
+4092128386,2402,motel,Holiday Inn Express Cathedral City (Palm Springs),-116.45932,33.78625
+4092128387,2402,motel,Red Lion Inn & Suites Cathedral City,-116.45544,33.77637
+4207358876,2504,mall,Monterey Shore Shopping Center,-116.39083,33.80302
+6323647687,2501,supermarket,Aldi,-116.40184,33.7251
+358843336,2082,school,Bubbling Wells Elementary School,-116.48557,33.9386
+358843344,2082,school,Desert Hot Springs Elementary School,-116.51112,33.9639
+358843354,2082,school,Julius Corsini Elementary School,-116.46057,33.95057
+358843458,2082,school,Desert Springs Middle School,-116.49649,33.94605
+358843772,2082,school,Vista del Monte Elementary School,-116.54029,33.85502
+3716140891,2303,cafe,Starbucks,-116.50161,33.9452
+4092128329,2402,motel,The New Palm Springs Inn,-116.55224,33.85243
+358784897,2082,school,Good Hope Elementary School,-117.27504,33.77141
+358791719,2082,school,Saint James School,-117.23087,33.78391
+358843743,2082,school,Nan Sanders Elementary School,-117.2342,33.80002
+358843753,2082,school,Perris Community Adult School,-117.23281,33.77252
+358843755,2082,school,Perris Elementary School,-117.23587,33.78113
+358843756,2082,school,Perris Elementary School Annex,-117.24031,33.7653
+358843757,2082,school,Perris Lake High School,-117.23281,33.77252
+358843759,2082,school,Pinacate Middle School,-117.23726,33.7653
+358843794,2082,school,Harvest Valley Elementary School,-117.14614,33.74919
+358843811,2082,school,Romoland Elementary School,-117.17114,33.74585
+358859477,2082,school,Lighthouse Christian Academy,-117.25668,33.76147
+358859568,2082,school,Praise Fellowship Christian Academy,-117.23477,33.79794
+1144948033,2082,school,Perris Union High School District Network Operations Center,-117.22775,33.78636
+1144948319,2082,school,Perris Union High School District - District Office,-117.22735,33.78199
+5882875695,2082,school,Clearwater Elementary School,-117.20899,33.80272
+358784780,2082,school,Glen Avon Elementary School,-117.46199,34.00862
+358785564,2082,school,Hawthorne Christain School,-117.51949,34.0189
+358786778,2082,school,Jurupa Middle School,-117.47255,34.0039
+358842885,2082,school,Glen Avon Christian School,-117.48033,34.01557
+358842895,2082,school,Granite Hill Elementary School,-117.48955,34.02093
+358842943,2082,school,Rio Vista Continuation High School,-117.47172,34.00335
+358842953,2082,school,Sacred Heart School,-117.50172,34.01446
+368167409,2014,arts_centre,Jurupa Cultural Center,-117.44894,34.01557
+358792542,2082,school,Sheriffs Academy,-117.31893,33.95779
+358843284,2082,school,William Howard Taft Elementary School,-117.32865,33.92252
+358859653,2082,school,Vineyard Christian School,-117.32301,33.98735
+358859811,2082,school,Earhart Middle School,-117.31021,33.89042
+358859825,2082,school,First Baptist Preschool,-117.32518,33.91672
+943398059,2501,supermarket,Ralphs,-117.32819,33.91399
+943402481,2501,supermarket,Sprouts Farmers Market,-117.32338,33.91398
+6964703101,2081,university,Student Conduct & Academic Integrity Programs,-117.32932,33.9743
+358789030,2082,school,Chester W Morrison Elementary School,-117.18826,33.68179
+358843775,2082,school,Callie Kirkpatrick Elementary School,-117.15513,33.68251
+358843801,2082,school,Menifee Elementary School,-117.20059,33.65558
+358843804,2082,school,Menifee Valley Middle School,-117.20115,33.65558
+358843850,2082,school,Tuscany Hills Elementary School,-117.2842,33.6828
+358843864,2082,school,Jean Hayman Elementary School,-117.28754,33.63502
+358844102,2082,school,Elsinore High School,-117.27948,33.62419
+358859497,2082,school,Masters Hands Christian School,-117.17529,33.71298
+358859554,2082,school,Oliver Christian School Center,-117.18268,33.68847
+358859734,2082,school,Bundy Canyon Christian School,-117.25208,33.62586
+358859784,2082,school,Cornerstone Christian School,-117.26332,33.61848
+358859822,2082,school,Faith Baptist Academy,-117.2868,33.62026
+358859828,2082,school,Foundational Education School,-117.14926,33.65696
+358859830,2082,school,Good Shepherd Lutheran School,-117.19152,33.68621
+358859848,2082,school,His Light Christian Academy,-117.19454,33.71435
+358859851,2082,school,Hope Learning Academy,-117.23559,33.68129
+914803996,2501,supermarket,Stater Bros.,-117.29693,33.65639
+1294005691,2402,motel,Travel Inn,-117.30158,33.66284
+1294027345,2501,supermarket,Walmart,-117.29445,33.66183
+2822034600,2303,cafe,Starbucks,-117.1751,33.68429
+4971003530,2501,supermarket,Circle K,-117.2397,33.70121
+6852863676,2501,supermarket,Canyon Lake Market,-117.25322,33.67265
+358801377,2082,school,Hamilton School,-116.65613,33.57031
+1204112378,2402,motel,Fireside Inn,-116.71003,33.74796
+2970741050,2501,supermarket,Fairway Market,-116.71428,33.74352
+3711416342,2303,cafe,Higher Grounds,-116.71309,33.74504
+5455321439,2303,cafe,Cafe Aroma,-116.70744,33.75093
+835997635,2303,cafe,Starbucks,-117.10003,33.48197
+835997638,2303,cafe,The Coffee Bean & Tea Leaf,-117.10083,33.48097
+835997659,2501,supermarket,Albertsons,-117.10042,33.48217
+1233263303,2303,cafe,Starbucks,-117.12787,33.47539
+1346579939,2082,school,Rancho Vista High School,-117.10419,33.48769
+1346579950,2082,school,Rolling Hills Home School,-117.10413,33.48803
+1346579964,2082,school,Susan H Nelson High School,-117.10381,33.48789

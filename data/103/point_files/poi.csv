@@ -1,0 +1,86 @@
+osm_id,code,fclass,name,lon,lat
+358819287,2082,school,Mineral Elementary School,-121.59665,40.34571
+3547624806,2303,cafe,,-121.53398,40.43777
+4086220182,2402,motel,Mill Creek Resort,-121.52546,40.32322
+358761010,2082,school,Antelope Elementary School,-122.19444,40.18599
+358761814,2082,school,Bidwell Elementary School,-122.2475,40.17349
+358769408,2082,school,Lincoln School,-122.28278,40.16516
+358772111,2082,school,Orchard Park School,-122.18444,40.13821
+358774059,2082,school,Sacred Heart School,-122.2475,40.1896
+358819114,2082,school,Academy of Our Lady of Mercy,-122.23232,40.1759
+358819155,2082,school,Jackson Heights Elementary School,-122.23944,40.16988
+358819159,2082,school,Mercy High School,-122.23055,40.17404
+358819163,2082,school,Metteer Elementary School,-122.23722,40.15682
+358819281,2082,school,Manton Elementary School,-121.86693,40.43238
+358819295,2082,school,Plum Valley Elementary School,-121.91332,40.33543
+1801313265,2402,motel,BEST WESTERN Antelope Inn,-122.2201,40.18138
+2327864361,2303,cafe,Razzlicious Frozen Yogurt,-122.237,40.19142
+2327864362,2303,cafe,Starbucks,-122.23691,40.19129
+3548082776,2501,supermarket,Raley's,-122.22941,40.16289
+3667824473,2303,cafe,Starbucks,-122.21863,40.18327
+4047575007,2303,cafe,Starbucks,-122.22722,40.16194
+4096873678,2402,motel,Motel 6 Red Bluff,-122.21845,40.18276
+4096873681,2402,motel,Riverbank Inn,-122.23065,40.1795
+4096873682,2402,motel,Sky Terrace Motel,-122.23071,40.17188
+4096873683,2402,motel,Americas Best Value Inn - Red Bluff,-122.22816,40.16991
+4096873684,2402,motel,Gateway Inn,-122.22761,40.1686
+4096873685,2402,motel,Crystal Motel,-122.22855,40.16744
+4096873686,2402,motel,Triangle Motel,-122.22715,40.16008
+4096873687,2402,motel,Classic Inn,-122.23812,40.18184
+4840420126,2303,cafe,From the Hearth,-122.23548,40.17671
+5246500826,2402,motel,Days Inn,-122.22267,40.15284
+5269011196,2501,supermarket,Food Maxx,-122.22841,40.1812
+358769569,2082,school,Live Oak School,-121.91832,39.89766
+358763041,2082,school,Capay School,-122.10026,39.81183
+358765962,2082,school,Flournoy Elementary School,-122.4475,39.92154
+358767993,2082,school,Independent School,-122.24416,39.92905
+358769879,2082,school,Lowrey School,-122.55639,39.99543
+358770667,2082,school,Merrill School,-122.09304,39.88877
+358771090,2082,school,Moon School,-122.12249,39.91488
+358815979,2082,school,Corning High School,-122.17416,39.93405
+358819261,2082,school,Centennial Continuation High School,-122.16499,39.92099
+358819267,2082,school,Elkins Elementary School,-122.55361,39.88571
+358819275,2082,school,Kirkwood Elementary School,-122.16332,39.8571
+358819277,2082,school,Los Molinos Elementary School,-122.09443,40.02016
+358819297,2082,school,Richfield Elementary School,-122.17416,39.97405
+358819309,2082,school,Vina Elementary School,-122.05332,39.93488
+358821938,2082,school,Capay Joint Union Elementary School,-122.08443,39.79766
+1884314869,2402,motel,Holiday Inn Express & Suites,-122.19888,39.90524
+3262738739,2303,cafe,Starbucks,-122.19813,39.92697
+6970819371,2303,cafe,McBrayer's Hometown Cafe,-122.17916,39.92745
+358762335,2082,school,Bowman School,-122.37917,40.33654
+358765610,2082,school,Evergreen School,-122.4264,40.36015
+358765792,2082,school,Farquhar School,-122.46362,40.31293
+358773465,2082,school,Reeds Creek Elementary School,-122.35525,40.15612
+2466007649,2082,school,Evergreen Elementary School,-122.32703,40.35751
+2466009226,2082,school,Evergreen Middle School,-122.33191,40.35788
+368167468,2009,courthouse,Tehama County Courthouse,-122.23611,40.17627
+368167709,2002,fire_station,Fire Station Number 2,-122.24305,40.17682
+368169076,2007,library,Herbert Kraft Free Library,-122.23889,40.17849
+368171490,2008,town_hall,Red Bluff City Hall,-122.23522,40.17566
+2296387477,2002,fire_station,Paynes Creek CAL FIRE,-121.92523,40.33217
+2296387480,2002,fire_station,Red Bluff Fire Department,-122.23498,40.17544
+2296387481,2001,police,Red Bluff Police Department,-122.23509,40.17555
+2296387482,2002,fire_station,Tehama County Fire Department Station 1/CAL FIRE Red Bluff,-122.20434,40.18696
+2296633564,2002,fire_station,Tehama County Fire Department Station 14 - Dibble Creek,-122.28372,40.22089
+2297436831,2002,fire_station,Tehama County Fire Department Station 18 - Manton,-121.86974,40.43521
+2297436832,2002,fire_station,Tehama County Fire Department Station 2 Lake California,-122.21337,40.35428
+2297436834,2002,fire_station,Tehama County Fire Department Station 4 - Ridgeway,-122.30596,40.14728
+2297436835,2002,fire_station,Tehama County Fire Department Station 5 - Bend,-122.20657,40.26025
+4047592096,2001,police,Highway Patrol,-122.23936,40.1932
+5106546095,2005,post_office,Manton Postal Service,-121.87067,40.4348
+5106546098,2002,fire_station,Cal Fire,-121.87377,40.43331
+358819306,2005,post_office,Tehama Post Office,-122.1211,40.0271
+358823696,2005,post_office,Los Molinos Post Office,-122.09999,40.0246
+2296347170,2002,fire_station,Capay Fire Protection District,-122.08497,39.79915
+2296347171,2002,fire_station,Corning Volunteer Fire Department,-122.18238,39.92724
+2296347172,2002,fire_station,Gerber Fire Department,-122.15177,40.05534
+2296387476,2002,fire_station,Paskenta CAL FIRE,-122.55476,39.88518
+2296633542,2002,fire_station,Tehama County Fire Department Station 10 - Los Molinos,-122.09587,40.02668
+2296633552,2002,fire_station,Tehama County Fire Department Station 12/CAL FIRE - Corning,-122.17826,39.93122
+2296633558,2002,fire_station,Tehama County Fire Department Station 13 - Rancho Tehama,-122.40039,40.0154
+2296633570,2002,fire_station,Tehama County Fire Department Station 16 - Vina,-122.0521,39.92859
+2297436836,2002,fire_station,Tehama County Fire Department Station 9 - El Camino,-122.1694,40.0714
+2296387475,2002,fire_station,Baker CAL FIRE,-122.49259,40.27962
+2296387478,2002,fire_station,Red Bank CAL FIRE,-122.44682,40.10843
+2297436833,2002,fire_station,Tehama County Fire Department Station 3/CAL FIRE - Bowman,-122.35407,40.3457

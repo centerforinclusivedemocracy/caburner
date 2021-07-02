@@ -1,0 +1,332 @@
+,osm_id,code,fclass,name,lon,lat
+0,358860788,2005,post_office,National City Post Office,-117.09713,32.67102
+1,358860794,2005,post_office,Paradise Hills Post Office,-117.0652,32.67594
+2,368168865,2002,fire_station,San Diego City Fire Station 12,-117.08785,32.7044
+3,368168941,2002,fire_station,San Diego City Fire Station 32,-117.03703,32.69212
+4,368170996,2007,library,San Diego County Lincoln Acres Branch Library,-117.07134,32.66654
+5,368171000,2007,library,Spring Valley Branch San Diego County Library,-117.01642,32.71339
+6,368171006,2007,library,National City Public Library,-117.10422,32.67061
+7,368171206,2007,library,Mountain View-Beckworth Branch San Diego City Public Library,-117.10261,32.69801
+8,461501030,2002,fire_station,Bonita/Sunnyside Fire Station,-117.02329,32.66553
+9,596262061,2007,library,Skyline Hills Branch San Diego Public Library,-117.02668,32.69777
+10,4679659525,2005,post_office,"Mail Boxes, Etc",-117.03322,32.65973
+11,6453680996,2001,police,,-117.03442,32.66094
+12,6846203102,2001,police,National City Police Community Storefront,-117.06462,32.65542
+13,358860782,2005,post_office,John Adams Post Office,-117.12306,32.76354
+14,368168863,2002,fire_station,San Diego City Fire Station 14,-117.1249,32.75055
+15,596499269,2007,library,North Park Branch San Diego Public Library,-117.12685,32.74727
+16,3771382367,2005,post_office,The UPS Store,-117.1241,32.74838
+17,368167810,2002,fire_station,Fire Station Number 4,-117.15756,32.70957
+18,368171205,2007,library,Library Towers,-117.16043,32.71098
+19,596796641,2007,library,San Diego Central Library,-117.15423,32.7088
+20,3804251757,2005,post_office,PostalAnnex,-117.16448,32.71239
+21,358860810,2005,post_office,United States Naval Hospital Post Office,-117.14513,32.7241
+22,368168864,2002,fire_station,San Diego City Fire Station #11,-117.13997,32.71553
+23,4548280800,2001,police,San Diego Harbor Police Headquarters,-117.19417,32.72861
+24,6016767742,2005,post_office,PostalAnnex,-117.16103,32.73125
+25,368168939,2002,fire_station,San Diego City Fire Station 29,-117.0475,32.55334
+26,368171025,2007,library,San Ysidro Branch San Diego Public Library,-117.04429,32.55262
+27,358845211,2005,post_office,La Jolla Post Office,-117.27245,32.84738
+28,358860784,2005,post_office,La Jolla Annex Post Office,-117.27642,32.84151
+29,368168870,2002,fire_station,San Diego City Fire Station 16,-117.2535,32.84093
+30,368170945,2007,library,Athenaeum Music and Arts Library,-117.2742,32.84699
+31,368170946,2007,library,Helen Palmer Geisel Library,-117.27782,32.8456
+32,368170967,2007,library,"Institute for World Understanding of Peoples, Cultures and Languages Library",-117.27782,32.84644
+33,358845225,2005,post_office,Pacific Beach Post Office,-117.24448,32.7981
+34,368168874,2002,fire_station,San Diego City Fire Station 21,-117.25536,32.79485
+35,368168938,2002,fire_station,San Diego City Fire Station 25,-117.20653,32.78183
+36,368170949,2007,library,Pacific Beach Branch San Diego Public Library,-117.24143,32.80116
+37,368170970,2007,library,North Clairemont Branch San Diego Public Library,-117.20646,32.82837
+38,358844984,2005,post_office,Julian Post Office,-116.598,33.07621
+39,358845846,2005,post_office,Descanso Post Office,-116.61581,32.85343
+40,368167796,2002,fire_station,Alpine Fire Station,-116.77731,32.836
+41,368168623,2002,fire_station,Alpine Fire Station,-116.74058,32.83339
+42,368170940,2007,library,Julian Branch San Diego County Library,-116.59658,33.07697
+43,368170978,2007,library,Alpine Branch San Diego County Library,-116.76826,32.83538
+44,368170979,2007,library,Pine Valley Branch San Diego County Library,-116.53136,32.82361
+45,368170980,2007,library,Descanso Branch San Diego County Library,-116.61484,32.86004
+46,368171669,2008,town_hall,Julian Town Hall,-116.60242,33.07831
+47,596816418,2005,post_office,Alpine Post Office,-116.76829,32.83477
+48,1829334426,2002,fire_station,Warner Springs Fire Station,-116.6426,33.27298
+49,3500309974,2002,fire_station,Descanso Fire Station,-116.61627,32.86156
+50,3500309975,2002,fire_station,Descanso Fire Station,-116.62449,32.85558
+51,3500309976,2002,fire_station,Laguna Hotshots,-116.62355,32.8555
+52,4654108446,2005,post_office,United States Post Office,-117.14897,32.76915
+53,4777387246,2007,library,Pardee Legal Research Center,-117.18747,32.7717
+54,5093386352,2002,fire_station,,-117.00571,32.79147
+55,5136183979,2001,police,SDSU Police Station,-117.07691,32.77477
+56,6189296846,2002,fire_station,,-116.98007,32.76984
+57,6189296901,2005,post_office,United States Post Office,-117.01438,32.77759
+58,358845081,2005,post_office,Del Mar Post Office,-117.26643,32.95949
+59,358860768,2005,post_office,Carmel Valley Finance Unit Post Office,-117.23243,32.93825
+60,368170941,2007,library,Del Mar Branch San Diego County Library,-117.26427,32.95773
+61,2124636744,2005,post_office,US Post Office - Sorrento Valley Branch,-117.22046,32.90408
+62,2184863604,2005,post_office,PostalAnnex,-117.23105,32.93977
+63,2232560213,2005,post_office,The UPS Store,-117.23053,32.95356
+64,3708719325,2005,post_office,FedEx,-117.23287,32.95346
+65,4483048920,2005,post_office,PostalAnnex,-117.24628,32.95041
+66,368170942,2007,library,Salk Institute Library,-117.24615,32.88699
+67,446675585,2001,police,,-117.23619,32.88002
+68,446676453,2005,post_office,Mailing Center,-117.22954,32.882
+69,664383357,2001,police,,-117.21565,32.87688
+70,1363137037,2002,fire_station,Station 35,-117.21519,32.87697
+71,276540738,2005,post_office,,-117.22408,32.86252
+72,358860780,2005,post_office,Golden Triangle Post Office,-117.21501,32.86858
+73,358860812,2005,post_office,University City Post Office,-117.21453,32.85117
+74,1198002973,2005,post_office,FedEx Office,-117.23167,32.86937
+75,597027786,2002,fire_station,Chula Vista Fire Station 3,-117.02887,32.61007
+76,5316300408,2005,post_office,United States Post Office,-117.03436,32.5825
+77,358845463,2005,post_office,Grantville Post Office,-117.09068,32.78207
+78,368168942,2002,fire_station,San Diego City Fire Station 31,-117.06644,32.79276
+79,368168960,2002,fire_station,San Diego City Fire Station 39,-117.09859,32.82058
+80,368170965,2007,library,Benjamin Branch San Diego Public Library,-117.08149,32.79307
+81,368170966,2007,library,Tierrasanta Branch San Diego Public Library,-117.09809,32.82088
+82,368171140,2099,public_building,Mission Trails Regional Park Headquarters,-117.05674,32.82005
+83,368171207,2007,library,Mission San Diego Library,-117.10557,32.78452
+84,597156116,2007,library,College-Rolando Library,-117.0561,32.76943
+85,3874485393,2005,post_office,US Post Office (Tierrasanta),-117.09825,32.84047
+86,6636223970,2005,post_office,The UPS Store,-117.10211,32.82234
+87,358860764,2005,post_office,Andrew Jackson Post Office,-117.06008,32.7641
+88,358860770,2005,post_office,City Heights Post Office,-117.10476,32.74971
+89,358860771,2005,post_office,College Grove Center Post Office,-117.05306,32.74406
+90,368168859,2002,fire_station,San Diego City Fire Station 10,-117.06385,32.76085
+91,368168866,2002,fire_station,San Diego City Fire Station 17,-117.09684,32.75336
+92,368168927,2002,fire_station,San Diego City Fire Station 26,-117.0799,32.73541
+93,368170961,2007,library,Normal Heights-Kensington Branch San Diego Public Library,-117.10678,32.76299
+94,368170964,2007,library,East San Diego Branch San Diego Public Library,-117.10059,32.75116
+95,368171005,2007,library,Oak Park Branch San Diego Public Library,-117.08003,32.73505
+96,358860795,2005,post_office,Rancho Bernardo Annex Post Office,-117.07474,33.02219
+97,358860796,2005,post_office,Rancho Bernardo Post Office,-117.07407,33.01679
+98,368168962,2002,fire_station,San Diego City Fire Station 42,-117.0733,32.98299
+99,368170933,2007,library,Rancho Bernardo Branch San Diego Public Library,-117.07517,33.02501
+100,368171218,2007,library,San Diego Cultural Library,-117.05131,33.01877
+101,596203319,2007,library,Carmel Mountain Ranch Branch Library,-117.07372,32.98163
+102,3285088964,2005,post_office,United States Post Office,-117.08175,32.98301
+103,368170947,2007,library,Poway Branch San Diego County Library,-117.04579,32.956
+104,368171221,2007,library,Alliant International University of San Diego Library,-117.09513,32.89681
+105,3760676022,2007,library,San Diego County Philatelic Library,-117.04757,32.94005
+106,5070131345,2002,fire_station,Fire Station #7,-116.99245,32.80325
+107,358845683,2005,post_office,Serra Mesa Post Office,-117.13987,32.80152
+108,368171213,2007,library,Serra Cooperative Library System Administration Building,-117.13042,32.83417
+109,358860813,2005,post_office,William Taft Post Office,-117.20199,32.83379
+110,368168940,2002,fire_station,San Diego City Fire Station 27,-117.20166,32.83385
+111,981622526,2001,police,Sheriff Substation,-117.27345,33.20007
+112,4622531282,2007,library,Take a Book - Return a Book,-117.31878,33.10086
+113,358844699,2005,post_office,San Marcos Post Office,-117.16281,33.14504
+114,368170928,2007,library,San Marcos Branch San Diego County Library,-117.1604,33.14121
+115,967647129,2002,fire_station,Vista Fire Department,-117.24211,33.15516
+116,797412592,2002,fire_station,San Marcos Station 2,-117.21803,33.1232
+117,2896359672,2002,fire_station,,-117.17139,33.10796
+118,4229142289,2005,post_office,PostalAnnex,-117.2537,33.12658
+119,5008542402,2002,fire_station,Carlsbad Station No. 6,-117.22592,33.09444
+120,1999507156,2002,fire_station,,-117.08539,33.09019
+121,1999507158,2002,fire_station,,-117.08524,33.09088
+122,358844604,2005,post_office,Oceanside Post Office,-117.37809,33.19531
+123,368171672,2008,town_hall,Oceanside City Hall,-117.37962,33.19808
+124,368170969,2007,library,University Community Branch San Diego Public Library,-117.20098,32.85399
+125,1254877668,2005,post_office,Mail Exchange,-117.20245,32.85424
+126,1429439652,2005,post_office,PostalAnnex,-117.20657,32.867
+127,1712136226,2005,post_office,Mail Exchange,-117.20245,32.85424
+128,358845986,2005,post_office,Lemon Grove Post Office,-117.02697,32.74255
+129,358860785,2005,post_office,La Mesa Annex Post Office,-117.02228,32.78963
+130,358860789,2005,post_office,Navajo Post Office,-117.01356,32.80064
+131,368167187,2099,public_building,Grossmont - Cuyamaca Community College District Office,-117.0076,32.82006
+132,368168943,2002,fire_station,San Diego City Fire Station 34,-117.0252,32.80257
+133,368170975,2007,library,South County Regional Center San Diego County Library,-117.02308,32.76727
+134,368170998,2007,library,Lemon Grove Branch San Diego County Library,-117.03169,32.74144
+135,368171141,2099,public_building,La Mesa Civic Center,-117.02281,32.76644
+136,368171208,2007,library,La Mesa Library,-117.02341,32.76632
+137,368171216,2007,library,San Carlos Library,-117.04065,32.802
+138,368171236,2007,library,Dr. William C. Herrick Community Health Care Library,-117.00404,32.78177
+139,368171682,2008,town_hall,Lemon Grove City Hall,-117.03142,32.74033
+140,358860787,2005,post_office,Mission Valley Post Office,-117.14962,32.76726
+141,1337466812,2002,fire_station,,-117.12206,32.76274
+142,5133921132,2002,fire_station,,-117.02407,32.76619
+143,5162237958,2001,police,School Police Headquarters,-117.1484,32.75556
+144,358844560,2005,post_office,Borrego Springs Post Office,-116.37877,33.25461
+145,368167792,2002,fire_station,Borrego Springs Fire Station,-116.37196,33.26143
+146,368170926,2007,library,Borrego Springs Branch San Diego County Library,-116.37668,33.25671
+147,2163332826,2005,post_office,Mt Laguna Post Office,-116.41919,32.86719
+148,2443444325,2002,fire_station,Mount Laguna Volunteer Fire Station,-116.42245,32.85747
+149,2443448923,2002,fire_station,Camp Ole Fire Station (USFS),-116.42919,32.88038
+150,3500293581,2002,fire_station,Glencliff Fire Station,-116.50001,32.80036
+151,4605180391,2007,library,,-116.37962,33.25572
+152,358845946,2005,post_office,Main Branch San Diego Post Office,-117.15694,32.71423
+153,368167613,2009,courthouse,San Diego County Courthouse,-117.16531,32.71616
+154,368167614,2009,courthouse,San Diego County Family Court,-117.15892,32.72116
+155,368168858,2002,fire_station,San Diego City Fire Station #1,-117.16449,32.71795
+156,368170985,2007,library,Jerry MacMullen Library,-117.17359,32.71922
+157,368170986,2007,library,San Diego County Law Library,-117.16441,32.71699
+158,368170992,2007,library,Paul Whittier Historical Aviation Library,-117.15449,32.72609
+159,368171210,2007,library,Law Library Justice Foundation of San Diego,-117.16462,32.71701
+160,368174639,2007,library,San Diego Air & Space Museum Library and Archive,-117.15435,32.72643
+161,596140141,2009,courthouse,Madge Bradley Probate Courthouse,-117.16082,32.72018
+162,358844512,2005,post_office,Pauma Valley Post Office,-116.97825,33.30377
+163,596153364,2002,fire_station,Miller Station 15,-117.13636,33.29931
+164,596809364,2002,fire_station,,-117.14726,33.41422
+165,751825288,2005,post_office,Pala Postal Service,-117.07626,33.36662
+166,2616785107,2002,fire_station,Pala Fire Station 66,-117.07662,33.36337
+167,2616785112,2099,public_building,Pala Tribal Government Administration,-117.06892,33.36649
+168,2616785113,2007,library,Pala Learning Center,-117.07487,33.36592
+169,358860800,2005,post_office,Riverfront Annex Post Office,-117.13507,32.77229
+170,368167168,2099,public_building,San Diego Community College District - District Office,-117.12038,32.77622
+171,368168871,2002,fire_station,San Diego City Fire Station 23,-117.17159,32.78296
+172,368170950,2007,library,Clairmont Branch San Diego Public Library,-117.19392,32.79366
+173,368170972,2007,library,Linda Vista Branch San Diego Public Library,-117.17004,32.78326
+174,1741816759,2007,library,San Diego Public Library,-117.12696,32.77936
+175,2053874881,2007,library,Copley Library,-117.19345,32.77141
+176,2660475368,2001,police,USD Public Safety,-117.19038,32.77084
+177,2985490718,2005,post_office,The UPS Store,-117.19264,32.79519
+178,5093700139,2002,fire_station,SD Fire-Rescue Station 45,-117.12424,32.78634
+179,368170927,2007,library,Carlsbad City Library,-117.34032,33.16476
+180,368171673,2008,town_hall,Carlsbad City Hall,-117.34087,33.16448
+181,316550921,2005,post_office,Hillcrest San Diego Post Office,-117.15071,32.74942
+182,368168892,2002,fire_station,San Diego City Fire Station 8,-117.17161,32.74965
+183,368168961,2002,fire_station,San Diego City Fire Station 5,-117.15654,32.74868
+184,368170968,2007,library,Jean Farb Memorial Medical Library,-117.15976,32.75144
+185,368170974,2007,library,University Heights Branch San Diego Public Library,-117.14593,32.75384
+186,1834875849,2005,post_office,The UPS Store,-117.16261,32.75023
+187,1102385440,2002,fire_station,Fire Station #3,-117.10629,33.14939
+188,1102385684,2002,fire_station,Fire Station #6,-117.10219,33.105
+189,3285113372,2001,police,San Diego County Sheriff,-117.14662,33.14184
+190,3378423063,2002,fire_station,San Marcos Fire Station #3,-117.13608,33.14421
+191,4045127791,2005,post_office,PostalAnnex,-117.13895,33.14099
+192,4045547106,2005,post_office,PostalAnnex,-117.12961,33.15597
+193,358860775,2005,post_office,Eastlake Post Office,-116.96719,32.65305
+194,368171232,2007,library,Eastlake Branch-Eastlake High School Campus Branch Chula Vista City Library,-116.9674,32.64058
+195,2660068006,2002,fire_station,,-116.94565,32.64572
+196,358846717,2005,post_office,Castle Park Post Office,-117.06975,32.61006
+197,358860798,2005,post_office,Rancho Del Rey Post Office,-117.06854,32.61023
+198,3621161164,2002,fire_station,,-117.059,32.63159
+199,557386710,2099,public_building,SENTRI Office,-116.93781,32.55088
+200,596761270,2002,fire_station,Chula Vista Fire Department Station 7,-116.98499,32.62094
+201,2645047541,2007,library,Chula Vista Public Library Otay Ranch Branch,-116.96801,32.62419
+202,6312015622,2001,police,Chula Vista Police Otay Ranch Storefront,-116.96918,32.62383
+203,6355766038,2005,post_office,The UPS Store,-116.96563,32.62846
+204,358845747,2005,post_office,Lakeside Post Office,-116.92086,32.85727
+205,358845900,2005,post_office,Santee Post Office,-116.97614,32.83894
+206,368170983,2007,library,Santee Branch San Diego County Library,-116.99686,32.84468
+207,368171681,2008,town_hall,Santee City Hall,-116.96475,32.83922
+208,624987910,2002,fire_station,Lakeside Fire Station 3,-116.88442,32.84426
+209,5825476430,2005,post_office,US Post Office,-117.16269,32.71451
+210,358845045,2005,post_office,Mira Mesa Post Office,-117.12837,32.91671
+211,358860802,2005,post_office,Scripps Ranch Annex Post Office,-117.11071,32.90178
+212,596347147,2005,post_office,,-117.11408,32.91466
+213,1079759875,2007,library,Scripps Miramar Ranch Library,-117.10506,32.91123
+214,1436071209,2002,fire_station,,-117.12341,32.90152
+215,1451219566,2005,post_office,Fedex Print & Ship Center,-117.12221,32.9162
+216,6165276442,2002,fire_station,Miramar Fire Station #62,-117.10668,32.86098
+217,358846160,2005,post_office,Chula Vista Post Office,-117.08503,32.6395
+218,368171007,2007,library,Chula Vista Library,-117.08321,32.641
+219,368171584,2099,public_building,Chula Vista Convention and Visitors Bureau,-117.08257,32.64009
+220,4069440963,2001,police,Chula Vista Police Department Headquarters,-117.08318,32.63993
+221,4069446758,2008,town_hall,Chula Vista City Hall,-117.08532,32.64079
+222,5307911714,2007,library,24/7 Library To Go,-117.08574,32.60588
+223,358845146,2005,post_office,Solana Beach Post Office,-117.27282,32.99005
+224,368166841,2099,public_building,Solana Beach School District Office,-117.27062,32.99556
+225,368171671,2008,town_hall,Solana Beach City Hall,-117.27031,32.98393
+226,373132465,2007,library,Solana Beach Branch San Diego County LIbrary,-117.26276,32.99431
+227,358844479,2005,post_office,Fallbrook Post Office,-117.25115,33.37809
+228,368167786,2002,fire_station,Bonsall Fire Station,-117.21892,33.28392
+229,368167788,2002,fire_station,Fallbrook Fire Station,-117.24892,33.38336
+230,368167790,2002,fire_station,Fallbrook Fire Station Number 2,-117.21309,33.34503
+231,368170925,2007,library,Fallbrook Branch San Diego County Library,-117.25324,33.3817
+232,725132332,2001,police,"Border Patrol Station - San Clemente, CA",-117.52643,33.35387
+233,971128482,2002,fire_station,,-117.42475,33.32837
+234,971128783,2002,fire_station,,-117.34223,33.30566
+235,971128784,2002,fire_station,,-117.32729,33.32971
+236,1250226492,2002,fire_station,North County Fire Station #3,-117.25013,33.3166
+237,2636166301,2001,police,Brig,-117.33654,33.30116
+238,3815256462,2002,fire_station,Station Five,-117.22733,33.28968
+239,6582969882,2002,fire_station,Fire Station 15,-117.2418,32.74881
+240,358844922,2005,post_office,Rancho Santa Fe Post Office,-117.20504,33.02004
+241,368170936,2007,library,Rancho Santa Fe Branch San Diego County Library,-117.20504,33.02032
+242,384247139,2005,post_office,Encinitas Post Office,-117.26449,33.05832
+243,619046385,2002,fire_station,Encinitas FS #5,-117.2686,33.04468
+244,619419807,2002,fire_station,Encinitas FS #4,-117.24543,33.05358
+245,596013904,2002,fire_station,,-116.87165,33.35994
+246,822324537,2002,fire_station,"Palomar Mountain Volunteer Fire Department, Station 79, BLS",-116.86249,33.31273
+247,368168894,2002,fire_station,San Diego International Airport Fire Station,-117.18438,32.74071
+248,1868215412,2005,post_office,FedEx Office,-117.19652,32.76473
+249,6832952613,2007,library,MCRD Library,-117.20121,32.74291
+250,358860799,2005,post_office,Rancho Peñasquitos Post Office,-117.12814,32.95711
+251,368168948,2002,fire_station,San Diego City Fire Station 40,-117.12228,32.95962
+252,368170948,2007,library,Rancho Peñasquitos Branch San Diego Public Library,-117.12364,32.95977
+253,607607158,2001,police,,-117.12291,32.95922
+254,549319754,2002,fire_station,Rancho Santa Fe Fire District Station 2 & Training Facility,-117.12294,33.02249
+255,549319759,2001,police,San Diego County Sheriff's Department 4S Ranch Substation,-117.1191,33.02156
+256,550876840,2007,library,San Diego County 4S Ranch Branch Library,-117.11434,33.02116
+257,551064631,2005,post_office,The UPS Store,-117.11224,33.01948
+258,358860765,2005,post_office,Cardiff By the Sea Post Office,-117.28198,33.02277
+259,368170931,2007,library,Cardiff by the Sea Branch San Diego County Library,-117.28142,33.02196
+260,619047096,2002,fire_station,Encinitas FS #2,-117.27711,33.02612
+261,619413672,2002,fire_station,Encinitas FS #3,-117.29345,33.06367
+262,2882797854,2008,town_hall,City of Encinitas Public Works Department; San Dieguito Water District,-117.28528,33.04682
+263,3227588019,2005,post_office,The UPS Store,-117.2939,33.04845
+264,3396400758,2005,post_office,Village Post Office,-117.27924,33.04825
+265,358844952,2005,post_office,Valley Center Post Office,-117.02452,33.23215
+266,368167794,2002,fire_station,Valley Center Fire Station,-117.02364,33.23559
+267,368170935,2007,library,Valley Center Branch San Diego County Library,-117.02475,33.24264
+268,596809916,2007,library,Pioneer Room,-117.07916,33.12068
+269,1364078881,2007,library,Libreria Cristiana Emanuel,-117.06692,33.12958
+270,1402745715,2001,police,Palomar College Police,-117.05235,33.1361
+271,1402745718,2007,library,Ernest J. Allen Library,-117.0521,33.1358
+272,368171012,2007,library,Woodlawn Park Branch Chula Vista Public Library,-117.04308,32.59589
+273,6353321015,2005,post_office,The UPS Store,-117.03978,32.60578
+274,368168946,2002,fire_station,San Diego City Fire Station 36,-117.17452,32.82235
+275,368170962,2007,library,Balboa Branch San Diego Public Library,-117.17497,32.82232
+276,1499579472,2005,post_office,PostalAnnex,-117.18176,32.82127
+277,1572280743,2005,post_office,The UPS Store,-117.17863,32.81887
+278,358846462,2005,post_office,Imperial Beach Post Office,-117.11364,32.58256
+279,368168964,2002,fire_station,San Diego City Fire Station 6,-117.04513,32.58398
+280,368171003,2007,library,Imperial Beach Branch San Diego County Library,-117.11642,32.57728
+281,368171683,2008,town_hall,Imperial Beach City Hall,-117.11642,32.57617
+282,5308878470,2005,post_office,PostalAnnex,-117.09083,32.58609
+283,358787706,2008,town_hall,Vista Civic Center,-117.23511,33.20302
+284,358844955,2005,post_office,Vista Post Office,-117.2317,33.1917
+285,592640049,2009,courthouse,San Diego Superior Court,-117.25616,33.1919
+286,968108242,2002,fire_station,Vista Fire Dept.,-117.23608,33.20637
+287,969639215,2001,police,,-117.25677,33.1917
+288,978164500,2002,fire_station,Vista Fire Dept.,-117.22677,33.22941
+289,983021358,2002,fire_station,Vista Fire Dept.,-117.2552,33.19739
+290,2134580982,2009,courthouse,Vista Court House,-117.25634,33.19044
+291,6399823389,2005,post_office,The UPS Store,-117.22456,33.21801
+292,358860772,2005,post_office,Coronado Post Office,-117.17751,32.68354
+293,368168963,2002,fire_station,San Diego City Fire Station 7,-117.14485,32.70148
+294,3673346447,2001,police,Coronado Police Department,-117.17809,32.68978
+295,6858384938,2007,library,The Recyard,-117.12413,32.6878
+296,6903652709,2002,fire_station,Fire Station No. 17,-117.11808,32.68514
+297,6916734866,2002,fire_station,,-117.12665,32.68435
+298,368167725,2002,fire_station,Jacumba Fire Station,-116.19196,32.61951
+299,368171004,2007,library,Campo Branch San Diego County Library,-116.47307,32.62839
+300,2572521859,2001,police,,-116.28948,32.66966
+301,3500301397,2002,fire_station,Cottonwood Fire Station,-116.49761,32.72176
+302,3500301398,2002,fire_station,Cameron Fire Station,-116.46596,32.72095
+303,4281539089,2005,post_office,Dulzura U.S. Post Office,-116.78098,32.64398
+304,4677105791,2005,post_office,,-116.47086,32.60731
+305,368171204,2007,library,Mar Vista High School Library,-117.12241,32.58031
+306,1601999014,2001,police,,-117.13233,32.57875
+307,368170994,2007,library,Point Loma Branch San Diego Public Library,-117.2293,32.74004
+308,2019723192,2005,post_office,United States Post Office,-117.20385,32.74677
+309,5214515272,2005,post_office,The UPS Store,-117.20509,32.74927
+310,358845702,2005,post_office,El Cajon Post Office,-116.96662,32.79229
+311,358845726,2005,post_office,Bostonia Post Office,-116.93614,32.8095
+312,358860806,2005,post_office,Spring Valley Casa de Oro Post Office,-116.98527,32.74784
+313,358860807,2005,post_office,Spring Valley Post Office,-116.97237,32.73164
+314,368170971,2007,library,Christian Heritage College Library,-116.90558,32.7995
+315,368170973,2007,library,El Cajon Library,-116.96065,32.7932
+316,368170977,2007,library,Crest Branch San Diego County Library,-116.86725,32.8045
+317,368170984,2007,library,Fletcher Hills Branch San Diego County Library,-116.99774,32.80185
+318,368171001,2007,library,Casa de Oro Branch San Diego County Library,-116.9903,32.74811
+319,368171680,2008,town_hall,El Cajon City Hall,-116.95962,32.79552
+320,596914097,2007,library,,-116.92903,32.7492
+321,596948257,2002,fire_station,,-116.92886,32.74816
+322,1314261369,2002,fire_station,San Miguel Fire Station #23,-116.90304,32.78803
+323,2232157601,2001,police,El Cajon Police,-116.96047,32.79687
+324,6567879749,2002,fire_station,,-116.96167,32.793
+325,358846094,2005,post_office,Ocean Beach Post Office,-117.24764,32.74581
+326,368168875,2002,fire_station,San Diego City Fire Station 22,-117.24443,32.72557
+327,368170993,2007,library,Ocean Beach Branch San Diego Public Library,-117.24721,32.74548
+328,6582970434,2005,post_office,Ocean Beach Business Center,-117.24815,32.74651
+329,368170997,2007,library,Cabrillo National Monument Library,-117.23948,32.6745
+330,768255372,2002,fire_station,Federal Fire Station 13,-117.23718,32.68352

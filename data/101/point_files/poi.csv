@@ -1,0 +1,51 @@
+osm_id,code,fclass,name,lon,lat
+358772864,2082,school,Pleasant Grove Elementary School,-121.50412,38.82351
+358768791,2082,school,Knights School,-121.71691,38.80379
+358761468,2082,school,Barry Elementary School,-121.63385,39.07712
+358762527,2082,school,Browns Elementary School,-121.5244,38.94712
+358763334,2082,school,Central-Gaither Elementary School,-121.6633,39.00462
+358765478,2082,school,Encinal Elementary School,-121.65997,39.22545
+358767339,2082,school,Hedger School,-121.7133,39.27489
+358769921,2082,school,Luther Elementary School,-121.66747,39.27683
+358777789,2082,school,Live Oak High School,-121.65691,39.27683
+358779091,2082,school,Wilson School,-121.60774,38.96628
+358823029,2082,school,Holy Angel School,-121.62524,39.12378
+358823049,2082,school,Live Oak Middle School,-121.65247,39.27489
+358823054,2082,school,Live Oak Unified Alternative Education Center,-121.65497,39.27628
+358823074,2082,school,Nuestro Elementary School,-121.67914,39.18711
+358823086,2082,school,Robbins Elementary School,-121.70246,38.87129
+358823121,2082,school,Tierra Buena Elementary School,-121.66497,39.15239
+358823125,2082,school,Valley Oak Continuation High School,-121.65497,39.27628
+1881624720,2402,motel,,-121.63175,39.06472
+1881634066,2501,supermarket,WinCo Foods,-121.63675,39.12577
+5608137309,2110,hospital,Sutter Surgical Hospital North Valley,-121.61331,39.13204
+6600518569,2303,cafe,Starbucks,-121.6326,39.14646
+6600566358,2303,cafe,,-121.63225,39.14109
+358775423,2082,school,Slough School,-121.8583,39.14628
+358779139,2082,school,Winship Elementary School,-121.83703,39.06294
+358802980,2082,school,Steindorf School,-121.74886,39.15961
+358822979,2082,school,Butte View High School,-121.75136,39.1685
+358823061,2082,school,Meridian Elementary School,-121.91303,39.14323
+358823111,2082,school,Sutter High School,-121.75441,39.166
+1249320813,2002,fire_station,Pleasant Grove Fire Dept,-121.50341,38.82424
+1249320827,2005,post_office,,-121.50253,38.82415
+358823004,2005,post_office,East Nicolaus Post Office,-121.54413,38.91156
+358823051,2005,post_office,Live Oak Post Office,-121.66275,39.27461
+358823083,2005,post_office,Rio Oso Post Office,-121.53524,38.96156
+358823088,2005,post_office,Robbins Post Office,-121.70524,38.87045
+358823134,2005,post_office,Yuba City Post Office,-121.61663,39.13934
+368167577,2009,courthouse,Sutter County Courthouse,-121.60635,39.13573
+368168986,2007,library,Sutter County Law Library,-121.60635,39.13573
+368169004,2007,library,Barber Branch Sutter County Free Library,-121.66108,39.28072
+368171444,2008,town_hall,Yuba City City Hall,-121.61691,39.14128
+600201706,2002,fire_station,,-121.54372,38.91053
+4340536577,2002,fire_station,Yuba City Fire Station #3,-121.62223,39.11296
+4705338395,2002,fire_station,Yuba City Fire Station #1,-121.62595,39.13762
+4705338397,2002,fire_station,Yuba City Fire Station #2,-121.62986,39.15615
+4705338398,2002,fire_station,Yuba City Fire Station #4,-121.65986,39.12581
+4705338399,2002,fire_station,Yuba City Fire Station #7,-121.66931,39.15548
+4705338400,2001,police,Yuba City Police Department,-121.64238,39.14531
+6983766372,2008,town_hall,,-121.66036,39.27548
+358823065,2005,post_office,Meridian Post Office,-121.91442,39.1435
+358823116,2005,post_office,Sutter Post Office,-121.74886,39.16045
+368168988,2007,library,Sutter Branch Sutter County Free Library,-121.74858,39.15906

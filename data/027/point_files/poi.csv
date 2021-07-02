@@ -1,0 +1,65 @@
+osm_id,code,fclass,name,lon,lat
+4071624111,2402,motel,Holiday Inn Express Bishop,-118.39483,37.36639
+4071624112,2402,motel,Thunderbird Motel,-118.39592,37.36378
+4071624113,2402,motel,Bishop Village Motel,-118.39706,37.36524
+5732809526,2014,arts_centre,Inyo Council for the Arts,-118.39546,37.36078
+6680647089,2501,supermarket,Grocery Outlet,-118.39507,37.37636
+358816233,2082,school,Palisade Glacier High School,-118.32812,37.15242
+358832800,2082,school,Bishop Union High School,-118.39945,37.36311
+358832803,2082,school,Calvary Christian School,-118.41122,37.36076
+358832805,2082,school,Cerro Coso Community College,-118.4315,37.35993
+358832812,2082,school,Elm Street Elementary School,-118.40525,37.3652
+358832823,2082,school,Home Street Middle School,-118.40285,37.36281
+358832827,2082,school,Lassen College,-118.42233,37.36771
+358832833,2082,school,Pine Street School,-118.40532,37.36418
+358832838,2082,school,Seventh Day Adventist School,-118.40206,37.36754
+358832845,2082,school,Wildrose Home,-118.43011,37.34743
+358832849,2082,school,Big Pine Elementary School,-118.28903,37.16155
+358832850,2082,school,Big Pine High School,-118.28843,37.16132
+358851992,2082,school,Morningside Elementary School,-118.43483,37.28854
+441549495,2303,cafe,Looney Bean,-118.39545,37.36377
+1925945217,2402,motel,Townhouse Motel,-118.39579,37.36566
+1925945246,2402,motel,Econo Lodge Bishop,-118.39458,37.36557
+1925945270,2402,motel,Travelodge Bishop,-118.39414,37.36592
+1925945363,2402,motel,Super 8 Bishop,-118.39573,37.35655
+1941035623,2501,supermarket,Carrolls Market,-118.28933,37.1657
+2934354040,2402,motel,Americas Best Value Inn,-118.39274,37.36029
+3066157203,2303,cafe,Blacksheep Cafe,-118.39501,37.3623
+3221983045,2303,cafe,Starbucks,-118.39595,37.37058
+3221988857,2501,supermarket,Smart N Final,-118.3947,37.3734
+3222135256,2303,cafe,Spellbinder Books,-118.39503,37.36114
+4071624114,2402,motel,The Trees Motel,-118.40418,37.36117
+4071624116,2402,motel,El Rancho Motel,-118.39698,37.35961
+4145237719,2082,school,Sierra Adventure Center at Bernasconi Ranch,-118.32678,37.15166
+4927843770,2402,motel,Big Pine Motel,-118.28926,37.16342
+5135647822,2405,hostel,The Hostel California,-118.3966,37.3633
+6510421886,2501,supermarket,Mahogany smoked meats,-118.41769,37.37601
+6530710203,2012,community_centre,Bishop Indian Education Center,-118.42226,37.36705
+4112918249,2402,motel,Panamint Springs Resort,-117.46874,36.33939
+358832851,2082,school,Owens Valley Elementary School,-118.19621,36.80215
+358832853,2082,school,Owens Valley High School,-118.19648,36.80271
+358832858,2082,school,Lo-Inyo Elementary School,-118.06287,36.60882
+358832859,2082,school,Lone Pine Adult School,-118.06064,36.60216
+4085666449,2402,motel,Whitney Portal Hostel,-118.06253,36.60448
+4085666450,2402,motel,Lone Pine Budget Inn & Motel,-118.0646,36.60655
+4085666451,2402,motel,Mt. Whitney Motel,-118.06444,36.60727
+4484968890,2405,hostel,,-118.06181,36.60167
+5389824847,2303,cafe,Lone Star Bistro,-118.06359,36.60575
+6794429197,2402,motel,The Portal Motel,-118.06234,36.60288
+6794429208,2402,motel,Mt. Williamson Motel,-118.19745,36.79831
+4112854089,2402,motel,Furnace Creek Ranch Units 401-416,-116.86775,36.45631
+358832798,2005,post_office,Bishop Post Office,-118.40036,37.36159
+368167649,2002,fire_station,Bishop Fire Department,-118.39675,37.36158
+368169900,2007,library,Northern Inyo Hospital Medical Library,-118.40619,37.36172
+368171919,2008,town_hall,Bishop City Hall,-118.39733,37.3616
+1941034794,2005,post_office,,-118.28921,37.16704
+1941035616,2002,fire_station,,-118.28986,37.16738
+358816117,2005,post_office,Darwin Post Office,-117.59201,36.26966
+358816267,2005,post_office,Olancha Post Office,-118.00536,36.28133
+2357514697,2002,fire_station,Olancha Fire Station,-117.99372,36.25494
+4927843769,2008,town_hall,,-118.29116,37.16436
+368167617,2009,courthouse,Inyo County Courthouse,-118.19926,36.80215
+368169901,2007,library,Inyo County Free Library,-118.19898,36.80215
+4835430821,2005,post_office,Lone Pine's post office,-118.0632,36.60654
+4112650009,2005,post_office,Death Valley Post Office,-116.86629,36.45724
+4812365373,2005,post_office,US Post Office,-116.22762,35.84849

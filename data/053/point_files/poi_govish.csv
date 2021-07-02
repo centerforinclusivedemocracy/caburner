@@ -1,0 +1,95 @@
+,osm_id,code,fclass,name,lon,lat
+0,1362592929,2005,post_office,USPS Post Office,-121.77033,36.23699
+1,1362593888,2007,library,Henry Miller Memorial Library,-121.75358,36.22086
+2,1898915964,2002,fire_station,Mid-Coast Fire Station,-121.87157,36.38625
+3,2618477619,2007,library,Big Sur Library,-121.80176,36.26494
+4,368170803,2007,library,Harrison Memorial Library,-121.92412,36.55552
+5,549645056,2008,town_hall,Carmel by the Sea City Hall,-121.92344,36.55306
+6,549645057,2007,library,Harrisom Memorial Public Library,-121.92326,36.55519
+7,549645059,2005,post_office,Post Office,-121.92245,36.55627
+8,549645070,2001,police,Carmel Police Dept,-121.91953,36.55783
+9,549663062,2002,fire_station,State Fire Station,-121.91413,36.57806
+10,988284190,2002,fire_station,CAL FIRE Station Carmel Hill,-121.91403,36.57385
+11,358849707,2005,post_office,Carmel Valley Post Office,-121.72904,36.47775
+12,358849761,2005,post_office,Seaside Post Office,-121.8432,36.60952
+13,368170809,2007,library,Carmel Valley Branch Monterey County Free Libraries,-121.73523,36.48052
+14,368171702,2008,town_hall,Sand City City Hall,-121.85009,36.61384
+15,368171705,2008,town_hall,Del Rey Oaks City Hall,-121.83717,36.59413
+16,529119428,2002,fire_station,Monterey County Rural Fire District - Laureles Station 3,-121.75532,36.56915
+17,549645909,2002,fire_station,Fire Department,-121.82789,36.53044
+18,549665892,2008,town_hall,Seaside City Hall,-121.85341,36.60349
+19,549666171,2002,fire_station,Fire Department,-121.82902,36.60925
+20,1646827014,2001,police,,-121.85344,36.60368
+21,358849487,2005,post_office,,-121.8064,36.64508
+22,358849523,2005,post_office,Marina Post Office (disused?),-121.80393,36.68278
+23,368170779,2007,library,Marina Branch Monterey County Free Libraries,-121.79975,36.69155
+24,368171129,2099,public_building,Fort Ord Post Headquarters,-121.80606,36.66913
+25,549667569,2001,police,Federal Police Station,-121.80949,36.65295
+26,549667642,2008,town_hall,Marina City Hall,-121.803,36.68113
+27,549667643,2001,police,Marina Police Dept,-121.80217,36.68231
+28,549667730,2005,post_office,Marina City Post Office,-121.79339,36.68373
+29,2606260182,2002,fire_station,Marina Fire Dept,-121.80286,36.6828
+30,2606260183,2001,police,Marina Police Dept,-121.80306,36.6827
+31,4505464326,2005,post_office,The UPS Store,-121.79494,36.68471
+32,5534903903,2002,fire_station,Monterey Regional Fire Station - East Garrison,-121.74144,36.65504
+33,358849797,2005,post_office,King City Post Office,-121.12558,36.21232
+34,358849812,2005,post_office,San Lucas Post Office,-121.01833,36.12885
+35,368170800,2007,library,San Ardo Branch Monterey County Free Libraries,-120.90768,36.01885
+36,368170805,2007,library,King City Branch Monterey County Free Libraries,-121.12805,36.21229
+37,368171128,2099,public_building,Monterey County Offices,-121.12408,36.21441
+38,549658448,2008,town_hall,King City Hall,-121.12708,36.21082
+39,549658449,2007,library,Library,-121.1266,36.21059
+40,549658455,2002,fire_station,C D F,-121.13066,36.2058
+41,549658777,2007,library,San Lucas Branch Library,-121.02044,36.12982
+42,549660865,2001,police,King City Police Station,-121.12741,36.21082
+43,549660866,2002,fire_station,Fire Department,-121.12801,36.2111
+44,358849464,2005,post_office,Aromas Post Office,-121.6455,36.88801
+45,368170783,2007,library,Aromas Branch Monterey County Free Libraries,-121.64348,36.88869
+46,3353199412,2001,police,Monterey County Sheriff,-121.70094,36.88533
+47,358849765,2005,post_office,Spreckels Post Office,-121.64661,36.62246
+48,368167534,2009,courthouse,Monterey County Courthouse,-121.65884,36.67354
+49,368170808,2007,library,Monterey County Law Library,-121.65866,36.67359
+50,368171704,2008,town_hall,Salinas City Hall,-121.65768,36.6747
+51,549667559,2002,fire_station,Fire Station,-121.6884,36.61698
+52,549668169,2001,police,Monterey County Sheriff's Dept,-121.6594,36.67355
+53,549668302,2002,fire_station,Fire Station,-121.65255,36.69958
+54,549668686,2002,fire_station,Prunedale Fire Station,-121.66722,36.77757
+55,549668887,2002,fire_station,,-121.51754,36.57144
+56,3353199411,2001,police,Monterey County Sheriff Field Office,-121.51767,36.57155
+57,5426491567,2007,library,Cesar Chavez Library,-121.6069,36.68028
+58,368170802,2007,library,Bradley Branch Monterey County Free Libraries,-120.80379,35.86191
+59,368170807,2007,library,Soledad Branch Monterey County Free Libraries,-121.32854,36.42774
+60,549660582,2002,fire_station,Soledad City Fire Dept,-121.32759,36.42781
+61,549660583,2005,post_office,Soledad Post Office,-121.32623,36.42614
+62,358849729,2005,post_office,Gonzales Post Office,-121.44357,36.50746
+63,368170806,2007,library,Gonzales Branch Monterey County Free Libraries,-121.44355,36.50691
+64,368171703,2008,town_hall,Gonzales City Hall,-121.44383,36.50776
+65,549660811,2007,library,Gonzales Branch Library,-121.43501,36.5152
+66,368170796,2007,library,Barnet J Segal Building Library,-121.89635,36.6033
+67,368170797,2007,library,Community Hospital of Monterey Medical Staff Library,-121.89615,36.5956
+68,368170798,2007,library,Priscilla Fairfield Bok Library,-121.89134,36.59496
+69,368170828,2007,library,Mayo Hayes O'Donnell Library,-121.89613,36.60386
+70,368171127,2099,public_building,Sherman Headquarters,-121.89608,36.59897
+71,549664823,2001,police,Police & Fire Station No 1,-121.89775,36.59673
+72,2806354016,2007,library,MPC Library,-121.88358,36.59236
+73,5840927201,2002,fire_station,,-121.90204,36.61292
+74,5905646188,2005,post_office,The Mailbox,-121.89438,36.59633
+75,368171713,2008,town_hall,Pacific Grove City Hall,-121.91857,36.61968
+76,549663906,2001,police,Pacific Grove Police Department,-121.91892,36.61914
+77,549663907,2002,fire_station,Pacific Grove Fire Department,-121.91933,36.61932
+78,358849468,2005,post_office,Castroville Post Office,-121.75742,36.7648
+79,358849473,2005,post_office,Moss Landing Post Office,-121.78628,36.79844
+80,368167006,2099,public_building,Northern Monterey County School District Office,-121.78634,36.79662
+81,368167007,2099,public_building,Moss Landing Harbor District Office,-121.7857,36.79906
+82,368170781,2007,library,Castroville Justice Library,-121.75884,36.76607
+83,368170782,2007,library,Castroville Branch Monterey County Free Libraries,-121.75439,36.76274
+84,549668582,2002,fire_station,Castroville Fire Station,-121.75653,36.76799
+85,358849788,2005,post_office,Greenfield Post Office,-121.24465,36.32108
+86,368170804,2007,library,Greenfield Branch Monterey County Free Libraries,-121.24298,36.31997
+87,368171701,2008,town_hall,Greenfield City Hall,-121.24437,36.32163
+88,549661039,2002,fire_station,Greenfield City Fire Department,-121.24406,36.32059
+89,2314741582,2002,fire_station,USFS Fire Station,-121.47681,36.2357
+90,2314742158,2002,fire_station,,-121.43288,36.24635
+91,3216479553,2007,library,Researcher Lab/Library,-121.59897,36.07074
+92,2139763766,2002,fire_station,CAL FIRE / Pebble Beach Fire Station,-121.94448,36.58938
+93,2645909319,2002,fire_station,CAL FIRE / Pebble Beach Fire Station,-121.94449,36.58947

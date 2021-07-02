@@ -1,0 +1,58 @@
+,osm_id,code,fclass,name,lon,lat
+0,358831276,2005,post_office,Cazadero Post Office,-123.08889,38.53686
+1,358831365,2005,post_office,Camp Meeker Post Office,-122.95889,38.42491
+2,358831367,2005,post_office,Duncans Mills Post Office,-123.05139,38.45269
+3,358831371,2005,post_office,Jenner Post Office,-123.11502,38.44928
+4,358831375,2005,post_office,Monte Rio Post Office,-123.01056,38.46491
+5,358831377,2005,post_office,Villa Grande Post Office,-123.02444,38.47352
+6,358831413,2005,post_office,Forestville Post Office,-122.89499,38.4738
+7,358831457,2005,post_office,Occidental Post Office,-122.94778,38.40686
+8,358831605,2005,post_office,Bodega Bay Post Office,-123.03861,38.32436
+9,358831607,2005,post_office,Bodega Post Office,-122.97194,38.34658
+10,358831613,2005,post_office,Valley Ford Post Office,-122.92516,38.31803
+11,368169951,2007,library,Forestville Branch Sonoma County Library,-122.89111,38.47408
+12,368169952,2007,library,Occidental Branch Sonoma County Library,-122.94722,38.40657
+13,368169954,2007,library,Monte Rio Branch Sonoma County Library,-123.01167,38.46797
+14,368170010,2007,library,Guerneville Branch Sonoma County Public Library,-122.99749,38.50381
+15,5327250224,2002,fire_station,,-123.01102,38.46395
+16,6001434988,2002,fire_station,,-122.94852,38.40936
+17,6001490985,2005,post_office,Occidental U.S. Post Office,-122.94843,38.40924
+18,6952562487,2005,post_office,,-122.99777,38.47738
+19,358831662,2005,post_office,Penngrove Post Office,-122.66665,38.29658
+20,368167660,2002,fire_station,Fire Station Number 2,-122.6575,38.26664
+21,368167661,2002,fire_station,Fire Station Number 1,-122.63665,38.23353
+22,368169961,2007,library,Petaluma Branch Sonoma County Library,-122.63162,38.2423
+23,3121136843,2005,post_office,Petaluma Post Office,-122.63775,38.23174
+24,358831363,2005,post_office,Windsor Post Office,-122.80497,38.54799
+25,368169953,2007,library,Sonoma County Wine Library,-122.86999,38.61442
+26,368170009,2007,library,Healdsburg Branch Sonoma County Library,-122.87013,38.61447
+27,368171831,2008,town_hall,Windsor Town Hall,-122.81573,38.5501
+28,1232508103,2002,fire_station,,-122.81632,38.54253
+29,358831546,2005,post_office,Montgomery Village Branch Santa Rosa Post Office,-122.68562,38.44413
+30,6725758421,2005,post_office,The UPS Store,-122.73975,38.44574
+31,368169955,2007,library,Sonoma County Law Library,-122.72398,38.46572
+32,2821712201,2005,post_office,The UPS Store,-122.77111,38.4545
+33,4096754631,2002,fire_station,Santa Rosa Fire Station #10,-122.75409,38.41885
+34,358831600,2005,post_office,Kenwood Post Office,-122.55212,38.41936
+35,358831688,2005,post_office,Glen Ellen Post Office,-122.5247,38.36297
+36,358831713,2005,post_office,Boyes Hot Springs Post Office,-122.48179,38.31401
+37,358831720,2005,post_office,El Verano Post Office,-122.48724,38.29925
+38,368169963,2007,library,Betty Hageman Memorial Library,-122.53313,38.36213
+39,358831422,2005,post_office,Fulton Post Office,-122.76991,38.49472
+40,358831236,2005,post_office,Cloverdale Post Office,-123.01694,38.80602
+41,358831268,2005,post_office,Geyserville Post Office,-122.90416,38.70685
+42,368170011,2007,library,Cloverdale Regional Library,-123.02005,38.8087
+43,368171828,2008,town_hall,Cloverdale City Hall,-123.01778,38.8063
+44,358831709,2005,post_office,Vinebury Post Office,-122.43803,38.27214
+45,358831731,2005,post_office,Sonoma Post Office,-122.45864,38.28979
+46,2797599272,2005,post_office,The UPS Store,-122.47669,38.29954
+47,4067277589,2007,library,Sonoma Valley Regional Library,-122.47278,38.29306
+48,4067182427,2007,library,Rincon Valley Library,-122.66134,38.47907
+49,358831631,2005,post_office,Cotati Post Office,-122.69866,38.32749
+50,358831676,2005,post_office,Rohnert Park Post Office,-122.70714,38.34616
+51,1440596023,2002,fire_station,,-122.70593,38.32706
+52,1464777109,2008,town_hall,,-122.6873,38.36239
+53,358831425,2005,post_office,Graton Post Office,-122.86944,38.43714
+54,358831482,2005,post_office,Sebastopol Post Office,-122.82346,38.4003
+55,368169958,2007,library,Sebastopol Branch Sonoma County Library,-122.82555,38.40186
+56,368171823,2008,town_hall,Sebastopol City Hall,-122.82527,38.40214

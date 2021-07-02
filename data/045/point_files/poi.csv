@@ -1,0 +1,126 @@
+osm_id,code,fclass,name,lon,lat
+358773914,2082,school,Round Valley High School,-123.25612,39.79293
+358773919,2082,school,Round Valley Elementary School,-123.25862,39.7946
+358824627,2082,school,Branscomb Elementary School,-123.63335,39.65655
+358824651,2082,school,Leggett Valley Elementary School,-123.71677,39.86452
+358824653,2082,school,Leggett Valley High School,-123.7167,39.86504
+358824673,2082,school,Spy Rock Elementary School,-123.51307,39.81265
+469603768,2501,supermarket,Redwood Mercantile,-123.71699,39.85087
+1675708538,2501,supermarket,Geiger's Long Valley Market,-123.48191,39.68743
+1675708542,2110,hospital,Long Valley Clinic,-123.48435,39.6882
+4355303910,2501,supermarket,Fosters Ranch Market,-123.48339,39.68758
+4355303912,2303,cafe,Pour Girls Coffee,-123.48279,39.68703
+4367033438,2501,supermarket,Mendo Sun Market,-123.47882,39.68421
+4367033445,2303,cafe,,-123.48255,39.68692
+4569956733,2402,motel,Big Bend Lodge,-123.71861,39.85826
+290364717,2501,supermarket,Redwood Valley Market,-123.20435,39.26484
+358824707,2082,school,Calpella Elementary School,-123.20584,39.23378
+358824722,2082,school,Deep Valley Christian School,-123.22695,39.26211
+358824794,2082,school,Potter Valley Elementary School,-123.10445,39.32155
+358824796,2082,school,Potter Valley High School,-123.10528,39.32128
+358760985,2082,school,Anderson Valley Junior-Senior High School,-123.37445,39.01212
+358760988,2082,school,Anderson Valley Elementary School,-123.38584,39.02907
+358764000,2082,school,Con Creek School,-123.3839,39.02962
+358766921,2082,school,Greenwood Elementary School,-123.71918,39.1349
+358774901,2082,school,Seaside School,-123.5614,38.79241
+358795407,2082,school,Mendocino County Community School,-123.42223,39.05434
+358824694,2082,school,Arena Elementary School,-123.6928,38.91241
+358824767,2082,school,Manchester Elementary School,-123.68752,38.96824
+358824792,2082,school,Point Arena High School,-123.69918,38.91463
+541343525,2501,supermarket,S & B Market,-123.68713,38.97016
+877478418,2501,supermarket,Surf Supermarket,-123.52926,38.76632
+877478422,2501,supermarket,Gualala Supermarket,-123.5282,38.7676
+4097988548,2303,cafe,Cove Coffee,-123.70967,38.91466
+4843077089,2303,cafe,Boonville General Store Cafe Bakery Deli,-123.36755,39.00947
+6309309485,2012,community_centre,Anderson Valley Teen Center,-123.37076,39.01072
+314447411,2501,supermarket,Raley's,-123.20897,39.1684
+314507874,2501,supermarket,Lucky,-123.20153,39.15234
+322990382,2303,cafe,Black Oak Coffee Roasters,-123.2084,39.15306
+358773605,2082,school,River Union School,-123.165,39.12962
+358806836,2081,university,Ten Thousand Buddhas University,-123.15696,39.13462
+358824774,2082,school,Mendocino College,-123.22719,39.18896
+358824813,2082,school,South Valley High School,-123.21125,39.14703
+4118941193,2402,motel,Travelodge by Wyndham Ukiah,-123.21202,39.17285
+4118941195,2402,motel,Days Inn Ukiah,-123.20944,39.16042
+4118941196,2402,motel,Voll Motel,-123.20854,39.15564
+4118941197,2402,motel,Economy Inn Ukiah,-123.20743,39.14768
+4118941204,2402,motel,Hampton Inn Ukiah,-123.19946,39.13353
+4118941206,2402,motel,Super 8 Ukiah,-123.19778,39.14528
+4118941207,2402,motel,BEST WESTERN Orchard Inn,-123.19751,39.14697
+4738919054,2501,supermarket,Ukiah Natural Foods Co-op,-123.20508,39.14321
+5912324337,2501,supermarket,FoodMaxx,-123.19669,39.13126
+5914708554,2082,school,Creating Behavioral Educational Mometum,-123.19949,39.12873
+5914710042,2303,cafe,Starbucks,-123.19913,39.13237
+5914862785,2402,motel,National 9 Inn,-123.20573,39.14095
+5916388036,2303,cafe,Sunny's Donunts,-123.20525,39.13303
+5916973456,2082,school,New Life Preschool,-123.21019,39.15136
+5919431932,2303,cafe,Happy Donuts & Bagels,-123.20689,39.14448
+6641480594,2303,cafe,Holly's Expresso Stop,-123.20541,39.14318
+6748833313,2082,school,Ukiah Shorin-Ryu Karate School,-123.19654,39.11153
+358764452,2082,school,Dana Gray Elementary School,-123.7889,39.43683
+358766027,2082,school,Redwood Elementary School,-123.79474,39.43739
+358767144,2082,school,Hansen School,-123.46445,39.23045
+358777801,2082,school,Willits Junior-Senior High School,-123.35382,39.41659
+358824634,2082,school,Fort Bragg Middle School,-123.79752,39.44711
+358824665,2082,school,Our Lady of Good Counsel School,-123.79835,39.43933
+358824672,2082,school,Seventh Day Adventist School,-123.79807,39.47267
+358824700,2082,school,Baechtel Grove Elementary School,-123.35334,39.40072
+358824702,2082,school,Blosser Lane Elementary School,-123.35918,39.39989
+358824705,2082,school,Brookside Elementary School,-123.36112,39.41211
+358824719,2082,school,Comptche Elementary School,-123.59529,39.26517
+358824807,2082,school,San Hedrin Continuation High School,-123.35501,39.4135
+358824849,2084,college,Mendocino College Willits Center,-123.35179,39.41273
+368167490,2014,arts_centre,Mendocino Art Center,-123.80335,39.30684
+541339786,2303,cafe,Espresso Drive-Thru,-123.80691,39.42518
+1328779514,2402,motel,Ridgewood,-123.31589,39.34101
+1834415555,2082,school,Little Red Schoolhouse,-123.55567,39.35141
+1975485962,2012,community_centre,Caspar Community Center,-123.81372,39.36553
+1975494107,2083,kindergarten,Caspar Children's Garden,-123.81779,39.36959
+2493316837,2402,motel,Edgewood Motel,-123.34822,39.39434
+2493665617,2402,motel,Western Village Inn,-123.3499,39.39634
+2641897679,2402,motel,Pepperwood Motel,-123.35257,39.40675
+2641902605,2501,supermarket,Mariposa Market,-123.35282,39.40656
+3485575386,2303,cafe,Cafe 1,-123.80615,39.45007
+3787795437,2303,cafe,totefete,-123.79858,39.30578
+3788732123,2402,motel,Carine's Motel,-123.80489,39.4385
+3788732126,2402,motel,Ebb Tide Lodge,-123.80577,39.43966
+3788732130,2402,motel,Ocean Breeze Lodge,-123.80538,39.43995
+3788735971,2303,cafe,Starbucks,-123.80577,39.4349
+3788735972,2402,motel,Surf Motel & Gardens,-123.80721,39.42299
+3788735974,2402,motel,motel 6,-123.80575,39.43762
+3907505337,2303,cafe,Moody's Organic Coffee Bar,-123.79859,39.30586
+5828178085,2012,community_centre,Community Center of Mendocino,-123.79636,39.3079
+6040350656,2501,supermarket,No,-123.83405,39.43127
+6169439883,2303,cafe,Cowlicks's Handmade Ice Cream,-123.80576,39.44399
+6169458993,2303,cafe,Mendo Cookie Company,-123.80624,39.44459
+368167716,2002,fire_station,Laytonville Fire Control Station,-123.48668,39.7021
+469603010,2002,fire_station,Leggett Valley Fire Dept.,-123.71378,39.84991
+534349408,2002,fire_station,Cal Fire Station,-123.72179,39.87631
+1675708539,2002,fire_station,Laytonville Fire Dept.,-123.48526,39.68718
+5187589144,2005,post_office,US Post Office,-123.48215,39.68569
+290364608,2002,fire_station,,-123.20377,39.26541
+358824708,2005,post_office,Calpella Post Office,-123.20278,39.23433
+358824801,2005,post_office,Redwood Valley Post Office,-123.20449,39.26493
+541343524,2005,post_office,Manchester Post Office,-123.68676,38.97016
+314506595,2008,town_hall,Ukiah Civic Center,-123.21015,39.14691
+358824755,2005,post_office,Hopland Post Office,-123.11667,38.97295
+358824840,2005,post_office,Ukiah Post Office,-123.21006,39.15045
+368167594,2009,courthouse,Mendocino County Courthouse,-123.20817,39.1502
+368169576,2007,library,Held-Poage Memorial Home and Research Library,-123.21265,39.14898
+368169580,2007,library,Mendocino County Law Library,-123.20819,39.15029
+368169582,2007,library,Mendocino County Library,-123.20647,39.15055
+1328779484,2002,fire_station,CAL Fire,-123.12047,39.00309
+1610987223,2005,post_office,Ukiah Post Office,-123.19776,39.14569
+2075065337,2002,fire_station,Ukiah Fire Department,-123.21038,39.14655
+2075066172,2001,police,Ukiah Police Department,-123.21008,39.14658
+3358859739,2001,police,Mendocino County Sheriff's Department,-123.21964,39.16095
+5127710510,2005,post_office,US Post Office,-123.16658,39.1334
+6947276840,2007,library,,-123.22902,39.18896
+358824855,2005,post_office,Willits Post Office,-123.35307,39.40905
+368169571,2007,library,Willits Branch Mendocino County Library,-123.34668,39.41294
+368171461,2008,town_hall,Fort Bragg City Hall,-123.80418,39.44572
+534353181,2002,fire_station,Cal Fire Howard Forest,-123.31888,39.34603
+2812593737,2005,post_office,,-123.78892,39.27082
+4578420075,2005,post_office,Mendo Pack & Ship,-123.79562,39.30548
+6039648885,2002,fire_station,Fort bragg fire department,-123.80635,39.44247
+6169458991,2005,post_office,North Coast Packing and Shipping,-123.80619,39.4434

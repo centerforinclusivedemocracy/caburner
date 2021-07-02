@@ -1,0 +1,36 @@
+osm_id,code,fclass,name,lon,lat
+358763830,2082,school,Codora School,-122.03109,39.45044
+358772116,2082,school,Ord School,-122.00803,39.64294
+358777870,2082,school,Union School,-121.96609,39.421
+358763470,2082,school,Cherokee School,-122.25332,39.66738
+358768560,2082,school,Kanawha School,-122.24971,39.52433
+358769285,2082,school,Liberty School,-122.23943,39.40738
+358822016,2082,school,Murdock Elementary School,-122.20193,39.5271
+571164482,2402,motel,Motel 6,-122.21181,39.52485
+571166229,2402,motel,Baymont Inn & Suites Willows,-122.21249,39.52146
+1411768357,2501,supermarket,Sani Market,-122.19425,39.51509
+1419409473,2303,cafe,Starbucks,-122.21247,39.5264
+1884349116,2303,cafe,Nancy's Cafe,-122.2177,39.52189
+358821952,2082,school,Elk Creek Elementary School,-122.53999,39.60599
+358821954,2082,school,Elk Creek Junior-Senior High School,-122.53888,39.6071
+358762930,2082,school,Calumet School,-122.2336,39.79155
+358770457,2082,school,McIntosh School,-122.06637,39.78294
+358772853,2082,school,Plaza Elementary School,-122.10526,39.71044
+358816915,2082,school,Seventh-day Adventist School,-122.24721,39.75932
+358821993,2082,school,Hamilton Elementary School,-122.01609,39.7396
+368172652,2012,community_centre,Carnegie Community Center,-122.19332,39.74488
+442881839,2402,motel,Orland Inn,-122.20477,39.74088
+1948095180,2303,cafe,Dutch Bros. Coffee,-122.20203,39.74963
+5436516324,2303,cafe,Starbucks,-122.20475,39.74858
+6373103001,2501,supermarket,Grocery Outlet,-122.20372,39.74163
+358821988,2005,post_office,Glenn Post Office,-122.01374,39.52196
+358821929,2005,post_office,Artois Post Office,-122.19471,39.61933
+368167444,2009,courthouse,Glenn County Courthouse,-122.20026,39.52016
+368171499,2008,town_hall,Willows City Hall,-122.19498,39.52127
+358821956,2005,post_office,Elk Creek Post Office,-122.53749,39.60349
+358821991,2005,post_office,Hamilton City Post Office,-122.01137,39.74016
+358822023,2005,post_office,Orland Post Office,-122.19387,39.7454
+368168969,2007,library,Orland Free Library,-122.1936,39.74488
+368171498,2008,town_hall,Orland City Hall,-122.19387,39.74571
+5106550676,2001,police,Orland Police Department,-122.19387,39.74562
+6373103000,2001,police,Sheriff,-122.20541,39.71957

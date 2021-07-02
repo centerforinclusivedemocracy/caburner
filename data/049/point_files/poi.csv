@@ -1,0 +1,34 @@
+osm_id,code,fclass,name,lon,lat
+358763140,2082,school,Carr School,-121.40027,41.92099
+358766747,2082,school,Grandview School,-121.29193,41.64683
+358771202,2082,school,Mount Bidwell School,-120.15106,41.86517
+358776530,2082,school,State Line Elementary School,-120.2994,41.98794
+358776871,2082,school,Surprise Valley High School,-120.17939,41.52739
+358795353,2082,school,Alturas Elementary School,-120.55606,41.49014
+358795386,2082,school,Delmorma School,-120.68468,41.39656
+358802727,2082,school,Butte School,-121.10108,41.21433
+358802872,2082,school,Union High School,-120.19467,41.51378
+358815451,2082,school,Modoc Middle School,-120.55634,41.48795
+358815456,2082,school,South Fork Elementary School,-120.50412,41.22767
+358815458,2082,school,Warner High School,-120.53969,41.49135
+358821787,2110,hospital,Modoc Medical Center,-120.54539,41.48014
+358821794,2082,school,Surprise Valley Elementary School,-120.17606,41.53295
+3542621849,2501,supermarket,Four Corners Market,-120.54296,41.49424
+4170789742,2303,cafe,Niles Coffee Company,-120.54228,41.48234
+4340968206,2402,motel,Rim Rock Motel,-120.53141,41.49949
+4340968207,2402,motel,Hacienda Motel,-120.5409,41.4942
+4340968208,2402,motel,Modoc Inn Alturas,-120.54229,41.49526
+4340968209,2402,motel,Frontier Motel,-120.54292,41.49354
+4340968210,2402,motel,Wagon Wheel Motel,-120.54638,41.49474
+1878686682,2002,fire_station,,-121.26621,41.67883
+358815429,2005,post_office,Cedarville Post Office,-120.17217,41.52739
+358815438,2005,post_office,Fort Bidwell Post Office,-120.15189,41.856
+358821760,2005,post_office,Adin Post Office,-120.94386,41.19739
+358821772,2005,post_office,Canby Post Office,-120.87136,41.44378
+358821784,2005,post_office,Likely Post Office,-120.50412,41.22962
+368167448,2009,courthouse,Modoc County Courthouse,-120.54079,41.48323
+1682265480,2005,post_office,Lake City Post Office,-120.21632,41.64485
+2698387420,2002,fire_station,CalFire Alturas Station,-120.53484,41.49128
+2698420306,2001,police,Modoc County Sheriff,-120.54076,41.48378
+2698420323,2001,police,Alturas Police Department,-120.54368,41.4837
+2698420330,2008,town_hall,Alturas City Hall,-120.54375,41.48354

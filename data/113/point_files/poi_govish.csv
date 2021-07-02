@@ -1,0 +1,35 @@
+,osm_id,code,fclass,name,lon,lat
+0,358822722,2005,post_office,Dunningan Post Office,-121.97108,38.88518
+1,358822731,2005,post_office,Esparto Post Office,-122.01664,38.6949
+2,358822771,2005,post_office,Knights Landing Post Office,-121.71802,38.80185
+3,358822775,2005,post_office,Madison Post Office,-121.96941,38.67907
+4,358822850,2005,post_office,Yolo Post Office,-121.8058,38.73351
+5,358822894,2005,post_office,Zamora Post Office,-121.88302,38.7974
+6,368167445,2009,courthouse,Yolo County Courthouse,-121.77112,38.67946
+7,368169005,2007,library,Woodland Public Library,-121.77365,38.67921
+8,368169007,2007,library,Knights Landing Branch (Yolo County Library),-121.71802,38.80046
+9,368171501,2008,town_hall,Woodland City Hall,-121.77357,38.67852
+10,1361030694,2002,fire_station,,-122.01696,38.69348
+11,2878842488,2002,fire_station,Woodland Fire Station No 1,-121.7825,38.67924
+12,5326303600,2002,fire_station,,-121.74878,38.67366
+13,6180225125,2007,library,Esparto Regional Library (Yolo County Library),-122.01637,38.69251
+14,6180225127,2007,library,Yolo County Archives and Records Center,-121.79483,38.68406
+15,6180225128,2007,library,"Yolo County Library Administration (""Central Services"")",-121.79482,38.68384
+16,272094727,2001,police,City of Davis Police Department,-121.71924,38.55117
+17,275629033,2002,fire_station,,-121.7575,38.54037
+18,275629058,2001,police,,-121.75734,38.54061
+19,575313692,2005,post_office,FedEx Office,-121.74077,38.54505
+20,1943488152,2005,post_office,United States Post Office,-121.74294,38.54412
+21,2591817577,2005,post_office,US Post Office,-121.74904,38.54209
+22,358822675,2005,post_office,Broderick Post Office,-121.52468,38.59018
+23,358822676,2005,post_office,Bryte Branch Broderick Post Office,-121.54135,38.5949
+24,368170436,2007,library,California Institute of Public Affairs Library,-121.53357,38.56463
+25,2120465152,2005,post_office,The UPS Store,-121.54805,38.57841
+26,2120467958,2005,post_office,FedEx Office Print and Ship Center,-121.53875,38.55045
+27,358822838,2005,post_office,Winters Post Office,-121.97025,38.52381
+28,368171500,2008,town_hall,Winters City Hall,-121.9708,38.52185
+29,1919035107,2007,library,Winters Branch Library (Yolo County Library),-121.97146,38.52561
+30,2356895719,2002,fire_station,,-121.60123,38.64953
+31,368171502,2008,town_hall,Rumsey Town Hall,-122.23692,38.88795
+32,3260413321,2005,post_office,,-122.19231,38.82901
+33,1778313859,2002,fire_station,West Plainfield Fire Department,-121.85829,38.57811

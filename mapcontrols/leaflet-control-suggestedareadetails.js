@@ -1,7 +1,7 @@
 // a simple control to display details about a suggested vote center point-circle
 L.Control.SuggestedAreaDetails = L.Control.extend({
     options: {
-        position: 'bottomleft',
+        position: 'bottomright',
     },
     initialize: function(options) {
         L.setOptions(this,options);

@@ -1,0 +1,2545 @@
+provider,lat,lon,num_stops_per_week,score
+County Connection,37.97931,-122.05405,10,1
+County Connection,37.9958,-122.13232,61,1
+County Connection,37.99558,-122.13231,59,1
+County Connection,37.98396,-122.12623,22,1
+County Connection,38.00577,-122.13108,70,2
+County Connection,37.98908,-122.12929,22,1
+County Connection,37.95932,-122.09376,22,1
+County Connection,37.98695,-122.12814,22,1
+County Connection,38.00935,-122.13137,73,2
+County Connection,38.00505,-122.131,73,2
+County Connection,38.00091,-122.13192,59,1
+County Connection,38.00021,-122.13183,61,1
+County Connection,37.99732,-122.13247,59,1
+County Connection,37.96582,-122.09835,22,1
+County Connection,38.00741,-122.13058,73,2
+County Connection,37.95553,-122.09025,22,1
+County Connection,37.96984,-122.10225,22,1
+County Connection,37.96786,-122.09964,22,1
+County Connection,37.98201,-122.11542,22,1
+County Connection,37.96933,-122.10155,22,1
+County Connection,38.01275,-122.13461,73,2
+County Connection,37.97558,-122.1093,22,1
+County Connection,37.97515,-122.10866,22,1
+County Connection,38.01637,-122.13805,73,2
+County Connection,38.01444,-122.13622,73,2
+County Connection,37.96238,-122.09618,22,1
+County Connection,37.96,-122.09408,22,1
+County Connection,37.96446,-122.09728,22,1
+County Connection,37.9924,-122.13078,61,1
+County Connection,37.99234,-122.13082,59,1
+County Connection,37.9711,-122.10568,22,1
+County Connection,37.97055,-122.10521,22,1
+County Connection,37.98298,-122.11655,22,1
+County Connection,37.98346,-122.1244,22,1
+County Connection,38.01858,-122.13918,201,3
+County Connection,37.77347,-121.97136,25,1
+County Connection,37.99106,-122.09406,31,1
+County Connection,37.99116,-122.09396,29,1
+County Connection,37.99136,-122.08985,31,1
+County Connection,37.99137,-122.09054,29,1
+County Connection,38.00312,-122.04739,3,1
+County Connection,38.00427,-122.04199,3,1
+County Connection,38.00639,-122.03793,12,1
+County Connection,38.0069,-122.0372,10,1
+County Connection,38.00877,-122.03255,10,1
+County Connection,38.00904,-122.03198,12,1
+County Connection,37.99169,-122.08673,31,1
+County Connection,37.9917,-122.08719,29,1
+County Connection,37.99288,-122.09853,38,1
+County Connection,37.9916,-122.09784,41,1
+County Connection,37.93035,-122.0433,31,1
+County Connection,37.93232,-122.0451,31,1
+County Connection,37.9302,-122.04353,30,1
+County Connection,37.93374,-122.04648,31,1
+County Connection,37.93359,-122.04668,30,1
+County Connection,37.99564,-121.77812,13,1
+County Connection,38.01514,-122.02595,3,1
+County Connection,38.01418,-122.03164,3,1
+County Connection,38.01426,-122.03152,3,1
+County Connection,37.97287,-122.02979,394,4
+County Connection,37.97385,-122.02937,86,2
+County Connection,37.97415,-122.02929,45,1
+County Connection,37.9743,-122.02921,9,1
+County Connection,37.97456,-122.02921,12,1
+County Connection,37.97326,-122.02969,10,1
+County Connection,37.97346,-122.02959,47,1
+County Connection,37.97411,-122.02913,85,2
+County Connection,37.97428,-122.02911,46,1
+County Connection,37.97454,-122.02907,52,1
+County Connection,37.97365,-122.02952,0,0
+County Connection,38.01671,-122.13966,70,2
+County Connection,38.01188,-122.13495,70,2
+County Connection,38.01388,-122.1369,70,2
+County Connection,38.01004,-122.1332,70,2
+County Connection,38.00808,-122.13137,70,2
+County Connection,37.76657,-121.96334,40,1
+County Connection,37.77361,-121.96089,16,1
+County Connection,37.76005,-121.95567,40,1
+County Connection,37.76812,-121.9685,16,1
+County Connection,37.89357,-122.12513,99,2
+County Connection,38.00241,-122.02422,19,1
+County Connection,38.00225,-122.0242,37,1
+County Connection,38.00218,-122.02409,6,1
+County Connection,38.00269,-122.02461,0,0
+County Connection,37.76714,-121.9055,55,1
+County Connection,37.76559,-121.95249,55,1
+County Connection,37.76972,-121.99366,9,1
+County Connection,37.7653,-121.98472,9,1
+County Connection,37.77024,-121.90936,55,1
+County Connection,37.7718,-121.93868,53,1
+County Connection,37.77218,-121.94017,55,1
+County Connection,37.74972,-121.91345,55,1
+County Connection,37.75974,-121.9049,46,1
+County Connection,37.75882,-121.90586,44,1
+County Connection,37.76596,-121.90502,53,1
+County Connection,37.76464,-121.9534,53,1
+County Connection,37.76646,-121.98676,9,1
+County Connection,37.75926,-121.97704,9,1
+County Connection,37.77173,-121.91221,55,1
+County Connection,37.77386,-121.92237,55,1
+County Connection,37.76022,-121.97901,9,1
+County Connection,37.77068,-121.9114,53,1
+County Connection,37.77309,-121.91752,53,1
+County Connection,37.7734,-121.9207,53,1
+County Connection,37.75934,-121.97087,9,1
+County Connection,37.77147,-121.9451,53,1
+County Connection,37.75441,-121.90868,44,1
+County Connection,37.7638,-121.90387,55,1
+County Connection,37.76264,-121.90435,44,1
+County Connection,37.76261,-121.95662,53,1
+County Connection,37.77387,-121.91871,55,1
+County Connection,37.7716,-121.94565,55,1
+County Connection,37.7723,-121.99596,9,1
+County Connection,37.76757,-121.98865,9,1
+County Connection,37.75387,-121.90862,46,1
+County Connection,37.7723,-121.93079,53,1
+County Connection,37.77239,-121.93234,55,1
+County Connection,37.76922,-121.9087,53,1
+County Connection,37.76348,-121.98275,9,1
+County Connection,37.87796,-122.18432,66,1
+County Connection,37.89495,-122.06082,107,2
+County Connection,37.89176,-122.07916,14,1
+County Connection,37.89082,-122.08021,14,1
+County Connection,37.89578,-122.07185,14,1
+County Connection,37.89515,-122.07258,14,1
+County Connection,37.8854,-122.07771,14,1
+County Connection,37.88542,-122.07796,14,1
+County Connection,37.89456,-122.07415,14,1
+County Connection,37.89473,-122.07431,14,1
+County Connection,37.8935,-122.07701,14,1
+County Connection,37.89372,-122.0769,14,1
+County Connection,37.94354,-122.06887,11,1
+County Connection,37.94347,-122.06551,11,1
+County Connection,37.94343,-122.06365,22,1
+County Connection,37.94353,-122.06907,11,1
+County Connection,37.92878,-122.05522,30,1
+County Connection,37.92862,-122.05548,25,1
+County Connection,37.92846,-122.05572,26,1
+County Connection,37.9283,-122.0558,49,1
+County Connection,37.92826,-122.05584,51,1
+County Connection,37.92838,-122.05562,60,1
+County Connection,37.92858,-122.05542,31,1
+County Connection,37.92872,-122.05522,60,1
+County Connection,37.92852,-122.05603,0,0
+County Connection,37.89661,-122.05872,107,2
+County Connection,37.89438,-122.0583,107,2
+County Connection,37.99798,-121.88653,7,1
+County Connection,37.99807,-121.88778,6,1
+County Connection,37.99798,-121.88188,7,1
+County Connection,37.99796,-121.87294,7,1
+County Connection,37.99804,-121.87536,6,1
+County Connection,37.99791,-121.863,7,1
+County Connection,37.99807,-121.86455,6,1
+County Connection,37.99794,-121.84627,7,1
+County Connection,37.99804,-121.88078,6,1
+County Connection,37.99792,-121.86731,7,1
+County Connection,37.99804,-121.86898,6,1
+County Connection,37.93931,-122.05921,33,1
+County Connection,37.94461,-122.05552,33,1
+County Connection,37.93651,-122.05975,33,1
+County Connection,37.93696,-122.05987,35,1
+County Connection,37.94329,-122.05661,35,1
+County Connection,37.94119,-122.05873,35,1
+County Connection,37.90547,-122.06862,10,1
+County Connection,37.90534,-122.06826,30,1
+County Connection,37.90556,-122.06812,14,1
+County Connection,37.90563,-122.06829,38,1
+County Connection,37.90569,-122.06847,45,1
+County Connection,37.90576,-122.06865,42,1
+County Connection,37.90569,-122.06804,14,1
+County Connection,37.90576,-122.06822,214,3
+County Connection,37.90582,-122.0684,60,1
+County Connection,37.90589,-122.06858,131,2
+County Connection,37.90595,-122.06876,150,2
+County Connection,37.90551,-122.06778,0,0
+County Connection,37.87737,-122.18138,32,1
+County Connection,37.87751,-122.18075,34,1
+County Connection,37.79457,-121.98344,53,1
+County Connection,37.78176,-121.97049,53,1
+County Connection,37.79298,-121.98271,53,1
+County Connection,37.79637,-121.98468,53,1
+County Connection,37.79605,-121.98452,53,1
+County Connection,37.77145,-121.96276,59,1
+County Connection,37.78061,-121.9697,53,1
+County Connection,37.77875,-121.96842,53,1
+County Connection,37.77804,-121.96821,75,2
+County Connection,37.78024,-121.96966,53,1
+County Connection,37.80049,-121.98768,53,1
+County Connection,37.79962,-121.98724,53,1
+County Connection,37.77547,-121.9657,75,2
+County Connection,37.77475,-121.9651,75,2
+County Connection,37.80941,-121.99107,53,1
+County Connection,37.80412,-121.98934,53,1
+County Connection,37.80469,-121.98958,53,1
+County Connection,37.81029,-121.99095,53,1
+County Connection,37.96534,-122.06231,138,2
+County Connection,37.94115,-121.93194,62,1
+County Connection,37.97526,-122.06611,73,2
+County Connection,37.97535,-122.06654,114,2
+County Connection,37.95322,-121.96068,85,2
+County Connection,37.97181,-122.04101,89,2
+County Connection,37.95477,-121.96516,85,2
+County Connection,37.9454,-121.94563,62,1
+County Connection,37.95584,-121.96818,85,2
+County Connection,37.9562,-121.96854,85,2
+County Connection,37.96984,-122.00887,85,2
+County Connection,37.96129,-121.98308,85,2
+County Connection,37.96147,-121.98316,85,2
+County Connection,37.97048,-122.01081,85,2
+County Connection,37.95882,-121.97625,85,2
+County Connection,37.95892,-121.97599,85,2
+County Connection,37.97298,-122.01997,85,2
+County Connection,37.97219,-122.01719,85,2
+County Connection,37.96537,-121.99443,118,2
+County Connection,37.96563,-121.99464,118,2
+County Connection,37.97087,-122.04282,48,1
+County Connection,37.94843,-121.95062,62,1
+County Connection,37.9491,-121.95154,62,1
+County Connection,37.97281,-122.03837,89,2
+County Connection,37.97355,-122.022,85,2
+County Connection,37.97373,-122.02226,85,2
+County Connection,37.97215,-122.04038,78,2
+County Connection,37.97411,-122.03404,89,2
+County Connection,37.96421,-121.99072,85,2
+County Connection,37.97187,-122.01606,85,2
+County Connection,37.97218,-122.01669,85,2
+County Connection,37.95961,-121.97846,85,2
+County Connection,37.95989,-121.97877,85,2
+County Connection,37.96761,-122.001,118,2
+County Connection,37.94638,-121.94709,62,1
+County Connection,37.96976,-122.00812,85,2
+County Connection,37.96685,-121.99792,118,2
+County Connection,37.94317,-121.94114,62,1
+County Connection,37.94421,-121.94268,62,1
+County Connection,37.9697,-122.04532,48,1
+County Connection,37.97051,-122.04411,47,1
+County Connection,37.95356,-121.96109,85,2
+County Connection,37.95824,-121.97417,85,2
+County Connection,37.97304,-122.01986,85,2
+County Connection,37.97317,-122.03785,78,2
+County Connection,37.96287,-121.987,85,2
+County Connection,37.95118,-121.95567,62,1
+County Connection,37.95175,-121.95614,62,1
+County Connection,37.96791,-122.00151,118,2
+County Connection,37.96248,-121.98642,85,2
+County Connection,37.9641,-121.99099,105,2
+County Connection,37.96643,-121.99729,118,2
+County Connection,37.94229,-121.93479,124,2
+County Connection,37.94376,-122.06388,11,1
+County Connection,37.94495,-122.06414,11,1
+County Connection,37.94543,-122.06437,11,1
+County Connection,37.94688,-122.0643,104,2
+County Connection,37.94074,-122.06392,22,1
+County Connection,37.96879,-122.00515,85,2
+County Connection,37.9692,-122.00609,85,2
+County Connection,37.95246,-121.95805,85,2
+County Connection,37.958,-121.97399,85,2
+County Connection,37.93899,-121.92674,62,1
+County Connection,37.97398,-122.02375,85,2
+County Connection,37.955,-121.96526,85,2
+County Connection,37.97458,-122.02518,85,2
+County Connection,37.9526,-121.95896,85,2
+County Connection,37.97912,-122.06658,69,2
+County Connection,37.97875,-122.06624,69,2
+County Connection,37.97236,-122.06366,53,1
+County Connection,37.97099,-122.06356,154,2
+County Connection,37.97,-122.06313,53,1
+County Connection,37.94927,-122.05997,67,1
+County Connection,37.95525,-122.06005,67,1
+County Connection,37.94261,-122.06064,22,1
+County Connection,37.97338,-122.0642,55,1
+County Connection,37.95782,-122.06068,67,1
+County Connection,37.95298,-122.06032,71,2
+County Connection,37.95505,-122.0603,71,2
+County Connection,37.95785,-122.06096,71,2
+County Connection,37.96029,-122.06132,67,1
+County Connection,37.95987,-122.06152,71,2
+County Connection,37.95206,-122.06006,67,1
+County Connection,37.96782,-122.06277,149,2
+County Connection,37.95142,-122.06032,71,2
+County Connection,37.96778,-122.06297,154,2
+County Connection,37.94967,-122.06033,71,2
+County Connection,37.93317,-122.05655,15,1
+County Connection,37.93337,-122.05641,15,1
+County Connection,37.93336,-122.05872,15,1
+County Connection,37.97918,-122.03299,18,1
+County Connection,38.01941,-122.13515,111,2
+County Connection,37.98071,-122.05339,19,1
+County Connection,37.97964,-122.04638,31,1
+County Connection,37.97922,-122.04522,19,1
+County Connection,37.97612,-122.03259,78,2
+County Connection,38.01725,-122.13316,47,1
+County Connection,38.01766,-122.1336,49,1
+County Connection,37.77357,-121.98795,9,1
+County Connection,37.77858,-121.97097,22,1
+County Connection,37.77911,-121.97073,22,1
+County Connection,37.7744,-121.98376,9,1
+County Connection,37.88627,-122.05266,30,1
+County Connection,37.77506,-121.98078,9,1
+County Connection,37.88618,-122.05264,30,1
+County Connection,37.94521,-122.06382,93,2
+County Connection,37.94529,-122.06398,89,2
+County Connection,37.94519,-122.06148,93,2
+County Connection,37.94531,-122.06211,89,2
+County Connection,37.88217,-122.04975,60,1
+County Connection,37.88398,-122.05085,30,1
+County Connection,37.8838,-122.05091,30,1
+County Connection,37.88749,-122.05506,30,1
+County Connection,37.88738,-122.0549,30,1
+County Connection,37.85137,-122.03322,53,1
+County Connection,37.85151,-122.03344,53,1
+County Connection,37.82855,-122.00815,53,1
+County Connection,37.83492,-122.01717,53,1
+County Connection,37.87501,-122.04781,53,1
+County Connection,37.84418,-122.0277,53,1
+County Connection,37.84391,-122.02759,53,1
+County Connection,37.84762,-122.03092,53,1
+County Connection,37.84779,-122.03124,53,1
+County Connection,37.84521,-122.02894,53,1
+County Connection,37.83789,-122.02108,53,1
+County Connection,37.83745,-122.02061,53,1
+County Connection,37.82824,-122.00734,53,1
+County Connection,37.83223,-122.01411,53,1
+County Connection,37.83201,-122.01387,53,1
+County Connection,37.84157,-122.02514,53,1
+County Connection,37.84135,-122.02502,53,1
+County Connection,37.87028,-122.04514,53,1
+County Connection,37.86942,-122.04453,53,1
+County Connection,37.82573,-122.00406,53,1
+County Connection,37.86204,-122.04002,53,1
+County Connection,37.86187,-122.03992,53,1
+County Connection,37.82517,-122.00364,53,1
+County Connection,37.85698,-122.03694,53,1
+County Connection,37.85695,-122.0369,53,1
+County Connection,37.85379,-122.03485,53,1
+County Connection,37.85344,-122.03466,53,1
+County Connection,37.84529,-122.02889,53,1
+County Connection,37.83486,-122.01713,53,1
+County Connection,37.81199,-121.99182,78,2
+County Connection,37.93468,-122.0462,30,1
+County Connection,37.87146,-122.04588,53,1
+County Connection,37.9361,-122.04318,30,1
+County Connection,38.00413,-121.84278,6,1
+County Connection,38.00377,-121.84204,7,1
+County Connection,37.9679,-122.04093,67,1
+County Connection,37.96562,-122.03845,67,1
+County Connection,37.9607,-122.03404,67,1
+County Connection,37.96531,-122.03837,64,1
+County Connection,37.96283,-122.03591,67,1
+County Connection,37.96234,-122.03573,64,1
+County Connection,37.97327,-122.05746,36,1
+County Connection,37.97385,-122.0577,26,1
+County Connection,37.97057,-122.05496,26,1
+County Connection,37.97627,-122.05989,34,1
+County Connection,37.97525,-122.05893,35,1
+County Connection,37.97438,-122.0584,36,1
+County Connection,37.97099,-122.05564,36,1
+County Connection,37.73989,-121.91374,55,1
+County Connection,37.73996,-121.91404,53,1
+County Connection,37.74916,-121.91444,53,1
+County Connection,37.97106,-122.06903,30,1
+County Connection,37.97044,-122.06919,105,2
+County Connection,37.9704,-122.06899,29,1
+County Connection,37.97058,-122.06899,31,1
+County Connection,37.97074,-122.06897,81,2
+County Connection,37.97091,-122.06899,64,1
+County Connection,37.97093,-122.06914,0,0
+County Connection,37.98262,-122.03392,32,1
+County Connection,37.98251,-122.03398,18,1
+County Connection,37.97675,-122.02961,112,2
+County Connection,37.97833,-122.03092,112,2
+County Connection,37.75143,-121.89797,9,1
+County Connection,37.7513,-121.89805,9,1
+County Connection,37.74921,-121.89042,9,1
+County Connection,37.75346,-121.905,9,1
+County Connection,37.75342,-121.9053,9,1
+County Connection,37.95933,-122.05379,30,1
+County Connection,37.9588,-122.05802,30,1
+County Connection,38.01714,-122.13842,122,2
+County Connection,38.0014,-122.12861,23,1
+County Connection,37.76897,-121.96455,16,1
+County Connection,37.76929,-121.96403,9,1
+County Connection,37.76732,-121.96888,9,1
+County Connection,38.00163,-121.84476,7,1
+County Connection,38.00141,-121.8451,6,1
+County Connection,37.78206,-121.97116,53,1
+County Connection,37.78134,-121.97291,53,1
+County Connection,37.78102,-121.97319,53,1
+County Connection,37.97253,-122.04081,48,1
+County Connection,37.97227,-122.04086,47,1
+County Connection,37.97047,-122.03231,22,1
+County Connection,37.97608,-122.05584,8,1
+County Connection,37.97608,-122.05615,19,1
+County Connection,37.97126,-122.04272,89,2
+County Connection,37.97179,-122.04349,78,2
+County Connection,37.9906,-122.08699,38,1
+County Connection,37.97162,-122.06548,96,2
+County Connection,37.97981,-122.03485,32,1
+County Connection,37.97611,-122.03209,32,1
+County Connection,37.98748,-122.03958,19,1
+County Connection,37.98426,-122.03756,18,1
+County Connection,37.98569,-122.03851,19,1
+County Connection,37.98648,-122.03918,18,1
+County Connection,37.97878,-122.03426,32,1
+County Connection,37.94788,-122.06136,67,1
+County Connection,37.94807,-122.06122,71,2
+County Connection,37.94786,-122.07721,33,1
+County Connection,37.94797,-122.07832,33,1
+County Connection,37.94786,-122.0638,67,1
+County Connection,37.94801,-122.06466,33,1
+County Connection,37.9479,-122.07282,33,1
+County Connection,37.94801,-122.07388,33,1
+County Connection,37.94792,-122.06684,33,1
+County Connection,37.94807,-122.06692,33,1
+County Connection,37.94795,-122.07066,33,1
+County Connection,37.948,-122.0762,33,1
+County Connection,37.98406,-122.03601,18,1
+County Connection,37.98401,-122.03529,32,1
+County Connection,37.94783,-122.08168,33,1
+County Connection,37.94786,-122.07509,33,1
+County Connection,37.99728,-122.11993,23,1
+County Connection,37.99939,-122.11685,23,1
+County Connection,38.001,-122.11393,23,1
+County Connection,38.01168,-122.0342,3,1
+County Connection,37.97792,-122.05436,19,1
+County Connection,37.97955,-122.05516,8,1
+County Connection,37.97958,-122.0555,9,1
+County Connection,37.91227,-122.04038,57,1
+County Connection,37.91261,-122.04173,57,1
+County Connection,37.95373,-121.95493,7,1
+County Connection,37.99542,-121.8971,7,1
+County Connection,37.99585,-121.89755,6,1
+County Connection,37.95337,-121.956,6,1
+County Connection,37.95486,-121.95354,7,1
+County Connection,37.9551,-121.95364,6,1
+County Connection,37.97034,-122.03559,64,1
+County Connection,37.96829,-122.04058,64,1
+County Connection,37.96967,-122.03698,67,1
+County Connection,37.98308,-121.99886,33,1
+County Connection,37.98076,-121.99676,33,1
+County Connection,37.98083,-121.99697,33,1
+County Connection,37.9894,-122.00454,33,1
+County Connection,37.97872,-121.99419,33,1
+County Connection,37.98463,-121.99962,33,1
+County Connection,37.9833,-121.99904,33,1
+County Connection,37.98708,-122.00102,33,1
+County Connection,37.98703,-122.00104,33,1
+County Connection,37.98982,-122.00535,33,1
+County Connection,37.92763,-122.02981,44,1
+County Connection,37.8983,-122.06174,107,2
+County Connection,37.89956,-122.06229,107,2
+County Connection,37.90105,-122.06303,107,2
+County Connection,37.89713,-122.06142,107,2
+County Connection,37.89598,-122.06142,107,2
+County Connection,37.93391,-121.92825,62,1
+County Connection,37.96773,-122.04777,47,1
+County Connection,37.9324,-121.92396,62,1
+County Connection,37.93533,-121.93222,62,1
+County Connection,37.94007,-121.93351,62,1
+County Connection,37.96923,-122.04698,48,1
+County Connection,38.00939,-122.04052,3,1
+County Connection,38.01237,-122.03932,3,1
+County Connection,38.01103,-122.04117,3,1
+County Connection,37.89732,-122.06098,107,2
+County Connection,37.89189,-122.11949,52,1
+County Connection,37.89209,-122.11925,47,1
+County Connection,37.96418,-122.04588,48,1
+County Connection,37.9607,-122.04284,47,1
+County Connection,37.95827,-122.04054,48,1
+County Connection,37.96302,-122.04494,47,1
+County Connection,37.95727,-122.03998,47,1
+County Connection,37.95935,-122.04147,48,1
+County Connection,37.95894,-122.04131,47,1
+County Connection,37.96133,-122.04326,48,1
+County Connection,37.96589,-122.04775,47,1
+County Connection,37.94598,-121.96012,23,1
+County Connection,37.93202,-122.01973,21,1
+County Connection,37.93199,-122.02001,6,1
+County Connection,37.92971,-122.02393,68,1
+County Connection,37.92981,-122.02397,9,1
+County Connection,37.94667,-121.96183,23,1
+County Connection,37.929,-122.02554,9,1
+County Connection,37.97566,-122.03758,48,1
+County Connection,37.97522,-122.03763,47,1
+County Connection,37.94734,-121.9632,23,1
+County Connection,37.83774,-122.12569,32,1
+County Connection,37.83776,-122.12605,34,1
+County Connection,37.83717,-122.13451,34,1
+County Connection,37.86224,-122.16865,32,1
+County Connection,37.94525,-122.05953,93,2
+County Connection,37.94604,-122.04773,30,1
+County Connection,37.94585,-122.04552,31,1
+County Connection,37.94378,-122.0451,30,1
+County Connection,37.94573,-122.04548,30,1
+County Connection,37.94618,-122.04807,31,1
+County Connection,37.84512,-122.14973,32,1
+County Connection,37.94462,-122.04443,31,1
+County Connection,37.93908,-122.04554,30,1
+County Connection,37.94751,-122.05051,31,1
+County Connection,37.9474,-122.05059,30,1
+County Connection,37.93956,-122.0455,31,1
+County Connection,37.94159,-122.04512,31,1
+County Connection,37.94157,-122.04518,30,1
+County Connection,37.96309,-122.03161,22,1
+County Connection,37.90869,-122.04787,43,1
+County Connection,37.9509,-122.04664,89,2
+County Connection,37.91073,-122.04159,43,1
+County Connection,37.96815,-122.03203,22,1
+County Connection,37.95958,-122.03422,22,1
+County Connection,37.95992,-122.0341,86,2
+County Connection,37.95356,-122.04282,89,2
+County Connection,37.9536,-122.04312,86,2
+County Connection,37.95704,-122.03819,86,2
+County Connection,37.94769,-122.0513,58,1
+County Connection,37.94825,-122.05076,56,1
+County Connection,37.96842,-122.03229,22,1
+County Connection,37.95244,-122.04439,89,2
+County Connection,37.91022,-122.04378,43,1
+County Connection,37.91009,-122.04565,43,1
+County Connection,37.91032,-122.04306,14,1
+County Connection,37.95076,-122.04728,86,2
+County Connection,37.95437,-122.04201,86,2
+County Connection,37.96336,-122.03177,22,1
+County Connection,37.95681,-122.03813,89,2
+County Connection,37.8654,-122.17473,32,1
+County Connection,37.86041,-122.16521,34,1
+County Connection,37.8579,-122.15784,34,1
+County Connection,37.9948,-122.10044,38,1
+County Connection,37.99466,-122.10048,41,1
+County Connection,37.8548,-122.12486,47,1
+County Connection,37.85491,-122.12501,52,1
+County Connection,37.86558,-122.17465,34,1
+County Connection,37.88866,-122.11836,52,1
+County Connection,37.86493,-122.12408,47,1
+County Connection,37.86472,-122.12426,52,1
+County Connection,37.86822,-122.12522,47,1
+County Connection,37.86802,-122.12527,52,1
+County Connection,37.84685,-122.12593,47,1
+County Connection,37.84692,-122.12617,52,1
+County Connection,37.84472,-122.14874,34,1
+County Connection,37.85122,-122.12518,47,1
+County Connection,37.8507,-122.12547,52,1
+County Connection,37.84341,-122.14628,34,1
+County Connection,37.84784,-122.15251,32,1
+County Connection,37.84354,-122.14673,32,1
+County Connection,38.00809,-122.10179,29,1
+County Connection,37.8624,-122.16882,34,1
+County Connection,37.85637,-122.15518,34,1
+County Connection,37.84128,-122.14233,34,1
+County Connection,37.8853,-122.11836,52,1
+County Connection,37.85481,-122.15277,34,1
+County Connection,37.85416,-122.15239,32,1
+County Connection,37.85772,-122.12414,47,1
+County Connection,37.85805,-122.12422,52,1
+County Connection,37.86043,-122.16555,32,1
+County Connection,38.00393,-122.10179,29,1
+County Connection,38.00404,-122.10183,31,1
+County Connection,37.89112,-122.11873,52,1
+County Connection,37.9979,-122.10042,29,1
+County Connection,37.84107,-122.1421,32,1
+County Connection,37.83412,-122.12714,32,1
+County Connection,37.88994,-122.11836,47,1
+County Connection,37.83452,-122.12718,34,1
+County Connection,37.85878,-122.16138,32,1
+County Connection,37.88673,-122.1181,52,1
+County Connection,37.88396,-122.11862,47,1
+County Connection,37.87123,-122.17729,34,1
+County Connection,37.87125,-122.17757,32,1
+County Connection,37.85966,-122.1635,34,1
+County Connection,38.01018,-122.10179,29,1
+County Connection,37.86108,-122.12508,52,1
+County Connection,37.83699,-122.13459,32,1
+County Connection,37.83527,-122.13,34,1
+County Connection,37.85203,-122.15172,34,1
+County Connection,37.8516,-122.15198,32,1
+County Connection,37.88329,-122.11894,52,1
+County Connection,37.96129,-122.07876,11,1
+County Connection,37.96165,-122.07908,11,1
+County Connection,37.83484,-122.12943,32,1
+County Connection,37.84706,-122.15194,34,1
+County Connection,37.85619,-122.15521,32,1
+County Connection,37.88179,-122.11981,47,1
+County Connection,37.85765,-122.1577,32,1
+County Connection,37.87236,-122.12382,47,1
+County Connection,37.87238,-122.12398,52,1
+County Connection,37.99739,-122.10028,31,1
+County Connection,37.90859,-122.04956,43,1
+County Connection,37.99463,-122.11869,11,1
+County Connection,37.99501,-122.11854,12,1
+County Connection,37.99042,-122.08343,42,1
+County Connection,37.99055,-122.08417,41,1
+County Connection,37.99031,-122.08635,52,1
+County Connection,37.99457,-122.10988,11,1
+County Connection,37.9947,-122.10996,12,1
+County Connection,37.99122,-122.07781,42,1
+County Connection,37.99123,-122.07852,41,1
+County Connection,37.90846,-122.06591,34,1
+County Connection,37.89988,-122.06362,83,2
+County Connection,37.89898,-122.0636,83,2
+County Connection,37.90217,-122.0645,97,2
+County Connection,37.90249,-122.06495,97,2
+County Connection,37.90352,-122.06529,204,3
+County Connection,37.89793,-122.06307,83,2
+County Connection,37.9012,-122.06449,83,2
+County Connection,37.90875,-122.05876,64,1
+County Connection,37.9089,-122.05846,67,1
+County Connection,37.91506,-122.05945,67,1
+County Connection,37.91498,-122.05965,64,1
+County Connection,37.91269,-122.05981,67,1
+County Connection,37.9123,-122.06013,64,1
+County Connection,37.91067,-122.05949,67,1
+County Connection,37.91041,-122.05955,64,1
+County Connection,37.91693,-122.05914,67,1
+County Connection,37.91676,-122.05935,64,1
+County Connection,37.90728,-122.0586,67,1
+County Connection,37.90715,-122.05886,64,1
+County Connection,37.89277,-122.05995,83,2
+County Connection,37.90553,-122.0638,107,2
+County Connection,37.89993,-122.06094,107,2
+County Connection,37.90164,-122.06181,107,2
+County Connection,37.89849,-122.0603,107,2
+County Connection,37.92563,-122.06299,15,1
+County Connection,37.92363,-122.06346,15,1
+County Connection,37.92378,-122.06364,15,1
+County Connection,37.9124,-122.06533,34,1
+County Connection,37.91119,-122.06551,34,1
+County Connection,37.92503,-122.06297,15,1
+County Connection,37.92155,-122.06442,15,1
+County Connection,37.91892,-122.06511,15,1
+County Connection,37.91969,-122.06505,15,1
+County Connection,37.92238,-122.06392,15,1
+County Connection,37.91758,-122.06561,15,1
+County Connection,37.91818,-122.06557,15,1
+County Connection,37.77437,-121.96532,16,1
+County Connection,37.77523,-121.9634,16,1
+County Connection,37.92807,-122.02611,10,1
+County Connection,37.92788,-122.02617,9,1
+County Connection,37.92914,-122.02724,44,1
+County Connection,37.92653,-122.02469,24,1
+County Connection,37.92677,-122.0251,9,1
+County Connection,37.92524,-122.02377,24,1
+County Connection,37.9251,-122.02389,23,1
+County Connection,37.92008,-122.05879,64,1
+County Connection,37.94781,-122.0333,48,1
+County Connection,37.9437,-122.02975,47,1
+County Connection,37.95125,-122.03674,47,1
+County Connection,37.9463,-122.03213,47,1
+County Connection,37.93253,-122.01944,30,1
+County Connection,37.95624,-122.03871,48,1
+County Connection,37.95549,-122.03866,47,1
+County Connection,37.95318,-122.03726,48,1
+County Connection,37.93261,-122.01932,30,1
+County Connection,37.94453,-122.03026,48,1
+County Connection,37.9463,-122.03189,48,1
+County Connection,37.9299,-122.01683,6,1
+County Connection,37.93013,-122.01721,51,1
+County Connection,37.94149,-122.02746,48,1
+County Connection,37.94123,-122.0275,47,1
+County Connection,37.93943,-122.02551,48,1
+County Connection,37.93879,-122.02528,47,1
+County Connection,37.94901,-122.03438,48,1
+County Connection,37.89783,-122.07026,14,1
+County Connection,37.93167,-122.05899,29,1
+County Connection,37.90037,-122.06988,14,1
+County Connection,37.97214,-122.03233,197,2
+County Connection,37.97226,-122.03247,64,1
+County Connection,37.89745,-122.07012,14,1
+County Connection,37.90118,-122.06928,14,1
+County Connection,37.9334,-122.06291,11,1
+County Connection,37.93369,-122.06839,11,1
+County Connection,37.93368,-122.07234,11,1
+County Connection,37.9338,-122.0728,11,1
+County Connection,37.93369,-122.06994,11,1
+County Connection,37.93377,-122.06994,11,1
+County Connection,37.93333,-122.06211,11,1
+County Connection,37.93312,-122.06466,11,1
+County Connection,37.92113,-122.05834,67,1
+County Connection,37.99868,-122.05039,19,1
+County Connection,37.99768,-122.04228,19,1
+County Connection,37.99653,-122.0366,19,1
+County Connection,37.99678,-122.0368,18,1
+County Connection,37.9979,-122.04234,18,1
+County Connection,37.99849,-122.04783,19,1
+County Connection,37.99865,-122.04736,18,1
+County Connection,37.9982,-122.04501,19,1
+County Connection,37.99601,-122.03418,19,1
+County Connection,37.99609,-122.03419,18,1
+County Connection,37.99562,-122.03227,19,1
+County Connection,37.99568,-122.03218,18,1
+County Connection,37.99664,-122.11061,23,1
+County Connection,37.97437,-122.06797,114,2
+County Connection,37.97438,-122.06811,114,2
+County Connection,37.99849,-122.04612,18,1
+County Connection,38.01161,-122.10435,39,1
+County Connection,38.00369,-122.08508,9,1
+County Connection,38.0143,-122.12629,49,1
+County Connection,38.0144,-122.12631,47,1
+County Connection,38.00626,-122.09057,8,1
+County Connection,38.00688,-122.09128,9,1
+County Connection,37.99454,-122.07443,9,1
+County Connection,38.01283,-122.12058,49,1
+County Connection,38.01288,-122.1208,47,1
+County Connection,37.9904,-122.07332,69,2
+County Connection,38.00826,-122.09569,8,1
+County Connection,38.00837,-122.09541,9,1
+County Connection,37.98288,-122.06736,69,2
+County Connection,37.98294,-122.0676,69,2
+County Connection,38.01243,-122.11134,38,1
+County Connection,37.99523,-122.07349,19,1
+County Connection,37.99356,-122.07417,8,1
+County Connection,38.01027,-122.10091,8,1
+County Connection,38.01073,-122.10209,41,1
+County Connection,38.01098,-122.10228,47,1
+County Connection,37.99075,-122.07326,69,2
+County Connection,37.98094,-122.02534,33,1
+County Connection,38.01235,-122.11683,39,1
+County Connection,38.01213,-122.10526,38,1
+County Connection,37.98788,-122.07105,69,2
+County Connection,38.01296,-122.11826,38,1
+County Connection,38.0029,-122.08246,8,1
+County Connection,37.98866,-122.07193,69,2
+County Connection,37.93607,-122.0723,11,1
+County Connection,37.93619,-122.07234,11,1
+County Connection,38.01227,-122.11144,39,1
+County Connection,37.9393,-122.07016,11,1
+County Connection,37.93882,-122.07028,11,1
+County Connection,37.9413,-122.06958,11,1
+County Connection,37.94125,-122.06971,11,1
+County Connection,37.98063,-122.02506,33,1
+County Connection,37.99973,-122.04767,18,1
+County Connection,38.0095,-122.0307,3,1
+County Connection,37.99594,-122.121,11,1
+County Connection,37.99758,-122.12259,12,1
+County Connection,37.99725,-122.12256,11,1
+County Connection,38.01574,-122.13063,38,1
+County Connection,37.95613,-122.0907,22,1
+County Connection,37.95214,-122.08488,33,1
+County Connection,37.95246,-122.08502,33,1
+County Connection,37.95128,-122.08387,33,1
+County Connection,37.95067,-122.08371,33,1
+County Connection,37.9537,-122.08683,33,1
+County Connection,37.95393,-122.08762,33,1
+County Connection,37.95728,-122.09188,22,1
+County Connection,37.94899,-122.08272,33,1
+County Connection,38.01177,-122.02315,3,1
+County Connection,38.01143,-122.02335,3,1
+County Connection,38.01446,-122.02476,3,1
+County Connection,37.97776,-122.02919,80,2
+County Connection,37.9955,-122.03056,19,1
+County Connection,37.99591,-122.03052,18,1
+County Connection,38.00482,-122.02373,3,1
+County Connection,38.0043,-122.02429,18,1
+County Connection,37.90772,-122.06505,107,2
+County Connection,37.8202,-121.99904,53,1
+County Connection,37.82376,-122.00326,53,1
+County Connection,37.82088,-122.00032,53,1
+County Connection,37.82257,-122.00227,53,1
+County Connection,37.82352,-122.00328,53,1
+County Connection,37.8782,-122.07278,28,1
+County Connection,37.87722,-122.07137,14,1
+County Connection,37.79815,-121.91841,10,1
+County Connection,37.97847,-122.0328,47,1
+County Connection,37.98067,-122.02844,33,1
+County Connection,37.97652,-122.0367,48,1
+County Connection,37.97672,-122.03652,47,1
+County Connection,37.9779,-122.03374,48,1
+County Connection,37.89477,-122.06197,83,2
+County Connection,37.8944,-122.06188,83,2
+County Connection,37.89295,-122.0612,83,2
+County Connection,37.89646,-122.06299,83,2
+County Connection,37.89655,-122.06339,83,2
+County Connection,37.92916,-122.01902,14,1
+County Connection,37.92566,-122.0275,44,1
+County Connection,37.92695,-122.02418,44,1
+County Connection,37.84105,-122.12305,84,2
+County Connection,37.84116,-122.12307,81,2
+County Connection,37.84249,-122.1179,84,2
+County Connection,37.8426,-122.11794,81,2
+County Connection,37.8421,-122.11014,99,2
+County Connection,37.88768,-122.05603,83,2
+County Connection,37.8811,-122.05101,53,1
+County Connection,37.88692,-122.05576,53,1
+County Connection,37.89051,-122.0575,83,2
+County Connection,37.87926,-122.05005,53,1
+County Connection,37.87936,-122.05027,53,1
+County Connection,37.891,-122.05786,83,2
+County Connection,37.99271,-122.04972,19,1
+County Connection,37.98964,-122.04195,18,1
+County Connection,37.98975,-122.04205,19,1
+County Connection,37.9944,-122.05198,19,1
+County Connection,37.99435,-122.05198,18,1
+County Connection,37.99081,-122.04572,19,1
+County Connection,37.99877,-122.05311,18,1
+County Connection,37.99858,-122.05289,19,1
+County Connection,37.99264,-122.04966,18,1
+County Connection,37.99064,-122.04534,18,1
+County Connection,37.9984,-121.84389,6,1
+County Connection,37.77049,-121.96034,22,1
+County Connection,37.77044,-121.96032,6,1
+County Connection,37.77021,-121.9603,106,2
+County Connection,37.77047,-121.96042,16,1
+County Connection,37.77055,-121.96051,138,2
+County Connection,37.77018,-121.96034,0,0
+County Connection,37.77472,-121.97619,9,1
+County Connection,37.7726,-121.97424,9,1
+County Connection,37.81523,-121.9964,53,1
+County Connection,37.81534,-121.99635,53,1
+County Connection,37.78089,-121.97836,53,1
+County Connection,37.78494,-121.98014,53,1
+County Connection,37.78497,-121.98036,53,1
+County Connection,37.81337,-121.9959,53,1
+County Connection,37.78245,-121.97923,53,1
+County Connection,37.78996,-121.98247,53,1
+County Connection,37.78949,-121.98245,53,1
+County Connection,37.81737,-121.99642,53,1
+County Connection,37.81764,-121.99666,53,1
+County Connection,37.81269,-121.99554,53,1
+County Connection,37.76309,-121.96086,64,1
+County Connection,37.76313,-121.96114,81,2
+County Connection,37.96338,-122.06052,71,2
+County Connection,37.96294,-122.06084,72,2
+County Connection,37.95819,-122.08337,11,1
+County Connection,37.9579,-122.08397,11,1
+County Connection,37.88185,-122.07656,14,1
+County Connection,37.87721,-122.07346,14,1
+County Connection,37.8839,-122.07751,14,1
+County Connection,37.88408,-122.07781,14,1
+County Connection,37.87995,-122.07542,14,1
+County Connection,37.96232,-121.99401,33,1
+County Connection,37.96238,-121.99419,13,1
+County Connection,37.93257,-122.0367,91,2
+County Connection,37.93325,-122.03591,90,2
+County Connection,37.94127,-122.02093,13,1
+County Connection,37.941,-122.02172,13,1
+County Connection,37.92772,-122.04485,91,2
+County Connection,37.92754,-122.0455,120,2
+County Connection,37.93083,-122.03968,91,2
+County Connection,37.93102,-122.0399,90,2
+County Connection,37.92659,-122.05079,120,2
+County Connection,37.94506,-122.01532,13,1
+County Connection,37.95567,-122.00112,13,1
+County Connection,37.95514,-122.0023,13,1
+County Connection,37.95048,-122.00543,13,1
+County Connection,37.95876,-121.99756,13,1
+County Connection,37.94677,-122.01216,13,1
+County Connection,37.94674,-122.01299,13,1
+County Connection,37.95795,-121.99826,13,1
+County Connection,37.9523,-122.00529,13,1
+County Connection,37.93451,-122.03291,91,2
+County Connection,37.93466,-122.03316,90,2
+County Connection,37.90141,-122.06835,14,1
+County Connection,37.90134,-122.06807,14,1
+County Connection,37.92646,-122.05248,122,2
+County Connection,37.93831,-122.02558,43,1
+County Connection,37.93886,-122.02492,13,1
+County Connection,37.93789,-122.02683,90,2
+County Connection,37.93662,-122.02935,90,2
+County Connection,37.94553,-122.01502,13,1
+County Connection,37.9429,-122.01852,13,1
+County Connection,37.94297,-122.0188,13,1
+County Connection,37.97367,-122.06078,10,1
+County Connection,37.99403,-122.11449,23,1
+County Connection,37.9659,-122.06823,11,1
+County Connection,37.96585,-122.07099,11,1
+County Connection,37.96591,-122.07064,11,1
+County Connection,37.96582,-122.07521,11,1
+County Connection,37.96463,-122.07832,11,1
+County Connection,37.96471,-122.07842,11,1
+County Connection,37.96577,-122.07459,11,1
+County Connection,37.99949,-122.12289,11,1
+County Connection,37.99953,-122.12287,12,1
+County Connection,37.92717,-122.01926,30,1
+County Connection,37.95083,-121.95678,23,1
+County Connection,37.94934,-121.95662,46,1
+County Connection,37.9766,-121.99203,33,1
+County Connection,37.94056,-122.06285,22,1
+County Connection,37.97678,-121.99179,33,1
+County Connection,37.97251,-121.99699,33,1
+County Connection,37.9734,-121.9959,33,1
+County Connection,37.97185,-121.99775,33,1
+County Connection,37.97496,-121.99397,33,1
+County Connection,37.9707,-121.99912,33,1
+County Connection,37.97002,-121.99997,33,1
+County Connection,37.9743,-121.99471,33,1
+County Connection,37.76119,-121.88828,9,1
+County Connection,37.76048,-121.88742,9,1
+County Connection,37.75743,-121.88704,9,1
+County Connection,37.74963,-121.8896,9,1
+County Connection,37.76273,-121.89519,9,1
+County Connection,37.76278,-121.89411,9,1
+County Connection,37.75809,-121.88627,9,1
+County Connection,37.9889,-122.00684,33,1
+County Connection,37.98868,-122.00734,33,1
+County Connection,37.96901,-122.05154,89,2
+County Connection,37.98075,-122.02118,33,1
+County Connection,37.98076,-122.02194,33,1
+County Connection,37.96994,-122.05011,89,2
+County Connection,37.98614,-122.01067,33,1
+County Connection,37.982,-122.01865,33,1
+County Connection,37.98152,-122.01936,33,1
+County Connection,37.96938,-122.05142,78,2
+County Connection,37.98361,-122.01521,33,1
+County Connection,37.98305,-122.01605,33,1
+County Connection,37.98731,-122.00902,33,1
+County Connection,37.98724,-122.00938,33,1
+County Connection,37.92129,-122.03279,24,1
+County Connection,37.91883,-122.03779,24,1
+County Connection,37.92038,-122.03575,23,1
+County Connection,37.90656,-122.05997,46,1
+County Connection,37.90919,-122.05184,45,1
+County Connection,37.91304,-122.04415,31,1
+County Connection,37.92376,-122.0277,23,1
+County Connection,37.91132,-122.04667,45,1
+County Connection,37.94764,-121.96314,7,1
+County Connection,37.94763,-121.96361,6,1
+County Connection,37.908,-122.05515,46,1
+County Connection,37.90801,-122.05548,45,1
+County Connection,37.92266,-122.02949,24,1
+County Connection,37.90721,-122.05789,45,1
+County Connection,37.95002,-121.96055,6,1
+Tri Delta Transit,37.96673,-121.71427,13,1
+Tri Delta Transit,37.9618,-121.72946,11,1
+Tri Delta Transit,37.96178,-121.73335,22,1
+Tri Delta Transit,37.96181,-121.73786,22,1
+Tri Delta Transit,37.96183,-121.74552,22,1
+Tri Delta Transit,37.96186,-121.74855,50,1
+Tri Delta Transit,37.96187,-121.75595,50,1
+Tri Delta Transit,37.96186,-121.76147,70,1
+Tri Delta Transit,37.96479,-121.77587,70,1
+Tri Delta Transit,37.96643,-121.77986,14,1
+Tri Delta Transit,37.97158,-121.78251,14,1
+Tri Delta Transit,37.99047,-121.71357,71,1
+Tri Delta Transit,37.99053,-121.70464,71,1
+Tri Delta Transit,37.99061,-121.7259,12,1
+Tri Delta Transit,37.99061,-121.72213,12,1
+Tri Delta Transit,37.9905,-121.71134,71,1
+Tri Delta Transit,37.99053,-121.69946,71,1
+Tri Delta Transit,37.99049,-121.72677,13,1
+Tri Delta Transit,37.99049,-121.72204,13,1
+Tri Delta Transit,37.99238,-121.73224,12,1
+Tri Delta Transit,37.99061,-121.71379,71,1
+Tri Delta Transit,37.99062,-121.7111,71,1
+Tri Delta Transit,37.99065,-121.70478,71,1
+Tri Delta Transit,37.99067,-121.69992,71,1
+Tri Delta Transit,37.99432,-121.73223,12,1
+Tri Delta Transit,37.99784,-121.73049,81,1
+Tri Delta Transit,37.99794,-121.7266,59,1
+Tri Delta Transit,37.99772,-121.72574,58,1
+Tri Delta Transit,37.99524,-121.78472,141,2
+Tri Delta Transit,37.994,-121.78451,112,2
+Tri Delta Transit,37.98897,-121.78564,84,1
+Tri Delta Transit,37.9877,-121.78556,90,1
+Tri Delta Transit,37.98651,-121.78591,14,1
+Tri Delta Transit,37.98401,-121.7845,14,1
+Tri Delta Transit,37.98307,-121.78424,14,1
+Tri Delta Transit,37.9803,-121.78495,14,1
+Tri Delta Transit,37.98055,-121.78432,14,1
+Tri Delta Transit,37.97733,-121.78623,14,1
+Tri Delta Transit,37.97706,-121.78646,14,1
+Tri Delta Transit,37.97392,-121.78441,14,1
+Tri Delta Transit,37.9728,-121.7839,14,1
+Tri Delta Transit,37.97061,-121.78177,14,1
+Tri Delta Transit,37.96652,-121.78012,1,1
+Tri Delta Transit,37.96542,-121.77952,78,1
+Tri Delta Transit,37.96357,-121.7719,78,1
+Tri Delta Transit,37.96407,-121.77409,78,1
+Tri Delta Transit,37.96171,-121.76405,78,1
+Tri Delta Transit,37.96158,-121.7589,56,1
+Tri Delta Transit,37.96159,-121.75444,56,1
+Tri Delta Transit,37.9615,-121.74893,26,1
+Tri Delta Transit,37.96145,-121.73725,48,1
+Tri Delta Transit,37.96145,-121.73175,13,1
+Tri Delta Transit,37.96147,-121.72985,13,1
+Tri Delta Transit,37.97762,-121.8029,79,1
+Tri Delta Transit,37.98263,-121.8055,87,1
+Tri Delta Transit,37.98763,-121.80673,57,1
+Tri Delta Transit,37.98549,-121.80576,57,1
+Tri Delta Transit,37.99145,-121.80756,57,1
+Tri Delta Transit,37.99404,-121.8077,57,1
+Tri Delta Transit,37.99582,-121.80654,82,1
+Tri Delta Transit,38.00048,-121.80587,57,1
+Tri Delta Transit,38.00616,-121.80592,51,1
+Tri Delta Transit,38.00025,-121.78764,125,2
+Tri Delta Transit,38.00328,-121.78764,125,2
+Tri Delta Transit,38.005,-121.78294,71,1
+Tri Delta Transit,38.00878,-121.80592,51,1
+Tri Delta Transit,38.00502,-121.77875,71,1
+Tri Delta Transit,38.00506,-121.77317,71,1
+Tri Delta Transit,38.00525,-121.75602,71,1
+Tri Delta Transit,38.00522,-121.75224,71,1
+Tri Delta Transit,38.00483,-121.73349,71,1
+Tri Delta Transit,37.98685,-121.7847,70,1
+Tri Delta Transit,37.987,-121.78036,70,1
+Tri Delta Transit,37.9831,-121.77285,70,1
+Tri Delta Transit,37.98312,-121.77002,70,1
+Tri Delta Transit,37.97702,-121.76288,70,1
+Tri Delta Transit,37.9714,-121.79593,57,1
+Tri Delta Transit,37.96845,-121.78655,57,1
+Tri Delta Transit,37.97002,-121.79127,57,1
+Tri Delta Transit,37.97313,-121.76292,70,1
+Tri Delta Transit,37.97071,-121.76094,42,1
+Tri Delta Transit,37.96608,-121.76016,42,1
+Tri Delta Transit,37.96634,-121.781,57,1
+Tri Delta Transit,37.96061,-121.77877,65,1
+Tri Delta Transit,37.96068,-121.7785,65,1
+Tri Delta Transit,37.95775,-121.77811,65,1
+Tri Delta Transit,37.95155,-121.77802,87,1
+Tri Delta Transit,37.94952,-121.77572,109,2
+Tri Delta Transit,38.02686,-121.93362,98,2
+Tri Delta Transit,38.02689,-121.92878,98,2
+Tri Delta Transit,38.02683,-121.92324,70,1
+Tri Delta Transit,38.02335,-121.91762,57,1
+Tri Delta Transit,38.02332,-121.91508,57,1
+Tri Delta Transit,38.02333,-121.91036,57,1
+Tri Delta Transit,38.02185,-121.90396,57,1
+Tri Delta Transit,38.02011,-121.9002,57,1
+Tri Delta Transit,38.0226,-121.89607,57,1
+Tri Delta Transit,38.02157,-121.89152,57,1
+Tri Delta Transit,38.02108,-121.88947,57,1
+Tri Delta Transit,38.02183,-121.88768,89,1
+Tri Delta Transit,38.02497,-121.88674,89,1
+Tri Delta Transit,38.02636,-121.87843,17,1
+Tri Delta Transit,38.0246,-121.87898,46,1
+Tri Delta Transit,38.02358,-121.87655,51,1
+Tri Delta Transit,38.02257,-121.87292,51,1
+Tri Delta Transit,38.02755,-121.88333,29,1
+Tri Delta Transit,38.02011,-121.87355,51,1
+Tri Delta Transit,38.01599,-121.88964,172,2
+Tri Delta Transit,38.01525,-121.89024,131,2
+Tri Delta Transit,38.01331,-121.89066,192,2
+Tri Delta Transit,38.01247,-121.88571,93,2
+Tri Delta Transit,38.01171,-121.8916,105,2
+Tri Delta Transit,38.01145,-121.8858,33,1
+Tri Delta Transit,38.01076,-121.89163,164,2
+Tri Delta Transit,38.01052,-121.88645,158,2
+Tri Delta Transit,38.0092,-121.88716,129,2
+Tri Delta Transit,38.008,-121.89139,158,2
+Tri Delta Transit,38.00769,-121.89082,100,2
+Tri Delta Transit,38.008,-121.88857,100,2
+Tri Delta Transit,38.01536,-121.86051,51,1
+Tri Delta Transit,38.01263,-121.86415,51,1
+Tri Delta Transit,38.0111,-121.8682,51,1
+Tri Delta Transit,38.00932,-121.8703,51,1
+Tri Delta Transit,38.00808,-121.86969,152,2
+Tri Delta Transit,38.00853,-121.86564,211,2
+Tri Delta Transit,38.00726,-121.86209,245,2
+Tri Delta Transit,38.00377,-121.85002,131,2
+Tri Delta Transit,38.0032,-121.84714,131,2
+Tri Delta Transit,38.00415,-121.84274,164,2
+Tri Delta Transit,38.00634,-121.83482,68,1
+Tri Delta Transit,38.00573,-121.83089,46,1
+Tri Delta Transit,38.0054,-121.8278,46,1
+Tri Delta Transit,38.00508,-121.82545,46,1
+Tri Delta Transit,38.00422,-121.82143,46,1
+Tri Delta Transit,38.00504,-121.81994,98,2
+Tri Delta Transit,38.01165,-121.8199,46,1
+Tri Delta Transit,38.01511,-121.81989,46,1
+Tri Delta Transit,38.01554,-121.81778,51,1
+Tri Delta Transit,38.01554,-121.81539,51,1
+Tri Delta Transit,38.01411,-121.80741,29,1
+Tri Delta Transit,38.01378,-121.80612,17,1
+Tri Delta Transit,38.01543,-121.94349,223,2
+Tri Delta Transit,38.01616,-121.94212,163,2
+Tri Delta Transit,38.01726,-121.94181,165,2
+Tri Delta Transit,38.02085,-121.94203,163,2
+Tri Delta Transit,38.021,-121.94173,165,2
+Tri Delta Transit,38.02463,-121.94206,163,2
+Tri Delta Transit,38.02479,-121.9418,165,2
+Tri Delta Transit,38.02686,-121.94061,98,2
+Tri Delta Transit,38.02668,-121.93891,99,2
+Tri Delta Transit,38.02685,-121.9369,98,2
+Tri Delta Transit,38.02668,-121.93405,99,2
+Tri Delta Transit,38.02671,-121.93086,99,2
+Tri Delta Transit,38.02667,-121.92778,99,2
+Tri Delta Transit,38.02667,-121.92371,74,1
+Tri Delta Transit,38.02316,-121.91779,56,1
+Tri Delta Transit,38.02315,-121.91509,56,1
+Tri Delta Transit,38.02317,-121.91136,56,1
+Tri Delta Transit,38.02227,-121.90568,56,1
+Tri Delta Transit,38.02132,-121.90354,56,1
+Tri Delta Transit,38.02014,-121.89928,56,1
+Tri Delta Transit,38.02251,-121.89837,56,1
+Tri Delta Transit,38.02251,-121.89618,56,1
+Tri Delta Transit,38.02135,-121.89162,56,1
+Tri Delta Transit,38.02086,-121.88954,56,1
+Tri Delta Transit,38.0213,-121.88759,89,1
+Tri Delta Transit,38.01984,-121.87385,52,1
+Tri Delta Transit,38.02238,-121.87275,52,1
+Tri Delta Transit,38.02332,-121.87616,52,1
+Tri Delta Transit,38.02476,-121.87924,48,1
+Tri Delta Transit,38.02506,-121.88641,89,1
+Tri Delta Transit,38.02726,-121.88284,31,1
+Tri Delta Transit,38.02628,-121.87877,31,1
+Tri Delta Transit,38.01518,-121.86056,52,1
+Tri Delta Transit,38.01101,-121.86908,52,1
+Tri Delta Transit,38.00793,-121.87022,212,2
+Tri Delta Transit,38.0082,-121.86466,212,2
+Tri Delta Transit,38.00789,-121.86132,180,2
+Tri Delta Transit,38.00545,-121.85422,133,2
+Tri Delta Transit,38.00365,-121.85031,133,2
+Tri Delta Transit,38.003,-121.84719,133,2
+Tri Delta Transit,38.00364,-121.8418,100,2
+Tri Delta Transit,38.00593,-121.83474,69,1
+Tri Delta Transit,38.00557,-121.83074,46,1
+Tri Delta Transit,38.00529,-121.82758,46,1
+Tri Delta Transit,38.00488,-121.82511,46,1
+Tri Delta Transit,38.0042,-121.82189,46,1
+Tri Delta Transit,38.00434,-121.8199,99,2
+Tri Delta Transit,38.00595,-121.81963,46,1
+Tri Delta Transit,38.01181,-121.81961,46,1
+Tri Delta Transit,38.01502,-121.81961,46,1
+Tri Delta Transit,38.01543,-121.81776,52,1
+Tri Delta Transit,38.01542,-121.81601,52,1
+Tri Delta Transit,38.01398,-121.80638,31,1
+Tri Delta Transit,38.01379,-121.80629,15,1
+Tri Delta Transit,38.00877,-121.80614,52,1
+Tri Delta Transit,38.00606,-121.80614,52,1
+Tri Delta Transit,38.00432,-121.80616,58,1
+Tri Delta Transit,37.99993,-121.80616,58,1
+Tri Delta Transit,37.99524,-121.80767,58,1
+Tri Delta Transit,37.99203,-121.8079,58,1
+Tri Delta Transit,37.98954,-121.80777,58,1
+Tri Delta Transit,37.98703,-121.80664,58,1
+Tri Delta Transit,37.9846,-121.80598,90,1
+Tri Delta Transit,37.98304,-121.80585,93,2
+Tri Delta Transit,37.97646,-121.80208,86,1
+Tri Delta Transit,37.97087,-121.79519,65,1
+Tri Delta Transit,37.96931,-121.79004,65,1
+Tri Delta Transit,37.96734,-121.78442,65,1
+Tri Delta Transit,37.96238,-121.75978,46,1
+Tri Delta Transit,37.96202,-121.74753,28,1
+Tri Delta Transit,37.96273,-121.74724,30,1
+Tri Delta Transit,37.9662,-121.74737,28,1
+Tri Delta Transit,37.96639,-121.74729,30,1
+Tri Delta Transit,37.96686,-121.7599,46,1
+Tri Delta Transit,37.96882,-121.7505,28,1
+Tri Delta Transit,37.96937,-121.75048,30,1
+Tri Delta Transit,37.97053,-121.76036,46,1
+Tri Delta Transit,37.97083,-121.76048,30,1
+Tri Delta Transit,37.97081,-121.76004,28,1
+Tri Delta Transit,37.97202,-121.75866,28,1
+Tri Delta Transit,37.97232,-121.75886,30,1
+Tri Delta Transit,37.97192,-121.75266,30,1
+Tri Delta Transit,37.97148,-121.75229,28,1
+Tri Delta Transit,37.97405,-121.7542,30,1
+Tri Delta Transit,37.97355,-121.75417,28,1
+Tri Delta Transit,37.97768,-121.76253,76,1
+Tri Delta Transit,37.97357,-121.76263,76,1
+Tri Delta Transit,37.97483,-121.75755,28,1
+Tri Delta Transit,37.97486,-121.75792,30,1
+Tri Delta Transit,37.98812,-121.78239,76,1
+Tri Delta Transit,37.98334,-121.77082,76,1
+Tri Delta Transit,37.98332,-121.77344,76,1
+Tri Delta Transit,37.98222,-121.76694,76,1
+Tri Delta Transit,38.00487,-121.81017,53,1
+Tri Delta Transit,38.00505,-121.81062,52,1
+Tri Delta Transit,38.00528,-121.81833,52,1
+Tri Delta Transit,38.00514,-121.81825,53,1
+Tri Delta Transit,38.00767,-121.83291,21,1
+Tri Delta Transit,38.00889,-121.83217,22,1
+Tri Delta Transit,38.00994,-121.83289,22,1
+Tri Delta Transit,38.00932,-121.83502,21,1
+Tri Delta Transit,38.00938,-121.83595,22,1
+Tri Delta Transit,38.01018,-121.83912,21,1
+Tri Delta Transit,38.01033,-121.84049,22,1
+Tri Delta Transit,38.00597,-121.83914,47,1
+Tri Delta Transit,38.00636,-121.84038,46,1
+Tri Delta Transit,38.00773,-121.84465,47,1
+Tri Delta Transit,38.0082,-121.84477,46,1
+Tri Delta Transit,38.01195,-121.8419,22,1
+Tri Delta Transit,38.01197,-121.84174,21,1
+Tri Delta Transit,38.00956,-121.84867,47,1
+Tri Delta Transit,38.01241,-121.83061,21,1
+Tri Delta Transit,38.0126,-121.82972,22,1
+Tri Delta Transit,38.01543,-121.82362,21,1
+Tri Delta Transit,38.01562,-121.82326,22,1
+Tri Delta Transit,38.01643,-121.81985,17,1
+Tri Delta Transit,38.01667,-121.81963,15,1
+Tri Delta Transit,38.01697,-121.81815,17,1
+Tri Delta Transit,38.01686,-121.81744,15,1
+Tri Delta Transit,38.01695,-121.81484,17,1
+Tri Delta Transit,38.01686,-121.81461,15,1
+Tri Delta Transit,38.01696,-121.81092,17,1
+Tri Delta Transit,38.01685,-121.81084,15,1
+Tri Delta Transit,38.01647,-121.80912,17,1
+Tri Delta Transit,38.0162,-121.80888,15,1
+Tri Delta Transit,38.01768,-121.81649,17,1
+Tri Delta Transit,37.99962,-121.83787,52,1
+Tri Delta Transit,37.99964,-121.83808,53,1
+Tri Delta Transit,38.0003,-121.82128,52,1
+Tri Delta Transit,38.00001,-121.82113,53,1
+Tri Delta Transit,37.99706,-121.83807,52,1
+Tri Delta Transit,37.99639,-121.83837,53,1
+Tri Delta Transit,37.99347,-121.83973,52,1
+Tri Delta Transit,37.99343,-121.8399,53,1
+Tri Delta Transit,37.99198,-121.84007,52,1
+Tri Delta Transit,37.99133,-121.84023,53,1
+Tri Delta Transit,37.98948,-121.84028,53,1
+Tri Delta Transit,37.988,-121.83948,52,1
+Tri Delta Transit,37.98716,-121.83875,53,1
+Tri Delta Transit,37.9846,-121.83574,52,1
+Tri Delta Transit,37.98305,-121.83521,53,1
+Tri Delta Transit,37.98326,-121.83147,52,1
+Tri Delta Transit,37.98302,-121.83062,53,1
+Tri Delta Transit,37.98279,-121.82606,52,1
+Tri Delta Transit,37.9977,-121.81656,26,1
+Tri Delta Transit,37.99754,-121.81525,25,1
+Tri Delta Transit,37.9975,-121.80873,25,1
+Tri Delta Transit,37.99758,-121.81029,26,1
+Tri Delta Transit,38.01546,-121.94076,60,1
+Tri Delta Transit,38.01553,-121.93664,60,1
+Tri Delta Transit,38.01566,-121.93268,60,1
+Tri Delta Transit,38.0156,-121.92857,60,1
+Tri Delta Transit,38.0152,-121.92605,60,1
+Tri Delta Transit,38.01372,-121.9182,60,1
+Tri Delta Transit,38.01403,-121.91255,60,1
+Tri Delta Transit,38.01634,-121.90513,60,1
+Tri Delta Transit,38.01518,-121.90034,60,1
+Tri Delta Transit,38.01403,-121.89668,60,1
+Tri Delta Transit,38.01215,-121.89047,73,1
+Tri Delta Transit,38.01121,-121.88653,73,1
+Tri Delta Transit,38.00973,-121.8803,108,2
+Tri Delta Transit,38.00939,-121.87537,108,2
+Tri Delta Transit,38.00848,-121.87144,7,1
+Tri Delta Transit,38.00307,-121.87272,65,1
+Tri Delta Transit,38.0004,-121.87373,65,1
+Tri Delta Transit,37.99805,-121.87314,7,1
+Tri Delta Transit,37.99806,-121.86883,7,1
+Tri Delta Transit,37.99807,-121.86452,7,1
+Tri Delta Transit,37.98295,-121.8251,60,1
+Tri Delta Transit,37.9862,-121.82378,60,1
+Tri Delta Transit,37.99131,-121.82233,60,1
+Tri Delta Transit,37.99864,-121.82313,7,1
+Tri Delta Transit,38.00039,-121.83025,7,1
+Tri Delta Transit,37.99872,-121.83922,7,1
+Tri Delta Transit,37.99816,-121.84281,7,1
+Tri Delta Transit,38.01528,-121.93939,62,1
+Tri Delta Transit,38.01537,-121.93603,62,1
+Tri Delta Transit,38.01551,-121.93217,62,1
+Tri Delta Transit,38.01533,-121.92796,62,1
+Tri Delta Transit,38.01468,-121.92394,62,1
+Tri Delta Transit,38.01391,-121.91993,62,1
+Tri Delta Transit,38.0145,-121.91147,62,1
+Tri Delta Transit,38.01606,-121.90488,62,1
+Tri Delta Transit,38.015,-121.90035,62,1
+Tri Delta Transit,38.01326,-121.89589,62,1
+Tri Delta Transit,38.01198,-121.89072,73,1
+Tri Delta Transit,38.01075,-121.8856,110,2
+Tri Delta Transit,38.00972,-121.88129,110,2
+Tri Delta Transit,38.0092,-121.87911,110,2
+Tri Delta Transit,38.00885,-121.87394,110,2
+Tri Delta Transit,38.00757,-121.87129,67,1
+Tri Delta Transit,38.00304,-121.87301,67,1
+Tri Delta Transit,38.00032,-121.87405,67,1
+Tri Delta Transit,37.9979,-121.87304,8,1
+Tri Delta Transit,37.9979,-121.86727,8,1
+Tri Delta Transit,37.99789,-121.86294,8,1
+Tri Delta Transit,37.99787,-121.8456,8,1
+Tri Delta Transit,37.99866,-121.83659,8,1
+Tri Delta Transit,38.00039,-121.82917,8,1
+Tri Delta Transit,37.99834,-121.82308,8,1
+Tri Delta Transit,37.99667,-121.82286,60,1
+Tri Delta Transit,37.99402,-121.82283,60,1
+Tri Delta Transit,37.98922,-121.82318,60,1
+Tri Delta Transit,37.99073,-121.82265,60,1
+Tri Delta Transit,37.98197,-121.82492,8,1
+Tri Delta Transit,37.98006,-121.81994,8,1
+Tri Delta Transit,37.97976,-121.81404,8,1
+Tri Delta Transit,37.97981,-121.80948,8,1
+Tri Delta Transit,38.01324,-121.81373,22,1
+Tri Delta Transit,38.01299,-121.81386,21,1
+Tri Delta Transit,38.01151,-121.81373,22,1
+Tri Delta Transit,38.01114,-121.81316,21,1
+Tri Delta Transit,38.01125,-121.80786,22,1
+Tri Delta Transit,38.01115,-121.80773,21,1
+Tri Delta Transit,38.01228,-121.80534,17,1
+Tri Delta Transit,38.01215,-121.80523,15,1
+Tri Delta Transit,38.01233,-121.8022,17,1
+Tri Delta Transit,38.01216,-121.80109,15,1
+Tri Delta Transit,38.00482,-121.80086,47,1
+Tri Delta Transit,38.00481,-121.79828,21,1
+Tri Delta Transit,38.00054,-121.79696,21,1
+Tri Delta Transit,37.99848,-121.79808,21,1
+Tri Delta Transit,37.99582,-121.78754,21,1
+Tri Delta Transit,37.92672,-121.6914,59,1
+Tri Delta Transit,37.93154,-121.69571,58,1
+Tri Delta Transit,37.93186,-121.69573,59,1
+Tri Delta Transit,37.93373,-121.69403,59,1
+Tri Delta Transit,37.93438,-121.69486,58,1
+Tri Delta Transit,37.93609,-121.6964,58,1
+Tri Delta Transit,37.94152,-121.69634,94,2
+Tri Delta Transit,37.94475,-121.69603,70,1
+Tri Delta Transit,37.94201,-121.69608,93,2
+Tri Delta Transit,37.9462,-121.69628,71,1
+Tri Delta Transit,37.95037,-121.69594,70,1
+Tri Delta Transit,37.95069,-121.69622,71,1
+Tri Delta Transit,37.95398,-121.69607,70,1
+Tri Delta Transit,37.95387,-121.69626,71,1
+Tri Delta Transit,37.9605,-121.69599,70,1
+Tri Delta Transit,37.96101,-121.69623,71,1
+Tri Delta Transit,37.96877,-121.69597,59,1
+Tri Delta Transit,37.96897,-121.6962,58,1
+Tri Delta Transit,37.97336,-121.6961,58,1
+Tri Delta Transit,37.97386,-121.6959,59,1
+Tri Delta Transit,37.9832,-121.69574,59,1
+Tri Delta Transit,37.98303,-121.69605,58,1
+Tri Delta Transit,37.99152,-121.71413,58,1
+Tri Delta Transit,37.99258,-121.71388,59,1
+Tri Delta Transit,37.9945,-121.71404,58,1
+Tri Delta Transit,37.99513,-121.7139,59,1
+Tri Delta Transit,37.99684,-121.71403,58,1
+Tri Delta Transit,37.99698,-121.71389,59,1
+Tri Delta Transit,37.99772,-121.71638,81,1
+Tri Delta Transit,37.99795,-121.71694,82,1
+Tri Delta Transit,37.99995,-121.73244,71,1
+Tri Delta Transit,37.99874,-121.73149,94,2
+Tri Delta Transit,37.99044,-121.78747,28,1
+Tri Delta Transit,37.98725,-121.79656,28,1
+Tri Delta Transit,37.98962,-121.79071,28,1
+Tri Delta Transit,37.98585,-121.79929,28,1
+Tri Delta Transit,37.98533,-121.80281,28,1
+Tri Delta Transit,37.97988,-121.81024,7,1
+Tri Delta Transit,37.98016,-121.81511,7,1
+Tri Delta Transit,37.98035,-121.82089,7,1
+Tri Delta Transit,37.99696,-121.79156,22,1
+Tri Delta Transit,37.99762,-121.79538,22,1
+Tri Delta Transit,37.99847,-121.79791,22,1
+Tri Delta Transit,38.0006,-121.79676,22,1
+Tri Delta Transit,38.0033,-121.79671,22,1
+Tri Delta Transit,38.00499,-121.7972,46,1
+Tri Delta Transit,38.00499,-121.8013,46,1
+Tri Delta Transit,38.00114,-121.78747,124,2
+Tri Delta Transit,38.00269,-121.78747,124,2
+Tri Delta Transit,38.00391,-121.78656,71,1
+Tri Delta Transit,38.00483,-121.78043,71,1
+Tri Delta Transit,38.00483,-121.77323,71,1
+Tri Delta Transit,38.00488,-121.76521,71,1
+Tri Delta Transit,38.00497,-121.75426,71,1
+Tri Delta Transit,38.00496,-121.75039,71,1
+Tri Delta Transit,38.00506,-121.74105,71,1
+Tri Delta Transit,38.02381,-121.87934,38,1
+Tri Delta Transit,38.02395,-121.8796,39,1
+Tri Delta Transit,38.01982,-121.87982,43,1
+Tri Delta Transit,38.02,-121.87985,43,1
+Tri Delta Transit,38.01933,-121.8812,38,1
+Tri Delta Transit,38.01923,-121.88153,39,1
+Tri Delta Transit,38.01788,-121.88175,38,1
+Tri Delta Transit,38.01799,-121.87456,43,1
+Tri Delta Transit,38.00407,-121.80591,57,1
+Tri Delta Transit,37.9827,-122.03393,19,1
+Tri Delta Transit,37.98254,-122.03405,20,1
+Tri Delta Transit,37.97477,-122.02902,39,1
+Tri Delta Transit,38.01451,-121.99861,20,1
+Tri Delta Transit,38.01477,-121.99854,19,1
+Tri Delta Transit,38.02429,-121.98303,29,1
+Tri Delta Transit,38.02482,-121.98345,48,1
+Tri Delta Transit,38.02508,-121.98356,20,1
+Tri Delta Transit,38.02498,-121.97679,29,1
+Tri Delta Transit,38.02487,-121.97414,46,1
+Tri Delta Transit,38.02768,-121.97429,17,1
+Tri Delta Transit,38.02856,-121.97315,17,1
+Tri Delta Transit,38.0297,-121.97899,20,1
+Tri Delta Transit,38.03001,-121.97888,48,1
+Tri Delta Transit,38.0339,-121.97788,77,1
+Tri Delta Transit,38.03368,-121.97895,20,1
+Tri Delta Transit,38.03393,-121.97442,48,1
+Tri Delta Transit,38.0335,-121.97263,17,1
+Tri Delta Transit,38.0341,-121.9689,20,1
+Tri Delta Transit,38.03637,-121.97604,17,1
+Tri Delta Transit,38.03636,-121.96911,17,1
+Tri Delta Transit,38.03409,-121.96603,20,1
+Tri Delta Transit,38.03396,-121.96572,65,1
+Tri Delta Transit,38.03878,-121.96903,17,1
+Tri Delta Transit,38.03911,-121.97087,17,1
+Tri Delta Transit,38.03986,-121.976,17,1
+Tri Delta Transit,38.03408,-121.96109,20,1
+Tri Delta Transit,38.03369,-121.96059,65,1
+Tri Delta Transit,38.03173,-121.95858,20,1
+Tri Delta Transit,38.03163,-121.95817,65,1
+Tri Delta Transit,38.03176,-121.9555,20,1
+Tri Delta Transit,38.03159,-121.95546,65,1
+Tri Delta Transit,38.03029,-121.95385,65,1
+Tri Delta Transit,38.02979,-121.95366,20,1
+Tri Delta Transit,38.02814,-121.95445,20,1
+Tri Delta Transit,38.02747,-121.95458,65,1
+Tri Delta Transit,38.02668,-121.95417,65,1
+Tri Delta Transit,38.02668,-121.95187,65,1
+Tri Delta Transit,38.02687,-121.95156,66,1
+Tri Delta Transit,38.02685,-121.94658,66,1
+Tri Delta Transit,38.02667,-121.94581,65,1
+Tri Delta Transit,38.02687,-121.95789,46,1
+Tri Delta Transit,38.02011,-121.96587,10,1
+Tri Delta Transit,38.02459,-121.96646,46,1
+Tri Delta Transit,38.02541,-121.96209,46,1
+Tri Delta Transit,38.02291,-121.9219,28,1
+Tri Delta Transit,38.02263,-121.92131,25,1
+Tri Delta Transit,37.99746,-121.79507,21,1
+Tri Delta Transit,37.99684,-121.79145,21,1
+Tri Delta Transit,38.02958,-121.91304,41,1
+Tri Delta Transit,38.02943,-121.91056,43,1
+Tri Delta Transit,38.02937,-121.89805,43,1
+Tri Delta Transit,38.02954,-121.89719,41,1
+Tri Delta Transit,38.02952,-121.89384,41,1
+Tri Delta Transit,38.02936,-121.89382,43,1
+Tri Delta Transit,38.0293,-121.89047,41,1
+Tri Delta Transit,38.03663,-121.88443,118,2
+Tri Delta Transit,38.03599,-121.8842,118,2
+Tri Delta Transit,38.03451,-121.88419,118,2
+Tri Delta Transit,38.03422,-121.88408,118,2
+Tri Delta Transit,38.03278,-121.8799,17,1
+Tri Delta Transit,38.03229,-121.87878,17,1
+Tri Delta Transit,38.01849,-122.13911,20,1
+Tri Delta Transit,38.00564,-122.13112,10,1
+Tri Delta Transit,38.00497,-122.13096,10,1
+Tri Delta Transit,37.99245,-122.13064,10,1
+Tri Delta Transit,37.99225,-122.13084,10,1
+Tri Delta Transit,37.99412,-122.11444,20,1
+Tri Delta Transit,37.99469,-122.11001,10,1
+Tri Delta Transit,37.99458,-122.10983,10,1
+Tri Delta Transit,37.99453,-122.07885,10,1
+Tri Delta Transit,37.99447,-122.07906,10,1
+Tri Delta Transit,38.01928,-121.96507,10,1
+Tri Delta Transit,38.01805,-121.95596,10,1
+Tri Delta Transit,38.01749,-121.95441,10,1
+Tri Delta Transit,38.0062,-121.8933,59,1
+Tri Delta Transit,38.00569,-121.89374,58,1
+Tri Delta Transit,38.00309,-121.8945,59,1
+Tri Delta Transit,38.00194,-121.89518,58,1
+Tri Delta Transit,38.00005,-121.89569,59,1
+Tri Delta Transit,37.99926,-121.89627,58,1
+Tri Delta Transit,37.99804,-121.88768,59,1
+Tri Delta Transit,37.9979,-121.88663,58,1
+Tri Delta Transit,37.99806,-121.88344,59,1
+Tri Delta Transit,37.99789,-121.88202,58,1
+Tri Delta Transit,37.99805,-121.88062,59,1
+Tri Delta Transit,37.99789,-121.87796,58,1
+Tri Delta Transit,38.02991,-121.88577,67,1
+Tri Delta Transit,38.02971,-121.88594,67,1
+Tri Delta Transit,37.93954,-121.72399,13,1
+Tri Delta Transit,37.9403,-121.7232,11,1
+Tri Delta Transit,38.0268,-121.95429,66,1
+Tri Delta Transit,38.03862,-121.88515,152,2
+Tri Delta Transit,37.96784,-121.71391,12,1
+Tri Delta Transit,37.93384,-121.69876,211,2
+Tri Delta Transit,37.9974,-121.82238,34,1
+Tri Delta Transit,38.01759,-121.94532,415,3
+Tri Delta Transit,38.00611,-121.85406,131,2
+Tri Delta Transit,38.00577,-121.79668,29,1
+Tri Delta Transit,38.00915,-121.7968,28,1
+Tri Delta Transit,38.00917,-121.79658,29,1
+Tri Delta Transit,38.01176,-121.79678,29,1
+Tri Delta Transit,38.01165,-121.79697,28,1
+Tri Delta Transit,37.92227,-121.75279,4,1
+Tri Delta Transit,37.9188,-121.7561,4,1
+Tri Delta Transit,37.98511,-121.80317,30,1
+Tri Delta Transit,37.98611,-121.79841,30,1
+Tri Delta Transit,37.98721,-121.79563,30,1
+Tri Delta Transit,37.98953,-121.79047,30,1
+Tri Delta Transit,37.99025,-121.78736,30,1
+Tri Delta Transit,38.00364,-121.73268,71,1
+Tri Delta Transit,38.01236,-121.79525,13,1
+Tri Delta Transit,38.01213,-121.7961,12,1
+Tri Delta Transit,37.92516,-121.75183,4,1
+Tri Delta Transit,37.92517,-121.74575,4,1
+Tri Delta Transit,37.92517,-121.74124,4,1
+Tri Delta Transit,37.9434,-121.73712,24,1
+Tri Delta Transit,37.94346,-121.7344,13,1
+Tri Delta Transit,37.9435,-121.72644,13,1
+Tri Delta Transit,37.94353,-121.72373,13,1
+Tri Delta Transit,37.92833,-121.69597,71,1
+Tri Delta Transit,37.92662,-121.69634,70,1
+Tri Delta Transit,37.9254,-121.69423,59,1
+Tri Delta Transit,37.92567,-121.69466,58,1
+Tri Delta Transit,37.93301,-121.72347,11,1
+Tri Delta Transit,37.94418,-121.72428,11,1
+Tri Delta Transit,37.9437,-121.7324,11,1
+Tri Delta Transit,37.94374,-121.73829,46,1
+Tri Delta Transit,37.92544,-121.73943,4,1
+Tri Delta Transit,37.92431,-121.73669,24,1
+Tri Delta Transit,38.00481,-121.79622,54,1
+Tri Delta Transit,38.00479,-121.79342,54,1
+Tri Delta Transit,38.00503,-121.79225,53,1
+Tri Delta Transit,38.00507,-121.76506,71,1
+Tri Delta Transit,37.95751,-121.77944,21,1
+Tri Delta Transit,37.95762,-121.77914,22,1
+Tri Delta Transit,37.95971,-121.7861,21,1
+Tri Delta Transit,37.96007,-121.78635,22,1
+Tri Delta Transit,37.96139,-121.78999,21,1
+Tri Delta Transit,37.96158,-121.7898,22,1
+Tri Delta Transit,37.95993,-121.79503,21,1
+Tri Delta Transit,37.9623,-121.79758,21,1
+Tri Delta Transit,37.9625,-121.79733,22,1
+Tri Delta Transit,37.96742,-121.79694,21,1
+Tri Delta Transit,37.96746,-121.79666,22,1
+Tri Delta Transit,37.96973,-121.79668,22,1
+Tri Delta Transit,37.97057,-121.79696,21,1
+Tri Delta Transit,37.92559,-121.70598,11,1
+Tri Delta Transit,37.92535,-121.7044,13,1
+Tri Delta Transit,37.92551,-121.71437,11,1
+Tri Delta Transit,37.92528,-121.71429,13,1
+Tri Delta Transit,37.9255,-121.71907,11,1
+Tri Delta Transit,37.92521,-121.72118,13,1
+Tri Delta Transit,37.96011,-121.79477,22,1
+Tri Delta Transit,37.98153,-121.76604,70,1
+Tri Delta Transit,38.02651,-121.87866,17,1
+Tri Delta Transit,37.9962,-121.78828,22,1
+Tri Delta Transit,37.96601,-121.77443,122,2
+Tri Delta Transit,37.9321,-121.72376,13,1
+Tri Delta Transit,38.03402,-121.97623,37,1
+Tri Delta Transit,38.03397,-121.96854,65,1
+Tri Delta Transit,37.96065,-121.73264,35,1
+Tri Delta Transit,37.94761,-121.73549,11,1
+Tri Delta Transit,37.94736,-121.73552,35,1
+Tri Delta Transit,38.02632,-121.92389,25,1
+Tri Delta Transit,38.02635,-121.92383,28,1
+Tri Delta Transit,37.99557,-121.77814,549,4
+Tri Delta Transit,38.00527,-121.87215,67,1
+Tri Delta Transit,38.00528,-121.87185,65,1
+Tri Delta Transit,38.0189,-121.88851,172,2
+Tri Delta Transit,38.01709,-122.13848,10,1
+Tri Delta Transit,38.01662,-122.13948,10,1
+Tri Delta Transit,37.94979,-121.70749,25,1
+Tri Delta Transit,37.96174,-121.71899,11,1
+Tri Delta Transit,37.96144,-121.71842,13,1
+Tri Delta Transit,37.95418,-121.71398,12,1
+Tri Delta Transit,37.95387,-121.7136,13,1
+Tri Delta Transit,38.0182,-121.88917,170,2
+Tri Delta Transit,38.01487,-121.88621,203,2
+Tri Delta Transit,38.02905,-121.88468,34,1
+Tri Delta Transit,38.03205,-121.88364,34,1
+Tri Delta Transit,38.02904,-121.88487,34,1
+Tri Delta Transit,38.03191,-121.88373,34,1
+Tri Delta Transit,38.00145,-121.84494,33,1
+WestCat (Western Contra Costa),37.99979,-122.2869,65,1
+WestCat (Western Contra Costa),38.00577,-122.31179,68,1
+WestCat (Western Contra Costa),38.02004,-122.2863,0,0
+WestCat (Western Contra Costa),38.00778,-122.26976,17,1
+WestCat (Western Contra Costa),38.00058,-122.26218,17,1
+WestCat (Western Contra Costa),38.00553,-122.26495,17,1
+WestCat (Western Contra Costa),38.01866,-122.25633,32,1
+WestCat (Western Contra Costa),38.0256,-122.2466,16,1
+WestCat (Western Contra Costa),38.01915,-122.25618,16,1
+WestCat (Western Contra Costa),38.02211,-122.27247,18,1
+WestCat (Western Contra Costa),38.02285,-122.27625,29,1
+WestCat (Western Contra Costa),37.99095,-122.3058,63,1
+WestCat (Western Contra Costa),37.99156,-122.30286,63,1
+WestCat (Western Contra Costa),37.99528,-122.30135,27,1
+WestCat (Western Contra Costa),38.00175,-122.297,27,1
+WestCat (Western Contra Costa),37.99205,-122.28558,27,1
+WestCat (Western Contra Costa),37.98527,-122.27979,54,1
+WestCat (Western Contra Costa),37.98357,-122.25118,27,1
+WestCat (Western Contra Costa),37.98147,-122.26696,27,1
+WestCat (Western Contra Costa),37.99188,-122.28514,27,1
+WestCat (Western Contra Costa),38.0008,-122.28667,66,1
+WestCat (Western Contra Costa),38.00452,-122.29238,99,1
+WestCat (Western Contra Costa),38.00156,-122.29712,27,1
+WestCat (Western Contra Costa),37.99891,-122.29553,27,1
+WestCat (Western Contra Costa),38.00454,-122.29191,100,1
+WestCat (Western Contra Costa),37.99175,-122.30384,63,1
+WestCat (Western Contra Costa),37.99746,-122.3011,9,1
+WestCat (Western Contra Costa),38.00325,-122.31649,18,1
+WestCat (Western Contra Costa),38.00548,-122.32175,9,1
+WestCat (Western Contra Costa),38.00436,-122.30529,9,1
+WestCat (Western Contra Costa),37.99626,-122.30218,9,1
+WestCat (Western Contra Costa),37.97953,-122.32948,141,2
+WestCat (Western Contra Costa),38.00725,-122.28829,110,1
+WestCat (Western Contra Costa),38.00435,-122.29711,72,1
+WestCat (Western Contra Costa),38.005,-122.3057,81,1
+WestCat (Western Contra Costa),38.00274,-122.31631,72,1
+WestCat (Western Contra Costa),37.99955,-122.32305,72,1
+WestCat (Western Contra Costa),37.99544,-122.32779,81,1
+WestCat (Western Contra Costa),37.99382,-122.32964,81,1
+WestCat (Western Contra Costa),37.99367,-122.3292,81,1
+WestCat (Western Contra Costa),37.99538,-122.32747,81,1
+WestCat (Western Contra Costa),37.99935,-122.32269,91,1
+WestCat (Western Contra Costa),38.00439,-122.30466,73,1
+WestCat (Western Contra Costa),38.00724,-122.28788,112,2
+WestCat (Western Contra Costa),38.02959,-122.26613,37,1
+WestCat (Western Contra Costa),38.02373,-122.26334,133,2
+WestCat (Western Contra Costa),38.02831,-122.272,47,1
+WestCat (Western Contra Costa),38.02303,-122.27646,38,1
+WestCat (Western Contra Costa),37.92478,-122.31696,194,2
+WestCat (Western Contra Costa),37.99006,-122.32892,47,1
+WestCat (Western Contra Costa),38.0025,-122.31621,73,1
+WestCat (Western Contra Costa),37.99245,-122.28556,0,0
+WestCat (Western Contra Costa),38.01025,-122.28225,112,2
+WestCat (Western Contra Costa),38.01857,-122.2585,45,1
+WestCat (Western Contra Costa),37.98977,-122.32891,46,1
+WestCat (Western Contra Costa),37.99414,-122.11445,15,1
+WestCat (Western Contra Costa),38.00497,-122.13095,15,1
+WestCat (Western Contra Costa),38.01943,-122.13516,15,1
+WestCat (Western Contra Costa),38.01898,-122.13947,30,1
+WestCat (Western Contra Costa),37.9996,-122.25161,17,1
+WestCat (Western Contra Costa),38.00578,-122.27506,17,1
+WestCat (Western Contra Costa),37.99656,-122.27494,17,1
+WestCat (Western Contra Costa),37.99405,-122.26302,17,1
+WestCat (Western Contra Costa),37.99676,-122.26289,17,1
+WestCat (Western Contra Costa),38.00783,-122.26914,17,1
+WestCat (Western Contra Costa),37.99155,-122.23394,17,1
+WestCat (Western Contra Costa),37.99476,-122.23644,17,1
+WestCat (Western Contra Costa),37.99953,-122.23893,34,1
+WestCat (Western Contra Costa),38.00198,-122.24444,17,1
+WestCat (Western Contra Costa),38.00949,-122.26869,17,1
+WestCat (Western Contra Costa),38.00636,-122.25189,17,1
+WestCat (Western Contra Costa),37.99553,-122.30141,27,1
+WestCat (Western Contra Costa),38.00292,-122.2891,65,1
+WestCat (Western Contra Costa),37.99114,-122.30622,63,1
+WestCat (Western Contra Costa),37.98818,-122.31139,63,1
+WestCat (Western Contra Costa),37.97909,-122.3322,24,1
+WestCat (Western Contra Costa),37.97819,-122.32992,0,0
+WestCat (Western Contra Costa),37.97859,-122.32593,16,1
+WestCat (Western Contra Costa),37.9851,-122.31903,92,1
+WestCat (Western Contra Costa),38.00295,-122.28891,66,1
+WestCat (Western Contra Costa),38.03585,-122.26763,37,1
+WestCat (Western Contra Costa),38.04627,-122.25764,37,1
+WestCat (Western Contra Costa),38.04859,-122.24786,37,1
+WestCat (Western Contra Costa),38.05487,-122.2309,37,1
+WestCat (Western Contra Costa),38.05572,-122.22011,37,1
+WestCat (Western Contra Costa),38.0551,-122.23069,37,1
+WestCat (Western Contra Costa),38.04871,-122.2481,37,1
+WestCat (Western Contra Costa),38.04638,-122.25795,37,1
+WestCat (Western Contra Costa),38.03482,-122.26769,37,1
+WestCat (Western Contra Costa),38.02105,-122.27174,37,1
+WestCat (Western Contra Costa),38.00429,-122.29545,99,1
+WestCat (Western Contra Costa),38.00435,-122.30167,72,1
+WestCat (Western Contra Costa),38.00524,-122.30812,81,1
+WestCat (Western Contra Costa),38.00396,-122.31359,81,1
+WestCat (Western Contra Costa),37.9919,-122.33131,81,1
+WestCat (Western Contra Costa),38.0044,-122.31152,73,1
+WestCat (Western Contra Costa),38.00413,-122.30187,73,1
+WestCat (Western Contra Costa),38.00397,-122.29424,73,1
+WestCat (Western Contra Costa),38.01788,-122.27432,15,1
+WestCat (Western Contra Costa),38.02182,-122.27259,15,1
+WestCat (Western Contra Costa),38.0229,-122.26931,16,1
+WestCat (Western Contra Costa),37.98837,-122.31064,52,1
+WestCat (Western Contra Costa),37.99656,-122.24766,17,1
+WestCat (Western Contra Costa),37.99549,-122.24398,17,1
+WestCat (Western Contra Costa),37.99451,-122.24141,17,1
+WestCat (Western Contra Costa),37.99377,-122.23752,17,1
+WestCat (Western Contra Costa),37.99333,-122.23502,17,1
+WestCat (Western Contra Costa),37.99313,-122.2305,17,1
+WestCat (Western Contra Costa),37.99384,-122.23356,17,1
+WestCat (Western Contra Costa),37.998,-122.23765,17,1
+WestCat (Western Contra Costa),38.00074,-122.23788,17,1
+WestCat (Western Contra Costa),37.99982,-122.24112,17,1
+WestCat (Western Contra Costa),38.00665,-122.2426,17,1
+WestCat (Western Contra Costa),38.00845,-122.24842,17,1
+WestCat (Western Contra Costa),38.00735,-122.2558,17,1
+WestCat (Western Contra Costa),38.00863,-122.26287,17,1
+WestCat (Western Contra Costa),38.00954,-122.26613,17,1
+WestCat (Western Contra Costa),38.00876,-122.27219,17,1
+WestCat (Western Contra Costa),38.00792,-122.27422,17,1
+WestCat (Western Contra Costa),38.00424,-122.27588,17,1
+WestCat (Western Contra Costa),38.00227,-122.27785,17,1
+WestCat (Western Contra Costa),37.99994,-122.27689,17,1
+WestCat (Western Contra Costa),37.99601,-122.26997,17,1
+WestCat (Western Contra Costa),37.99454,-122.26054,17,1
+WestCat (Western Contra Costa),37.99915,-122.26499,17,1
+WestCat (Western Contra Costa),38.00033,-122.26445,17,1
+WestCat (Western Contra Costa),37.99919,-122.2582,17,1
+WestCat (Western Contra Costa),37.99804,-122.25626,17,1
+WestCat (Western Contra Costa),37.99663,-122.25204,17,1
+WestCat (Western Contra Costa),37.9965,-122.24848,17,1
+WestCat (Western Contra Costa),37.99861,-122.24927,17,1
+WestCat (Western Contra Costa),38.00149,-122.25522,17,1
+WestCat (Western Contra Costa),37.98263,-122.32277,92,1
+WestCat (Western Contra Costa),37.99657,-122.31675,9,1
+WestCat (Western Contra Costa),37.99317,-122.32064,9,1
+WestCat (Western Contra Costa),37.99347,-122.32366,9,1
+WestCat (Western Contra Costa),37.98236,-122.333,33,1
+WestCat (Western Contra Costa),37.98474,-122.31899,78,1
+WestCat (Western Contra Costa),38.0016,-122.29964,9,1
+WestCat (Western Contra Costa),38.0016,-122.30569,9,1
+WestCat (Western Contra Costa),38.00484,-122.31846,9,1
+WestCat (Western Contra Costa),38.00713,-122.3191,9,1
+WestCat (Western Contra Costa),38.00843,-122.31406,9,1
+WestCat (Western Contra Costa),38.00816,-122.31174,9,1
+WestCat (Western Contra Costa),38.00496,-122.30767,82,1
+WestCat (Western Contra Costa),38.00138,-122.30439,9,1
+WestCat (Western Contra Costa),37.99632,-122.29712,27,1
+WestCat (Western Contra Costa),37.99679,-122.29527,27,1
+WestCat (Western Contra Costa),38.02594,-122.25449,16,1
+WestCat (Western Contra Costa),38.00409,-122.2981,100,1
+WestCat (Western Contra Costa),38.02317,-122.25012,16,1
+WestCat (Western Contra Costa),38.02105,-122.25103,16,1
+WestCat (Western Contra Costa),38.01849,-122.25417,16,1
+WestCat (Western Contra Costa),38.01877,-122.25823,53,1
+WestCat (Western Contra Costa),37.98734,-122.28397,27,1
+WestCat (Western Contra Costa),37.98546,-122.27773,27,1
+WestCat (Western Contra Costa),37.98572,-122.27527,27,1
+WestCat (Western Contra Costa),37.98625,-122.2672,27,1
+WestCat (Western Contra Costa),37.98248,-122.26601,27,1
+WestCat (Western Contra Costa),37.98051,-122.26383,27,1
+WestCat (Western Contra Costa),37.98324,-122.25835,27,1
+WestCat (Western Contra Costa),37.98269,-122.25318,27,1
+WestCat (Western Contra Costa),37.98358,-122.25806,27,1
+WestCat (Western Contra Costa),37.98216,-122.26034,27,1
+WestCat (Western Contra Costa),37.9814,-122.27321,27,1
+WestCat (Western Contra Costa),37.98496,-122.28077,27,1
+WestCat (Western Contra Costa),37.98798,-122.28441,27,1
+WestCat (Western Contra Costa),37.99523,-122.2855,27,1
+WestCat (Western Contra Costa),37.99614,-122.29931,27,1
+WestCat (Western Contra Costa),38.02132,-122.2561,16,1
+WestCat (Western Contra Costa),37.99467,-122.1185,15,1
+WestCat (Western Contra Costa),38.02373,-122.25692,16,1
+WestCat (Western Contra Costa),37.999,-122.29493,27,1
+WestCat (Western Contra Costa),38.02691,-122.25014,16,1
+WestCat (Western Contra Costa),37.99239,-122.13058,15,1
+WestCat (Western Contra Costa),37.99584,-122.13225,15,1
+WestCat (Western Contra Costa),37.99999,-122.13176,15,1
+WestCat (Western Contra Costa),38.00726,-122.13052,15,1
+WestCat (Western Contra Costa),38.01633,-122.13801,15,1
+WestCat (Western Contra Costa),38.01178,-122.13508,15,1
+WestCat (Western Contra Costa),38.00582,-122.13118,15,1
+WestCat (Western Contra Costa),38.00087,-122.13195,15,1
+WestCat (Western Contra Costa),37.99737,-122.13249,15,1
+WestCat (Western Contra Costa),37.99539,-122.13218,15,1
+WestCat (Western Contra Costa),37.98746,-122.33241,24,1
+WestCat (Western Contra Costa),37.98741,-122.33223,24,1
+WestCat (Western Contra Costa),37.98488,-122.33287,24,1
+WestCat (Western Contra Costa),37.98928,-122.32236,23,1
+WestCat (Western Contra Costa),37.98885,-122.32197,22,1
+WestCat (Western Contra Costa),38.02714,-122.26564,61,1
+WestCat (Western Contra Costa),38.02143,-122.26133,61,1
+WestCat (Western Contra Costa),37.9955,-122.28581,27,1
+WestCat (Western Contra Costa),37.98307,-122.33344,32,1
+WestCat (Western Contra Costa),38.02301,-122.26986,55,1
+WestCat (Western Contra Costa),38.0056,-122.31027,9,1
+WestCat (Western Contra Costa),37.99647,-122.29742,27,1
+WestCat (Western Contra Costa),38.00179,-122.30095,9,1
+WestCat (Western Contra Costa),37.99677,-122.29561,27,1
+WestCat (Western Contra Costa),37.98305,-122.32223,94,1
+WestCat (Western Contra Costa),37.99484,-122.11877,15,1
+WestCat (Western Contra Costa),38.01266,-122.13447,15,1
+WestCat (Western Contra Costa),38.02054,-122.27587,18,1
+WestCat (Western Contra Costa),37.9978,-122.24373,17,1
+WestCat (Western Contra Costa),37.99603,-122.24554,17,1
+WestCat (Western Contra Costa),37.99678,-122.24747,17,1
+WestCat (Western Contra Costa),37.99236,-122.13092,15,1
+WestCat (Western Contra Costa),38.00168,-122.29914,27,1
+WestCat (Western Contra Costa),38.0018,-122.29913,27,1
+WestCat (Western Contra Costa),38.02033,-122.27524,15,1
+WestCat (Western Contra Costa),38.0128,-122.2662,620,4
+WestCat (Western Contra Costa),38.03281,-122.26697,37,1
+WestCat (Western Contra Costa),38.03986,-122.26362,37,1
+WestCat (Western Contra Costa),38.05239,-122.22073,74,1
+WestCat (Western Contra Costa),38.05245,-122.22539,37,1
+WestCat (Western Contra Costa),38.04004,-122.26381,37,1
+WestCat (Western Contra Costa),38.03313,-122.26724,37,1
+WestCat (Western Contra Costa),38.02994,-122.26649,37,1
+WestCat (Western Contra Costa),37.97094,-122.34062,52,1
+WestCat (Western Contra Costa),38.05362,-122.22361,37,1
+WestCat (Western Contra Costa),37.98634,-122.31657,163,2
+WestCat (Western Contra Costa),38.01267,-122.27414,96,1
+WestCat (Western Contra Costa),38.00997,-122.28374,110,1
+WestCat (Western Contra Costa),38.01239,-122.27843,95,1
+Golden Gate Transit,37.92446,-122.31653,57,2
+Golden Gate Transit,37.9253,-122.33793,57,2
+Golden Gate Transit,37.92515,-122.33622,57,2
+Golden Gate Transit,37.92532,-122.35989,57,2
+Golden Gate Transit,37.92511,-122.3598,57,2
+Golden Gate Transit,37.92508,-122.34747,57,2
+Golden Gate Transit,37.92529,-122.34757,57,2
+Golden Gate Transit,37.92538,-122.32339,57,2
+Golden Gate Transit,37.92557,-122.32324,57,2
+Golden Gate Transit,37.92469,-122.31671,58,2
+Golden Gate Transit,37.9278,-122.38398,57,2
+Golden Gate Transit,37.92793,-122.38397,57,2
+AC Transit,37.92957,-122.30046,74,1
+AC Transit,37.92951,-122.30005,73,1
+AC Transit,37.93003,-122.30644,82,1
+AC Transit,37.93804,-122.30806,1,1
+AC Transit,37.93483,-122.30768,1,1
+AC Transit,37.93465,-122.30775,6,1
+AC Transit,37.92235,-122.29249,93,1
+AC Transit,37.92754,-122.29629,82,1
+AC Transit,37.92224,-122.29264,82,1
+AC Transit,37.92522,-122.29422,82,1
+AC Transit,37.93247,-122.30955,83,1
+AC Transit,37.93256,-122.30939,99,1
+AC Transit,37.93641,-122.30724,1,1
+AC Transit,37.92092,-122.28887,82,1
+AC Transit,37.92104,-122.28908,93,1
+AC Transit,37.92168,-122.29126,73,1
+AC Transit,37.91709,-122.28437,82,1
+AC Transit,37.91953,-122.28673,93,1
+AC Transit,37.91955,-122.28691,82,1
+AC Transit,37.92958,-122.30483,82,1
+AC Transit,37.92975,-122.30458,93,1
+AC Transit,37.9256,-122.29435,93,1
+AC Transit,37.9305,-122.30654,93,1
+AC Transit,37.90481,-122.29428,4,1
+AC Transit,37.90495,-122.29446,4,1
+AC Transit,37.90824,-122.29575,28,1
+AC Transit,37.90842,-122.29617,5,1
+AC Transit,37.91034,-122.29898,5,1
+AC Transit,37.91062,-122.29917,22,1
+AC Transit,37.93595,-122.30895,93,1
+AC Transit,37.93482,-122.308,82,1
+AC Transit,37.93503,-122.308,93,1
+AC Transit,37.93634,-122.3118,82,1
+AC Transit,37.93645,-122.31191,93,1
+AC Transit,37.93663,-122.31621,74,1
+AC Transit,37.93642,-122.31652,73,1
+AC Transit,37.93495,-122.31977,82,1
+AC Transit,37.93598,-122.30932,82,1
+AC Transit,37.93639,-122.31447,93,1
+AC Transit,37.9363,-122.31474,82,1
+AC Transit,37.93554,-122.3195,93,1
+AC Transit,37.93617,-122.31758,93,1
+AC Transit,37.936,-122.31787,82,1
+AC Transit,37.90218,-122.30462,69,1
+AC Transit,37.90203,-122.3048,2,1
+AC Transit,37.90193,-122.305,157,1
+AC Transit,37.90234,-122.30311,433,2
+AC Transit,37.90232,-122.30293,435,2
+AC Transit,37.90175,-122.30533,171,1
+AC Transit,37.903,-122.28867,102,1
+AC Transit,37.90389,-122.29077,102,1
+AC Transit,37.90087,-122.28841,94,1
+AC Transit,37.93174,-122.31106,1,1
+AC Transit,37.92924,-122.31197,1,1
+AC Transit,37.93149,-122.31106,6,1
+AC Transit,37.92807,-122.31281,6,1
+AC Transit,37.92528,-122.31969,137,1
+AC Transit,37.92554,-122.31927,147,1
+AC Transit,37.9272,-122.31339,1,1
+AC Transit,37.92932,-122.31162,6,1
+AC Transit,37.92113,-122.31734,10,1
+AC Transit,37.92298,-122.31762,2,1
+AC Transit,37.92283,-122.31735,10,1
+AC Transit,37.90235,-122.29887,291,2
+AC Transit,37.90315,-122.29932,8,1
+AC Transit,37.90289,-122.29901,118,1
+AC Transit,37.90254,-122.29871,187,1
+AC Transit,37.90232,-122.2986,232,2
+AC Transit,37.92638,-122.31353,6,1
+AC Transit,37.90289,-122.29536,97,1
+AC Transit,37.90318,-122.29399,106,1
+AC Transit,37.90326,-122.29416,111,1
+AC Transit,37.90273,-122.29546,98,1
+AC Transit,37.90412,-122.29141,107,1
+AC Transit,37.90212,-122.29785,97,1
+AC Transit,37.90063,-122.3022,4,1
+AC Transit,37.90057,-122.30301,10,1
+AC Transit,37.90236,-122.29664,98,1
+AC Transit,37.92466,-122.31469,7,1
+AC Transit,37.91446,-122.30129,10,1
+AC Transit,37.92386,-122.30672,6,1
+AC Transit,37.92395,-122.30697,1,1
+AC Transit,37.91816,-122.30107,10,1
+AC Transit,37.91631,-122.29981,10,1
+AC Transit,37.92103,-122.31997,2,1
+AC Transit,37.92088,-122.31961,10,1
+AC Transit,37.9173,-122.30755,10,1
+AC Transit,37.89935,-122.30187,419,2
+AC Transit,37.89858,-122.30181,423,2
+AC Transit,37.90234,-122.30355,30,1
+AC Transit,37.92979,-122.32143,346,2
+AC Transit,37.92504,-122.31803,461,2
+AC Transit,37.92502,-122.31844,14,1
+AC Transit,37.9002,-122.30255,262,2
+AC Transit,37.92291,-122.31691,264,2
+AC Transit,37.9292,-122.32134,337,2
+AC Transit,37.91721,-122.31287,264,2
+AC Transit,37.90424,-122.30415,286,2
+AC Transit,37.91568,-122.31144,304,2
+AC Transit,37.91186,-122.30882,456,2
+AC Transit,37.9212,-122.31533,465,2
+AC Transit,37.92016,-122.31494,435,2
+AC Transit,37.91391,-122.31021,277,2
+AC Transit,37.92762,-122.32022,337,2
+AC Transit,37.92782,-122.32004,346,2
+AC Transit,37.92107,-122.30397,10,1
+AC Transit,37.92097,-122.30403,1,1
+AC Transit,37.91951,-122.30286,10,1
+AC Transit,37.91963,-122.30309,1,1
+AC Transit,37.91799,-122.30193,1,1
+AC Transit,37.92174,-122.29111,74,1
+AC Transit,37.91107,-122.30862,433,2
+AC Transit,37.91605,-122.29977,11,1
+AC Transit,37.90377,-122.30424,272,2
+AC Transit,37.91462,-122.30125,8,1
+AC Transit,37.91431,-122.30192,3,1
+AC Transit,37.8182,-122.18026,104,1
+AC Transit,37.98643,-122.2986,67,1
+AC Transit,37.99094,-122.30599,146,1
+AC Transit,37.99115,-122.30625,57,1
+AC Transit,37.99157,-122.30283,101,1
+AC Transit,37.99175,-122.30385,57,1
+AC Transit,37.98818,-122.31137,57,1
+AC Transit,37.98834,-122.3107,101,1
+AC Transit,37.94623,-122.35729,116,1
+AC Transit,37.94614,-122.35752,115,1
+AC Transit,37.949,-122.35734,115,1
+AC Transit,37.95009,-122.35705,59,1
+AC Transit,37.9349,-122.34867,188,1
+AC Transit,37.93979,-122.34863,148,1
+AC Transit,37.95237,-122.3473,86,1
+AC Transit,37.94815,-122.34733,86,1
+AC Transit,37.9428,-122.34738,144,1
+AC Transit,37.94395,-122.34761,142,1
+AC Transit,37.94464,-122.34737,143,1
+AC Transit,37.94784,-122.34755,86,1
+AC Transit,37.94655,-122.34736,86,1
+AC Transit,37.9461,-122.34759,86,1
+AC Transit,37.93793,-122.34743,87,1
+AC Transit,37.94969,-122.34732,86,1
+AC Transit,37.95004,-122.34754,87,1
+AC Transit,37.93989,-122.34742,144,1
+AC Transit,37.95001,-122.3389,56,1
+AC Transit,37.95016,-122.33876,57,1
+AC Transit,37.95122,-122.33877,57,1
+AC Transit,37.95144,-122.3389,56,1
+AC Transit,37.93786,-122.3638,135,1
+AC Transit,37.93656,-122.36383,135,1
+AC Transit,37.93712,-122.36367,138,1
+AC Transit,37.93823,-122.36334,138,1
+AC Transit,37.94847,-122.36467,138,1
+AC Transit,37.94839,-122.36497,135,1
+AC Transit,37.94627,-122.3628,135,1
+AC Transit,37.94604,-122.36266,138,1
+AC Transit,37.9443,-122.36256,138,1
+AC Transit,37.94456,-122.36282,135,1
+AC Transit,37.93987,-122.36285,135,1
+AC Transit,37.9429,-122.36255,138,1
+AC Transit,37.94271,-122.36269,135,1
+AC Transit,37.94011,-122.36266,138,1
+AC Transit,37.97424,-122.34155,90,1
+AC Transit,37.97476,-122.34162,96,1
+AC Transit,37.97446,-122.33926,90,1
+AC Transit,37.97456,-122.33913,96,1
+AC Transit,37.99477,-122.34133,59,1
+AC Transit,37.99456,-122.34144,104,1
+AC Transit,37.98831,-122.35567,163,1
+AC Transit,37.93851,-122.35701,59,1
+AC Transit,37.93831,-122.35938,59,1
+AC Transit,37.93572,-122.32337,73,1
+AC Transit,37.93831,-122.35651,59,1
+AC Transit,37.9357,-122.32406,93,1
+AC Transit,37.93517,-122.32178,93,1
+AC Transit,37.935,-122.32175,82,1
+AC Transit,37.93533,-122.32468,82,1
+AC Transit,37.97237,-122.33414,90,1
+AC Transit,37.97194,-122.33353,96,1
+AC Transit,37.97317,-122.33517,96,1
+AC Transit,37.97469,-122.33668,96,1
+AC Transit,37.97364,-122.33611,90,1
+AC Transit,37.97138,-122.33301,90,1
+AC Transit,37.91254,-122.32017,69,1
+AC Transit,37.91233,-122.32023,61,1
+AC Transit,37.92987,-122.34462,59,1
+AC Transit,37.9301,-122.3446,59,1
+AC Transit,37.90535,-122.30707,61,1
+AC Transit,37.90528,-122.30673,69,1
+AC Transit,37.92551,-122.33831,59,1
+AC Transit,37.92537,-122.33848,59,1
+AC Transit,37.91142,-122.31847,61,1
+AC Transit,37.9116,-122.31836,69,1
+AC Transit,37.9092,-122.31316,61,1
+AC Transit,37.92823,-122.3424,59,1
+AC Transit,37.92873,-122.3427,59,1
+AC Transit,37.92267,-122.33479,59,1
+AC Transit,37.92261,-122.33434,59,1
+AC Transit,37.91777,-122.32794,69,1
+AC Transit,37.90411,-122.30623,61,1
+AC Transit,37.90429,-122.30606,69,1
+AC Transit,37.91019,-122.31612,61,1
+AC Transit,37.90945,-122.31224,69,1
+AC Transit,37.9139,-122.32276,69,1
+AC Transit,37.91354,-122.32258,61,1
+AC Transit,37.90891,-122.30936,69,1
+AC Transit,37.90891,-122.30977,61,1
+AC Transit,37.91028,-122.31582,69,1
+AC Transit,37.9014,-122.30745,144,1
+AC Transit,37.90152,-122.30755,147,1
+AC Transit,37.90108,-122.30941,144,1
+AC Transit,37.92532,-122.33784,150,1
+AC Transit,37.9251,-122.35321,93,1
+AC Transit,37.9253,-122.3529,111,1
+AC Transit,37.92529,-122.35069,111,1
+AC Transit,37.9251,-122.35055,93,1
+AC Transit,37.92532,-122.34741,150,1
+AC Transit,37.92509,-122.34727,138,1
+AC Transit,37.92532,-122.34452,150,1
+AC Transit,37.92508,-122.34484,138,1
+AC Transit,37.92507,-122.33965,138,1
+AC Transit,37.92517,-122.33622,138,1
+AC Transit,37.92541,-122.33554,150,1
+AC Transit,37.92527,-122.33377,137,1
+AC Transit,37.92548,-122.33369,147,1
+AC Transit,37.92558,-122.33111,147,1
+AC Transit,37.92538,-122.33083,137,1
+AC Transit,37.92542,-122.32735,137,1
+AC Transit,37.9256,-122.32702,147,1
+AC Transit,37.9254,-122.32322,137,1
+AC Transit,37.92558,-122.32322,147,1
+AC Transit,37.92512,-122.35955,93,1
+AC Transit,37.92532,-122.3594,111,1
+AC Transit,37.9253,-122.35625,111,1
+AC Transit,37.9251,-122.3555,93,1
+AC Transit,37.92531,-122.34015,150,1
+AC Transit,37.96582,-122.32013,70,1
+AC Transit,37.98234,-122.31434,4,1
+AC Transit,37.95452,-122.36702,135,1
+AC Transit,37.95461,-122.36689,138,1
+AC Transit,37.95257,-122.36689,138,1
+AC Transit,37.95247,-122.36701,135,1
+AC Transit,37.92988,-122.37962,112,1
+AC Transit,37.9437,-122.34727,6,1
+AC Transit,37.94358,-122.34328,1,1
+AC Transit,37.9437,-122.34306,6,1
+AC Transit,37.9436,-122.34108,1,1
+AC Transit,37.94371,-122.34082,6,1
+AC Transit,37.9436,-122.33839,1,1
+AC Transit,37.9437,-122.33808,6,1
+AC Transit,37.9437,-122.33633,6,1
+AC Transit,37.9436,-122.33664,1,1
+AC Transit,37.9437,-122.33459,6,1
+AC Transit,37.94361,-122.33488,1,1
+AC Transit,37.9437,-122.33274,6,1
+AC Transit,37.9436,-122.33268,1,1
+AC Transit,37.94361,-122.33109,1,1
+AC Transit,37.9437,-122.33086,6,1
+AC Transit,37.97446,-122.32587,108,1
+AC Transit,37.97457,-122.32598,101,1
+AC Transit,37.97494,-122.32312,101,1
+AC Transit,37.97481,-122.32298,108,1
+AC Transit,37.91414,-122.35582,84,1
+AC Transit,37.9388,-122.3599,59,1
+AC Transit,37.93386,-122.36011,93,1
+AC Transit,37.93526,-122.36009,93,1
+AC Transit,37.94201,-122.35989,59,1
+AC Transit,37.94218,-122.36004,59,1
+AC Transit,37.94017,-122.36007,59,1
+AC Transit,37.93986,-122.35992,59,1
+AC Transit,37.93132,-122.36014,93,1
+AC Transit,37.91615,-122.32451,61,1
+AC Transit,37.91615,-122.32426,69,1
+AC Transit,37.91499,-122.32331,61,1
+AC Transit,37.91519,-122.32324,69,1
+AC Transit,37.91691,-122.32657,61,1
+AC Transit,37.917,-122.32682,69,1
+AC Transit,37.97637,-122.31966,23,1
+AC Transit,37.97672,-122.32051,13,1
+AC Transit,37.98237,-122.33391,22,1
+AC Transit,37.983,-122.33345,10,1
+AC Transit,37.97689,-122.30827,3,1
+AC Transit,37.97612,-122.3172,13,1
+AC Transit,37.97645,-122.31301,3,1
+AC Transit,37.97624,-122.31401,1,1
+AC Transit,37.97648,-122.31101,3,1
+AC Transit,37.97945,-122.32964,377,2
+AC Transit,37.97963,-122.32951,97,1
+AC Transit,37.98491,-122.35668,163,1
+AC Transit,37.98623,-122.35658,163,1
+AC Transit,37.98298,-122.31944,45,1
+AC Transit,37.97897,-122.34097,4,1
+AC Transit,37.97343,-122.3418,90,1
+AC Transit,37.97351,-122.34192,96,1
+AC Transit,37.97516,-122.33805,96,1
+AC Transit,37.97509,-122.33788,90,1
+AC Transit,37.93578,-122.36857,115,1
+AC Transit,37.93563,-122.36843,118,1
+AC Transit,37.93565,-122.3499,441,2
+AC Transit,37.93582,-122.34945,429,2
+AC Transit,37.93563,-122.34784,147,1
+AC Transit,37.93581,-122.34789,337,2
+AC Transit,37.93552,-122.34535,155,1
+AC Transit,37.93537,-122.34558,147,1
+AC Transit,37.93493,-122.34257,147,1
+AC Transit,37.93479,-122.34025,155,1
+AC Transit,37.93452,-122.33965,147,1
+AC Transit,37.93447,-122.338,155,1
+AC Transit,37.93422,-122.33757,147,1
+AC Transit,37.93344,-122.33208,147,1
+AC Transit,37.93297,-122.32963,147,1
+AC Transit,37.93281,-122.32785,147,1
+AC Transit,37.93579,-122.36553,115,1
+AC Transit,37.93562,-122.36259,253,2
+AC Transit,37.93579,-122.36267,253,2
+AC Transit,37.93527,-122.3436,155,1
+AC Transit,37.9323,-122.32401,147,1
+AC Transit,37.93255,-122.32448,155,1
+AC Transit,37.92027,-122.34732,84,1
+AC Transit,37.92009,-122.34682,84,1
+AC Transit,37.917,-122.34476,84,1
+AC Transit,37.93694,-122.35631,115,1
+AC Transit,37.96934,-122.29152,61,1
+AC Transit,37.96977,-122.29133,3,1
+AC Transit,37.97197,-122.28888,3,1
+AC Transit,37.96825,-122.29516,3,1
+AC Transit,37.94833,-122.3269,1,1
+AC Transit,37.94819,-122.32804,6,1
+AC Transit,37.94924,-122.32381,1,1
+AC Transit,37.98449,-122.3526,163,1
+AC Transit,37.97259,-122.32604,101,1
+AC Transit,37.97277,-122.326,108,1
+AC Transit,37.96781,-122.32841,101,1
+AC Transit,37.9679,-122.32849,108,1
+AC Transit,37.97379,-122.32422,108,1
+AC Transit,37.97375,-122.32403,101,1
+AC Transit,37.96665,-122.3319,101,1
+AC Transit,37.96674,-122.33192,108,1
+AC Transit,37.96932,-122.32658,101,1
+AC Transit,37.96963,-122.32657,108,1
+AC Transit,37.97691,-122.31385,4,1
+AC Transit,37.9767,-122.3135,14,1
+AC Transit,37.98023,-122.30924,4,1
+AC Transit,37.98031,-122.30942,4,1
+AC Transit,37.98115,-122.312,4,1
+AC Transit,37.98035,-122.31545,4,1
+AC Transit,37.98038,-122.31319,4,1
+AC Transit,37.98794,-122.35303,163,1
+AC Transit,37.90081,-122.30961,22,1
+AC Transit,37.90067,-122.30968,157,1
+AC Transit,37.89832,-122.30915,157,1
+AC Transit,37.89835,-122.30903,166,1
+AC Transit,37.99662,-122.34856,104,1
+AC Transit,37.99673,-122.34958,59,1
+AC Transit,37.92135,-122.33198,59,1
+AC Transit,37.92152,-122.33267,59,1
+AC Transit,37.92125,-122.32934,59,1
+AC Transit,37.92139,-122.32906,59,1
+AC Transit,37.92131,-122.32712,59,1
+AC Transit,37.92117,-122.32747,59,1
+AC Transit,37.92116,-122.32323,2,1
+AC Transit,37.92103,-122.32372,10,1
+AC Transit,37.91593,-122.34703,84,1
+AC Transit,37.91744,-122.35358,84,1
+AC Transit,37.9161,-122.34731,84,1
+AC Transit,37.94953,-122.35025,57,1
+AC Transit,37.94964,-122.35003,56,1
+AC Transit,37.94991,-122.34723,56,1
+AC Transit,37.94979,-122.34708,57,1
+AC Transit,37.94991,-122.34526,56,1
+AC Transit,37.94979,-122.34546,57,1
+AC Transit,37.94991,-122.34303,56,1
+AC Transit,37.9498,-122.3433,57,1
+AC Transit,37.94991,-122.34084,56,1
+AC Transit,37.9498,-122.3411,57,1
+AC Transit,37.98613,-122.31664,113,1
+AC Transit,37.98598,-122.31676,77,1
+AC Transit,37.98583,-122.31687,118,1
+AC Transit,37.9887,-122.32193,114,1
+AC Transit,37.98934,-122.32241,81,1
+AC Transit,37.99008,-122.32902,81,1
+AC Transit,37.98989,-122.32825,114,1
+AC Transit,37.92494,-122.34756,84,1
+AC Transit,37.92418,-122.34782,84,1
+AC Transit,37.92955,-122.34754,123,1
+AC Transit,37.92923,-122.34777,129,1
+AC Transit,37.91981,-122.32641,69,1
+AC Transit,37.91977,-122.3266,61,1
+AC Transit,37.92099,-122.32549,69,1
+AC Transit,37.92088,-122.32577,61,1
+AC Transit,37.92922,-122.37991,117,1
+AC Transit,37.93432,-122.35989,111,1
+AC Transit,37.92821,-122.36015,93,1
+AC Transit,37.93144,-122.35994,111,1
+AC Transit,37.9356,-122.32537,116,1
+AC Transit,37.93575,-122.32511,118,1
+AC Transit,37.91575,-122.31184,274,2
+AC Transit,37.94054,-122.3277,116,1
+AC Transit,37.94034,-122.32731,118,1
+AC Transit,37.94382,-122.32924,6,1
+AC Transit,37.94404,-122.32908,307,2
+AC Transit,37.93737,-122.32593,118,1
+AC Transit,37.93702,-122.32608,116,1
+AC Transit,37.93308,-122.32411,361,2
+AC Transit,37.93272,-122.32351,379,2
+AC Transit,37.947,-122.3305,119,1
+AC Transit,37.94738,-122.33095,116,1
+AC Transit,37.91448,-122.31095,262,2
+AC Transit,37.90804,-122.30655,272,2
+AC Transit,37.9728,-122.33074,96,1
+AC Transit,37.97298,-122.33032,90,1
+AC Transit,37.97136,-122.33264,96,1
+AC Transit,37.97511,-122.32867,204,1
+AC Transit,37.97513,-122.32853,191,1
+AC Transit,37.97774,-122.32875,221,1
+AC Transit,37.92887,-122.38679,229,2
+AC Transit,37.92788,-122.38407,117,1
+AC Transit,37.92801,-122.38406,112,1
+AC Transit,37.9724,-122.28868,11,1
+AC Transit,37.97173,-122.28842,65,1
+AC Transit,37.97074,-122.28762,10,1
+AC Transit,37.93578,-122.37143,115,1
+AC Transit,37.93562,-122.37106,118,1
+AC Transit,37.93562,-122.37245,118,1
+AC Transit,37.99317,-122.35452,163,1
+AC Transit,37.98336,-122.35416,163,1
+AC Transit,37.98348,-122.35647,163,1
+AC Transit,37.94335,-122.32903,287,2
+AC Transit,37.98685,-122.33863,10,1
+AC Transit,37.98647,-122.33737,22,1
+AC Transit,37.95729,-122.2685,7,1
+AC Transit,37.96245,-122.25198,7,1
+AC Transit,37.96482,-122.25114,7,1
+AC Transit,37.96671,-122.25104,7,1
+AC Transit,37.96827,-122.25337,7,1
+AC Transit,37.96734,-122.25647,7,1
+AC Transit,37.95767,-122.26834,7,1
+AC Transit,37.95677,-122.26967,7,1
+AC Transit,37.97578,-122.31655,23,1
+AC Transit,37.96348,-122.25574,7,1
+AC Transit,37.9329,-122.3381,4,1
+AC Transit,37.96656,-122.29718,3,1
+AC Transit,37.94358,-122.34705,1,1
+AC Transit,37.92517,-122.38336,117,1
+AC Transit,37.93335,-122.33025,155,1
+AC Transit,37.93303,-122.32803,155,1
+AC Transit,37.95633,-122.36708,135,1
+AC Transit,37.91722,-122.35277,84,1
+AC Transit,37.90998,-122.3591,168,1
+AC Transit,37.91714,-122.35605,84,1
+AC Transit,37.9172,-122.35582,84,1
+AC Transit,37.92551,-122.38341,112,1
+AC Transit,37.91382,-122.35651,84,1
+AC Transit,37.93578,-122.35657,342,2
+AC Transit,37.93579,-122.35937,253,2
+AC Transit,37.93561,-122.35775,360,2
+AC Transit,37.93566,-122.35585,360,2
+AC Transit,37.93603,-122.35612,116,1
+AC Transit,37.97602,-122.35147,59,1
+AC Transit,37.97682,-122.35109,108,1
+AC Transit,37.95584,-122.34745,87,1
+AC Transit,37.95833,-122.34694,86,1
+AC Transit,37.95878,-122.34703,87,1
+AC Transit,37.95489,-122.34725,86,1
+AC Transit,37.96175,-122.34564,86,1
+AC Transit,37.9749,-122.35152,108,1
+AC Transit,37.97454,-122.35134,59,1
+AC Transit,37.97315,-122.34995,59,1
+AC Transit,37.97098,-122.3478,59,1
+AC Transit,37.97132,-122.34794,108,1
+AC Transit,37.96924,-122.34606,59,1
+AC Transit,37.96945,-122.34612,108,1
+AC Transit,37.9734,-122.34995,108,1
+AC Transit,37.95753,-122.34156,89,1
+AC Transit,37.96255,-122.33645,101,1
+AC Transit,37.96256,-122.33626,122,1
+AC Transit,37.95756,-122.34121,89,1
+AC Transit,37.95847,-122.34064,89,1
+AC Transit,37.95912,-122.33975,122,1
+AC Transit,37.96102,-122.33745,91,1
+AC Transit,37.96105,-122.33713,95,1
+AC Transit,37.95629,-122.34244,89,1
+AC Transit,37.95993,-122.33878,95,1
+AC Transit,37.95965,-122.33938,101,1
+AC Transit,37.96879,-122.3429,363,2
+AC Transit,37.97091,-122.34041,53,1
+AC Transit,37.97104,-122.34035,63,1
+AC Transit,37.97099,-122.34015,86,1
+AC Transit,37.97085,-122.34025,89,1
+AC Transit,37.9707,-122.34039,59,1
+AC Transit,37.97085,-122.33993,118,1
+AC Transit,37.97108,-122.33988,438,2
+AC Transit,37.97125,-122.33988,201,1
+AC Transit,37.9714,-122.34005,59,1
+AC Transit,37.96988,-122.34289,96,1
+AC Transit,37.97155,-122.34229,96,1
+AC Transit,37.96574,-122.33878,174,1
+AC Transit,37.96676,-122.34313,174,1
+AC Transit,37.96656,-122.34323,163,1
+AC Transit,37.95401,-122.33337,62,1
+AC Transit,37.97898,-122.35088,59,1
+AC Transit,37.97927,-122.35256,59,1
+AC Transit,37.95843,-122.35489,89,1
+AC Transit,37.95839,-122.35407,89,1
+AC Transit,37.95803,-122.35307,89,1
+AC Transit,37.95771,-122.35096,89,1
+AC Transit,37.95688,-122.34716,89,1
+AC Transit,37.95671,-122.34699,89,1
+AC Transit,37.95621,-122.34407,89,1
+AC Transit,37.95889,-122.3571,134,1
+AC Transit,37.95875,-122.35637,89,1
+AC Transit,37.94892,-122.3256,6,1
+AC Transit,37.95062,-122.32287,6,1
+AC Transit,37.94937,-122.32409,6,1
+AC Transit,37.96887,-122.3421,791,3
+AC Transit,37.9677,-122.34313,252,2
+AC Transit,37.96688,-122.35025,104,1
+AC Transit,37.96651,-122.35062,99,1
+AC Transit,37.9677,-122.34742,99,1
+AC Transit,37.96781,-122.3477,104,1
+AC Transit,37.96366,-122.35484,99,1
+AC Transit,37.96338,-122.35525,104,1
+AC Transit,37.95588,-122.35675,59,1
+AC Transit,37.96065,-122.35637,99,1
+AC Transit,37.95411,-122.35685,59,1
+AC Transit,37.96178,-122.3561,104,1
+AC Transit,37.95915,-122.35655,99,1
+AC Transit,37.95865,-122.35681,59,1
+AC Transit,37.95517,-122.35703,59,1
+AC Transit,37.95155,-122.35697,59,1
+AC Transit,37.95151,-122.3572,59,1
+AC Transit,37.96501,-122.35385,99,1
+AC Transit,37.96498,-122.35424,104,1
+AC Transit,37.95765,-122.33849,151,1
+AC Transit,37.95765,-122.33887,128,1
+AC Transit,37.9613,-122.34389,116,1
+AC Transit,37.96235,-122.34493,118,1
+AC Transit,37.95851,-122.33969,118,1
+AC Transit,37.9667,-122.34428,454,2
+AC Transit,37.95118,-122.3325,145,1
+AC Transit,37.94977,-122.33181,118,1
+AC Transit,37.95003,-122.33225,116,1
+AC Transit,37.97182,-122.34309,90,1
+AC Transit,37.96416,-122.34521,293,2
+AC Transit,37.96871,-122.34399,202,1
+AC Transit,37.95348,-122.33386,126,1
+AC Transit,37.95247,-122.33312,306,2
+AC Transit,37.9658,-122.34496,453,2
+AC Transit,37.95146,-122.3329,287,2
+AC Transit,37.95591,-122.33606,312,2
+AC Transit,37.96015,-122.34239,277,2
+AC Transit,37.96079,-122.34287,279,2
+AC Transit,37.95378,-122.33182,59,1
+AC Transit,37.97839,-122.35096,104,1
+AC Transit,37.97921,-122.34531,4,1
+AC Transit,37.9787,-122.35294,104,1
+AC Transit,37.97804,-122.34787,4,1
+AC Transit,37.95343,-122.33803,57,1
+AC Transit,37.95346,-122.33824,56,1
+AC Transit,37.95516,-122.33539,346,2
+AC Transit,37.96236,-122.32588,69,1
+AC Transit,37.96286,-122.32541,89,1
+AC Transit,37.96555,-122.34021,163,1
+AC Transit,37.95532,-122.33615,56,1
+AC Transit,37.9564,-122.36685,138,1
+AC Transit,37.95854,-122.36685,138,1
+AC Transit,37.95754,-122.36706,135,1
+AC Transit,37.96763,-122.30896,57,1
+AC Transit,37.9725,-122.30348,57,1
+AC Transit,37.97251,-122.30377,56,1
+AC Transit,37.97596,-122.29767,57,1
+AC Transit,37.9858,-122.29811,69,1
+AC Transit,37.97371,-122.30138,57,1
+AC Transit,37.9767,-122.29647,56,1
+AC Transit,37.96772,-122.30911,56,1
+AC Transit,37.9713,-122.30559,56,1
+AC Transit,37.97366,-122.30178,56,1
+AC Transit,37.97962,-122.29655,64,1
+AC Transit,37.97618,-122.29768,56,1
+AC Transit,37.96986,-122.30745,56,1
+AC Transit,37.96949,-122.30748,57,1
+AC Transit,37.97748,-122.2951,57,1
+AC Transit,37.90506,-122.2785,93,1
+AC Transit,37.90368,-122.27825,82,1
+AC Transit,37.91538,-122.28284,74,1
+AC Transit,37.91709,-122.28421,93,1
+AC Transit,37.91314,-122.28132,93,1
+AC Transit,37.90698,-122.2795,82,1
+AC Transit,37.9158,-122.28317,73,1
+AC Transit,37.91277,-122.28141,82,1
+AC Transit,37.90786,-122.2802,73,1
+AC Transit,37.90818,-122.28022,74,1
+AC Transit,37.90734,-122.27942,93,1
+AC Transit,37.91047,-122.28016,93,1
+AC Transit,37.91065,-122.28025,82,1
+AC Transit,37.94556,-122.31589,6,1
+AC Transit,37.94417,-122.3152,6,1
+AC Transit,37.93857,-122.30821,6,1
+AC Transit,37.9499,-122.32092,1,1
+AC Transit,37.94996,-122.32075,6,1
+AC Transit,37.94097,-122.31168,6,1
+AC Transit,37.94102,-122.31213,1,1
+AC Transit,37.94027,-122.31012,6,1
+AC Transit,37.94009,-122.31011,1,1
+AC Transit,37.94442,-122.31562,1,1
+AC Transit,37.94621,-122.31855,1,1
+AC Transit,37.94648,-122.31895,6,1
+AC Transit,37.94272,-122.31381,6,1
+AC Transit,37.94294,-122.31423,1,1
+AC Transit,37.90712,-122.27018,28,1
+AC Transit,37.90888,-122.26469,44,1
+AC Transit,37.90623,-122.2637,44,1
+AC Transit,37.9552,-122.27092,1,1
+AC Transit,37.95528,-122.27111,126,1
+AC Transit,37.89975,-122.25578,44,1
+AC Transit,37.90287,-122.28852,107,1
+AC Transit,37.90098,-122.28829,93,1
+AC Transit,37.89948,-122.28673,107,1
+AC Transit,37.89964,-122.28742,102,1
+AC Transit,37.96569,-122.32034,87,1
+AC Transit,37.96558,-122.33263,108,1
+AC Transit,37.96489,-122.32609,60,1
+AC Transit,37.96487,-122.32619,60,1
+AC Transit,37.97681,-122.30831,1,1
+AC Transit,37.98313,-122.30289,1,1
+AC Transit,37.98297,-122.30296,3,1
+AC Transit,37.98188,-122.30295,3,1
+AC Transit,37.98167,-122.30288,1,1
+AC Transit,37.97907,-122.30424,1,1
+AC Transit,37.97908,-122.30435,3,1
+AC Transit,37.97629,-122.31121,1,1
+AC Transit,37.9871,-122.30815,20,1
+AC Transit,37.90917,-122.27541,28,1
+AC Transit,37.98259,-122.29741,3,1
+AC Transit,37.98244,-122.29733,1,1
+AC Transit,37.95876,-122.36499,135,1
+AC Transit,37.95864,-122.36491,138,1
+AC Transit,37.95876,-122.36231,135,1
+AC Transit,37.95864,-122.36256,138,1
+AC Transit,37.96761,-122.29612,61,1
+AC Transit,37.96545,-122.29661,61,1
+AC Transit,37.95107,-122.32178,1,1
+AC Transit,37.95017,-122.32277,1,1
+AC Transit,37.96,-122.28107,66,1
+AC Transit,37.95754,-122.27306,66,1
+AC Transit,37.95695,-122.27145,1,1
+AC Transit,37.95829,-122.27492,66,1
+AC Transit,37.95871,-122.2786,66,1
+AC Transit,37.95959,-122.28005,1,1
+AC Transit,37.90685,-122.27177,28,1
+AC Transit,37.90895,-122.27296,28,1
+AC Transit,37.96649,-122.32818,60,1
+AC Transit,37.96546,-122.33239,60,1
+AC Transit,37.96538,-122.33273,161,1
+AC Transit,37.96659,-122.32838,60,1
+AC Transit,37.96411,-122.33614,168,1
+AC Transit,37.96398,-122.33608,161,1
+AC Transit,37.9654,-122.31255,122,1
+AC Transit,37.96652,-122.30634,66,1
+AC Transit,37.96499,-122.29839,1,1
+AC Transit,37.96308,-122.2886,66,1
+AC Transit,37.96296,-122.28881,1,1
+AC Transit,37.96627,-122.30988,122,1
+AC Transit,37.96595,-122.31013,62,1
+AC Transit,37.96533,-122.31207,119,1
+AC Transit,37.9558,-122.27742,1,1
+AC Transit,37.95588,-122.27714,66,1
+AC Transit,37.96621,-122.30133,62,1
+AC Transit,37.96617,-122.30073,66,1
+AC Transit,37.96349,-122.29326,66,1
+AC Transit,37.96453,-122.31744,122,1
+AC Transit,37.96413,-122.31794,119,1
+AC Transit,37.96376,-122.29534,66,1
+AC Transit,37.96364,-122.29565,1,1
+AC Transit,37.96494,-122.31494,122,1
+AC Transit,37.96471,-122.31495,119,1
+AC Transit,37.95421,-122.27524,1,1
+AC Transit,37.95702,-122.27862,66,1
+AC Transit,37.95705,-122.27898,1,1
+AC Transit,37.96656,-122.3055,62,1
+AC Transit,37.95471,-122.27565,66,1
+AC Transit,37.96327,-122.29182,1,1
+AC Transit,37.9583,-122.28061,1,1
+AC Transit,37.96506,-122.2981,66,1
+AC Transit,37.95984,-122.28293,1,1
+AC Transit,37.96048,-122.28366,66,1
+AC Transit,37.90666,-122.27461,28,1
+AC Transit,37.96157,-122.28138,66,1
+AC Transit,37.96609,-122.2823,1,1
+AC Transit,37.96539,-122.28215,66,1
+AC Transit,37.9631,-122.28171,66,1
+AC Transit,37.96324,-122.28159,1,1
+AC Transit,37.96715,-122.28429,66,1
+AC Transit,37.96703,-122.28359,1,1
+AC Transit,37.8934,-122.24564,88,1
+AC Transit,37.9808,-122.2969,68,1
+AC Transit,37.95834,-122.27469,1,1
+AC Transit,37.97129,-122.30532,57,1
+AC Transit,37.90804,-122.30621,286,2
+AC Transit,37.91877,-122.31362,274,2
+AC Transit,37.90563,-122.30513,262,2
+AC Transit,37.97276,-122.34936,108,1
+AC Transit,37.93561,-122.36534,118,1
+AC Transit,37.90786,-122.30875,61,1
+AC Transit,37.90773,-122.30834,69,1
+AC Transit,37.96049,-122.34644,87,1
+AC Transit,37.95476,-122.34745,87,1
+AC Transit,37.92926,-122.299,82,1
+AC Transit,37.92778,-122.29634,93,1
+AC Transit,37.92933,-122.29882,93,1
+AC Transit,37.96323,-122.34139,89,1
+AC Transit,37.96317,-122.33848,89,1
+AC Transit,37.96334,-122.33958,89,1
+AC Transit,37.96339,-122.34143,89,1
+AC Transit,37.96996,-122.28755,63,1
+AC Transit,37.96863,-122.28682,15,1
+AC Transit,37.92877,-122.05531,3,1
+AC Transit,37.92001,-122.30678,14,1
+AC Transit,37.91632,-122.34451,84,1
+AC Transit,37.9359,-122.35376,113,1
+AC Transit,37.93592,-122.35343,59,1
+AC Transit,37.93595,-122.35323,228,2
+AC Transit,37.93634,-122.3534,114,1
+AC Transit,37.93652,-122.35357,204,1
+AC Transit,37.93638,-122.35366,220,1
+AC Transit,37.93619,-122.35366,59,1
+AC Transit,37.90287,-122.2992,227,2
+AC Transit,37.90315,-122.29947,14,1
+AC Transit,37.93837,-122.35215,57,1
+AC Transit,37.93856,-122.35136,56,1
+AC Transit,37.94594,-122.34991,56,1
+AC Transit,37.94604,-122.34992,57,1
+AC Transit,37.94604,-122.35234,57,1
+AC Transit,37.94593,-122.3535,56,1
+AC Transit,37.93707,-122.34865,92,1
+AC Transit,38.01781,-121.94537,4,1
+AC Transit,37.94918,-122.35711,57,1
+AC Transit,37.92827,-122.35997,111,1
+AC Transit,37.93369,-122.33383,147,1
+AC Transit,37.92622,-122.31697,416,2
+AC Transit,37.92607,-122.31724,423,2
+AC Transit,37.93391,-122.33399,155,1
+AC Transit,37.95656,-122.34723,86,1
+AC Transit,37.9252,-122.31858,0,0
+AC Transit,37.90246,-122.29879,0,0
+AC Transit,37.97101,-122.34014,0,0
+AC Transit,37.98834,-122.3107,0,0
+AC Transit,37.97605,-122.3168,0,0
+AC Transit,38.01781,-121.94537,0,0
+Bay Area Rapid Transit,37.87848,-122.18367,232,1
+Bay Area Rapid Transit,37.89318,-122.12462,232,1
+Bay Area Rapid Transit,37.90579,-122.06733,231,1
+Bay Area Rapid Transit,37.92843,-122.05597,231,1
+Bay Area Rapid Transit,37.97376,-122.02907,224,1
+Bay Area Rapid Transit,38.00338,-122.02451,223,1
+Bay Area Rapid Transit,38.01891,-121.94424,223,1
+Bay Area Rapid Transit,38.01685,-121.88906,223,1
+Bay Area Rapid Transit,37.99537,-121.78035,223,1
+Bay Area Rapid Transit,37.90261,-122.29892,346,1
+Bay Area Rapid Transit,37.92518,-122.31689,346,1
+Bay Area Rapid Transit,37.93676,-122.35305,346,1
+Bay Area Rapid Transit,37.87848,-122.18367,0,0
+Bay Area Rapid Transit,37.89318,-122.12462,0,0
+Bay Area Rapid Transit,37.90579,-122.06733,0,0
+Bay Area Rapid Transit,37.92843,-122.05597,0,0
+Bay Area Rapid Transit,37.97376,-122.02907,0,0
+Bay Area Rapid Transit,38.00338,-122.02451,0,0
+Bay Area Rapid Transit,38.01891,-121.94424,0,0
+Bay Area Rapid Transit,38.01685,-121.88906,0,0
+Bay Area Rapid Transit,37.99537,-121.78035,0,0
+Bay Area Rapid Transit,37.90261,-122.29892,0,0
+Bay Area Rapid Transit,37.92518,-122.31689,0,0
+Bay Area Rapid Transit,37.93676,-122.35305,0,0
+Bay Area Rapid Transit,37.97349,-122.02894,0,0
+Bay Area Rapid Transit,37.97358,-122.02951,0,0
+Bay Area Rapid Transit,38.01824,-121.94534,0,0
+Bay Area Rapid Transit,37.92532,-122.31702,0,0
+Bay Area Rapid Transit,37.92498,-122.31675,0,0

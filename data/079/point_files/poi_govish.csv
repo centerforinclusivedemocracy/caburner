@@ -1,0 +1,65 @@
+,osm_id,code,fclass,name,lon,lat
+0,368170563,2007,library,San Miguel Branch San Luis Obispo City-County Library,-120.69823,35.75136
+1,4087123374,2005,post_office,US Post Office,-120.69683,35.74977
+2,358848745,2005,post_office,Atascadero Post Office,-120.66989,35.48997
+3,368170566,2007,library,Atascadero Branch San Luis Obispo City-County Library,-120.66628,35.48219
+4,368171731,2008,town_hall,Atascadero City Hall,-120.66717,35.48991
+5,993419706,2005,post_office,Canyon Post,-120.65944,35.3069
+6,2401965264,2002,fire_station,CAL FIRE / SLO County Fire Station 98,-120.64285,35.66948
+7,3512268402,2001,police,Cuesta College Police Department,-120.67075,35.6505
+8,5411029806,2002,fire_station,City of Atascadero Fire Department,-120.66874,35.49141
+9,5411050718,2001,police,Atascadero Police Department,-120.67239,35.49111
+10,5487016603,2002,fire_station,CAL FIRE / SLO County Fire North County Auto Shop,-120.64228,35.66974
+11,358849062,2005,post_office,Shell Beach Post Office,-120.67169,35.15734
+12,368170764,2007,library,Shell Beach Branch San Luis Obispo City-County Library,-120.66962,35.15465
+13,368171727,2008,town_hall,Pismo Beach City Hall,-120.64073,35.1447
+14,3513759578,2001,police,Pismo Beach Police Department,-120.64038,35.14425
+15,5258277166,2005,post_office,Mail Plus,-120.64078,35.1421
+16,358848726,2005,post_office,Templeton Post Office,-120.70072,35.55748
+17,368166856,2099,public_building,Templeton Community Services District Office,-120.70656,35.55025
+18,368170561,2007,library,Paso Robles Public Library,-120.69058,35.62537
+19,368171716,2008,town_hall,Paso Robles City Hall,-120.69113,35.62551
+20,1817015751,2005,post_office,,-120.68947,35.61985
+21,1830238312,2005,post_office,,-120.70088,35.55756
+22,1863518553,2001,police,Paso Robles Police Department,-120.68959,35.62437
+23,2407408558,2005,post_office,The UPS Store,-120.68264,35.61673
+24,3522971971,2001,police,California Highway Patrol,-120.71155,35.55576
+25,5258513907,2002,fire_station,Paso Robles Fire Department,-120.68943,35.6238
+26,5264126071,2009,courthouse,Superior Court,-120.69022,35.62431
+27,5794841043,2002,fire_station,,-120.7069,35.54999
+28,358823423,2005,post_office,Los Padres Post Office,-120.69962,35.32609
+29,4638291771,2002,fire_station,,-120.69004,35.25649
+30,358849109,2005,post_office,Nipomo Post Office,-120.47433,35.0422
+31,368170765,2007,library,Nipomo Branch San Luis Obispo City-County Library,-120.47963,35.04004
+32,2169543076,2005,post_office,Nipomo Post Office,-120.48963,35.03433
+33,4677366838,2007,library,Nipomo Regional Library,-120.49708,35.02892
+34,358848882,2005,post_office,Santa Margarita Post Office,-120.60819,35.39166
+35,358848999,2005,post_office,US Post Office,-120.61989,35.12167
+36,358849006,2005,post_office,Halcyon Post Office,-120.59176,35.10315
+37,368170763,2007,library,South County Branch San Luis Obispo City-County Library,-120.5897,35.12445
+38,368170773,2007,library,Santa Margarita Branch San Luis Obispo City-County Library,-120.60834,35.38804
+39,368171728,2008,town_hall,Grover Beach City Hall,-120.62184,35.12081
+40,368171729,2008,town_hall,Arroyo Grande City Hall,-120.57623,35.1242
+41,1641530646,2007,library,,-120.61999,35.12294
+42,1641532882,2007,library,,-120.61235,35.1026
+43,2213390343,2001,police,Grover Beach Police Station,-120.62199,35.12071
+44,2213391736,2002,fire_station,Five Cities Fire Authority Station 2,-120.62248,35.12067
+45,3517586924,2002,fire_station,Five Cities Fire Authority Station 1,-120.57925,35.12131
+46,5794853597,2002,fire_station,,-120.60793,35.39125
+47,2196724293,2005,post_office,The UPS Store,-120.65609,35.28225
+48,358848849,2005,post_office,Morro Bay Post Office,-120.84733,35.36671
+49,358849036,2005,post_office,Avila Beach Post Office,-120.7334,35.18067
+50,368170772,2007,library,Morro Bay Branch San Luis Obispo City-County Library,-120.84601,35.3672
+51,2684053237,2005,post_office,,-120.82884,35.31013
+52,3512240650,2001,police,Cuesta College Police Department,-120.74148,35.33158
+53,3984716662,2005,post_office,Perry's Parcel & Gifts,-120.84233,35.36763
+54,368167529,2009,courthouse,San Luis Obispo County Courthouse,-120.66156,35.28247
+55,368170777,2007,library,San Luis Obispo County Law Library,-120.66087,35.28265
+56,368171730,2008,town_hall,San Luis Obispo City Hall,-120.66259,35.2828
+57,612451285,2008,town_hall,San Luis Obispo County Government Center,-120.66023,35.28219
+58,4919700738,2007,library,San Luis Obispo Library,-120.66217,35.28232
+59,4927197916,2009,courthouse,San Luis Obispo Superior Court,-120.66094,35.28274
+60,4929514987,2005,post_office,San Luis Obispo Post Office,-120.66109,35.27949
+61,358848794,2005,post_office,Cayucos Post Office,-120.90351,35.44997
+62,368170771,2007,library,Cayucos Branch San Luis Obispo City-County Library,-120.90629,35.44942
+63,1776778360,2005,post_office,The UPS Store,-120.64243,35.24925

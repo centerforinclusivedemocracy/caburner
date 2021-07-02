@@ -1,0 +1,146 @@
+osm_id,code,fclass,name,lon,lat
+358780894,2082,school,Blake Elementary School,-118.83676,35.70356
+358840138,2082,school,Agape Christian School,-119.23761,35.78356
+358840159,2082,school,Delano Head Start Center,-119.23844,35.76023
+4364218558,2501,supermarket,Boron Food Mart,-117.64908,34.99985
+4365631076,2402,motel,Boron Motel,-117.65264,34.99993
+358782770,2082,school,Cummings Valley School,-118.60231,35.10969
+358786348,2082,school,Indian School,-118.67065,35.04525
+358786823,2082,school,Keene School,-118.55509,35.21441
+358840320,2082,school,Highland High School,-118.93204,35.40051
+358840652,2082,school,Nueva Continuation High School,-118.90732,35.25857
+358840689,2082,school,Ruggenberg Training Center,-118.92954,35.36801
+1521659587,2303,cafe,Starbucks,-118.91464,35.3536
+1659685806,2501,supermarket,County Fair Market,-118.91378,35.26035
+358786739,2082,school,Joshua Middle School,-118.18952,35.04914
+358840882,2082,school,Mojave Senior High School,-118.16657,35.05155
+358840883,2082,school,Mountain View High School,-118.19397,35.05997
+358780128,2082,school,Bailey Avenue Elementary School,-117.94007,34.92748
+358781053,2082,school,Irving L Branch Elementary School,-117.94535,34.92859
+358783026,2082,school,Desert High School,-117.94312,34.92442
+358784180,2082,school,Forbes Avenue Elementary School,-117.94618,34.92664
+4391287189,2303,cafe,Celsius 30,-117.98102,35.12746
+340904636,2402,motel,Vagabond Inn,-119.40196,35.40372
+358780096,2082,school,Aztec School,-118.98371,35.43885
+358780156,2082,school,Bakersfield Junior Academy,-118.95538,35.3919
+358781721,2082,school,Castro Lane School,-119.0326,35.3444
+358782336,2082,school,College Heights School,-118.97149,35.39524
+358782427,2082,school,Compton Junior High School,-118.95093,35.38996
+358783505,2082,school,Henry Eissler Elementary School,-118.93843,35.39996
+358783649,2082,school,Elk Hill Elementary School,-119.35484,35.29774
+358783703,2082,school,Emerson Junior High School,-119.01079,35.36032
+358785124,2082,school,Greenfield Junior High School,-119.0151,35.30968
+358785442,2082,school,Harding Elementary School,-118.95315,35.38996
+358786585,2082,school,Jefferson Elementary School,-118.98649,35.38746
+358786911,2082,school,Kern Junior Academy,-119.2965,35.48496
+358787611,2082,school,Lerdo Primary School,-119.17431,35.49911
+358787823,2082,school,Vista East Continuation School,-118.99204,35.37135
+358788562,2082,school,Maple Elementary School,-119.33567,35.51413
+358788911,2082,school,McKinley Elementary School,-119.00899,35.35996
+358790559,2082,school,Peter Pan School,-119.00816,35.36135
+358790765,2082,school,Pond Elementary School,-119.31206,35.71745
+358792821,2082,school,South High School,-119.01399,35.32413
+358794701,2082,school,Wildwood School,-119.44067,35.45635
+358809236,2082,school,Fruitdale School,-119.08242,35.38276
+358818890,2082,school,Old River School,-119.10927,35.26468
+358840042,2082,school,Independence High School,-119.334,35.58551
+358840106,2082,school,Kern Avenue Elementary School,-119.2315,35.67857
+358840110,2082,school,McFarland Middle School,-119.23205,35.6794
+358840129,2082,school,McFarland High School,-119.23094,35.67357
+358840132,2082,school,San Joaquin High School,-119.23289,35.67107
+358840202,2082,school,Centennial Elementary School,-119.14598,35.38731
+358840235,2082,school,Saint Johns School,-119.33845,35.59107
+358840251,2082,school,Apostolic Christian Academy,-119.114,35.38371
+358840255,2082,school,Bakersfield Christian Life School,-119.05928,35.41268
+358840262,2082,school,Fruitdale Junior High School,-119.10899,35.37913
+358840265,2082,school,Greenacres School,-119.10925,35.37882
+358840276,2082,school,Olive Drive Elementary School,-119.08205,35.41301
+358840280,2082,school,Phoenix Learning Center,-119.0251,35.38135
+358840296,2082,school,Vista West Continuation High School,-119.08233,35.38275
+358840351,2082,school,Charles H Castle Elementary School,-119.06816,35.32552
+358840366,2082,school,O J Aetis Junior High School,-119.06594,35.33052
+358840374,2082,school,Saint Johns School,-119.06066,35.34607
+358840375,2082,school,Sing Lum Elementary School,-119.10649,35.31663
+358840380,2082,school,Tevis Junior High School,-119.10233,35.31829
+358840425,2082,school,Heritage Academy,-118.96713,35.38984
+358840454,2082,school,Our Lady of Perpetual Help School,-118.99871,35.39801
+358840477,2082,school,W A Kendrick School,-119.02705,35.30663
+358840481,2082,school,Bakersfield Adult School,-119.0226,35.36913
+358840484,2082,school,Bakersfield High School,-119.02399,35.3694
+358840521,2082,school,Vista High School,-119.00955,35.35774
+358858284,2082,school,Santa Barbara Business College,-119.06125,35.35952
+358858287,2082,school,San Joaquin Valley College - Bakersfield,-119.062,35.35273
+944733704,2402,motel,Motel 6,-119.04432,35.36889
+2604505362,2402,motel,Super 8,-119.3969,35.39971
+2604530175,2402,motel,6,-119.40054,35.40207
+2751040754,2402,motel,Buena Vista Motel,-119.46152,35.40006
+3787795435,2303,cafe,Starbucks,-119.02694,35.2962
+4478427891,2303,cafe,,-119.05855,35.41444
+4843803319,2082,school,Veterans Elemetry School,-119.13708,35.417
+4843932010,2303,cafe,Skyway cafe,-119.04927,35.43485
+5072226421,2303,cafe,,-119.09271,35.39256
+5315597794,2501,supermarket,Walmart Supercenter,-119.09539,35.30879
+5315598905,2501,supermarket,Walmart Neighborhood Market,-119.02229,35.43452
+5315598907,2501,supermarket,Walmart Neighborhood Market,-119.1467,35.3701
+5315598908,2501,supermarket,Walmart Neighborhood Market,-119.11253,35.41187
+5315601366,2501,supermarket,Walmart Supercenter,-118.96083,35.39153
+5315601391,2501,supermarket,Walmart Supercenter,-119.02922,35.2988
+6405493483,2303,cafe,Starbucks,-119.10473,35.3839
+6540969587,2303,cafe,Starbucks,-119.11148,35.41242
+6543060785,2303,cafe,Starbucks Drive Through,-119.04345,35.3847
+6642716481,2303,cafe,Starbucks,-119.39742,35.40025
+6784210355,2402,motel,Motel 6,-119.03827,35.36095
+358780584,2082,school,Belridge Elementary School,-119.70957,35.4533
+358790013,2082,school,Olig School,-119.65929,35.32108
+1834487552,2402,motel,Days Inn Lost Hills,-119.65618,35.61729
+2469516887,2402,motel,Motel 6,-119.65985,35.61754
+2751064115,2402,motel,McKittrick Motel,-119.62404,35.30392
+358785181,2082,school,Groves Elementary School,-117.65479,35.64551
+358789311,2082,school,James Monroe Junior High School,-117.67756,35.61912
+358791527,2082,school,Saint Ann School,-117.67895,35.61996
+358801550,2082,school,Kern Valley High School,-118.46509,35.60773
+358802410,2082,school,Woodrow W Wallace Elementary School,-118.46647,35.6094
+358840062,2082,school,Mesquite Continuation School,-117.6709,35.63746
+358840079,2082,school,Sierra Sands Adult School,-117.65923,35.63551
+358840458,2082,school,Rand Elementary School,-117.63527,35.36838
+504355213,2303,cafe,Canebrake Cafe,-118.14266,35.72733
+813632111,2303,cafe,Starbucks,-117.66945,35.63478
+813634423,2501,supermarket,Albertsons,-117.67464,35.60574
+813634428,2501,supermarket,Walmart Supercenter,-117.66695,35.60659
+813634432,2501,supermarket,Stater Bros.,-117.66794,35.6351
+1813316535,2501,supermarket,Albertsons Ridgecrest,-117.67937,35.64492
+1813316538,2303,cafe,Beanster's,-117.67072,35.6504
+1813316541,2303,cafe,Cafe Potpourri,-117.6701,35.63744
+1813316548,2303,cafe,Crest Donuts,-117.67848,35.63823
+1976737764,2402,motel,Pine Cone Inn,-118.41858,35.75651
+2356753208,2501,supermarket,Sierra Gateway Market,-118.41877,35.75807
+4122433691,2402,motel,Lakeview Motel,-118.41052,35.6418
+4618018189,2402,motel,Americas Best Value Inn,-117.67049,35.62134
+4810803724,2303,cafe,Starbucks,-118.47603,35.61821
+5695535335,2303,cafe,,-117.6454,35.65405
+5695535338,2082,school,Charter School,-117.68846,35.61737
+150949361,2082,school,Camp Irwin Owen,-118.43092,35.76856
+358840080,2082,school,Summit Continuation High School,-118.46481,35.60781
+358840781,2082,school,College of the Tehachapis,-118.44925,35.13385
+358840785,2082,school,Golden Hills Elementary School,-118.48972,35.12881
+358840795,2082,school,Monroe High School,-118.43703,35.12663
+358840802,2082,school,Tehachapi High School,-118.43536,35.12691
+358840856,2082,school,Summit High School,-118.43814,35.12663
+763652822,2110,hospital,Adventist Health Tehachapi Valley,-118.44863,35.13031
+2560845106,2303,cafe,Starbucks,-118.46689,35.13118
+358786582,2082,school,Jefferson Elementary School,-119.46067,35.15719
+358791313,2082,school,Roosevelt Elementary School,-119.46012,35.14802
+358793246,2082,school,Taft Union High School,-119.46067,35.1463
+358840670,2082,school,Saint Marys School,-119.45679,35.14552
+358840676,2082,school,Taft Heights Kindergarten,-119.46401,35.13663
+358840680,2082,school,Taft Primary School,-119.45401,35.14274
+358840755,2082,school,Buena Vista High School,-119.46069,35.14643
+358840839,2082,school,Maricopa Elementary School,-119.40373,35.0533
+358840840,2082,school,Maricopa High School,-119.40456,35.05414
+358840843,2082,school,Mettler Elementary School,-118.97371,35.06274
+1702288414,2402,motel,Motel 8,-119.39993,35.05823
+4551548892,2303,cafe,Starbucks,-118.94115,34.99038
+2955459533,2501,supermarket,Albertsons,-118.46938,35.12564
+3146557159,2501,supermarket,SaveMart,-118.46839,35.12273
+3146582231,2012,community_centre,Fiddler's Crossing,-118.44583,35.1304
+6405277193,2303,cafe,Bear Claw Bakery,-119.16545,34.85079

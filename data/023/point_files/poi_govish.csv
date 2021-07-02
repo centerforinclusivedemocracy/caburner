@@ -1,0 +1,46 @@
+,osm_id,code,fclass,name,lon,lat
+0,358809583,2005,post_office,Harris Post Office,-123.64169,40.04876
+1,358818196,2005,post_office,Garberville Post Office,-123.79614,40.08209
+2,368168901,2002,fire_station,Alderpoint Forest Fire Station,-123.59114,40.18653
+3,674529546,2005,post_office,Garberville Post Office,-123.79602,40.09884
+4,842907838,2005,post_office,,-123.97018,40.05829
+5,1328779363,2002,fire_station,Cal Fire,-123.96292,40.05659
+6,1328779405,2002,fire_station,,-123.88003,40.12226
+7,4321922452,2005,post_office,US Post Office,-124.12357,40.24346
+8,4321922455,2005,post_office,US Post Office,-124.28745,40.32465
+9,5251043621,2007,library,Library,-123.79253,40.10243
+10,358818065,2005,post_office,Ferndale Post Office,-124.26249,40.57746
+11,368168982,2007,library,Ferndale Public Library,-124.26117,40.57957
+12,368169062,2007,library,Fortuna Branch Humboldt County Library,-124.15228,40.59902
+13,368171511,2008,town_hall,Ferndale City Hall,-124.26006,40.58041
+14,358819038,2005,post_office,Willow Creek Post Office,-123.6295,40.94069
+15,368169171,2007,library,Klamath-Trinity Branch Humboldt County Library,-123.63116,40.93958
+16,4270192570,2001,police,Humbolt County Deputy Sheriff,-123.68646,41.06348
+17,4270977722,2005,post_office,United States Post Office,-123.53812,41.30233
+18,358818309,2005,post_office,Eureka Post Office,-124.16395,40.80179
+19,368167472,2009,courthouse,Humboldt County Courthouse,-124.1624,40.80293
+20,368169063,2007,library,Eureka Public Library,-124.1659,40.8004
+21,368169196,2007,library,Humboldt County Law Library,-124.16247,40.80273
+22,1465389954,2001,police,Humboldt County Sheriff's Office,-124.16222,40.80315
+23,1476087068,2002,fire_station,,-124.16888,40.80098
+24,3646501652,2002,fire_station,Humboldt Bay Fire Station 5,-124.12975,40.78072
+25,86191454,2002,fire_station,Iaqua Fire Lookout,-123.88251,40.66912
+26,358818022,2005,post_office,Bayside Post Office,-124.0635,40.84279
+27,358818028,2005,post_office,Blue Lake Post Office,-123.98895,40.88124
+28,368167711,2002,fire_station,Blue Lake Fire Department,-123.99117,40.88291
+29,368169067,2007,library,Blue Lake Branch Humboldt County Library,-123.99173,40.88263
+30,368171353,2008,town_hall,Arcata City Hall,-124.08486,40.86723
+31,368171354,2008,town_hall,Blue Lake City Hall,-123.99173,40.88263
+32,524851380,2001,police,Arcata Police Department,-124.08455,40.86717
+33,588015802,2005,post_office,FedEx Office,-124.08349,40.87451
+34,760309494,2005,post_office,Post Haste,-124.08483,40.86575
+35,2094660243,2002,fire_station,Kneeland CDF,-123.92916,40.71922
+36,5267124531,2001,police,Humboldt University Police,-124.07901,40.87461
+37,5271013150,2005,post_office,Mail Room,-124.07862,40.87876
+38,2649563924,2002,fire_station,Loleta Fire District,-124.22064,40.64411
+39,358818224,2005,post_office,McKinleyville Post Office,-124.10171,40.94381
+40,884899213,2007,library,McKinleyville Library,-124.09981,40.9442
+41,884899217,2002,fire_station,McKinleyville Fire Station,-124.10053,40.9438
+42,884899262,2001,police,McKinleyville Sheriffs Substation Office,-124.09983,40.94377
+43,4110833832,2007,library,Trinidad Library,-124.14117,41.06202
+44,6250977110,2002,fire_station,,-123.95904,41.22216

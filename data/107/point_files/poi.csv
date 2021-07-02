@@ -1,0 +1,146 @@
+osm_id,code,fclass,name,lon,lat
+358787886,2082,school,Linder School,-119.46484,36.21773
+358788540,2082,school,Manzanillo School,-119.49123,36.26856
+358791190,2082,school,Riverdale School,-119.51734,36.03634
+358794544,2082,school,West Side Union School,-119.5179,36.01662
+358839899,2082,school,Alpaugh Elementary School,-119.48512,35.88662
+358839900,2082,school,Alpaugh Junior-Senior High School,-119.48512,35.88523
+358839952,2082,school,Tule High School,-119.48512,35.88551
+2376638902,2402,motel,Kings Inn Motel,-119.51353,36.48811
+150943454,2501,supermarket,California Oranges,-118.82807,36.10124
+358790910,2082,school,Quincy School,-118.9476,35.82893
+358791534,2082,school,Saint Anne School,-119.02149,36.07273
+358794198,2082,school,Vincent School,-119.14483,36.08384
+358839599,2082,school,Porterville Adult School,-119.03769,36.09221
+358839913,2082,school,Earlimart Elementary School,-119.26733,35.88384
+358839914,2082,school,Earlimart Middle School,-119.27094,35.88801
+358839919,2082,school,Hot Springs Elementary School,-118.67731,35.88078
+358839942,2082,school,Serendipity Community School,-118.96482,36.06273
+358839958,2082,school,Zion Lutheran School,-118.99982,35.97801
+358840006,2082,school,Strathmore Continuation High School,-119.05427,36.14773
+358840007,2082,school,Strathmore Elementary School,-119.06566,36.1494
+2775059136,2402,motel,Durrwood Creekside Lodge,-118.49781,35.97348
+4131467090,2303,cafe,Starbucks,-119.03838,36.06561
+6594791860,2303,cafe,Java Express,-119.04059,36.08002
+6594791868,2303,cafe,Starbucks,-119.04327,36.08002
+6594968360,2501,supermarket,Food 4 Less,-119.04627,36.08167
+358779099,2082,school,Windsor School,-119.46124,36.5469
+358780908,2082,school,Bliss School,-119.26067,36.19662
+358781607,2082,school,Carrie Barnett School,-119.2915,36.34023
+358781866,2082,school,Central School,-119.35428,36.20745
+358781990,2082,school,Chatham School,-119.32317,36.39995
+358783337,2082,school,East Union School,-119.224,36.30773
+358783776,2082,school,Enterprise School,-119.3854,36.25412
+358786809,2082,school,Kaweah School,-119.09816,36.33245
+358787496,2082,school,Laurel School,-119.40206,36.21745
+358790340,2082,school,Paloma School,-119.18067,36.43606
+358791518,2082,school,Saint Aloysius School,-119.34688,36.21723
+358793262,2082,school,Taurusa School,-119.25956,36.42912
+358794081,2082,school,Venice School,-119.17122,36.35551
+358794232,2082,school,Visalia Exeter Junior Academy,-119.26228,36.32997
+358794469,2082,school,Webster School,-119.29289,36.33967
+358794766,2082,school,Willow School,-119.33151,36.35662
+358794818,2082,school,Wilson School,-119.37734,36.49523
+358809071,2082,school,Lind Cove School,-119.06344,36.35578
+358839756,2082,school,Grace Lutheran School,-119.3015,36.32078
+358839767,2082,school,Pathfinder Christian Elementary School,-119.29095,36.31856
+358839788,2082,school,Visalia Christian Academy,-119.33234,36.31245
+358839892,2082,school,Tulare Technical Prepartory School,-119.35712,36.19594
+358858371,2084,college,San Joaquin Valley College,-119.38428,36.3277
+368173537,2012,community_centre,Visalia Community Center,-119.29457,36.34928
+1340838009,2402,motel,Econo Lodge Sequoia Area,-119.31364,36.31858
+1901976626,2303,cafe,,-119.29246,36.33025
+2131976839,2082,school,Charter Home School Academy,-119.21674,36.35999
+2373998142,2501,supermarket,Sequouia Produce,-119.10454,36.32516
+3054767233,2303,cafe,Starbucks,-119.31432,36.3189
+3055406433,2303,cafe,Le Boulevard,-119.31358,36.32585
+3447192034,2501,supermarket,best buy market,-119.30591,36.31343
+4119375292,2402,motel,Super 8 Visalia,-119.34497,36.32637
+4119375294,2402,motel,Marco Polo Motel,-119.34115,36.32653
+4119375295,2402,motel,Americas Best Value Inn Hotel Visalia,-119.29863,36.32989
+4618025455,2402,motel,Hampton Inn,-119.33632,36.22392
+4806732275,2501,supermarket,Target,-119.31409,36.22405
+5271212027,2402,motel,Super 8,-119.10505,36.20522
+5532298892,2110,hospital,Kaweah Delta Sub Acute,-119.29267,36.31597
+5738561735,2303,cafe,Starbucks,-119.32924,36.32643
+5738561750,2501,supermarket,Save Mart Supermarkets,-119.33092,36.32558
+5776118012,2501,supermarket,Save Mart Marketplace,-119.33068,36.32579
+6205094600,2303,cafe,Starbucks,-119.34716,36.31256
+6649128442,2303,cafe,Starbucks,-119.40036,36.54567
+358799644,2082,school,Sierra Elementary School,-119.00288,36.6355
+358802712,2082,school,Scicon County School,-118.76482,36.19911
+1749150585,2402,motel,Wuksachi Village Center Lodges,-118.75425,36.60812
+2374019199,2402,motel,Bed and Breakfast,-119.02161,36.38864
+2379767830,2402,motel,Lazy J Ranch-Americas Best Value Inn,-118.93305,36.41195
+2379767832,2402,motel,Riverfront Cabins,-118.90644,36.43535
+2379767833,2402,motel,Riverside Inn & Cabins,-118.8527,36.47399
+2379767837,2501,supermarket,Totum Market & Gifts,-118.85352,36.4732
+2934354042,2501,supermarket,Three Rivers Market,-118.905,36.43949
+2934355178,2303,cafe,Antoinette's Coffee and Goodies,-118.90507,36.43935
+3556733660,2303,cafe,Sierra Subs & Salads,-118.90509,36.43929
+4116754593,2402,motel,Sequoia Motel in Three Rivers,-118.88048,36.45767
+4907668421,2501,supermarket,Totem,-118.85297,36.47365
+5760378121,2402,motel,Lake Elowin Resort,-118.87342,36.4622
+2380935162,2402,motel,Cabin Cove,-118.65782,36.46471
+358839662,2005,post_office,Traver Post Office,-119.48762,36.45356
+358839605,2005,post_office,Porterville Post Office,-119.01777,36.06868
+358839916,2005,post_office,Earlimart Post Office,-119.27372,35.88468
+358839927,2005,post_office,Pixley Post Office,-119.29317,35.96829
+358839929,2005,post_office,Poplar Post Office,-119.14344,36.05579
+358839948,2005,post_office,Terra Bella Post Office,-119.04288,35.96218
+358839953,2005,post_office,Springville Post Office,-118.81787,36.12995
+358840009,2005,post_office,Strathmore Post Office,-119.06177,36.14801
+358852080,2005,post_office,Phillips Ranch Post Office,-119.38234,35.88801
+368168908,2002,fire_station,Tulare County Fire Station,-118.64037,35.87217
+368170162,2007,library,Strathmore Branch Library,-119.05804,36.14646
+368170164,2007,library,Tipton Branch Library,-119.31043,36.06079
+368170176,2007,library,Terra Bella Branch Tulare County Library,-119.04288,35.96273
+368170177,2007,library,Pixley Branch Tulare County Library,-119.28123,35.9735
+368170178,2007,library,Earlimart Branch Tulare County Library,-119.26955,35.88606
+368170180,2007,library,Porterville College Library,-119.01427,36.05079
+368170186,2007,library,Porterville Public Library,-119.01705,36.07134
+368170187,2007,library,Sierra View District Hospital Medical Library,-119.0276,36.06912
+368171793,2008,town_hall,Porterville City Hall,-119.01649,36.07079
+2363659204,2002,fire_station,,-118.98243,36.05671
+2434557440,2002,fire_station,Tulare County Fire Station 27 - Pixley,-119.29134,35.9724
+2434557441,2001,police,Tulare County Sheriffs Pixley Substation,-119.29106,35.97182
+4360787281,2005,post_office,Ponderosa,-118.53518,36.09787
+6594791873,2005,post_office,The UPS Store,-119.04563,36.07989
+4696434938,2002,fire_station,,-118.10433,35.99096
+358809647,2005,post_office,Linnell Post Office,-119.224,36.30967
+358838982,2005,post_office,Cutler Post Office,-119.28789,36.52356
+358838987,2005,post_office,Dinuba Post Office,-119.38762,36.54051
+358838992,2005,post_office,Orosi Post Office,-119.28512,36.54384
+358839644,2005,post_office,Ivanhoe Post Office,-119.21822,36.38802
+358839669,2005,post_office,Woodlake Post Office,-119.09863,36.41775
+358839689,2005,post_office,Exeter Post Office,-119.14131,36.29688
+358839692,2005,post_office,Farmersville Post Office,-119.20705,36.30051
+358839891,2005,post_office,Tulare Post Office,-119.344,36.20869
+358839987,2005,post_office,Lindsay Post Office,-119.08955,36.20301
+368166746,2099,public_building,Lindsay Unified School District Office,-119.08538,36.20384
+368170113,2007,library,Orosi Branch Library,-119.29044,36.54498
+368170114,2007,library,Dinuba Branch Library,-119.38633,36.54267
+368170165,2007,library,Lindsay Branch Library,-119.08964,36.20372
+368170171,2007,library,Visalia Branch Library,-119.29404,36.33245
+368170174,2007,library,Kaweah Delta District Hospital Library,-119.29484,36.32801
+368170175,2007,library,Tulare County Law Library,-119.31539,36.32884
+368170184,2007,library,Exeter Branch Library,-119.1386,36.29395
+368170185,2007,library,Woodlake Branch Tulare County Library,-119.10094,36.41662
+368171155,2099,public_building,Visalia Municipal Auditorium,-119.28931,36.32938
+368171169,2099,public_building,Tulare County Building,-119.38568,36.53634
+368171794,2008,town_hall,Dinuba City Hall,-119.39126,36.54605
+368171804,2008,town_hall,Lindsay City Hall,-119.08843,36.20357
+368171806,2008,town_hall,Visalia City Hall,-119.29928,36.32884
+368171807,2008,town_hall,Farmersville City Hall,-119.20691,36.30434
+368173542,2008,town_hall,Woodlake City Hall,-119.09872,36.41856
+2093085191,2007,library,Tulare Public Library,-119.34532,36.21307
+2166566988,2007,library,Ivanhoe Branch Library,-119.2165,36.39124
+2166577183,2007,library,Woodlake Branch Library,-119.10235,36.41946
+5436896822,2002,fire_station,Exeter Fire Department,-119.14238,36.29685
+5436896823,2008,town_hall,Exeter City Hall,-119.14225,36.29667
+3369212268,2005,post_office,Three Rivers Post Office,-118.91476,36.42739
+3482211126,2002,fire_station,Cal Fire,-118.91294,36.4281
+3490100867,2002,fire_station,,-118.91245,36.42801
+3490113136,2002,fire_station,,-118.90959,36.43209
+3490123159,2008,town_hall,Three Rivers Memorial Building,-118.87832,36.45709
+3490130898,2002,fire_station,Hammond Fire Station NPS,-118.85786,36.46732

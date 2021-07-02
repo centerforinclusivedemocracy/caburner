@@ -1,0 +1,92 @@
+,osm_id,code,fclass,name,lon,lat
+0,368167726,2002,fire_station,Fire Station Number 1,-119.18069,34.20139
+1,368170492,2007,library,Soliz-El Rio Branch Ventura County Library,-119.16761,34.23806
+2,368170494,2007,library,Oxnard Public Library,-119.17886,34.20099
+3,368171722,2008,town_hall,Oxnard City Hall,-119.17981,34.20058
+4,411828865,2002,fire_station,Oxnard FD Station 1,-119.19202,34.19817
+5,411834332,2002,fire_station,Oxnard Fire Station 2,-119.17322,34.15496
+6,411835354,2002,fire_station,Oxnard Fire Department Station 3,-119.17864,34.18639
+7,411836025,2002,fire_station,Oxnard Fire Department Station 4,-119.17935,34.22578
+8,433110882,2005,post_office,Channel Islands Station,-119.2225,34.17539
+9,761350836,2002,fire_station,,-119.16359,34.20665
+10,924663711,2001,police,,-119.18148,34.20085
+11,4465211599,2001,police,Port Hueneme Police Department,-119.19494,34.14951
+12,4465211604,2008,town_hall,Port Hueneme City Hall,-119.19488,34.1497
+13,358847936,2005,post_office,,-118.91515,34.18356
+14,368170516,2007,library,Rockwell International Science Center Library,-118.90592,34.1981
+15,3843852332,2007,library,,-118.92891,34.18199
+16,3843852333,2001,police,,-118.92875,34.18182
+17,358846955,2005,post_office,Piru Post Office,-118.79426,34.41527
+18,368170496,2007,library,Piru Branch Ventura County Library,-118.79787,34.41583
+19,368166860,2099,public_building,Simi Valley Unified School District Office,-118.77926,34.28028
+20,368170488,2007,library,Simi Valley Library,-118.71287,34.28972
+21,368170489,2007,library,Simi Valley Adventist Hospital Medical Library,-118.74509,34.28945
+22,368170518,2007,library,Oak Park Branch Ventura County Library,-118.76287,34.17945
+23,368171133,2099,public_building,Simi Valley Historical Society Archives,-118.8012,34.275
+24,415993026,2002,fire_station,,-118.76094,34.18112
+25,1239459588,2002,fire_station,VCFD Station 46,-118.70927,34.29451
+26,1760337588,2005,post_office,Simi Valley (Santa Susana) 93063,-118.73638,34.28152
+27,1760720192,2007,library,Simi Valley Public Library,-118.71944,34.28901
+28,3828332457,2001,police,Simi Valley Police Department,-118.71934,34.28733
+29,3828332458,2002,fire_station,VCFD Station 41,-118.73621,34.27097
+30,3828332459,2002,fire_station,VCFD Station 47,-118.76267,34.28868
+31,3828332460,2002,fire_station,VCFD Station 45,-118.78282,34.26948
+32,4821416438,2005,post_office,,-118.72204,34.28622
+33,3828308487,2002,fire_station,VCFD Station 43,-118.67688,34.27116
+34,301462760,2005,post_office,Oak View Post Office,-119.30094,34.39263
+35,358846794,2005,post_office,Oak View Post Office,-119.299,34.39666
+36,368167723,2002,fire_station,Fire Station Number 1,-119.29789,34.27139
+37,368170498,2007,library,Avenue Library,-119.29841,34.28864
+38,368171018,2007,library,Oak View Branch Ventura County Library,-119.30122,34.39371
+39,368171496,2008,town_hall,Ventura City Hall,-119.29308,34.28238
+40,369156846,2099,public_building,Ventura Visitors Center,-119.29345,34.27936
+41,473098910,2002,fire_station,Ventura County FD Station 22,-119.28537,34.44441
+42,473100594,2002,fire_station,Ventura County FD Station 23,-119.30131,34.39469
+43,473103806,2002,fire_station,Ventura County FD Station 25,-119.4196,34.34559
+44,368168898,2002,fire_station,Ozena Fire Station,-119.35401,34.68332
+45,348158961,2007,library,Fillmore Branch Ventura County Library,-118.91489,34.40464
+46,348183981,2002,fire_station,Fire Department,-118.91961,34.40073
+47,358846861,2005,post_office,Fillmore Post Office,-118.91399,34.4
+48,368171676,2008,town_hall,Fillmore City Hall,-118.91236,34.3986
+49,473107130,2002,fire_station,Ventura County FD Station 27,-118.92673,34.40311
+50,358847157,2005,post_office,Santa Paula Post Office,-119.06038,34.35333
+51,368170500,2007,library,Blanchard Community Library,-119.06399,34.35278
+52,368171678,2008,town_hall,Santa Paula City Hall,-119.05927,34.35194
+53,470042209,2002,fire_station,Santa Paula FD Station 81,-119.05997,34.35328
+54,470042806,2002,fire_station,Santa Paula FD Station 82,-119.08119,34.34672
+55,358847913,2005,post_office,Conejo Valley Station Thousand Oaks Post Office,-118.87814,34.18252
+56,484161402,2002,fire_station,Station 30,-118.88514,34.18485
+57,485084955,2008,town_hall,Thousand Oaks City Hall,-118.84833,34.17469
+58,775861588,2005,post_office,,-118.83211,34.16659
+59,368170512,2007,library,Los Robles Regional Medical Center Medical Staff Library,-118.88251,34.20761
+60,769258836,2002,fire_station,,-118.86793,34.21835
+61,770828179,2002,fire_station,,-118.81994,34.19956
+62,358846884,2005,post_office,Ojai Post Office,-119.24573,34.44757
+63,368170497,2007,library,Lillian Smolt Memorial Library,-119.25178,34.27722
+64,368170501,2007,library,Saticoy Library,-119.14818,34.28351
+65,368170502,2007,library,Helen Power Wright Memorial Library,-119.22731,34.27746
+66,368171009,2007,library,Meiners Oaks Branch Library,-119.27786,34.44925
+67,473105236,2002,fire_station,Ventura County FD Station 26,-119.13411,34.31148
+68,358847231,2005,post_office,Somis Post Office,-118.99649,34.25723
+69,358847697,2005,post_office,Camarillo Post Office,-119.0426,34.22195
+70,368166874,2099,public_building,Pleasant Valley School District Office,-119.02844,34.22417
+71,368167727,2002,fire_station,Somis Fire Station,-118.99593,34.25695
+72,368167728,2002,fire_station,Fire Station Number 54,-119.04177,34.22195
+73,368167729,2002,fire_station,Fire Station Number 55,-119.06871,34.24556
+74,368167731,2002,fire_station,Fire Station Number 52,-118.99486,34.22398
+75,368170490,2007,library,Somis Library,-118.99732,34.25612
+76,368170514,2007,library,Camarillo Branch Ventura County Library,-119.01386,34.24329
+77,368170515,2007,library,Edward Lawrence Dohney Memorial Library,-119.00461,34.24267
+78,368171721,2008,town_hall,Camarillo City Hall,-119.05166,34.22281
+79,1957500232,2002,fire_station,Camarillo Fire Department,-119.04078,34.22182
+80,3129036013,2002,fire_station,,-119.07031,34.2119
+81,6725737161,2001,police,,-119.04302,34.16328
+82,300428080,2001,police,Ventura County Sheriffs East Valley Station,-118.83466,34.24767
+83,358847209,2005,post_office,Moorpark Post Office,-118.88383,34.28514
+84,368170491,2007,library,Moorpark Branch Ventura County Library,-118.88265,34.28632
+85,368171134,2099,public_building,Moorpark Civic Center,-118.88343,34.28778
+86,368171679,2008,town_hall,Moorpark City Hall,-118.8834,34.28753
+87,3828332461,2002,fire_station,VCFD Station 44,-118.82203,34.2505
+88,3828449439,2002,fire_station,VCFD Station 42,-118.87805,34.28569
+89,4062529431,2001,police,VC/CHP Police Services Center,-118.87425,34.28338
+90,5082624921,2002,fire_station,,-118.88971,34.26506

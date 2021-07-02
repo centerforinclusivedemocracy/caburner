@@ -1,0 +1,48 @@
+,osm_id,code,fclass,name,lon,lat
+0,358821375,2005,post_office,Happy Camp Post Office,-123.37594,41.79941
+1,368168977,2007,library,Happy Camp Branch Siskiyou County Public Library,-123.38006,41.79346
+2,368171066,2099,public_building,Hutton Guard Station,-123.14033,42.0004
+3,4269212795,2005,post_office,US Post Office,-123.19614,41.84214
+4,5591644316,2002,fire_station,Seiad Valley Fire Dept,-123.19386,41.84158
+5,368171516,2099,public_building,Salmon River Ranger Office,-123.13615,41.29986
+6,358809313,2005,post_office,Grenada Post Office,-122.52363,41.64542
+7,358809320,2005,post_office,Montague Post Office,-122.52836,41.72764
+8,358809342,2005,post_office,Yreka Post Office,-122.63725,41.72931
+9,358809593,2005,post_office,Klamath River Post Office,-122.82257,41.86167
+10,358818518,2005,post_office,Macdoel Post Office,-122.00723,41.82737
+11,358821346,2005,post_office,Dorris Post Office,-121.91973,41.96431
+12,358821363,2005,post_office,Fort Jones Post Office,-122.84114,41.60764
+13,358821367,2005,post_office,Gazelle Post Office,-122.52002,41.52181
+14,358821369,2005,post_office,Greenview Post Office,-122.90726,41.54792
+15,358821380,2005,post_office,Hornbrook Post Office,-122.55808,41.90819
+16,368167476,2009,courthouse,Siskiyou County Courthouse,-122.63827,41.7302
+17,368168810,2007,library,Montague Branch Siskiyou County Public Library,-122.52641,41.72653
+18,368168811,2007,library,Siskiyou County Law Library,-122.63864,41.73014
+19,368168812,2007,library,Siskiyou County Public Library,-122.63975,41.72653
+20,368168973,2007,library,Fort Jones Branch Siskiyou County Public Library,-122.83948,41.60708
+21,368169030,2007,library,Dorris Branch Siskiyou County Public Library,-121.92112,41.9632
+22,368171327,2008,town_hall,Yreka City Hall,-122.63953,41.72714
+23,368171328,2008,town_hall,Montague City Hall,-122.52641,41.72653
+24,368171480,2008,town_hall,Dorris City Hall,-121.91792,41.96388
+25,368171506,2008,town_hall,Fort Jones City Hall,-122.83948,41.60708
+26,1683667993,2002,fire_station,Gazelle FIre Station,-122.52028,41.52273
+27,2726489085,2002,fire_station,,-121.91808,41.96321
+28,4269036624,2002,fire_station,Cal Fire,-122.8401,41.61046
+29,358821427,2005,post_office,Tulelake Post Office,-121.47582,41.95682
+30,368168984,2007,library,Tulelake Branch Siskiyou County Public Library,-121.47721,41.95543
+31,368171504,2008,town_hall,Tulelake City Hall,-121.47555,41.95599
+32,358805891,2005,post_office,Callahan Post Office,-122.80114,41.30959
+33,358805901,2005,post_office,Edgewood Post Office,-122.4328,41.46015
+34,358805912,2005,post_office,Mount Shasta Post Office,-122.31196,41.31182
+35,358805924,2005,post_office,Weed Post Office,-122.38505,41.42767
+36,358821356,2005,post_office,Etna Post Office,-122.89476,41.45625
+37,358821392,2005,post_office,McCloud Post Office,-122.13896,41.25404
+38,368168978,2007,library,Dunsmuir Branch Siskiyou County Public Library,-122.27146,41.21171
+39,368168979,2007,library,Etna Branch Siskiyou County Public Library,-122.89476,41.45597
+40,368171477,2008,town_hall,Etna City Hall,-122.89364,41.45625
+41,368171505,2008,town_hall,Weed City Hall,-122.37779,41.42876
+42,1991819228,2001,police,,-122.32217,41.31175
+43,4742207829,2002,fire_station,McCloud Fire Department,-122.13839,41.25859
+44,4742285521,2002,fire_station,McCloud Fire Department,-122.13853,41.25858
+45,4894095724,2007,library,McCloud library,-122.13192,41.25598
+46,5742348222,2002,fire_station,Dunsmuir Fire Department,-122.27261,41.2096

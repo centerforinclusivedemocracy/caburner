@@ -1,0 +1,42 @@
+,osm_id,code,fclass,name,lon,lat
+0,3248445370,2001,police,Manteca Police Department,-121.23164,37.7999
+1,4611578316,2005,post_office,USPS Hammer Ranch Station,-121.31998,38.01846
+2,368167865,2002,fire_station,East Side Fire Station Number 1,-121.26689,37.97326
+3,368167868,2002,fire_station,Central Fire Station,-121.29161,37.94742
+4,368167872,2002,fire_station,Fire Station Number 6,-121.31375,37.95948
+5,368170455,2007,library,Central Branch Stockton-San Joaquin County Public Library,-121.29192,37.95894
+6,368170464,2007,library,Petzinger Library of California,-121.31411,37.96048
+7,368170465,2007,library,Goleman Library,-121.31782,37.99522
+8,368170480,2007,library,Margaret K Troke Branch Stockton-San Joaquin County Library,-121.31773,38.01159
+9,368170483,2007,library,Humphreys University Library,-121.31689,38.01159
+10,2972577741,2007,library,San Joaquin County Law Library,-121.2858,37.95371
+11,6214944420,2005,post_office,The UPS Store,-121.45068,37.73776
+12,6835646412,2005,post_office,The UPS Store,-121.46622,37.75591
+13,358837320,2005,post_office,Lodi Post Office,-121.27356,38.13214
+14,368167864,2002,fire_station,Central Fire Station,-121.27563,38.13526
+15,368170482,2007,library,Carnegie Library,-121.27661,38.13464
+16,368171740,2008,town_hall,Lodi City Hall,-121.27594,38.13453
+17,659909894,2002,fire_station,Fire Station 3,-121.28787,38.10586
+18,660913752,2002,fire_station,Lodi Fire Station 4,-121.30613,38.13764
+19,660915217,2001,police,Lodi Police Department,-121.2757,38.13577
+20,5370774439,2007,library,Lodi Library,-121.27551,38.13686
+21,358838111,2005,post_office,Ripon Post Office,-121.13966,37.73965
+22,368170454,2007,library,Escalon Branch Stockton-San Joaquin County Public Library,-120.99222,37.79495
+23,368170461,2007,library,Ripon Branch Stockton-San Joaquin County Public Library,-121.12855,37.73937
+24,368171745,2008,town_hall,Ripon City Hall,-121.13577,37.74271
+25,358837427,2005,post_office,Lockeford Post Office,-121.15175,38.16257
+26,6228596106,2005,post_office,The UPS Store,-121.29489,37.80932
+27,358837389,2005,post_office,Clements Post Office,-121.08717,38.19131
+28,358837514,2005,post_office,Banta Post Office,-121.37244,37.75326
+29,358837543,2005,post_office,Lathrop Post Office,-121.27605,37.82132
+30,358838010,2005,post_office,Manteca Post Office,-121.21814,37.79887
+31,368170462,2007,library,Manteca Branch Stockton-San Joaquin County Public Library,-121.21975,37.79871
+32,368171741,2008,town_hall,Lathrop City Hall,-121.27717,37.81132
+33,358837450,2005,post_office,Thornton Post Office,-121.4219,38.22408
+34,368170481,2007,library,Thornton Branch Stockton-San Joaquin County Public Library,-121.42467,38.22603
+35,358837685,2005,post_office,Tracy Post Office,-121.42717,37.74021
+36,368170452,2007,library,Tracy Branch Stockton-San Joaquin County Public Library,-121.42578,37.74271
+37,368171743,2008,town_hall,Tracy City Hall,-121.42633,37.73937
+38,4009650952,2002,fire_station,Cal Fire Castle Rock Fire Station 26,-121.51375,37.72135
+39,358837622,2005,post_office,French Camp Post Office,-121.2705,37.88437
+40,3192101770,2002,fire_station,Farmington Fire District,-121.00057,37.92983

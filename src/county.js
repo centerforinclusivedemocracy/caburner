@@ -25,6 +25,14 @@ function initCountyInfo () {
     // fill in the county name into the title bar
     $('#sidebar > h1').text(`${COUNTYINFO.name} County`);
 
+    if (COUNTYINFO.profile === "fullmodel_pp") {
+      $('#suggestedHeader').text("Suggested Voting and Drop Box Locations")
+      $('#suggestedAdditionalHeader').text("Additional Voting Location Options")
+      var replaced = $("body").html().replace(/Vote Center/g,'Voting Location');
+      $("body").html(replaced);
+    }
+
+
     // if there is an Out Of Order message, fill in the explanation why the county is broken
     if (COUNTYINFO.outoforder) $('#outoforder').text(COUNTYINFO.outoforder);
     else $('#outoforder').remove();
@@ -283,6 +291,10 @@ function initDownloadModal () {
         const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
+    {
+        const $link = $(`<a href="data/crosswalk.pdf" target="_blank">Metadata Dictionary (PDF)</a>`);
+        $('<br>The names and definitions for each variable present in the .CSV and Shapefile data downloads are outlined below in the Metadata Dictionary PDF document<li></li>').append($link).appendTo($listing);
+    }
 }
 
 
@@ -432,13 +444,13 @@ function initCountyMap () {
     })
     .addTo(MAP);
 
-    new L.controlCredits({
-        image: './images/greeninfo.png',
-        link: 'https://www.greeninfo.org/',
-        text: 'Interactive mapping<br/>by GreenInfo Network',
-        position: 'bottomleft',
-    })
-    .addTo(MAP);
+    // new L.controlCredits({
+    //     image: './images/greeninfo.png',
+    //     link: 'https://www.greeninfo.org/',
+    //     text: 'Interactive mapping<br/>by GreenInfo Network',
+    //     position: 'bottomleft',
+    // })
+    // .addTo(MAP);
 
     MAP.BASEMAPBAR = new L.Control.BasemapBar({
         position: 'topright',
@@ -721,7 +733,7 @@ function refreshMapLegend () {
         $collectedlegends.append($legend);
 
         // add the legend entry for unreliable squares
-        $(`<div class="legend-entry"><div class="legend-swatch legend-swatch-halfsize" style="background-color: black;"></div> Estimates that have a high degree of uncertainty</div>`).appendTo($legend);
+        $(`<div class="legend-entry"><div class="legend-swatch legend-swatch-nodata"></div> Estimates that have a high degree of uncertainty</div>`).appendTo($legend);
 
         // do we have a caveat footnote?
         if (COUNTYINFO.censusfootnote) {
@@ -740,12 +752,9 @@ function addIndicatorChoroplethToMap (layerinfo) {
     // add the vector features to the map, styled by their score
     // don't worry about "downloading" these files with every request; in reality they'll be cached
     const tractsurl = `data/${COUNTYINFO.countyfp}/tracts.json`;
-    const centersurl = `data/${COUNTYINFO.countyfp}/tract_centroid_squares.json`;
     busySpinner(true);
     $.getJSON(tractsurl, function (gjdata) {
         busySpinner(false);
-
-        const unreliabletractgeoids = [];
 
         const featuregroup = L.geoJson(gjdata, {
             style: function (feature) {
@@ -756,45 +765,32 @@ function addIndicatorChoroplethToMap (layerinfo) {
                 const value = parseFloat(indicators[layerinfo.scorefield]);
                 const breaks = QUANTILEBREAKS[layerinfo.id];
                 const colors = layerinfo.quantilecolors;
-
                 const thiscolor = pickColorByValue(value, breaks, colors);
-                style.fillColor = thiscolor;
+
+                // fill is either the solid color, or else a StripePattern if the data are unreliable
+                // note that L.StripePattern must be added to the Map, but we don't have a way of tracking which ones are in use so they will pile up over time and be a potential memory leak
+                // that's probably not realistic unless one toggles thousnads of times between reloading
+                const unreliable = parseInt(indicators[`${layerinfo.scorefield}_unreliable_flag`]) == 1;
+                if (unreliable) {
+                    const stripes = new L.StripePattern({
+                        angle: -45,
+                        weight: 7, spaceWeight: 1,  // default width is 8, this defines a 7:1 ratio
+                        color: thiscolor, opacity: 1,  // fill is the selected color
+                        spaceColor: 'black', spaceOpacity: 0.25,  // stripes, half-black
+                    }).addTo(MAP);
+                    style.fillPattern = stripes;
+                }
+                else {
+                    style.fillColor = thiscolor;
+                }
 
                 return style;
-            },
-            onEachFeature: function (feature) {
-                const geoid = parseInt(feature.properties.geoid);  // indicator_data.csv omits leading 0, work around by treating geoids as integers (smh)
-                const indicators = INDICATORS_BY_TRACT[geoid];
-                const unreliable = parseInt(indicators[`${layerinfo.scorefield}_unreliable_flag`]) == 1;
-
-                if (unreliable) unreliabletractgeoids.push(geoid);
             },
         });
 
         // add to the map and to the registry
         MAP.OVERLAYS[layerinfo.id] = featuregroup;
         featuregroup.addTo(MAP);
-
-        // fetch the tract centroid squares, and filter to those where the given field has a _unreliable_flag=1
-        // and add these features (centroid squares) to that same featuregroup so they'll also be cleared along with the layer
-        $.getJSON(centersurl, function (gjdata) {
-            L.geoJson(gjdata, {
-                filter: function (feature) {
-                    const geoid = parseInt(feature.properties.geoid);  // indicator_data.csv omits leading 0, work around by treating geoids as integers (smh)
-                    const unreliable = unreliabletractgeoids.indexOf(geoid) != -1;
-                    return unreliable;
-                },
-                style: UNRELIABLE_STYLE,
-            })
-            .eachLayer(function (layer) {
-                layer.addTo(featuregroup);
-            });
-        })
-        .fail(function (err) {
-            busySpinner(false);
-            console.error(err);
-            // alert(`Problem loading or parsing ${centersurl}`);
-        });
     })
     .fail(function (err) {
         busySpinner(false);
