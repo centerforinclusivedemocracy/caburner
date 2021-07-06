@@ -1,22 +1,22 @@
 let MAP;
 let COUNTYINFO;
-const QUANTILEBREAKS = {};  // see initLoadQuantileBreaks() and circleSymbolizer()
-const INDICATORS_BY_TRACT = {};  // see initLoadQuantileBreaks() and addIndicatorChoroplethToMap()
-const SITESCOREBREAKS = {};  // see initLoadQuantileBreaks() and showSuggestedSiteInfo()
-const SITESCORES = {}; // // see initLoadQuantileBreaks() and showSuggestedSiteInfo()
+const QUANTILEBREAKS = {}; // contains quantile breaks by layerid
+const INDICATORS_BY_TRACT = {}; // contains indicator data by geoid
+const SITESCOREBREAKS = {}; // contains quantile breaks by site score field (displayed in characteristics of suggested area popup)
+const SITESCORES = {};  // contains site score data by site id
 
 
 $(document).ready(function () {
     initCountyInfo();
     initAdditionalDataWording();
-    initLoadQuantileBreaks();
     initSidebarTogglers();
     initCountyMap();
     initLayerControls();
     initDownloadModal();
     initTooltips();
+    initIndicatorData();
+    initScoredSitesData();
 });
-
 
 function initCountyInfo () {
     // populate the global which we'll use often
@@ -25,19 +25,10 @@ function initCountyInfo () {
     // fill in the county name into the title bar
     $('#sidebar > h1').text(`${COUNTYINFO.name} County`);
 
-    if (COUNTYINFO.profile === "fullmodel_pp") {
-      $('#suggestedHeader').text("Suggested Voting and Drop Box Locations")
-      $('#suggestedAdditionalHeader').text("Additional Voting Location Options")
-      var replaced = $("body").html().replace(/Vote Center/g,'Voting Location');
-      $("body").html(replaced);
-    }
-
-
     // if there is an Out Of Order message, fill in the explanation why the county is broken
     if (COUNTYINFO.outoforder) $('#outoforder').text(COUNTYINFO.outoforder);
     else $('#outoforder').remove();
 }
-
 
 function initAdditionalDataWording () {
     // hack to change the words Additional Data if there are no suggested / additional sites
@@ -51,162 +42,6 @@ function initAdditionalDataWording () {
     }
 }
 
-
-function initLoadQuantileBreaks () {
-    // create the choropleth QUANTILEBREAKS from the all_sites_scored.csv and indicator_data.csv
-    // some layers ue one, some use the other
-    // QUANTILEBREAKS is keyed by layer ID even though many fields share the same field and thus the same breaks & ramp,
-    // but keying it by layer ID gives more flexibility in the future if they want some idiosynractic processing for some unusual layers
-
-    // in the case of indicator_data.csv we also cache the scores into INDICATORS_BY_TRACT, keyed by tract geoid
-    // this is used to score & style them later e.g. addIndicatorChoroplethToMap()
-    const layers_using_indicator_data = [];
-    Object.keys(COUNTYINFO.datalayers).forEach(function (groupname) {
-        COUNTYINFO.datalayers[groupname].forEach(function (layerinfo) {
-            if (layerinfo.breaksource == 'indicatordata' &&  layerinfo.quantilefield && layerinfo.quantilecolors) {
-                layers_using_indicator_data.push(layerinfo.id);
-            }
-        });
-    });
-
-    if (layers_using_indicator_data.length) {
-        const fileurl = `data/${COUNTYINFO.countyfp}/indicator_files/indicator_data.csv`;
-
-        busySpinner(true);
-
-        Papa.parse(fileurl, {
-            download: true,
-            header: true,
-            skipEmptyLines: 'greedy',
-            complete: function (results) {
-                // QUANTILEBREAKS
-                Object.keys(COUNTYINFO.datalayers).forEach(function (groupname) {
-                    COUNTYINFO.datalayers[groupname].forEach(function (layerinfo) {
-                        if (layers_using_indicator_data.indexOf(layerinfo.id) === -1) return;
-
-                        // take a quick moment to look for non-null NaNs (garbage data) and report it
-                        results.data.forEach(function (row) {
-                            const raw = row[layerinfo.quantilefield];
-                            const value = parseFloat(raw);
-                            if (raw && isNaN(value)) console.error(`indicator_data.csv found non-numeric value ${raw} in field ${layerinfo.quantilefield}`);
-                        });
-
-                        const values = results.data.map(function (row) { return parseFloat(row[layerinfo.quantilefield]); }).filter(function (value) { return ! isNaN(value); });
-                        values.sort();
-                        const howmanybreaks = layerinfo.quantilecolors.length;
-                        const breaks = calculateModifiedJenksBreaks(values, howmanybreaks);
-
-                        QUANTILEBREAKS[layerinfo.id] = breaks;
-                    });
-                });
-
-                // INDICATORS_BY_TRACT
-                results.data.forEach(function (row) {
-                    const geoid = parseInt(row.geoid);  // indicator_data.csv omits leading 0, work around by treating geoids as integers (smh)
-                    INDICATORS_BY_TRACT[geoid] = row;
-                });
-
-                //done
-                busySpinner(false);
-            },
-            error: function (err) {
-                busySpinner(false);
-                console.error(err);
-                // alert(`Problem loading or parsing ${fileurl}`);
-            },
-        });
-    }
-
-    const layers_using_sitescore_data = [];
-    Object.keys(COUNTYINFO.datalayers).forEach(function (groupname) {
-        COUNTYINFO.datalayers[groupname].forEach(function (layerinfo) {
-            if (layerinfo.breaksource == 'sitescores' && layerinfo.quantilefield && layerinfo.quantilecolors) {
-                layers_using_sitescore_data.push(layerinfo.id);
-            }
-        });
-    });
-
-    if (layers_using_sitescore_data.length) {
-        const fileurl = `data/${COUNTYINFO.countyfp}/model_files/all_sites_scored.csv`;
-
-        busySpinner(true);
-
-        Papa.parse(fileurl, {
-            download: true,
-            header: true,
-            skipEmptyLines: 'greedy',
-            complete: function (results) {
-                // go over all of the layers in this county's profile, which use quantilefield & quantilecolors AND calculate ramp from site scores
-                Object.keys(COUNTYINFO.datalayers).forEach(function (groupname) {
-                    COUNTYINFO.datalayers[groupname].forEach(function (layerinfo) {
-                        if (layers_using_sitescore_data.indexOf(layerinfo.id) === -1) return;
-
-                        // take a quick moment to look for non-null NaNs (garbage data) and report it
-                        results.data.forEach(function (row) {
-                            const raw = row[layerinfo.quantilefield];
-                            const value = parseFloat(raw);
-                            if (raw && isNaN(value)) console.error(`all_sites_scored.csv found non-numeric value ${raw} in field ${layerinfo.quantilefield}`);
-                        });
-
-                        const values = results.data.map(function (row) { return parseFloat(row[layerinfo.quantilefield]); }).filter(function (value) { return ! isNaN(value); });
-                        values.sort();
-                        const howmanybreaks = layerinfo.quantilecolors.length;
-                        const breaks = calculateModifiedJenksBreaks(values, howmanybreaks);
-
-                        QUANTILEBREAKS[layerinfo.id] = breaks;
-                    });
-                });
-
-                // for individual site scoring, log a lookup of site ID number => site scores, and a lookup of the quantile breaks for these scoring fields
-                // these will be used in showSuggestedSiteInfo() to display details for a single site
-                /*
-                dens.cvap.std: County Percentage of Voting Age Citizens
-                dens.work.std: County Worker Percentage
-                popDens.std: Population Density
-                prc.CarAccess.std: Percent of Population with Vehicle Access
-                prc.ElNonReg.std : Eligible Non-Registered Voter Rate
-                prc.disabled.std: Percent Disabled Population
-                prc.latino.std: Percent Latino Population
-                prc.nonEngProf.std:Percent Limited English Proficient Population
-                prc.pov.std: Percent of the Population in Poverty
-                prc.youth.std: Percent of the Youth Population
-                rate.vbm.std: Vote by Mail Rate (Total)
-                dens.poll.std: Polling Place Voter Percentage
-                */
-
-                results.data.forEach(function (row) {
-                    const siteid = row.idnum;
-                    SITESCORES[siteid] = {};
-                    SITE_SCORING_FIELDS.forEach(function (fieldname) {
-                        const raw = row[fieldname];
-                        const value = parseFloat(raw);
-                        if (raw && isNaN(value)) console.error(`all_sites_scored.csv found non-numeric value ${raw} in field ${fieldname}`);
-                        SITESCORES[siteid][fieldname] = value;
-                    });
-                });
-
-                SITE_SCORING_FIELDS.forEach(function (fieldname) {
-                    const values = results.data.map(function (row) { return parseFloat(row[fieldname]); }).filter(function (value) { return ! isNaN(value); });
-                    values.sort();
-                    const howmanybreaks = 3;
-                    const breaks = ss.jenks(values, howmanybreaks);
-
-                    SITESCOREBREAKS[fieldname] = breaks;
-                });
-
-                // done
-                busySpinner(false);
-            },
-            error: function (err) {
-                busySpinner(false);
-                console.error(err);
-                // alert(`Problem loading or parsing ${fileurl}`);
-            },
-        });
-    }
-}
-
-
 function initSidebarTogglers () {
     jQuery('#sidebar-and-map div.sidebar-closer').click(function (event) {
         event.stopPropagation();
@@ -219,30 +54,50 @@ function initSidebarTogglers () {
     }).click();
 }
 
-
 function initTooltips () {
     // Tooltipster will look for a param called  which is a jQuery/querySelector string, and use that HTML block as the tooltip content
-    const $tipbuttons = $('i[data-tooltip-content]');
+    var $tipbuttons = $('i[data-tooltip-content], span[data-tooltip-content]');
 
     $tipbuttons.each(function () {
-        $(this).tooltipster({
-            trigger: 'click',
-            animation: 'fade',
-            animationDuration: 150,
-            distance: 0,
-            maxWidth: 300,
-            side: [ 'right', 'bottom' ],
-            contentCloning: true,  // allow multiple i links with the same tooltip
-            interactive: true, // don't auto-dismiss on mouse activity inside, let user copy text, follow links, ...
-            functionBefore: function (instance, helper) { // close open ones before opening this one
-                jQuery.each(jQuery.tooltipster.instances(), function(i, instance) {
-                    instance.close();
-                });
-            },
-        });
+        if ($(this).attr('data-tooltip-content') == '#tooltips > div[data-tooltip=\"pois\"]') {
+            $(this).tooltipster({
+                trigger: 'hover',
+                autoClose: false,
+                hideOnClick: true,
+                animation: 'fade',
+                animationDuration: 750,
+                distance: 0,
+                maxWidth: 400,
+                side: [ 'right', 'bottom' ],
+                contentCloning: true,  // allow multiple i links with the same tooltip
+                interactive: true, // don't auto-dismiss on mouse activity inside, let user copy text, follow links, ...
+                functionBefore: function (instance, helper) { // close open ones before opening this one
+                    jQuery.each(jQuery.tooltipster.instances(), function(i, instance) {
+                        instance.close();
+                    });
+                },
+            });
+        } else {
+            $(this).tooltipster({
+                trigger: 'hover',
+                autoClose: false,
+                hideOnClick: true,
+                animation: 'fade',
+                animationDuration: 750,
+                distance: 0,
+                maxWidth: 300,
+                side: [ 'right', 'bottom' ],
+                contentCloning: true,  // allow multiple i links with the same tooltip
+                interactive: true, // don't auto-dismiss on mouse activity inside, let user copy text, follow links, ...
+                functionBefore: function (instance, helper) { // close open ones before opening this one
+                    jQuery.each(jQuery.tooltipster.instances(), function(i, instance) {
+                        instance.close();
+                    });
+                },
+            });
+        };
     });
 }
-
 
 function initDownloadModal () {
     // fill in the list of dowload offerings in the Desceriptions and Download modal
@@ -265,6 +120,13 @@ function initDownloadModal () {
     });
 
     COUNTYINFO.datalayers.additionalareas.forEach(function (layerinfo) {
+        if (! layerinfo.downloadfile) return;
+
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
+    });
+
+    COUNTYINFO.datalayers.allareas.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
         const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
@@ -297,13 +159,13 @@ function initDownloadModal () {
     }
 }
 
-
 function initLayerControls () {
     // lay out the checkboxes for the layers described in this county's data profile
     // see also findCheckboxForLayerId() which can look up one of these by the layer id
     const $sections = $('#sidebar div[data-section]');
     const $section_sugg = $sections.filter('[data-section="suggestedareas"]');
     const $section_addl = $sections.filter('[data-section="additionalareas"]');
+    const $section_all = $sections.filter('[data-section="allareas"]');
     const $section_site = $sections.filter('[data-section="sitingcriteria"]');
     const $section_popn = $sections.filter('[data-section="populationdata"]');
     const $section_poi = $sections.filter('[data-section="pointsofinterest"]');
@@ -316,6 +178,10 @@ function initLayerControls () {
         const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
         $section_addl.append($cb);
     });
+    COUNTYINFO.datalayers.allareas.forEach(function (layerinfo) {
+        const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
+        $section_all.append($cb);
+    });
     COUNTYINFO.datalayers.sitingcriteria.forEach(function (layerinfo) {
         const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
         $section_site.append($cb);
@@ -325,8 +191,36 @@ function initLayerControls () {
         $section_popn.append($cb);
     });
     COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
-        const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-        $section_poi.append($cb);
+        if (layerinfo.id == 'supervisorydistricts201') {
+            const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
+            $section_poi.append($cb);
+        }
+        else {
+
+            var $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"><label class="form-check-label" style="align-self: flex-start;" for="layercheckbox-${layerinfo.id}"><i class="fa fa-circle" aria-hidden="true" style="color: ${layerinfo.circle.fillColor};  align-items: flex-start;"></i>&nbsp;${layerinfo.title}</label></div>`);
+            $section_poi.append($cb);
+
+            // only include button if file exists or has data
+            var pathToFile = `data/${COUNTYINFO.countyfp}/` + layerinfo.csvfile;
+            Papa.parse(pathToFile, {
+                download: true,
+                header: true,
+                skipEmptyLines: 'greedy',
+                complete: function (results) {
+                    const numrows = parseInt(results.data.length);
+                    if (numrows == 0) {
+                        const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
+                        $dllink.remove();
+                        $cb.remove();
+                    };
+                },
+                error: function (e) {
+                    const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
+                    $dllink.remove();
+                    $cb.remove();
+                }
+            });
+        }
     });
 
     // check-change behavior on those checkboxes, to toggle layers
@@ -344,6 +238,9 @@ function initLayerControls () {
     }
     if (! COUNTYINFO.datalayers.additionalareas.length) {
         $section_addl.parents('div').first().remove();
+    }
+    if (! COUNTYINFO.datalayers.allareas.length) {
+        $section_all.parents('div').first().remove();
     }
     if (! COUNTYINFO.datalayers.sitingcriteria.length) {
         $section_site.prev('button').remove();
@@ -428,7 +325,6 @@ function initLayerControls () {
     });
 }
 
-
 function initCountyMap () {
     // the map, a fixed basemap, a labels overlay, and our special map controls
     // note the ZoomBar which we add after we have GeoJSON data and therefore a home extent
@@ -443,14 +339,6 @@ function initCountyMap () {
         updateWhenIdle: true
     })
     .addTo(MAP);
-
-    // new L.controlCredits({
-    //     image: './images/greeninfo.png',
-    //     link: 'https://www.greeninfo.org/',
-    //     text: 'Interactive mapping<br/>by GreenInfo Network',
-    //     position: 'bottomleft',
-    // })
-    // .addTo(MAP);
 
     MAP.BASEMAPBAR = new L.Control.BasemapBar({
         position: 'topright',
@@ -527,6 +415,86 @@ function initCountyMap () {
     MAP.createPane('highlights'); MAP.getPane('highlights').style.zIndex = 490;
 }
 
+function initIndicatorData () {
+    const fileurl = `data/${COUNTYINFO.countyfp}/indicator_files/indicator_data.csv`;
+    busySpinner(true);
+    Papa.parse(fileurl, {
+        download: true,
+        header: true,
+        skipEmptyLines: 'greedy',
+        complete: function (results) {
+            // cache indicator data as INDICATORS_BY_TRACT
+            results.data.forEach(function (row) {
+                const geoid = parseInt(row.geoid);  // indicator_data.csv omits leading 0, work around by treating geoids as integers (smh)
+                INDICATORS_BY_TRACT[geoid] = row;
+            });
+            // done
+            busySpinner(false);
+        },
+        error: function (err) {
+            busySpinner(false);
+            console.error(err);
+            // alert(`Problem loading or parsing ${fileurl}`);
+        }
+    });
+}
+
+function initScoredSitesData () {
+    // read in all sites data and create quantile breaks for each field
+    const fileurl = `data/${COUNTYINFO.countyfp}/model_files/all_sites_scored.csv`;
+    busySpinner(true);
+    Papa.parse(fileurl, {
+        download: true,
+        header: true,
+        skipEmptyLines: 'greedy',
+        complete: function (results) {
+            // get breaks for layer quantfield
+            Object.keys(COUNTYINFO.datalayers).forEach(function (groupname) {
+                if (groupname == 'suggestedareas' || groupname == 'additionalareas' || groupname == 'allareas') {
+                    COUNTYINFO.datalayers[groupname].forEach(function (layerinfo) {
+                        const values = results.data.map(function (row) { return row[layerinfo.quantilefield]; });
+                        QUANTILEBREAKS[layerinfo.id] = getBreaks(undefined, values);
+                    });
+                }
+            });   
+            // for individual site scoring, log a lookup of site ID number => site scores, and a lookup of the quantile breaks for these scoring fields
+            // these will be used in showSuggestedSiteInfo() to display details for a single site
+           
+            /*
+            dens.cvap.std: County Percentage of Voting Age Citizens
+            dens.work.std: County Worker Percentage
+            popDens.std: Population Density
+            prc.CarAccess.std: Percent of Population with Vehicle Access
+            prc.ElNonReg.std : Eligible Non-Registered Voter Rate
+            prc.disabled.std: Percent Disabled Population
+            prc.latino.std: Percent Latino Population
+            prc.nonEngProf.std:Percent Limited English Proficient Population
+            prc.pov.std: Percent of the Population in Poverty
+            prc.youth.std: Percent of the Youth Population
+            rate.vbm.std: Vote by Mail Rate (Total)
+            dens.poll.std: Polling Place Voter Percentage
+            */
+            results.data.forEach(function (row) {
+                const siteid = row.idnum;
+                SITESCORES[siteid] = {};
+                SITE_SCORING_FIELDS.forEach(function (fieldname) {
+                    const raw = row[fieldname];
+                    const value = parseFloat(raw);
+                    if (raw && isNaN(value)) console.error(`all_sites_scored.csv found non-numeric value ${raw} in field ${fieldname}`);
+                    SITESCORES[siteid][fieldname] = value;
+                });
+            });
+
+            SITE_SCORING_FIELDS.forEach(function (fieldname) {
+                const values = results.data.map(function (row) { return row[fieldname]; });
+                SITESCOREBREAKS[fieldname] = getBreaks(undefined, values);
+            });
+
+            // done
+            busySpinner(false);
+        },
+    });
+}
 
 function toggleSidebar (desired) {
     const $sidebar = jQuery('#sidebar');
@@ -553,7 +521,6 @@ function toggleSidebar (desired) {
     }
 }
 
-
 function toggleMapLayer (layerid, visible) {
     const layerinfo = getLayerInfoByid(layerid);
     if (! layerinfo) throw new Error(`getLayerInfoByid() no layer named ${layerid}`);
@@ -568,7 +535,7 @@ function toggleMapLayer (layerid, visible) {
         // well, slightly less easy because turning off vote center layers should also stop showing highlights
         // potential bug-like behavior would be turning on multiple suggested areas, highlighting one in one layer, and finding it un-highlghted when turning off the other layer
         // but that's really an edge case, and would be quite difficult to work around
-        const issuggestedarea = layerinfo.breaksource == 'sitescores' && (layerinfo.quantilefield == 'center_score' || layerinfo.quantilefield == 'droppoff_score');
+        const issuggestedarea = layerinfo.quantilefield == 'center_score' || layerinfo.quantilefield == 'droppoff_score';
         if (issuggestedarea) showSuggestedSiteInfo(null);
 
         return;
@@ -598,14 +565,13 @@ function toggleMapLayer (layerid, visible) {
     else if (layerinfo.csvfile) {
         addCsvPointFileToMap(layerinfo);
     }
-    else if (layerinfo.scoresource == 'indicatordata') {
+    else if (layerinfo.layertype == 'indicators') {
         addIndicatorChoroplethToMap(layerinfo);
     }
     else {
         throw new Error(`toggleMapLayer() not sure what to do with ${layerid}`);
     }
 }
-
 
 function getEnabledLayerIds () {
     const $checkboxes = $('#sidebar div[data-section] input[type="checkbox"][name="layers"]');
@@ -614,47 +580,32 @@ function getEnabledLayerIds () {
     return ids;
 }
 
-
 function clearAllSelections () {
     const $checkboxes = $('#sidebar div[data-section] input[type="checkbox"][name="layers"]');
     $checkboxes.prop('checked', false).change();  // these have change handlers
 }
 
-
 function refreshMapLegend () {
-    // compose a list of HTML legends (jQuery items) for all visible layers
+    // compose a list of HTML legends (jQuery items) for visible siting tool layers
     // do this in a few apsses to accommodate multiple types of legend: demographic detailed with break values, simple low-to-high, plain icons with layer title, ...
     const enabledlayerids = getEnabledLayerIds();
     const $collectedlegends = $('<div class="legend"></div>');
 
-    // if there are no layers, then we can simply hide the legend control and be done with it
+    // if there are no layers or only pois, then we can simply hide the legend control and be done with it
     // it only needs all the update code below if we're showing and updating
-    if (! enabledlayerids.length) return MAP.removeControl(MAP.LEGENDCONTROL);
-
-    // simple circle icons with the layer title
+    const enabledlayertypes =  new Set();
     enabledlayerids.forEach(function (layerid) {
         const layerinfo = getLayerInfoByid(layerid);
-        if (layerinfo.legendformat || layerinfo.quantilefield) return;  // uses the more detailed legends, not simple point/circle legend
-        if (! layerinfo.circle) return;  // not a circle icon
-
-        const bgcolor = layerinfo.circle.fillColor;  // this being the "simple" point legends, this is a fixed style color, not a computation
-        const bordercolor = layerinfo.circle.color;
-        const opacity = layerinfo.circle.fillOpacity;
-
-        const $legend = $(`<div class="legend-layer" data-layer-id="${layerinfo.id}"></div>`);
-        const $swatch = $(`<h4><div class="legend-swatch legend-swatch-circle" style="background-color: ${bgcolor}; border-color: ${bordercolor}; opacity: ${opacity};"></div> ${layerinfo.title}</h4>`);
-        $swatch.appendTo($legend);
-
-        // done, add to the list
-        $collectedlegends.append($legend);
+        enabledlayertypes.add(layerinfo.layertype);
     });
+    if (! enabledlayerids.length || enabledlayertypes.has('pois') && enabledlayertypes.size == 1) return MAP.removeControl(MAP.LEGENDCONTROL);
 
     // low-to-high circle swatches, used for site scoring
     enabledlayerids.forEach(function (layerid) {
         const layerinfo = getLayerInfoByid(layerid);
         if (layerinfo.legendformat != 'lowtohigh') return;  // uses the simpler low-to-high legend, not a detailed one like for demographics
         if (! layerinfo.quantilecolors) return;  // no colors defined, that's not right
-
+        
         const $legend = $(`<div class="legend-layer" data-layer-id="${layerinfo.id}"></div>`);
         $(`<h4>${layerinfo.title}</h4>`).appendTo($legend);
 
@@ -675,62 +626,52 @@ function refreshMapLegend () {
         $collectedlegends.append($legend);
     });
 
-    // quantile ramps with detailed break values, e.g. demographics and percentages
+    // indicator layers
     enabledlayerids.forEach(function (layerid) {
         const layerinfo = getLayerInfoByid(layerid);
         if (! layerinfo.legendformat) return;  // no legend format given, skip it
         if (! layerinfo.quantilefield) return;  // not a quantiled color ramp legend, so skip it
         if (layerinfo.legendformat == 'lowtohigh') return;  // uses the simpler low-to-high legend, not a detailed one like for demographics
-
-        const title = layerinfo.title;
-        const breaks = QUANTILEBREAKS[layerinfo.id];
+        
+        const title = layerinfo.title; 
         const colors = layerinfo.quantilecolors;
+        const values = new Array();
+        Object.keys(INDICATORS_BY_TRACT).forEach(function (geoid) {
+            values.push(INDICATORS_BY_TRACT[geoid][layerinfo.scorefield]);
+        });
+        QUANTILEBREAKS[layerinfo.id] = getBreaks(layerinfo, values);
+        let breaks = QUANTILEBREAKS[layerinfo.id];
+        
+        let text = []; 
+        // if county has 5 or fewer tracts or all the same values then show raw values (no under or higher language in legend)
+        if (values.unique().length < 6 || breaks.length == 1) {
+            for (let i=0, l=breaks.length; i<l; i++) {
+                const valuetext = formatValueText(breaks[i], layerinfo.legendformat);
+                text[i] = valuetext;
+            };
+        }
+        else {
+            for (let i=0, l=breaks.length-1; i<l; i++) {
+                const firstvaluetext = formatValueText(breaks[i], layerinfo.legendformat);
+                const nextvaluetext = formatValueText(breaks[i+1], layerinfo.legendformat);
+                text[i] = firstvaluetext + " - " + nextvaluetext;
+            };
+        }
 
         const $legend = $(`<div class="legend-layer" data-layer-id="${layerinfo.id}"></div>`);
         $(`<h4>${title}</h4>`).appendTo($legend);
 
-        // super-duper special workaround for very skewed data: a single value, nodata conditions, ...
-        if (! breaks) {
-            // no breaks at all = fail with a nodata legend
-            const color = NODATA_COLOR;
-            const text = 'No Data';
-            $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${color};"></div> ${text}</div>`).appendTo($legend);
-        }
-        else if (breaks.length == 1) {
-            // single break value = all data have same value = very short special legend
-            const color = colors[0];
-            const text = formatValue(breaks[0], layerinfo.legendformat);
-            $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${color};"></div> ${text}</div>`).appendTo($legend);
-
-            // add the No Data swatch to the end
-            $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
-        }
-        else {
-            // hey, real data with breaks that we can color and print out
-            for (var i=0, l=breaks.length; i<l; i++) {
-                const nextvalue = breaks[i + 1];
-                const isthefirst = i == 0;
-                const isthelast = i == breaks.length - 1;
-
-                const color = colors[i];
-                const value = breaks[i];
-
-                const valuetext = formatValue(value, layerinfo.legendformat);
-                const nextvaluetext = formatValue(nextvalue, layerinfo.legendformat);
-
-                let text;
-                if (isthefirst) text = `Under ${nextvaluetext}`;
-                else if (isthelast) text = `${valuetext} or higher`;
-                else text = `${valuetext} - ${nextvaluetext}`;
-                $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${color};"></div> ${text}</div>`).appendTo($legend);
+        for (let i = 0; i < text.length; i++) {
+            if (text[i] == "0.0%") {
+                $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${colors[i]};"></div> ${text[i]} <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="legend"]'></i></div>`).appendTo($legend);
+            } 
+            else {
+                $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${colors[i]};"></div> ${text[i]}</div>`).appendTo($legend);
             }
-
-            // add the No Data swatch to the end
-            $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
-        }
-
-        // done, add to the list
-        $collectedlegends.append($legend);
+        };
+        
+        // add the legend entry for no data
+        $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
 
         // add the legend entry for unreliable squares
         $(`<div class="legend-entry"><div class="legend-swatch legend-swatch-nodata"></div> Estimates that have a high degree of uncertainty</div>`).appendTo($legend);
@@ -739,13 +680,17 @@ function refreshMapLegend () {
         if (COUNTYINFO.censusfootnote) {
             $(`<div class="legend-entry">${COUNTYINFO.censusfootnote}</div>`).appendTo($legend);
         }
+
+        // done, add to the list
+        $collectedlegends.append($legend);
     });
 
     // send them to the legend control for a refresh
     MAP.addControl(MAP.LEGENDCONTROL);
     MAP.LEGENDCONTROL.updateLegends($collectedlegends);
+    // initialize tooltip for legend
+    initTooltips(); 
 }
-
 
 function addIndicatorChoroplethToMap (layerinfo) {
     // fetch the tracts GeoJSON file and look up scores from the cached indicator data
@@ -763,9 +708,8 @@ function addIndicatorChoroplethToMap (layerinfo) {
                 const indicators = INDICATORS_BY_TRACT[geoid];
                 if (! indicators) { console.debug(`No INDICATORS_BY_TRACT entry for ${geoid}`); return style; }
                 const value = parseFloat(indicators[layerinfo.scorefield]);
-                const breaks = QUANTILEBREAKS[layerinfo.id];
-                const colors = layerinfo.quantilecolors;
-                const thiscolor = pickColorByValue(value, breaks, colors);
+                const colors = layerinfo.quantilecolors;      
+                const thiscolor = pickColorByValue(value, QUANTILEBREAKS[layerinfo.id], colors, layerinfo.legendformat);
 
                 // fill is either the solid color, or else a StripePattern if the data are unreliable
                 // note that L.StripePattern must be added to the Map, but we don't have a way of tracking which ones are in use so they will pile up over time and be a potential memory leak
@@ -791,6 +735,7 @@ function addIndicatorChoroplethToMap (layerinfo) {
         // add to the map and to the registry
         MAP.OVERLAYS[layerinfo.id] = featuregroup;
         featuregroup.addTo(MAP);
+        
     })
     .fail(function (err) {
         busySpinner(false);
@@ -798,7 +743,6 @@ function addIndicatorChoroplethToMap (layerinfo) {
         // alert(`Problem loading or parsing ${tractsurl}`);
     });
 }
-
 
 function addCsvPointFileToMap (layerinfo) {
     const fileurl = `data/${COUNTYINFO.countyfp}/${layerinfo.csvfile}`;
@@ -809,7 +753,6 @@ function addCsvPointFileToMap (layerinfo) {
         skipEmptyLines: 'greedy',
       	complete: function (results) {
             busySpinner(false);
-
             // data fix: standardize lat & lon to numbers
             results.data.forEach(function (row) {
                 row.lat = parseFloat(row.lat);
@@ -819,7 +762,7 @@ function addCsvPointFileToMap (layerinfo) {
             // populate a new FeatureGroup with these circles, markers, whatever
             const featuregroup = L.featureGroup([]);
             results.data.forEach(function (row) {
-                const issuggestedarea = layerinfo.breaksource == 'sitescores' && (layerinfo.quantilefield == 'center_score' || layerinfo.quantilefield == 'droppoff_score');
+                const issuggestedarea = layerinfo.quantilefield == 'center_score' || layerinfo.quantilefield == 'droppoff_score';
                 if (issuggestedarea) {
                     const square = suggestedAreaSymbolizer(layerinfo, row);
                     square.addTo(featuregroup);
@@ -836,12 +779,12 @@ function addCsvPointFileToMap (layerinfo) {
         },
         error: function (err) {
             busySpinner(false);
-            console.error(err);
+            // data may not be available for all counties so ignore
+            // console.error(err);
             // alert(`Problem loading or parsing ${fileurl}`);
         },
     });
 }
-
 
 function addCustomGeoJsonFileToMap (layerinfo) {
     // fetch the custom GeoJSON file and add it to the map, using the given style
@@ -861,7 +804,6 @@ function addCustomGeoJsonFileToMap (layerinfo) {
     });
 }
 
-
 function suggestedAreaSymbolizer (layerinfo, row) {
     // Leaflet hack: a circle bounds can only be computer if the circle is on the map, so we do need to add it for a split-second
     const circle = L.circle([row.lat, row.lon], {radius: layerinfo.circle.radius}).addTo(MAP);
@@ -874,14 +816,7 @@ function suggestedAreaSymbolizer (layerinfo, row) {
         const value = parseFloat(row[layerinfo.quantilefield]);
         const breaks = QUANTILEBREAKS[layerinfo.id];
         const colors = layerinfo.quantilecolors;
-
-        // start with the highest color, work downward until we find our value >=X, and that's our break
-        let color;
-        for (var i=breaks.length-1; i>=0; i--) {
-            if (value >= breaks[i]) { color = colors[i]; break; }
-        }
-
-        squareoptions.fillColor = color;
+        squareoptions.fillColor = pickColorByValue(value, breaks, colors, undefined);
     }
 
     const square = L.rectangle(circle.getBounds(), squareoptions);
@@ -898,7 +833,6 @@ function suggestedAreaSymbolizer (layerinfo, row) {
     return square;
 }
 
-
 function circleSymbolizer (layerinfo, row) {
     // given a point data row and a layerinfo from the county's data profile,
     // return a Leaflet layer (here, a L.Circle) suited to adding to the new layergroup
@@ -909,10 +843,10 @@ function circleSymbolizer (layerinfo, row) {
 
     if (circleoptions.fillColor == 'quantile') {
         const value = parseFloat(row[layerinfo.quantilefield]);
-        const breaks = QUANTILEBREAKS[layerinfo.id];
+        const breaks = QUANTILEBREAKS[layerinfo.idnum];
         const colors = layerinfo.quantilecolors;
 
-        const thiscolor = pickColorByValue(value, breaks, colors);
+        const thiscolor = pickColorByValue(value, breaks, colors, undefined);
         circleoptions.fillColor = thiscolor;
     }
 
@@ -929,15 +863,12 @@ function circleSymbolizer (layerinfo, row) {
 
         if (htmllines.length) {  // no text fields = no lines = no popup
             let popuphtml = htmllines.join('<br />');
-            popuphtml = popupContentPostprocessing(popuphtml, COUNTYINFO.countyfp, layerinfo, row);
-
             circle.bindPopup(popuphtml);
         }
     }
 
     return circle;
 }
-
 
 function getLayerInfoByid (layerid) {
     let foundlayer;
@@ -949,14 +880,12 @@ function getLayerInfoByid (layerid) {
     return foundlayer;
 }
 
-
 function findCheckboxForLayerId (layerid) {
     const $sections = $('#sidebar div[data-section]');
     const $checkbox = $sections.find(`input[type="checkbox"][name="layers"][value="${layerid}"]`);
     if (! $checkbox.length) throw new Error(`findCheckboxForLayerId() no checkbox for ${layerid}`);
     return $checkbox;
 }
-
 
 function showSuggestedSiteInfo (square, row, layerinfo) {
     // passing a single null is OK = stop highlighting any sugegsted site
@@ -997,8 +926,8 @@ function showSuggestedSiteInfo (square, row, layerinfo) {
     MAP.SUGGESTEDAREACONTROL.updateLegend(stats);
 }
 
-
-function formatValue (value, legendformat) {
+function formatValueText (value, legendformat) {
+    // for formatting values read in legend
     let valuetext = value;  // start with the value. format it below with rounding, adding %, whatever
 
     switch (legendformat) {
@@ -1012,61 +941,79 @@ function formatValue (value, legendformat) {
             valuetext = Math.round(value).toLocaleString();
             break;
     }
-
     return valuetext;
 }
 
-
-function calculateModifiedJenksBreaks (values, howmanybreaks) {
-    // ss.jenks() has weird failure modes when fed some non-ideal data, and we get plenty of that!
-    // even with good data, it has some quirky behaviors such as undefined breaks, repeated break values, ...
-    // and we work around those to give back nice, clean breaks ... or else a null
-
-    // run ss.jenks() and let it stay null if there was some critical failure
-    // if there aren't enough data points, try making fewer classes, sometimes it works
-    let howmanybreaksforreal = howmanybreaks;
-    if (howmanybreaks > values.length && values.length > 1) howmanybreaksforreal = values.length;
-    let breaks = null;
-    try { breaks = ss.jenks(values, howmanybreaksforreal); } catch (err) {}
-
-    if (breaks) {
-        // got breaks; good, but still need to clean up the results
-        // then ss.jenks() has some quirky behaviors with monotonous data: undefined breaks, same break numbers, 0s as breaks, ... try to prune these out
-        breaks.length = breaks.length - 1;  // trim the last (max value, not a break)
-        breaks.splice(0, 1);  // trim the first (min value, not a break)
-
-        breaks = breaks.filter(function (value) { return value; }); // remove undefined break points (data with insufficient variation and/or length)
-        breaks = breaks.unique();  // remove duplicate break values (data with insufficient variation)
-
-        breaks.splice(0, 0, 0);  // prepend a 0 so color array is aligned: color 0 = "up to" 1stbreak value
+function formatValue (value, legendformat) {
+    // for rounding raw values to match legend format
+    switch (legendformat) {
+        case 'decimal':
+            value = Number(parseFloat(value).toFixed(1));
+            break;
+        case 'percent':
+            value = Number(parseFloat(value).toFixed(3));
+            break;
+        case 'integer':
+            value = Math.round(value);
+            break;
     }
-    else if (values.length) {
-        // didn't get breaks but we did have data
-        // this means insufficient data values or variation, for Jenks breaks to even give back quirky results
-        // make up a single-value set of breaks, so we can move on
-        breaks = [ values[values.length - 1] ];
-    }
-    // else
-    // we didn't get back breaks, because we had no real data values (0 length or all null/nodata)
-    // just leave it at null, and callers will need to handle that condition
-
-    // done
-    return breaks;
+    return value;
 }
 
-
-function pickColorByValue (value, breaks, colors) {
+function pickColorByValue (value, breaks, colors, legendformat) {
     if (! breaks || isNaN(value)) return NODATA_COLOR;
-
+    
     // start with the highest color, work downward until we find our value >=X, and that's our break
     let color;
-    for (var i=breaks.length-1; i>=0; i--) {
+    if (breaks.length < 6) { var i = breaks.length; } else { var i = breaks.length-2; }; 
+    for (i; i>=0; i--) {
+        // be sure to round values before setting color since values were rounded when creating breaks 
+        if (legendformat) { value = formatValue(value, legendformat) };
         if (value >= breaks[i]) { color = colors[i]; break; }
     }
-
     return color;
 }
 
+function getBreaks (layerinfo, values) {
+    // only use standard quantile breaks if county has more than 5 tracts
+    // otherwise just set breaks as raw values
+    values = values.map(function(value) { return parseFloat(value); }).filter(function(value) { return ! isNaN(value); });
+    values.sort();  
+    const uniquevalues = values.unique();
+    if (uniquevalues.length < 6) {
+        if (layerinfo) {
+            var breaks = new Array();
+            uniquevalues.forEach(function (value) { 
+                breaks.push(formatValue(value, layerinfo.legendformat));
+            });
+        }
+        else {
+            var breaks = uniquevalues;
+        };
+    }
+    else {
+        if (layerinfo) {
+            for (let i=0, l=values.length; i<l; i++) {
+                values[i] = formatValue(values[i], layerinfo.legendformat);
+            };
+        }; 
+        const quantiles = ss.quantile(values, [0, 0.2, 0.4, 0.6, 0.8, 1]);
+        // check if repeat values in quantiles
+        // if so then create artifical quantile to replace repeated value
+        const quantilesunique = Array.from(new Set(quantiles))
+        if (quantiles.length != quantilesunique.length) {
+            for (let i = quantiles.length - 1; i > 0; i--) {
+                if (quantiles[i] === quantiles[i-1]) {
+                    let removed = quantiles.splice(i, 1);
+                }
+            }
+        };
+        // set layer breaks property to final quantile array
+        var breaks = quantiles;
+    };
+    breaks = breaks.unique().sort(function(a,b) { return a - b;});
+    return breaks;
+}
 
 function busySpinner (showit) {
     const $modal = $('#modal-busy');

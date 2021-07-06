@@ -76,9 +76,9 @@
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
     <link rel="stylesheet" href="./sitewide.css?cachebust-b40954767c" />
-    <script src="./sitewide.js?cachebust-b420eb744b"></script>
+    <script src="./sitewide.js?cachebust-774ff0619e"></script>
     <link rel="stylesheet" href="./index.css?cachebust-dce7befece" />
-    <script src="./index.js?cachebust-99fdf359be"></script>
+    <script src="./index.js?cachebust-b4d8a37c38"></script>
 </head>
 <body>
 
@@ -97,6 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
             <li class="nav-item"><a class="nav-link" href="./">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="./whatsnew.html">What's New</a></li>
             <li class="nav-item"><a class="nav-link" href="./accessibility.html">Accessibility</a></li>
             <li class="nav-item"><a class="nav-link" href="./methodology.html">Methodology</a></li>
             <li class="nav-item"><a class="nav-link" href="./acknowledgments.html">Acknowledgments</a></li>
@@ -153,21 +154,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </div>
 <!-- common footer for all pages; see style_footer.css -->
+
 <footer class="footer">
     <div class="container-fluid">
         <div class="row">
             <div class="col-12 col-sm-6">
                 <img src="./images/usc-logo.png" title="University of Southern California Logo" style="margin-right: 10px;" />
-                &copy; 2018 <a href="https://cid.usc.edu/" target="_blank">CID</a>
+                &copy; <span id="copyright-year">2021</span>
+
+                <!-- auto update copyright year -->
+                <script>
+                    document.querySelector('#copyright-year').innerText = new Date().getFullYear();
+                </script>
+
+                <a href="https://cid.usc.edu/" target="_blank">CID</a>
             </div>
-            <!-- <div class="col-12 col-sm-6 text-md-right">
-                Updated by <a href="https://www.greeninfo.org/">GreenInfo Network</a>
-            </div> -->
         </div>
     </div>
 </footer>
-
-
 
 </body>
 </html>

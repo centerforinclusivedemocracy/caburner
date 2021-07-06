@@ -6,65 +6,65 @@
 // outoforder = optional message to display in top-left of county page, indicating that this county data are questionable
 // exceptlayers = skip these layers when loading the data profile, for counties to opt-out from individual layers
 const PARTICIPATING_COUNTIES = [
-    //SSS// We have 3 classes for CA: lite for the 4 VBM counties, fullmodel_pp for polling places, and fullmodel_vc for vote centers
-    { countyfp: "001", name: "Alameda", profile: 'fullmodel_pp', },
+    //SSS// We have 3 classes for CA: lite for the 4 VBM counties, fullmodel for polling places, and fullmodel for vote centers
+    { countyfp: "001", name: "Alameda", profile: 'fullmodel', },
     { countyfp: "003", name: "Alpine", profile: 'lite', },
-    { countyfp: "005", name: "Amador", profile: 'fullmodel_vc', },
+    { countyfp: "005", name: "Amador", profile: 'fullmodel', },
     { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing vote center siting suggestions for this county.", },
-    { countyfp: "009", name: "Calaveras", profile: 'fullmodel_vc', },
-    { countyfp: "011", name: "Colusa", profile: 'fullmodel_pp', },
-    { countyfp: "013", name: "Contra Costa", profile: 'fullmodel_pp', },
-    { countyfp: "015", name: "Del Norte", profile: 'fullmodel_pp', },
-    { countyfp: "017", name: "El Dorado", profile: 'fullmodel_vc', },
-    { countyfp: "019", name: "Fresno", profile: 'fullmodel_vc', },
-    { countyfp: "021", name: "Glenn", profile: 'fullmodel_pp', },
-    { countyfp: "023", name: "Humboldt", profile: 'fullmodel_pp', },
-    { countyfp: "025", name: "Imperial", profile: 'fullmodel_pp', },
-    { countyfp: "027", name: "Inyo", profile: 'fullmodel_pp', },
-    { countyfp: "029", name: "Kern", profile: 'fullmodel_pp', },
-    { countyfp: "031", name: "Kings", profile: 'fullmodel_pp', },
-    { countyfp: "033", name: "Lake", profile: 'fullmodel_pp', },
-    { countyfp: "035", name: "Lassen", profile: 'fullmodel_pp', outoforder:"Vote-by-mail data update in progress." },
-    { countyfp: "037", name: "Los Angeles", profile: 'fullmodel_vc', },
-    { countyfp: "039", name: "Madera", profile: 'fullmodel_vc', },
-    { countyfp: "041", name: "Marin", profile: 'fullmodel_pp', },
-    { countyfp: "043", name: "Mariposa", profile: 'fullmodel_vc', },
-    { countyfp: "045", name: "Mendocino", profile: 'fullmodel_pp', },
-    { countyfp: "047", name: "Merced", profile: 'fullmodel_pp', },
-    { countyfp: "049", name: "Modoc", profile: 'fullmodel_pp', },
-    { countyfp: "051", name: "Mono", profile: 'fullmodel_pp', },
-    { countyfp: "053", name: "Monterey", profile: 'fullmodel_pp', },
-    { countyfp: "055", name: "Napa", profile: 'fullmodel_vc', },
-    { countyfp: "057", name: "Nevada", profile: 'fullmodel_vc', },
-    { countyfp: "059", name: "Orange", profile: 'fullmodel_vc', },
-    { countyfp: "061", name: "Placer", profile: 'fullmodel_pp', },
+    { countyfp: "009", name: "Calaveras", profile: 'fullmodel', },
+    { countyfp: "011", name: "Colusa", profile: 'fullmodel', },
+    { countyfp: "013", name: "Contra Costa", profile: 'fullmodel', },
+    { countyfp: "015", name: "Del Norte", profile: 'fullmodel', },
+    { countyfp: "017", name: "El Dorado", profile: 'fullmodel', },
+    { countyfp: "019", name: "Fresno", profile: 'fullmodel', },
+    { countyfp: "021", name: "Glenn", profile: 'fullmodel', },
+    { countyfp: "023", name: "Humboldt", profile: 'fullmodel', },
+    { countyfp: "025", name: "Imperial", profile: 'fullmodel', },
+    { countyfp: "027", name: "Inyo", profile: 'fullmodel', },
+    { countyfp: "029", name: "Kern", profile: 'fullmodel', },
+    { countyfp: "031", name: "Kings", profile: 'fullmodel', },
+    { countyfp: "033", name: "Lake", profile: 'fullmodel', },
+    { countyfp: "035", name: "Lassen", profile: 'fullmodel', outoforder:"Vote-by-mail data update in progress." },
+    { countyfp: "037", name: "Los Angeles", profile: 'fullmodel', },
+    { countyfp: "039", name: "Madera", profile: 'fullmodel', },
+    { countyfp: "041", name: "Marin", profile: 'fullmodel', },
+    { countyfp: "043", name: "Mariposa", profile: 'fullmodel', },
+    { countyfp: "045", name: "Mendocino", profile: 'fullmodel', },
+    { countyfp: "047", name: "Merced", profile: 'fullmodel', },
+    { countyfp: "049", name: "Modoc", profile: 'fullmodel', },
+    { countyfp: "051", name: "Mono", profile: 'fullmodel', },
+    { countyfp: "053", name: "Monterey", profile: 'fullmodel', },
+    { countyfp: "055", name: "Napa", profile: 'fullmodel', },
+    { countyfp: "057", name: "Nevada", profile: 'fullmodel', },
+    { countyfp: "059", name: "Orange", profile: 'fullmodel', },
+    { countyfp: "061", name: "Placer", profile: 'fullmodel', },
     { countyfp: "063", name: "Plumas", profile: 'lite', },
-    { countyfp: "065", name: "Riverside", profile: 'fullmodel_pp', },
-    { countyfp: "067", name: "Sacramento", profile: 'fullmodel_vc', },
-    { countyfp: "069", name: "San Benito", profile: 'fullmodel_pp', },
-    { countyfp: "071", name: "San Bernardino", profile: 'fullmodel_pp', },
-    { countyfp: "073", name: "San Diego", profile: 'fullmodel_pp', },
-    { countyfp: "075", name: "San Francisco", profile: 'fullmodel_pp', },
-    { countyfp: "077", name: "San Joaquin", profile: 'fullmodel_pp', },
-    { countyfp: "079", name: "San Luis Obispo", profile: 'fullmodel_pp', },
-    { countyfp: "081", name: "San Mateo", profile: 'fullmodel_vc', },
-    { countyfp: "083", name: "Santa Barbara", profile: 'fullmodel_pp', },
-    { countyfp: "085", name: "Santa Clara", profile: 'fullmodel_vc', },
-    { countyfp: "087", name: "Santa Cruz", profile: 'fullmodel_pp', },
-    { countyfp: "089", name: "Shasta", profile: 'fullmodel_pp', },
+    { countyfp: "065", name: "Riverside", profile: 'fullmodel', },
+    { countyfp: "067", name: "Sacramento", profile: 'fullmodel', },
+    { countyfp: "069", name: "San Benito", profile: 'fullmodel', },
+    { countyfp: "071", name: "San Bernardino", profile: 'fullmodel', },
+    { countyfp: "073", name: "San Diego", profile: 'fullmodel', },
+    { countyfp: "075", name: "San Francisco", profile: 'fullmodel', },
+    { countyfp: "077", name: "San Joaquin", profile: 'fullmodel', },
+    { countyfp: "079", name: "San Luis Obispo", profile: 'fullmodel', },
+    { countyfp: "081", name: "San Mateo", profile: 'fullmodel', },
+    { countyfp: "083", name: "Santa Barbara", profile: 'fullmodel', },
+    { countyfp: "085", name: "Santa Clara", profile: 'fullmodel', },
+    { countyfp: "087", name: "Santa Cruz", profile: 'fullmodel', },
+    { countyfp: "089", name: "Shasta", profile: 'fullmodel', },
     { countyfp: "091", name: "Sierra", profile: 'lite', },
-    { countyfp: "093", name: "Siskiyou", profile: 'fullmodel_pp', },
-    { countyfp: "095", name: "Solano", profile: 'fullmodel_pp', },
-    { countyfp: "097", name: "Sonoma", profile: 'fullmodel_pp', },
-    { countyfp: "099", name: "Stanislaus", profile: 'fullmodel_pp', },
-    { countyfp: "101", name: "Sutter", profile: 'fullmodel_pp', },
-    { countyfp: "103", name: "Tehama", profile: 'fullmodel_pp', },
-    { countyfp: "105", name: "Trinity", profile: 'fullmodel_pp', },
-    { countyfp: "107", name: "Tulare", profile: 'fullmodel_pp', },
-    { countyfp: "109", name: "Tuolumne", profile: 'fullmodel_vc', },
-    { countyfp: "111", name: "Ventura", profile: 'fullmodel_pp', },
-    { countyfp: "113", name: "Yolo", profile: 'fullmodel_pp', },
-    { countyfp: "115", name: "Yuba", profile: 'fullmodel_pp', },
+    { countyfp: "093", name: "Siskiyou", profile: 'fullmodel', },
+    { countyfp: "095", name: "Solano", profile: 'fullmodel', },
+    { countyfp: "097", name: "Sonoma", profile: 'fullmodel', },
+    { countyfp: "099", name: "Stanislaus", profile: 'fullmodel', },
+    { countyfp: "101", name: "Sutter", profile: 'fullmodel', },
+    { countyfp: "103", name: "Tehama", profile: 'fullmodel', },
+    { countyfp: "105", name: "Trinity", profile: 'fullmodel', },
+    { countyfp: "107", name: "Tulare", profile: 'fullmodel', },
+    { countyfp: "109", name: "Tuolumne", profile: 'fullmodel', },
+    { countyfp: "111", name: "Ventura", profile: 'fullmodel', },
+    { countyfp: "113", name: "Yolo", profile: 'fullmodel', },
+    { countyfp: "115", name: "Yuba", profile: 'fullmodel', },
   ];
 
 const getParticipatingCountyInfo = function (countyfp) {
@@ -84,6 +84,9 @@ const getParticipatingCountyInfo = function (countyfp) {
             return returnme.exceptlayers.indexOf(layerinfo.id) === -1;
         });
         returnme.datalayers.additionalareas = returnme.datalayers.additionalareas.filter(function (layerinfo) {
+            return returnme.exceptlayers.indexOf(layerinfo.id) === -1;
+        });
+        returnme.datalayers.allareas = returnme.datalayers.allareas.filter(function (layerinfo) {
             return returnme.exceptlayers.indexOf(layerinfo.id) === -1;
         });
         returnme.datalayers.pointsofinterest = returnme.datalayers.pointsofinterest.filter(function (layerinfo) {
@@ -136,14 +139,6 @@ const BASEMAP_OPTIONS = [
         url: 'https://api.mapbox.com/styles/v1/scottstetkiewicz/ckfn0guxg50bg19lv2rdg6k6l/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoic2NvdHRzdGV0a2lld2ljeiIsImEiOiJja2ZtdWhmd2wxZ2sxMnptajZ0OHo4MXNsIn0.bisTYuQf8wxsaAbuhWeJew',
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
     },
-    /*
-    {
-        type: 'xyz',
-        label: 'Map',
-        url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
-        attribution: 'Map tiles by <a target="_blank" href="http://www.mapbox.com">MapBox</a>.<br />Data &copy; <a target="_blank" href="http://openstreetmap.org/copyright" target="_blank">OpenStreetMap contributings</a>',
-    },
-    */
     {
         type: 'xyz',
         label: 'Satellite',
@@ -191,259 +186,297 @@ DATA_LAYERS.four_day_sites = {
     title: "Suggested Areas for 4 Day Vote Centers",
     csvfile: 'model_files/four_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
-    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
+    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/four_day_sites_shp.zip',
+    radiogroup: 'suggestedsites',
+    layertype: 'sites'
 };
+
 DATA_LAYERS.eleven_day_sites = {
     id: 'eleven_day_sites',
     title: "Suggested Areas for 11 Day Vote Centers",
     csvfile: 'model_files/eleven_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
-    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
+    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/eleven_day_sites_shp.zip',
+    radiogroup: 'suggestedsites',
+    layertype: 'sites'
 };
 DATA_LAYERS.dropbox_sites = {
     id: 'dropbox_sites',
     title: "Suggested Areas for Ballot Drop Boxes",
     csvfile: 'model_files/dropbox_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'red', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
-    quantilefield: 'droppoff_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
+    quantilefield: 'droppoff_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/dropbox_sites_shp.zip',
+    layertype: 'sites'
 };
 DATA_LAYERS.all_sites_scored = {
     id: 'all_sites_scored',
     title: "All Potential Areas",
     csvfile: 'model_files/all_sites_scored.csv',
     circle: { radius: 400, opacity: 0.8, color: '#fcc5c0', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
-    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
+    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/all_sites_scored_shp.zip',
+    layertype: 'sites'
 };
 DATA_LAYERS.additional_sites_model = {
     id: 'additional_sites_model',
     title: "Additional Vote Center Options Based on Model",
     csvfile: 'model_files/additional_sites_model.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
-    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
+    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
     mapzindex: 'medium',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_model_shp.zip',
+    radiogroup: 'additionalsites',
+    layertype: 'sites'
 };
 DATA_LAYERS.additional_sites_distance = {
     id: 'additional_sites_distance',
     title: "Additional Vote Center Options Based on Distance",
     csvfile: 'model_files/additional_sites_distance.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
-    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
+    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
     mapzindex: 'medium',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_distance_shp.zip',
+    radiogroup: 'additionalsites',
+    layertype: 'sites'
+};
+DATA_LAYERS.cvapdens = {
+    id: 'cvapdens',
+    title: "Percent of County Voting Age Citizens",
+    scorefield:  'cvapdens',
+    quantilefield: 'cvapdens', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.job_dens = {
+    id: 'job_dens',
+    title: "Percent of County Workers",
+    scorefield:  'job_dens',
+    quantilefield: 'job_dens', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.tot_elignonreg_prc = {
+    id: 'tot_elignonreg_prc',
+    title: "Percent of Eligible Voters Not Registered",
+    scorefield:  'tot_elignonreg_prc_final',
+    quantilefield: 'tot_elignonreg_prc_final' , quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prcdisabled = {
+    id: 'prcdisabled',
+    title: "Disabilities Percent of Population",
+    scorefield:  'prcdisabled_final',
+    quantilefield: 'prcdisabled_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_nonengprof = {
+    id: 'prc_nonengprof',
+    title: "Limited English Proficient Percent of Population",
+    scorefield:  'prc_nonengprof_final',
+    quantilefield: 'prc_nonengprof_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_caraccess_final = {
+    id: 'prc_caraccess_final',
+    title: "Percent of Population with Vehicle Access",
+    scorefield:  'prc_caraccess_final',
+    quantilefield: 'prc_caraccess_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_pov_final = {
+    id: 'prc_pov_final',
+    title: "Percent of the Population in Poverty",
+    scorefield:  'prc_pov_final',
+    quantilefield: 'prc_pov_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_youth_final = {
+    id: 'prc_youth_final',
+    title: "Youth Percent of Population",
+    scorefield:  'prc_youth_final',
+    quantilefield: 'prc_youth_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.pollvoter_dens = {
+    id: 'pollvoter_dens',
+    title: "2016 Voting Location Voter Percentage",
+    scorefield:  'pollvoter_dens',
+    quantilefield: 'pollvoter_dens', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.popdens = {
+    id: 'popdens',
+    title: "Population Density (per sq km)",
+    scorefield:  'popdens',
+    quantilefield: 'popdens', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'integer',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.vbm_rate_tot = {
+    id: 'vbm_rate_tot',
+    title: "2016 Vote by Mail Rate (Total)",
+    scorefield:  'vbm_rate_tot',
+    quantilefield: 'vbm_rate_tot', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.vbm_rate_asn = {
+    id: 'vbm_rate_asn',
+    title: "2016 Vote by Mail Rate (Asian-American)",
+    scorefield:  'vbm_rate_asn',
+    quantilefield: 'vbm_rate_asn', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.vbm_rate_lat = {
+    id: 'vbm_rate_lat',
+    title: "2016 Vote by Mail Rate (Latino)",
+    scorefield:  'vbm_rate_lat',
+    quantilefield: 'vbm_rate_lat', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.vbm_rate_youth = {
+    id: '2016 vbm_rate_youth',
+    title: "2016 Vote by Mail Rate (Youth)",
+    scorefield:  'vbm_rate_youth',
+    quantilefield: 'vbm_rate_youth', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_black = {
+    id: 'prc_black',
+    title: "African-American Percent of Population",
+    scorefield: 'prc_black',
+    quantilefield: 'prc_black', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_asian = {
+    id: 'prc_asian',
+    title: "Asian-American Percent of Population",
+    scorefield: 'prc_asian',
+    quantilefield: 'prc_asian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_latino = {
+    id: 'prc_latino',
+    title: "Latino Percent of Population",
+    scorefield: 'prc_latino',
+    quantilefield: 'prc_latino', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_white = {
+    id: 'prc_white',
+    title: "White Percent of Population",
+    scorefield: 'prc_white',
+    quantilefield: 'prc_white', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
 };
 DATA_LAYERS.pripoll2020 = {
     id: 'pripoll2020',
     title: "2020 Primary Polling Place Locations",
     csvfile: 'point_files/primary_pollingplaces_2020.csv',
-    circle: { radius: 10, color: 'black', fillColor: 'gray', fillOpacity: 0.6, opacity: 0.6, },
+    circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 4, },
     popupnamefield: 'name',
     popuptypetext: '2020 Primary Polling Place Location',
     downloadfile: 'point_files/primary_pollingplaces_2020.csv',
+    mapzindex: 'highest',
+    layertype: 'pois'
 };
 DATA_LAYERS.pricenter2020 = {
     id: 'pricenter2020',
     title: "2020 Primary Vote Center Locations",
     csvfile: 'point_files/primary_votecenters_2020.csv',
-    circle: { radius: 10, color: 'black', fillColor: 'gray', fillOpacity: 0.6, opacity: 0.6, },
+    circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 4,  },
     popupnamefield: 'name',
     popuptypetext: '2020 Primary Vote Center Location',
     downloadfile: 'point_files/primary_votecenters_2020.csv',
+    mapzindex: 'highest',
+    layertype: 'pois'
 };
 DATA_LAYERS.transit_stops = {
     id: 'transit_stops',
     title: "Transit Stops",
     csvfile: 'point_files/transit_stops_latlononly.csv',
-    circle: { color: 'darkred', fillColor: 'darkred', fillOpacity: 0.6, radius: 10, opacity: 0.6, },
+    circle: { radius: 20, color: '#008817', opacity: 1, fillColor: '#008817', fillOpacity: 1, weight: 4, },
     downloadfile: 'point_files/transit_stops.csv',
-};
-DATA_LAYERS.cvapdens = {
-    id: 'cvapdens',
-    title: "Percent of County Voting Age Citizens",
-    scoresource: 'indicatordata', scorefield:  'cvapdens',
-    quantilefield: 'cvapdens', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.job_dens = {
-    id: 'job_dens',
-    title: "Percent of County Workers",
-    scoresource: 'indicatordata', scorefield:  'job_dens',
-    quantilefield: 'job_dens', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.tot_elignonreg_prc = {
-    id: 'tot_elignonreg_prc',
-    title: "Percent of Eligible Voters Not Registered",
-    scoresource: 'indicatordata', scorefield:  'tot_elignonreg_prc_final',
-    quantilefield: 'tot_elignonreg_prc_final' , quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.prcdisabled = {
-    id: 'prcdisabled',
-    title: "Disabilities Percent of Population",
-    scoresource: 'indicatordata', scorefield:  'prcdisabled_final',
-    quantilefield: 'prcdisabled_final', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.prc_nonengprof = {
-    id: 'prc_nonengprof',
-    title: "Limited English Proficient Percent of Population",
-    scoresource: 'indicatordata', scorefield:  'prc_nonengprof_final',
-    quantilefield: 'prc_nonengprof_final', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.prc_caraccess_final = {
-    id: 'prc_caraccess_final',
-    title: "Percent of Population with Vehicle Access",
-    scoresource: 'indicatordata', scorefield:  'prc_caraccess_final',
-    quantilefield: 'prc_caraccess_final', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.prc_pov_final = {
-    id: 'prc_pov_final',
-    title: "Percent of the Population in Poverty",
-    scoresource: 'indicatordata', scorefield:  'prc_pov_final',
-    quantilefield: 'prc_pov_final', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.prc_youth_final = {
-    id: 'prc_youth_final',
-    title: "Youth Percent of Population",
-    scoresource: 'indicatordata', scorefield:  'prc_youth_final',
-    quantilefield: 'prc_youth_final', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.pollvoter_dens = {
-    id: 'pollvoter_dens',
-    title: "2016 Polling Place Voter Percentage",
-    scoresource: 'indicatordata', scorefield:  'pollvoter_dens',
-    quantilefield: 'pollvoter_dens', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.popdens = {
-    id: 'popdens',
-    title: "Population Density (per sq km)",
-    scoresource: 'indicatordata', scorefield:  'popdens',
-    quantilefield: 'popdens', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'integer',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.vbm_rate_tot = {
-    id: 'vbm_rate_tot',
-    title: "2016 Vote by Mail Rate (Total)",
-    scoresource: 'indicatordata', scorefield:  'vbm_rate_tot',
-    quantilefield: 'vbm_rate_tot', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.vbm_rate_asn = {
-    id: 'vbm_rate_asn',
-    title: "2016 Vote by Mail Rate (Asian-American)",
-    scoresource: 'indicatordata', scorefield:  'vbm_rate_asn',
-    quantilefield: 'vbm_rate_asn', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.vbm_rate_lat = {
-    id: 'vbm_rate_lat',
-    title: "2016 Vote by Mail Rate (Latino)",
-    scoresource: 'indicatordata', scorefield:  'vbm_rate_lat',
-    quantilefield: 'vbm_rate_lat', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.vbm_rate_youth = {
-    id: '2016 vbm_rate_youth',
-    title: "2016 Vote by Mail Rate (Youth)",
-    scoresource: 'indicatordata', scorefield:  'vbm_rate_youth',
-    quantilefield: 'vbm_rate_youth', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.prc_black = {
-    id: 'prc_black',
-    title: "African-American Percent of Population",
-    scoresource: 'indicatordata', scorefield: 'prc_black',
-    quantilefield: 'prc_black', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.prc_asian = {
-    id: 'prc_asian',
-    title: "Asian-American Percent of Population",
-    scoresource: 'indicatordata', scorefield: 'prc_asian',
-    quantilefield: 'prc_asian', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.prc_latino = {
-    id: 'prc_latino',
-    title: "Latino Percent of Population",
-    scoresource: 'indicatordata', scorefield: 'prc_latino',
-    quantilefield: 'prc_latino', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-};
-DATA_LAYERS.prc_white = {
-    id: 'prc_white',
-    title: "White Percent of Population",
-    scoresource: 'indicatordata', scorefield: 'prc_white',
-    quantilefield: 'prc_white', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
+    mapzindex: 'highest',
+    layertype: 'pois'
 };
 DATA_LAYERS.poi_govish = {
     id: 'poi_govish',
-    title: "Points of Interest (Government)",
+    title: "OpenStreetMap Points of Interest (Government)",
     csvfile: 'point_files/poi_govish.csv',
-    circle: { radius: 35, color: 'red', fillColor: 'darkorange', fillOpacity: 0.45, opacity: 0.5, },
+    circle: { radius: 20, color: '#FF7300', opacity: 1, fillColor: '#FF7300', weight: 4, },
     popupnamefield: 'name',
     popuptypefield: 'fclass',
     mapzindex: 'highest',
     downloadfile: 'point_files/poi_govish.csv',
+    layertype: 'pois'
 };
 DATA_LAYERS.poi_misc = {
     id: 'poi_misc',
-    title: "Points of Interest (Non-Government)",
+    title: "OpenStreetMap Points of Interest (Non-Government)",
     csvfile: 'point_files/poi_misc.csv',
-    circle: { radius: 35, color: 'darkred', fillColor: 'darkred', fillOpacity: 0.45, opacity: 0.5, },
+    circle: { radius: 20, color: '#FFDD00', opactiy: 1, fillColor: '#FFDD00', fillOpacity: 1, weight: 4, },
     popupnamefield: 'name',
     popuptypefield: 'fclass',
     mapzindex: 'highest',
     downloadfile: 'point_files/poi_misc.csv',
+    layertype: 'pois'
 };
 DATA_LAYERS.poi = {
     id: 'poi',
-    title: "Points of Interest (All)",
+    title: "OpenStreetMap Points of Interest (All)",
     csvfile: 'point_files/poi.csv',
-    circle: { radius: 35, color: 'black', fillColor: 'gray', fillOpacity: 0.45, opacity: 0.5, },
+    circle: { radius: 20, color: '#6A0074', opacity: 1, fillColor: '#6A0074', fillOpacity: 1, weight: 4, },
     popupnamefield: 'name',
     popuptypefield: 'fclass',
     mapzindex: 'highest',
     downloadfile: 'point_files/poi.csv',
+    layertype: 'pois'
 };
 
 // and now the data profiles, which are collections of DATA_LAYERS to offer to each county
@@ -451,12 +484,15 @@ DATA_LAYERS.poi = {
 // lite = all layers EXCEPT suggested areas
 const DATA_PROFILES = {};
 
-DATA_PROFILES.fullmodel_pp = {
+DATA_PROFILES.fullmodel = {
     suggestedareas: [
-        DATA_LAYERS.four_day_sites, DATA_LAYERS.eleven_day_sites, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
+        DATA_LAYERS.four_day_sites, DATA_LAYERS.eleven_day_sites, DATA_LAYERS.dropbox_sites,
     ],
     additionalareas: [
         DATA_LAYERS.additional_sites_model, DATA_LAYERS.additional_sites_distance,
+    ],
+    allareas: [
+        DATA_LAYERS.all_sites_scored,
     ],
     sitingcriteria: [
         DATA_LAYERS.cvapdens, DATA_LAYERS.job_dens,
@@ -477,38 +513,6 @@ DATA_PROFILES.fullmodel_pp = {
     ],
     pointsofinterest: [
         DATA_LAYERS.pripoll2020,
-        DATA_LAYERS.transit_stops,
-        DATA_LAYERS.poi_govish, 
-        DATA_LAYERS.poi_misc, 
-        DATA_LAYERS.poi,
-    ],
-};
-
-DATA_PROFILES.fullmodel_vc = {
-    suggestedareas: [
-        DATA_LAYERS.four_day_sites, DATA_LAYERS.eleven_day_sites, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
-    ],
-    additionalareas: [
-        DATA_LAYERS.additional_sites_model, DATA_LAYERS.additional_sites_distance,
-    ],
-    sitingcriteria: [
-        DATA_LAYERS.cvapdens, DATA_LAYERS.job_dens,
-        DATA_LAYERS.tot_elignonreg_prc,
-        DATA_LAYERS.prc_caraccess_final, DATA_LAYERS.prc_pov_final, 
-        DATA_LAYERS.popdens,
-        DATA_LAYERS.pollvoter_dens,
-        DATA_LAYERS.vbm_rate_tot, DATA_LAYERS.vbm_rate_asn, DATA_LAYERS.vbm_rate_lat, DATA_LAYERS.vbm_rate_youth,
-    ],
-    populationdata: [
-        DATA_LAYERS.prc_black, 
-        DATA_LAYERS.prc_asian,
-        DATA_LAYERS.prc_latino, 
-        DATA_LAYERS.prc_white, 
-        DATA_LAYERS.prc_youth_final,
-        DATA_LAYERS.prcdisabled, 
-        DATA_LAYERS.prc_nonengprof, 
-    ],
-    pointsofinterest: [
         DATA_LAYERS.pricenter2020,
         DATA_LAYERS.transit_stops,
         DATA_LAYERS.poi_govish, 
@@ -517,34 +521,13 @@ DATA_PROFILES.fullmodel_vc = {
     ],
 };
 
-// DATA_PROFILES.fullmodelTEMP = {
-//     suggestedareas: [
-//         DATA_LAYERS.four_day_sites, DATA_LAYERS.eleven_day_sites, DATA_LAYERS.dropbox_sites, DATA_LAYERS.all_sites_scored,
-//     ],
-//     additionalareas: [
-//         DATA_LAYERS.additional_sites_model, DATA_LAYERS.additional_sites_distance,
-//     ],
-//     sitingcriteria: [
-//         DATA_LAYERS.transit_stops,
-//         DATA_LAYERS.cvapdens, DATA_LAYERS.job_dens,
-//         DATA_LAYERS.tot_elignonreg_prc,
-//         DATA_LAYERS.prcdisabled, DATA_LAYERS.prc_nonengprof, DATA_LAYERS.prc_caraccess_final, DATA_LAYERS.prc_pov_final, DATA_LAYERS.prc_youth_final,
-//         DATA_LAYERS.pollvoter_dens,
-//         DATA_LAYERS.popdens,
-//     ],
-//     populationdata: [
-//         DATA_LAYERS.prc_black, DATA_LAYERS.prc_asian, DATA_LAYERS.prc_latino, DATA_LAYERS.prc_white,
-//     ],
-//     pointsofinterest: [
-//         DATA_LAYERS.pripoll2020,DATA_LAYERS.poi_govish, DATA_LAYERS.poi_misc, DATA_LAYERS.poi,
-//     ],
-// };
-
-DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel_vc);
+DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel);
 DATA_PROFILES.lite.suggestedareas = [];
 DATA_PROFILES.lite.additionalareas = [];
+DATA_PROFILES.lite.allareas = [];
 DATA_PROFILES.lite.pointsofinterest = [
           DATA_LAYERS.pripoll2020,
+          DATA_LAYERS.pricenter2020,
 ];
 DATA_PROFILES.lite.sitingcriteria = [
         DATA_LAYERS.cvapdens, DATA_LAYERS.job_dens,

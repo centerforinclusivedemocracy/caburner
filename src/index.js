@@ -14,14 +14,6 @@ function initStatewideMap () {
         minZoom: 6,
     });
 
-    // new L.controlCredits({
-    //     image: './images/greeninfo.png',
-    //     link: 'https://www.greeninfo.org/',
-    //     text: 'Interactive mapping<br/>by GreenInfo Network',
-    //     position: 'bottomright',
-    // })
-    // .addTo(MAP);
-
     L.control.scale({
         position: 'bottomleft',
         updateWhenIdle: true
@@ -59,9 +51,7 @@ function initStatewideMap () {
                 if (! countyinfo) return BOUNDSTYLE_DEFAULT;  // not participating, default style
 
                 switch (countyinfo.profile) {
-                    case 'fullmodel_vc':
-                    case 'fullmodel_pp':
-                    case 'fullexceptsuggested':
+                    case 'fullmodel':
                         return BOUNDSTYLE_FULL;
                     case 'lite':
                         return BOUNDSTYLE_LITE;
@@ -81,11 +71,7 @@ function initStatewideMap () {
                 let message = 'Not analyzed';
                 if (countyinfo) {
                     switch (countyinfo.profile) {
-                        case 'fullmodel_vc':
-                        case 'fullexceptsuggested':
-                            message = 'Suggested Voting Centers';
-                            break;
-                        case 'fullmodel_pp':
+                        case 'fullmodel':
                             message = 'Suggested Voting Locations';
                             break;
                         case 'lite':
