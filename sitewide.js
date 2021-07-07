@@ -330,7 +330,7 @@ DATA_LAYERS.prc_youth_final = {
 };
 DATA_LAYERS.pollvoter_dens = {
     id: 'pollvoter_dens',
-    title: "2016 Voting Location Voter Percentage",
+    title: "2020 Voting Location Voter Percentage",
     scorefield:  'pollvoter_dens',
     quantilefield: 'pollvoter_dens', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
@@ -348,7 +348,7 @@ DATA_LAYERS.popdens = {
 };
 DATA_LAYERS.vbm_rate_tot = {
     id: 'vbm_rate_tot',
-    title: "2016 Vote by Mail Rate (Total)",
+    title: "2020 Vote by Mail Rate (Total)",
     scorefield:  'vbm_rate_tot',
     quantilefield: 'vbm_rate_tot', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
@@ -357,7 +357,7 @@ DATA_LAYERS.vbm_rate_tot = {
 };
 DATA_LAYERS.vbm_rate_asn = {
     id: 'vbm_rate_asn',
-    title: "2016 Vote by Mail Rate (Asian-American)",
+    title: "2020 Vote by Mail Rate (Asian-American)",
     scorefield:  'vbm_rate_asn',
     quantilefield: 'vbm_rate_asn', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
@@ -366,7 +366,7 @@ DATA_LAYERS.vbm_rate_asn = {
 };
 DATA_LAYERS.vbm_rate_lat = {
     id: 'vbm_rate_lat',
-    title: "2016 Vote by Mail Rate (Latino)",
+    title: "2020 Vote by Mail Rate (Latino)",
     scorefield:  'vbm_rate_lat',
     quantilefield: 'vbm_rate_lat', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
@@ -374,8 +374,8 @@ DATA_LAYERS.vbm_rate_lat = {
     layertype: 'indicators'
 };
 DATA_LAYERS.vbm_rate_youth = {
-    id: '2016 vbm_rate_youth',
-    title: "2016 Vote by Mail Rate (Youth)",
+    id: 'vbm_rate_youth',
+    title: "2020 Vote by Mail Rate (Youth)",
     scorefield:  'vbm_rate_youth',
     quantilefield: 'vbm_rate_youth', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
@@ -422,7 +422,7 @@ DATA_LAYERS.pripoll2020 = {
     id: 'pripoll2020',
     title: "2020 Primary Polling Place Locations",
     csvfile: 'point_files/primary_pollingplaces_2020.csv',
-    circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 4, },
+    circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 2, },
     popupnamefield: 'name',
     popuptypetext: '2020 Primary Polling Place Location',
     downloadfile: 'point_files/primary_pollingplaces_2020.csv',
@@ -433,7 +433,7 @@ DATA_LAYERS.pricenter2020 = {
     id: 'pricenter2020',
     title: "2020 Primary Vote Center Locations",
     csvfile: 'point_files/primary_votecenters_2020.csv',
-    circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 4,  },
+    circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 2,  },
     popupnamefield: 'name',
     popuptypetext: '2020 Primary Vote Center Location',
     downloadfile: 'point_files/primary_votecenters_2020.csv',
@@ -444,7 +444,7 @@ DATA_LAYERS.transit_stops = {
     id: 'transit_stops',
     title: "Transit Stops",
     csvfile: 'point_files/transit_stops_latlononly.csv',
-    circle: { radius: 20, color: '#008817', opacity: 1, fillColor: '#008817', fillOpacity: 1, weight: 4, },
+    circle: { radius: 20, color: '#008817', opacity: 1, fillColor: '#008817', fillOpacity: 1, weight: 2, },
     downloadfile: 'point_files/transit_stops.csv',
     mapzindex: 'highest',
     layertype: 'pois'
@@ -453,7 +453,7 @@ DATA_LAYERS.poi_govish = {
     id: 'poi_govish',
     title: "OpenStreetMap Points of Interest (Government)",
     csvfile: 'point_files/poi_govish.csv',
-    circle: { radius: 20, color: '#FF7300', opacity: 1, fillColor: '#FF7300', fillOpacity: 1, weight: 4, },
+    circle: { radius: 20, color: '#FF7300', opacity: 1, fillColor: '#FF7300', fillOpacity: 1, weight: 2, },
     popupnamefield: 'name',
     popuptypefield: 'fclass',
     mapzindex: 'highest',
@@ -464,7 +464,7 @@ DATA_LAYERS.poi_misc = {
     id: 'poi_misc',
     title: "OpenStreetMap Points of Interest (Non-Government)",
     csvfile: 'point_files/poi_misc.csv',
-    circle: { radius: 20, color: '#FFDD00', opactiy: 1, fillColor: '#FFDD00', fillOpacity: 1, weight: 4, },
+    circle: { radius: 20, color: '#FFDD00', opactiy: 1, fillColor: '#FFDD00', fillOpacity: 1, weight: 2, },
     popupnamefield: 'name',
     popuptypefield: 'fclass',
     mapzindex: 'highest',
@@ -475,7 +475,7 @@ DATA_LAYERS.poi = {
     id: 'poi',
     title: "OpenStreetMap Points of Interest (All)",
     csvfile: 'point_files/poi.csv',
-    circle: { radius: 20, color: '#6A0074', opacity: 1, fillColor: '#6A0074', fillOpacity: 1, weight: 4, },
+    circle: { radius: 20, color: '#6A0074', opacity: 1, fillColor: '#6A0074', fillOpacity: 1, weight: 2, },
     popupnamefield: 'name',
     popuptypefield: 'fclass',
     mapzindex: 'highest',

@@ -4,6 +4,7 @@ const QUANTILEBREAKS = {}; // contains quantile breaks by layerid
 const INDICATORS_BY_TRACT = {}; // contains indicator data by geoid
 const SITESCOREBREAKS = {}; // contains quantile breaks by site score field (displayed in characteristics of suggested area popup)
 const SITESCORES = {};  // contains site score data by site id
+const RAWVALS = {}; // contains whether quantile breaks uses raw values by layerid
 
 
 $(document).ready(function () {
@@ -191,36 +192,29 @@ function initLayerControls () {
         $section_popn.append($cb);
     });
     COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
-        if (layerinfo.id == 'supervisorydistricts201') {
-            const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-            $section_poi.append($cb);
-        }
-        else {
+        var $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"><label class="form-check-label" style="align-self: flex-start;" for="layercheckbox-${layerinfo.id}"><i class="fa fa-circle" aria-hidden="true" style="color: ${layerinfo.circle.fillColor};  align-items: flex-start;"></i>&nbsp;${layerinfo.title}</label></div>`);
+        $section_poi.append($cb);
 
-            var $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"><label class="form-check-label" style="align-self: flex-start;" for="layercheckbox-${layerinfo.id}"><i class="fa fa-circle" aria-hidden="true" style="color: ${layerinfo.circle.fillColor};  align-items: flex-start;"></i>&nbsp;${layerinfo.title}</label></div>`);
-            $section_poi.append($cb);
-
-            // only include button if file exists or has data
-            var pathToFile = `data/${COUNTYINFO.countyfp}/` + layerinfo.csvfile;
-            Papa.parse(pathToFile, {
-                download: true,
-                header: true,
-                skipEmptyLines: 'greedy',
-                complete: function (results) {
-                    const numrows = parseInt(results.data.length);
-                    if (numrows == 0) {
-                        const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
-                        $dllink.remove();
-                        $cb.remove();
-                    };
-                },
-                error: function (e) {
+        // only include button if file exists or has data
+        var pathToFile = `data/${COUNTYINFO.countyfp}/` + layerinfo.csvfile;
+        Papa.parse(pathToFile, {
+            download: true,
+            header: true,
+            skipEmptyLines: 'greedy',
+            complete: function (results) {
+                const numrows = parseInt(results.data.length);
+                if (numrows == 0) {
                     const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
                     $dllink.remove();
                     $cb.remove();
-                }
-            });
-        }
+                };
+            },
+            error: function (e) {
+                const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
+                $dllink.remove();
+                $cb.remove();
+            }
+        });
     });
 
     // check-change behavior on those checkboxes, to toggle layers
@@ -453,7 +447,8 @@ function initScoredSitesData () {
                 if (groupname == 'suggestedareas' || groupname == 'additionalareas' || groupname == 'allareas') {
                     COUNTYINFO.datalayers[groupname].forEach(function (layerinfo) {
                         const values = results.data.map(function (row) { return row[layerinfo.quantilefield]; });
-                        QUANTILEBREAKS[layerinfo.id] = getBreaks(undefined, values);
+                        QUANTILEBREAKS[layerinfo.id] = getBreaks(undefined, values)[0];
+                        RAWVALS[layerinfo.id] = getBreaks(undefined, values)[1];
                     });
                 }
             });   
@@ -487,7 +482,7 @@ function initScoredSitesData () {
 
             SITE_SCORING_FIELDS.forEach(function (fieldname) {
                 const values = results.data.map(function (row) { return row[fieldname]; });
-                SITESCOREBREAKS[fieldname] = getBreaks(undefined, values);
+                SITESCOREBREAKS[fieldname] = getBreaks(undefined, values)[0];
             });
 
             // done
@@ -639,7 +634,8 @@ function refreshMapLegend () {
         Object.keys(INDICATORS_BY_TRACT).forEach(function (geoid) {
             values.push(INDICATORS_BY_TRACT[geoid][layerinfo.scorefield]);
         });
-        QUANTILEBREAKS[layerinfo.id] = getBreaks(layerinfo, values);
+        QUANTILEBREAKS[layerinfo.id] = getBreaks(layerinfo, values)[0];
+        RAWVALS[layerinfo.id] = getBreaks(layerinfo, values)[1];
         let breaks = QUANTILEBREAKS[layerinfo.id];
         
         let text = []; 
@@ -713,7 +709,7 @@ function addIndicatorChoroplethToMap (layerinfo) {
                 if (! indicators) { console.debug(`No INDICATORS_BY_TRACT entry for ${geoid}`); return style; }
                 const value = parseFloat(indicators[layerinfo.scorefield]);
                 const colors = layerinfo.quantilecolors;      
-                const thiscolor = pickColorByValue(value, QUANTILEBREAKS[layerinfo.id], colors, layerinfo.legendformat);
+                const thiscolor = pickColorByValue(value, QUANTILEBREAKS[layerinfo.id], RAWVALS[layerinfo.id], colors, layerinfo.legendformat);
 
                 // fill is either the solid color, or else a StripePattern if the data are unreliable
                 // note that L.StripePattern must be added to the Map, but we don't have a way of tracking which ones are in use so they will pile up over time and be a potential memory leak
@@ -819,8 +815,9 @@ function suggestedAreaSymbolizer (layerinfo, row) {
     if (squareoptions.fillColor == 'quantile') {
         const value = parseFloat(row[layerinfo.quantilefield]);
         const breaks = QUANTILEBREAKS[layerinfo.id];
+        const rawvals = RAWVALS[layerinfo.id]; 
         const colors = layerinfo.quantilecolors;
-        squareoptions.fillColor = pickColorByValue(value, breaks, colors, undefined);
+        squareoptions.fillColor = pickColorByValue(value, breaks, rawvals, colors, undefined);
     }
 
     const square = L.rectangle(circle.getBounds(), squareoptions);
@@ -848,9 +845,10 @@ function circleSymbolizer (layerinfo, row) {
     if (circleoptions.fillColor == 'quantile') {
         const value = parseFloat(row[layerinfo.quantilefield]);
         const breaks = QUANTILEBREAKS[layerinfo.idnum];
+        const rawvals = RAWVALS[layerinfo.idnum];
         const colors = layerinfo.quantilecolors;
 
-        const thiscolor = pickColorByValue(value, breaks, colors, undefined);
+        const thiscolor = pickColorByValue(value, breaks, rawvals, colors, undefined);
         circleoptions.fillColor = thiscolor;
     }
 
@@ -964,12 +962,12 @@ function formatValue (value, legendformat) {
     return value;
 }
 
-function pickColorByValue (value, breaks, colors, legendformat) {
+function pickColorByValue (value, breaks, rawvals, colors, legendformat) {
     if (! breaks || isNaN(value)) return NODATA_COLOR;
     
     // start with the highest color, work downward until we find our value >=X, and that's our break
     let color;
-    if (breaks.length < 6) { 
+    if (rawvals == true) { 
         var i = breaks.length; 
     } else { 
         var i = breaks.length-2; 
@@ -998,6 +996,7 @@ function getBreaks (layerinfo, values) {
     // only use standard quantile breaks if more than 5 unique values 
     // otherwise just set breaks as raw values
     if (uniquevalues.length < 6) {
+        var rawvals = true;
         if (layerinfo) {
             var breaks = new Array();
             uniquevalues.forEach(function (value) { 
@@ -1009,6 +1008,7 @@ function getBreaks (layerinfo, values) {
         };
     }
     else {
+        var rawvals = false
         if (layerinfo) {
             var quantiles = ss.quantile(formattedvalues, [0, 0.2, 0.4, 0.6, 0.8, 1]);
         } else {
@@ -1021,23 +1021,25 @@ function getBreaks (layerinfo, values) {
         const quantilesunique = Array.from(new Set(quantiles))
         if (quantiles.length != quantilesunique.length) {
             for (let i = quantiles.length - 1; i > 0; i--) {
-                if (quantiles[i] === quantiles[i-1] & layerinfo) {
-                    let replacement = formatValue((quantiles[i] + quantiles[i+1])/2, layerinfo.legendformat);
-                    if (replacement == quantiles[i]) {
-                        let removed = quantiles.splice(i, 1);
+                if (quantiles[i] === quantiles[i-1]) {
+                    if ((layerinfo) && (quantilesunique.length < 3)) {
+                        let replacement = formatValue((quantiles[i] + quantiles[i+1])/2, layerinfo.legendformat);
+                        if (replacement == quantiles[i]) {
+                            let removed = quantiles.splice(i, 1);
+                        } else {
+                            quantiles[i] = replacement;
+                        };
                     } else {
-                        quantiles[i] = replacement;
+                        let removed = quantiles.splice(i, 1);
                     };
-                } else {
-                    let removed = quantiles.splice(i, 1);
-                }
+                };
             };
         };
         // set layer breaks property to final quantile array
         var breaks = quantiles;
     };
     breaks = breaks.unique().sort(function(a,b) { return a - b;});
-    return breaks;
+    return [breaks, rawvals];
 }
 
 function busySpinner (showit) {

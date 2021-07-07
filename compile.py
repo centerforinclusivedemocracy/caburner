@@ -13,7 +13,6 @@ python compile.py clean
 # each one must have a corresponding .js and .css file
 PAGES = [
     'index',
-    'whatsnew',
     'accessibility',
     'acknowledgments',
     'county',
