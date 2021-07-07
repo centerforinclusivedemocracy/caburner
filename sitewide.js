@@ -530,18 +530,9 @@ DATA_PROFILES.lite.suggestedareas = [];
 DATA_PROFILES.lite.additionalareas = [];
 DATA_PROFILES.lite.allareas = [];
 DATA_PROFILES.lite.pointsofinterest = [
-          DATA_LAYERS.pripoll2020,
-          DATA_LAYERS.pricenter2020,
+    DATA_LAYERS.pripoll2020,
+    DATA_LAYERS.pricenter2020,
 ];
-DATA_PROFILES.lite.sitingcriteria = [
-        DATA_LAYERS.cvapdens, DATA_LAYERS.job_dens,
-        DATA_LAYERS.tot_elignonreg_prc,
-        DATA_LAYERS.prcdisabled, DATA_LAYERS.prc_nonengprof, DATA_LAYERS.prc_caraccess_final, DATA_LAYERS.prc_pov_final, DATA_LAYERS.prc_youth_final,
-        DATA_LAYERS.pollvoter_dens,
-        DATA_LAYERS.popdens,
-        DATA_LAYERS.vbm_rate_tot, DATA_LAYERS.vbm_rate_asn, DATA_LAYERS.vbm_rate_lat, DATA_LAYERS.vbm_rate_youth,
-];
-
 DATA_PROFILES.fullexceptsuggested = Object.assign({}, DATA_PROFILES.fullmodel);  // a specific one that's full but we hide the Suggested Areas, but keep others
 DATA_PROFILES.fullexceptsuggested.suggestedareas = [];
 DATA_PROFILES.fullexceptsuggested.additionalareas = [];
