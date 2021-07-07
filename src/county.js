@@ -1009,7 +1009,11 @@ function getBreaks (layerinfo, values) {
         };
     }
     else {
-        const quantiles = ss.quantile(formattedvalues, [0, 0.2, 0.4, 0.6, 0.8, 1]);
+        if (layerinfo) {
+            var quantiles = ss.quantile(formattedvalues, [0, 0.2, 0.4, 0.6, 0.8, 1]);
+        } else {
+            var quantiles = ss.quantile(values, [0, 0.2, 0.4, 0.6, 0.8, 1]);
+        }
         // check if repeat values in quantiles
         // if so then create artifical quantile to replace repeated value
         // unless artifical quintile equals the real quintile after rounding
@@ -1017,14 +1021,16 @@ function getBreaks (layerinfo, values) {
         const quantilesunique = Array.from(new Set(quantiles))
         if (quantiles.length != quantilesunique.length) {
             for (let i = quantiles.length - 1; i > 0; i--) {
-                if (quantiles[i] === quantiles[i-1]) {
+                if (quantiles[i] === quantiles[i-1] & layerinfo) {
                     let replacement = formatValue((quantiles[i] + quantiles[i+1])/2, layerinfo.legendformat);
                     if (replacement == quantiles[i]) {
                         let removed = quantiles.splice(i, 1);
                     } else {
                         quantiles[i] = replacement;
                     };
-                };
+                } else {
+                    let removed = quantiles.splice(i, 1);
+                }
             };
         };
         // set layer breaks property to final quantile array
