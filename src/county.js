@@ -644,7 +644,11 @@ function refreshMapLegend () {
         
         let text = []; 
         // if county has 5 or fewer tracts or all the same values then show raw values (no under or higher language in legend)
-        if (values.unique().length < 6 || breaks.length == 1) {
+        let formattedvalues = new Array();
+        values.forEach(function (value) { 
+            formattedvalues.push(formatValue(value, layerinfo.legendformat));
+        });
+        if (formattedvalues.unique().length < 6) {
             for (let i=0, l=breaks.length; i<l; i++) {
                 const valuetext = formatValueText(breaks[i], layerinfo.legendformat);
                 text[i] = valuetext;
@@ -965,7 +969,11 @@ function pickColorByValue (value, breaks, colors, legendformat) {
     
     // start with the highest color, work downward until we find our value >=X, and that's our break
     let color;
-    if (breaks.length < 6) { var i = breaks.length; } else { var i = breaks.length-2; }; 
+    if (breaks.length < 6) { 
+        var i = breaks.length; 
+    } else { 
+        var i = breaks.length-2; 
+    }; 
     for (i; i>=0; i--) {
         // be sure to round values before setting color since values were rounded when creating breaks 
         if (legendformat) { value = formatValue(value, legendformat) };
@@ -975,11 +983,20 @@ function pickColorByValue (value, breaks, colors, legendformat) {
 }
 
 function getBreaks (layerinfo, values) {
-    // only use standard quantile breaks if county has more than 5 tracts
-    // otherwise just set breaks as raw values
     values = values.map(function(value) { return parseFloat(value); }).filter(function(value) { return ! isNaN(value); });
-    values.sort();  
-    const uniquevalues = values.unique();
+    values.sort(function(a,b) { return a - b;});
+    // if indicator data then first format since legend values are formatted later
+    if (layerinfo) {
+        var formattedvalues = new Array();
+        values.forEach(function (value) { 
+            formattedvalues.push(formatValue(value, layerinfo.legendformat));
+        });
+        var uniquevalues = formattedvalues.unique();
+    } else {
+        var uniquevalues = values.unique();
+    }
+    // only use standard quantile breaks if more than 5 unique values 
+    // otherwise just set breaks as raw values
     if (uniquevalues.length < 6) {
         if (layerinfo) {
             var breaks = new Array();
@@ -992,21 +1009,23 @@ function getBreaks (layerinfo, values) {
         };
     }
     else {
-        if (layerinfo) {
-            for (let i=0, l=values.length; i<l; i++) {
-                values[i] = formatValue(values[i], layerinfo.legendformat);
-            };
-        }; 
-        const quantiles = ss.quantile(values, [0, 0.2, 0.4, 0.6, 0.8, 1]);
+        const quantiles = ss.quantile(formattedvalues, [0, 0.2, 0.4, 0.6, 0.8, 1]);
         // check if repeat values in quantiles
         // if so then create artifical quantile to replace repeated value
+        // unless artifical quintile equals the real quintile after rounding
+        // in this case remove the quintile
         const quantilesunique = Array.from(new Set(quantiles))
         if (quantiles.length != quantilesunique.length) {
             for (let i = quantiles.length - 1; i > 0; i--) {
                 if (quantiles[i] === quantiles[i-1]) {
-                    let removed = quantiles.splice(i, 1);
-                }
-            }
+                    let replacement = formatValue((quantiles[i] + quantiles[i+1])/2, layerinfo.legendformat);
+                    if (replacement == quantiles[i]) {
+                        let removed = quantiles.splice(i, 1);
+                    } else {
+                        quantiles[i] = replacement;
+                    };
+                };
+            };
         };
         // set layer breaks property to final quantile array
         var breaks = quantiles;
