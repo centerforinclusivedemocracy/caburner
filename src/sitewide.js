@@ -215,7 +215,6 @@ DATA_LAYERS.dropbox_sites = {
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/dropbox_sites_shp.zip',
-    radiogroup: 'suggestedsites',
     layertype: 'sites'
 };
 DATA_LAYERS.all_sites_scored = {
