@@ -219,6 +219,7 @@ DATA_LAYERS.dropbox_sites = {
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/dropbox_sites_shp.zip',
+    radiogroup: 'suggestedsites',
     layertype: 'sites'
 };
 DATA_LAYERS.all_sites_scored = {
@@ -227,7 +228,7 @@ DATA_LAYERS.all_sites_scored = {
     csvfile: 'model_files/all_sites_scored.csv',
     circle: { radius: 400, opacity: 0.8, color: '#fcc5c0', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
-    mapzindex: 'high',
+    mapzindex: 'medium',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/all_sites_scored_shp.zip',
     layertype: 'sites'
@@ -238,7 +239,7 @@ DATA_LAYERS.additional_sites_model = {
     csvfile: 'model_files/additional_sites_model.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
-    mapzindex: 'medium',
+    mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_model_shp.zip',
     radiogroup: 'additionalsites',
@@ -250,7 +251,7 @@ DATA_LAYERS.additional_sites_distance = {
     csvfile: 'model_files/additional_sites_distance.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
-    mapzindex: 'medium',
+    mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_distance_shp.zip',
     radiogroup: 'additionalsites',
