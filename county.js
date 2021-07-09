@@ -375,12 +375,25 @@ function initCountyMap () {
         .addTo(MAP);
 
         const bbox = MAP.COUNTYOVERLAY.getBounds();
-        MAP.fitBounds(bbox);
-
+        if (COUNTYINFO.countyfp === '037') {
+            MAP.setView([34.1,-118.38285],9);
+        } else {
+            MAP.fitBounds(bbox);
+        };
+        
         // now that we have a home bounds, add the zoom+home control then the geocoder control under it (they are positioned in sequence)
+        // function for LA-specific zoombar view
+        function zoombar_la() {
+            if (COUNTYINFO.countyfp === '037') {
+                var la = MAP.getBounds([34.1,-118.38285],9)
+                return la;
+            } else {
+                return bbox;
+            };
+        }
         MAP.ZOOMBAR = new L.Control.ZoomBar({
             position: 'topright',
-            homeBounds: bbox,
+            homeBounds: zoombar_la(),
         }).addTo(MAP);
 
         MAP.GEOCODER = L.Control.geocoder({
