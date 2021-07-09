@@ -1013,11 +1013,13 @@ function getBreaks (layerinfo, values) {
     }
     else {
         var rawvals = false
-        if (layerinfo) {
-            var quantiles = ss.quantile(formattedvalues, [0, 0.2, 0.4, 0.6, 0.8, 1]);
-        } else {
-            var quantiles = ss.quantile(values, [0, 0.2, 0.4, 0.6, 0.8, 1]);
-        }
+        var quantiles = ss.quantile(uniquevalues, [0, 0.2, 0.4, 0.6, 0.8, 1]);
+
+        // if (layerinfo) {
+        //     var quantiles = ss.quantile(formattedvalues, [0, 0.2, 0.4, 0.6, 0.8, 1]);
+        // } else {
+        //     var quantiles = ss.quantile(values, [0, 0.2, 0.4, 0.6, 0.8, 1]);
+        // }
         // check if repeat values in quantiles
         // if so then create artifical quantile to replace repeated value
         // unless artifical quintile equals the real quintile after rounding
