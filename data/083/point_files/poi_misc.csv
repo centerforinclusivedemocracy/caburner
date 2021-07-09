@@ -1,22 +1,4 @@
 osm_id,code,fclass,name,lon,lat
-358780986,2082,school,Bonita School,-120.50938,34.9578
-358783927,2082,school,Fairlawn Elementary School,-120.44735,34.95417
-358786697,2082,school,Mary Buren School,-120.56837,34.96917
-358791220,2082,school,Robert Bruce Elementary School,-120.44239,34.96125
-358793827,2082,school,Orcutt Junior High School,-120.44143,34.86222
-358848000,2082,school,Cary Calvin Oakley Elementary School,-120.45149,34.96647
-358848008,2082,school,Conejo School,-120.44294,34.94359
-358848036,2082,school,Juan Pacifico Ontiveras Elementary School,-120.4469,34.97623
-358848072,2082,school,William Laird Adam Elementary School,-120.44251,34.93578
-1192491526,2082,school,Liberty Elementary School,-120.45676,34.92792
-1192552082,2082,school,Sanchez Elementary School,-120.4468,34.93926
-1193620593,2501,supermarket,Old Town Market,-120.44315,34.86536
-2140731742,2501,supermarket,Walmart Neighborhood Market,-120.45276,34.94818
-2140731780,2501,supermarket,La Perla Market,-120.45335,34.95169
-2170908724,2013,nursing_home,Santa Maria Care Center,-120.44571,34.94906
-3092928359,2082,school,,-120.45071,34.92546
-358848083,2082,school,Cuyama Elementary School,-119.60902,34.93192
-358848097,2082,school,New Cuyama Elementary School,-119.68652,34.9447
 358779640,2082,school,Alvin Elementary School,-120.4329,34.96136
 358789179,2082,school,Isaac Miller Elementary School,-120.43064,34.94089
 358789737,2082,school,Joe Nightingale Elementary School,-120.43365,34.89922
@@ -62,6 +44,57 @@ osm_id,code,fclass,name,lon,lat
 1781324333,2303,cafe,Starbucks,-120.41622,34.95323
 1801564941,2402,motel,,-120.41945,34.95357
 1814703216,2082,school,The Children's House Montessori School,-120.41384,34.88407
+358780986,2082,school,Bonita School,-120.50938,34.9578
+358783927,2082,school,Fairlawn Elementary School,-120.44735,34.95417
+358786697,2082,school,Mary Buren School,-120.56837,34.96917
+358791220,2082,school,Robert Bruce Elementary School,-120.44239,34.96125
+358793827,2082,school,Orcutt Junior High School,-120.44143,34.86222
+358848000,2082,school,Cary Calvin Oakley Elementary School,-120.45149,34.96647
+358848008,2082,school,Conejo School,-120.44294,34.94359
+358848036,2082,school,Juan Pacifico Ontiveras Elementary School,-120.4469,34.97623
+358848072,2082,school,William Laird Adam Elementary School,-120.44251,34.93578
+1192491526,2082,school,Liberty Elementary School,-120.45676,34.92792
+1192552082,2082,school,Sanchez Elementary School,-120.4468,34.93926
+1193620593,2501,supermarket,Old Town Market,-120.44315,34.86536
+2140731742,2501,supermarket,Walmart Neighborhood Market,-120.45276,34.94818
+2140731780,2501,supermarket,La Perla Market,-120.45335,34.95169
+2170908724,2013,nursing_home,Santa Maria Care Center,-120.44571,34.94906
+3092928359,2082,school,,-120.45071,34.92546
+358791146,2082,school,Rinconada School,-120.32321,34.60998
+358792313,2082,school,Santa Ynez Valley Union High School,-120.09915,34.6079
+358801736,2082,school,Midland School,-120.08792,34.73165
+358848203,2082,school,Ballard School,-120.11358,34.6397
+358848241,2082,school,Los Olivos Elementary School,-120.11209,34.66582
+358848246,2082,school,Olga L Reed Elementary School,-120.2796,34.73998
+358848248,2082,school,Refugio High School,-120.10015,34.60721
+358848256,2082,school,Santa Ynez Valley Charter School,-120.0832,34.61666
+358848259,2082,school,Santa Ynez Valley Christian Academy,-120.13737,34.59888
+358848263,2082,school,Solvang Elementary School,-120.14181,34.59776
+530751665,2303,cafe,The Valley Grind,-120.08146,34.61273
+530754630,2501,supermarket,Nielsen's,-120.12688,34.60014
+2180508894,2082,school,,-120.27896,34.73973
+5463382470,2402,motel,,-120.27879,34.74436
+6718303685,2303,cafe,Succulent Café,-120.1432,34.59616
+6949506960,2303,cafe,Lucky Hen Larder,-120.07692,34.61225
+358780002,2082,school,Artesia School,-120.52822,34.66109
+358786481,2082,school,Jalama School,-120.41044,34.56887
+358788559,2082,school,Maple School,-120.49322,34.65359
+358793792,2082,school,Lompoc Valley Middle School,-120.46473,34.63646
+358848173,2082,school,La Honda Elementary School,-120.44989,34.65748
+358848175,2082,school,La Mesa/Maple School,-120.47044,34.69443
+358848177,2082,school,Lompoc Adult School,-120.46405,34.64776
+358848185,2082,school,Los Padres Elementary School,-120.50683,34.74748
+358848188,2082,school,Maple High School,-120.50267,34.74526
+368171138,2012,community_centre,Lompoc Civic Center,-120.45237,34.63761
+1685280522,2303,cafe,Starbucks,-120.45734,34.66172
+2455007694,2082,school,La Purisima Catholic Church School,-120.46028,34.63446
+2817095346,2303,cafe,South Side Coffee Company,-120.45811,34.63869
+3097569841,2501,supermarket,Village Market,-120.46797,34.70046
+3179416368,2303,cafe,Fosters Donuts,-120.45847,34.657
+3394216114,2082,school,Lompoc Unified School District,-120.44967,34.65891
+4773733645,2501,supermarket,Albertsons,-120.4561,34.66225
+6143921093,2501,supermarket,Grocery Outlet,-120.4545,34.63864
+6872264148,2012,community_centre,Balfour Beatty,-120.53598,34.75303
 358785439,2082,school,Harding Elementary School,-119.72125,34.41639
 358787090,2082,school,La Cumbre Middle School,-119.72872,34.42395
 358787816,2082,school,Lincoln School,-119.69486,34.41944
@@ -93,13 +126,30 @@ osm_id,code,fclass,name,lon,lat
 8023541085,2501,supermarket,Foodland Market,-119.71647,34.41876
 8429627211,2501,supermarket,Tri-County Produce,-119.67373,34.41852
 8443717304,2303,cafe,Ah Juice Organics,-119.69002,34.42179
-358848073,2082,school,William Rice Elementary School,-120.42683,34.96664
-1773963248,2501,supermarket,FoodMaxx,-120.43393,34.97442
-1781243215,2501,supermarket,Vallarta Supermarket,-120.43609,34.97455
-3009214242,2303,cafe,Donut Time,-120.43419,34.97397
 2968156973,2303,cafe,,-119.84476,34.41562
 3806920257,2303,cafe,Courtyard Cafe,-119.84053,34.41487
 6046039141,2012,community_centre,,-119.87259,34.41787
+358848446,2082,school,Monroe Elementary School,-119.72958,34.40389
+358848509,2082,school,La Cuesta High School,-119.70069,34.40805
+448863565,2303,cafe,Starbucks,-119.84817,34.41147
+467861362,2501,supermarket,Lazy Acres,-119.72166,34.40029
+467865065,2303,cafe,Lighthouse Coffee,-119.72154,34.40104
+467874261,2501,supermarket,Albertsons,-119.72379,34.4025
+1521699537,2303,cafe,,-119.69014,34.41305
+1521699547,2303,cafe,State Street Cafe,-119.68994,34.41254
+2698465159,2303,cafe,Starbucks,-119.72342,34.40238
+3119924739,2303,cafe,Bagel Café,-119.85702,34.411
+4101687665,2402,motel,,-119.6912,34.41144
+4101687672,2402,motel,,-119.69581,34.41029
+4101687673,2402,motel,Franciscan Inn,-119.6944,34.41014
+4101687674,2402,motel,,-119.69737,34.40999
+4101687675,2402,motel,,-119.698,34.40936
+4799509232,2303,cafe,SBCC East Campus Cafeteria,-119.69686,34.40616
+5449247187,2303,cafe,Spudnuts Donuts,-119.85475,34.4119
+5718878755,2303,cafe,The Lovin' Spoonful,-119.72435,34.40251
+5913104626,2084,college,College of Creative Studies,-119.84581,34.41124
+7090604643,2303,cafe,Mojo Asian Fusion Café,-119.85489,34.4119
+8429741866,2501,supermarket,Mesa Produce,-119.72495,34.40252
 358784623,2082,school,Alice F Schott Continuing Education Center,-119.71986,34.42833
 358793823,2082,school,Montecito Union Elementary School,-119.63231,34.43212
 358848558,2082,school,Howard School,-119.63069,34.42833
@@ -130,62 +180,6 @@ osm_id,code,fclass,name,lon,lat
 7729313473,2014,arts_centre,Carpinteria Arts Center,-119.51987,34.39813
 7734549498,2303,cafe,Lucky Llama Coffee House,-119.5168,34.39813
 7734751516,2303,cafe,Jack's Bistro & Famous Bagels,-119.51764,34.39856
-358780002,2082,school,Artesia School,-120.52822,34.66109
-358786481,2082,school,Jalama School,-120.41044,34.56887
-358788559,2082,school,Maple School,-120.49322,34.65359
-358793792,2082,school,Lompoc Valley Middle School,-120.46473,34.63646
-358848173,2082,school,La Honda Elementary School,-120.44989,34.65748
-358848175,2082,school,La Mesa/Maple School,-120.47044,34.69443
-358848177,2082,school,Lompoc Adult School,-120.46405,34.64776
-358848185,2082,school,Los Padres Elementary School,-120.50683,34.74748
-358848188,2082,school,Maple High School,-120.50267,34.74526
-368171138,2012,community_centre,Lompoc Civic Center,-120.45237,34.63761
-1685280522,2303,cafe,Starbucks,-120.45734,34.66172
-2455007694,2082,school,La Purisima Catholic Church School,-120.46028,34.63446
-2817095346,2303,cafe,South Side Coffee Company,-120.45811,34.63869
-3097569841,2501,supermarket,Village Market,-120.46797,34.70046
-3179416368,2303,cafe,Fosters Donuts,-120.45847,34.657
-3394216114,2082,school,Lompoc Unified School District,-120.44967,34.65891
-4773733645,2501,supermarket,Albertsons,-120.4561,34.66225
-6143921093,2501,supermarket,Grocery Outlet,-120.4545,34.63864
-6872264148,2012,community_centre,Balfour Beatty,-120.53598,34.75303
-358848446,2082,school,Monroe Elementary School,-119.72958,34.40389
-358848509,2082,school,La Cuesta High School,-119.70069,34.40805
-448863565,2303,cafe,Starbucks,-119.84817,34.41147
-467861362,2501,supermarket,Lazy Acres,-119.72166,34.40029
-467865065,2303,cafe,Lighthouse Coffee,-119.72154,34.40104
-467874261,2501,supermarket,Albertsons,-119.72379,34.4025
-1521699537,2303,cafe,,-119.69014,34.41305
-1521699547,2303,cafe,State Street Cafe,-119.68994,34.41254
-2698465159,2303,cafe,Starbucks,-119.72342,34.40238
-3119924739,2303,cafe,Bagel Café,-119.85702,34.411
-4101687665,2402,motel,,-119.6912,34.41144
-4101687672,2402,motel,,-119.69581,34.41029
-4101687673,2402,motel,Franciscan Inn,-119.6944,34.41014
-4101687674,2402,motel,,-119.69737,34.40999
-4101687675,2402,motel,,-119.698,34.40936
-4799509232,2303,cafe,SBCC East Campus Cafeteria,-119.69686,34.40616
-5449247187,2303,cafe,Spudnuts Donuts,-119.85475,34.4119
-5718878755,2303,cafe,The Lovin' Spoonful,-119.72435,34.40251
-5913104626,2084,college,College of Creative Studies,-119.84581,34.41124
-7090604643,2303,cafe,Mojo Asian Fusion Café,-119.85489,34.4119
-8429741866,2501,supermarket,Mesa Produce,-119.72495,34.40252
-358791146,2082,school,Rinconada School,-120.32321,34.60998
-358792313,2082,school,Santa Ynez Valley Union High School,-120.09915,34.6079
-358801736,2082,school,Midland School,-120.08792,34.73165
-358848203,2082,school,Ballard School,-120.11358,34.6397
-358848241,2082,school,Los Olivos Elementary School,-120.11209,34.66582
-358848246,2082,school,Olga L Reed Elementary School,-120.2796,34.73998
-358848248,2082,school,Refugio High School,-120.10015,34.60721
-358848256,2082,school,Santa Ynez Valley Charter School,-120.0832,34.61666
-358848259,2082,school,Santa Ynez Valley Christian Academy,-120.13737,34.59888
-358848263,2082,school,Solvang Elementary School,-120.14181,34.59776
-530751665,2303,cafe,The Valley Grind,-120.08146,34.61273
-530754630,2501,supermarket,Nielsen's,-120.12688,34.60014
-2180508894,2082,school,,-120.27896,34.73973
-5463382470,2402,motel,,-120.27879,34.74436
-6718303685,2303,cafe,Succulent Café,-120.1432,34.59616
-6949506960,2303,cafe,Lucky Hen Larder,-120.07692,34.61225
 358786578,2082,school,Jefferson School,-119.6943,34.43694
 358790481,2082,school,Peabody Charter Elementary School,-119.72867,34.4417
 358791551,2082,school,Saint Anthonys Seminary,-119.71573,34.43915
@@ -235,3 +229,9 @@ osm_id,code,fclass,name,lon,lat
 6979706273,2303,cafe,Fresco Cafe,-119.75148,34.43952
 8530941196,2303,cafe,Montecio Coffee Shop,-119.63223,34.43724
 8530963675,2501,supermarket,Montecito Village Grocery,-119.63372,34.43821
+358848083,2082,school,Cuyama Elementary School,-119.60902,34.93192
+358848097,2082,school,New Cuyama Elementary School,-119.68652,34.9447
+358848073,2082,school,William Rice Elementary School,-120.42683,34.96664
+1773963248,2501,supermarket,FoodMaxx,-120.43393,34.97442
+1781243215,2501,supermarket,Vallarta Supermarket,-120.43609,34.97455
+3009214242,2303,cafe,Donut Time,-120.43419,34.97397
