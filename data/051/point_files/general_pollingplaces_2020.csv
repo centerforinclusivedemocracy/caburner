@@ -1,0 +1,8 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+3279,Walker Community Center,"442 Mule Deer Rd, Coleville, CA 96107, USA",38.51435,-119.47982,3280.0,CA,MONO COUNTY,Antelope,False,False,1.0
+3280,Bridgeport Memorial Hall,"73 School St, Bridgeport, CA 93517, USA",38.25677,-119.22943,3281.0,CA,MONO COUNTY,Bridgeport,False,False,1.0
+3281,June Lake Community Center,"90 Granite Ave, June Lake, CA 93529, USA",37.77772,-119.07752,3282.0,CA,MONO COUNTY,June Lake,False,False,1.0
+3282,Mono County Elections,"74 School St, Bridgeport, CA 93517, USA",38.25724,-119.2289,3283.0,CA,MONO COUNTY,Locality wide location,False,False,1.0
+3283,Crowley Community Center,"58 Pearson Rd, Crowley Lake, CA 93546, USA",37.56667,-118.74178,3284.0,CA,MONO COUNTY,Long Valley,False,False,1.0
+3284,Mammoth High School,"365 Sierra Park Rd, Mammoth Lakes, CA 93546, USA",37.64126,-118.96296,3285.0,CA,MONO COUNTY,"Mammoth Meadow, Mammoth Minaret, Mammoth Pinecrest, Mammoth View, Old Mammoth",False,False,1.0
+3285,Chalfant Community Center,"123 Valley Rd, Chalfant Valley, CA 93512, USA",37.52639,-118.36722,3286.0,CA,MONO COUNTY,Tri-Valley,False,False,1.0

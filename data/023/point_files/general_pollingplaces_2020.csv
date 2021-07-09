@@ -1,0 +1,28 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+1346,Elections Annex*,"2426 6th St, Eureka, CA 95501, USA",40.8029,-124.14543,1346.0,CA,HUMBOLDT COUNTY,"100013, 100940, 100930, 100017",False,False,1.0
+1347,Elections Annex*,"2426 6th St, Eureka, CA 95501, USA",40.8029,-124.14543,1347.0,CA,HUMBOLDT COUNTY,"100013, 100940, 100930, 100017",True,False,1.0
+1348,College Of The Redwoods,"Student Services / Administration, 7351 Tompkins Hill Rd, Eureka, CA 95501, USA",40.69843,-124.19538,1348.0,CA,HUMBOLDT COUNTY,"100020, 100026, 100022, 100029, 100031, 100042",False,False,1.0
+1349,College Of The Redwoods,"Student Services / Administration, 7351 Tompkins Hill Rd, Eureka, CA 95501, USA",40.69843,-124.19538,1349.0,CA,HUMBOLDT COUNTY,"100020, 100026, 100022, 100029, 100031, 100042",True,False,1.0
+1350,Fortuna Veterans Memorial Building*,"457 S 15th St, Fortuna, CA 95540, USA",40.58776,-124.15043,1350.0,CA,HUMBOLDT COUNTY,"100331, 200311, 200049, 200052, 200072, 200073, 200074, 200081, 200083",False,False,1.0
+1351,Fortuna Veterans Memorial Building*,"457 S 15th St, Fortuna, CA 95540, USA",40.58776,-124.15043,1351.0,CA,HUMBOLDT COUNTY,"100331, 200311, 200049, 200052, 200072, 200073, 200074, 200081, 200083",True,False,1.0
+1352,Eureka Veterans Memorial Building*,"1018 H St, Eureka, CA 95501, USA",40.79766,-124.16312,1352.0,CA,HUMBOLDT COUNTY,"100911, 400938, 100913, 400183, 400901, 400916, 400931",False,False,1.0
+1353,Eureka Veterans Memorial Building*,"1018 H St, Eureka, CA 95501, USA",40.79766,-124.16312,1353.0,CA,HUMBOLDT COUNTY,"100911, 400938, 100913, 400183, 400901, 400916, 400931",True,False,1.0
+1354,Arcata Community Center*,"321 Dr. M.L.K. Jr Pkwy, Arcata, CA 95521, USA",40.86438,-124.08007,1354.0,CA,HUMBOLDT COUNTY,"300104, 300105, 300118, 300149, 300151",False,False,1.0
+1355,Arcata Community Center*,"321 Dr. M.L.K. Jr Pkwy, Arcata, CA 95521, USA",40.86438,-124.08007,1355.0,CA,HUMBOLDT COUNTY,"300104, 300105, 300118, 300149, 300151",True,False,1.0
+1356,Mad River Rapids Rv Park,"3501 Janes Rd, Arcata, CA 95521, USA",40.90165,-124.0912,1356.0,CA,HUMBOLDT COUNTY,"300122, 300334, 300159, 500200, 300203, 300205, 300206, 300306, 300307, 300157, 300162",False,False,1.0
+1357,Mad River Rapids Rv Park,"3501 Janes Rd, Arcata, CA 95521, USA",40.90165,-124.0912,1357.0,CA,HUMBOLDT COUNTY,"300122, 300334, 300159, 500200, 300203, 300205, 300206, 300306, 300307, 300157, 300162",True,False,1.0
+1358,Eureka Pentecostal Church*,"1060 Hoover St, Eureka, CA 95501, USA",40.80007,-124.13682,1358.0,CA,HUMBOLDT COUNTY,"400923, 300142, 400189, 300136, 400192, 400194, 300135",False,False,1.0
+1359,Eureka Pentecostal Church*,"1060 Hoover St, Eureka, CA 95501, USA",40.80007,-124.13682,1359.0,CA,HUMBOLDT COUNTY,"400923, 300142, 400189, 300136, 400192, 400194, 300135",True,False,1.0
+1360,Azalea Hall,"1620 Pickett Rd, McKinleyville, CA 95519, USA",40.94413,-124.09908,1360.0,CA,HUMBOLDT COUNTY,"500226, 500207, 500209, 500243, 500224, 500239, 500321, 500238, 500245, 500236, 500217, 500222, 500223, 500221",False,False,1.0
+1361,Azalea Hall,"1620 Pickett Rd, McKinleyville, CA 95519, USA",40.94413,-124.09908,1361.0,CA,HUMBOLDT COUNTY,"500226, 500207, 500209, 500243, 500224, 500239, 500321, 500238, 500245, 500236, 500217, 500222, 500223, 500221",True,False,1.0
+1362,Mckinleyville Union Middle School*,"2275 Central Ave, McKinleyville, CA 95519, USA",40.94656,-124.09917,1362.0,CA,HUMBOLDT COUNTY,"500250, 500233, 500246",False,False,1.0
+1363,Mckinleyville Union Middle School*,"2275 Central Ave, McKinleyville, CA 95519, USA",40.94656,-124.09917,1363.0,CA,HUMBOLDT COUNTY,"500250, 500233, 500246",True,False,1.0
+1364,Eureka Veterans Building,"1018 H St, Eureka, CA 95501, USA",40.79766,-124.16312,1364.0,CA,HUMBOLDT COUNTY,Locality wide location,True,False,1.0
+1365,Eureka Pentecostal Church,"1060 Hoover St, Eureka, CA 95501, USA",40.80007,-124.13682,1365.0,CA,HUMBOLDT COUNTY,Locality wide location,True,False,1.0
+1366,Fortuna Veterans Building,"1426 Main St, Fortuna, CA 95540, USA",40.59845,-124.15176,1366.0,CA,HUMBOLDT COUNTY,Locality wide location,True,False,1.0
+1367,Azalea Hall,"1620 Pickett Rd, McKinleyville, CA 95519, USA",40.94413,-124.09908,1367.0,CA,HUMBOLDT COUNTY,Locality wide location,True,False,1.0
+1368,McKinleyville Middle School,"2275 Central Ave, McKinleyville, CA 95519, USA",40.94656,-124.09917,1368.0,CA,HUMBOLDT COUNTY,Locality wide location,True,False,1.0
+1369,Humboldt County Office of Elections,"2426 6th St, Eureka, CA 95501, USA",40.8029,-124.14543,1369.0,CA,HUMBOLDT COUNTY,Locality wide location,False,False,1.0
+1370,Arcata Community Center,"321 Dr. M.L.K. Jr Pkwy, Arcata, CA 95521, USA",40.86438,-124.08007,1370.0,CA,HUMBOLDT COUNTY,Locality wide location,True,False,1.0
+1371,Mad River Rapids RV Park,"3501 Janes Rd, Arcata, CA 95521, USA",40.90165,-124.0912,1371.0,CA,HUMBOLDT COUNTY,Locality wide location,True,False,1.0
+1372,College of the Redwoods,"Student Services / Administration, 7351 Tompkins Hill Rd, Eureka, CA 95501, USA",40.69843,-124.19538,1372.0,CA,HUMBOLDT COUNTY,Locality wide location,True,False,1.0

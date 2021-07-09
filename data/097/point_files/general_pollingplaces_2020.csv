@@ -1,0 +1,31 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+5766,Citrus Fair Building,"1 Citrus Fair Dr, Cloverdale, CA 95425, USA",38.80282,-123.01718,5767.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5767,Petaluma Veterans Memorial Bldg,"1094 Petaluma Blvd S, Petaluma, CA 94952, USA",38.22637,-122.62359,5768.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5768,Sonoma Veterans Memorial Bldg,"126 1st St W, Sonoma, CA 95476, USA",38.29834,-122.45718,5769.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5769,Sonoma County Fairgrounds- Kraft Hall,"1350 Bennett Valley Rd, Santa Rosa, CA 95404, USA",38.42945,-122.70049,5770.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5770,SCOE-Headwaters Academy,"1355 Industrial Ave, Petaluma, CA 94952, USA",38.26794,-122.66966,5771.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5771,Guerneville Veterans Memorial Bldg,"16255 First St, Guerneville, CA 95446, USA",38.50111,-122.99838,5772.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5772,Christ Church United Methodist,"1717 Yulupa Ave, Santa Rosa, CA 95405, USA",38.43855,-122.67149,5773.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5773,Finnish American Hm Assn,"197 W Verano Ave, Sonoma, CA 95476, USA",38.30385,-122.4806,5774.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5774,Sonoma Valley Moose Lodge,"20580 Broadway, Sonoma, CA 95476, USA",38.27327,-122.45898,5775.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5775,Petaluma Community Center,"320 N McDowell Blvd, Petaluma, CA 94954, USA",38.25285,-122.63013,5776.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5776,Amarosa Academy,"3261 Dutton Ave, Santa Rosa, CA 95407, USA",38.39715,-122.72396,5777.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5777,Joe Mazzola Local 38 Bldg,"3473 Santa Rosa Ave, Santa Rosa, CA 95407, USA",38.39248,-122.7143,5778.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5778,Moose Lodge 458,"3559 Airway Dr, Santa Rosa, CA 95403, USA",38.47768,-122.73845,5779.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5779,Sebastopol Community Cultural Center,"390 Morris St, Sebastopol, CA 95472, USA",38.40839,-122.81993,5780.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5780,Del Mar Hall,"40600 Leeward Rd, Sea Ranch, CA 95497, USA",38.74302,-123.50093,5781.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5781,Registrar of Voters Office,"435 Fiscal Dr, Santa Rosa, CA 95403, USA",38.46571,-122.72303,5782.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5782,Gold Ridge Fire Department,"4500 Hessel Rd, Sebastopol, CA 95472, USA",38.35096,-122.77869,5783.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5783,Luther Burbank Center For The Arts,"50 Mark West Springs Rd, Santa Rosa, CA 95403, USA",38.49338,-122.74893,5784.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5784,Rohnert Park Community Center,"5401 Snyder Ln, Rohnert Park, CA 94928, USA",38.34481,-122.68681,5785.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5785,Alexander Valley Community Hall,"5512 CA-128, Geyserville, CA 95441, USA",38.67682,-122.83106,5786.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5786,Bodega Bay Yacht Club,"565 Smith Brothers Rd, Bodega Bay, CA 94923, USA",38.32485,-123.04001,5787.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5787,Forestville Fire District,"6554 Mirabel Rd, Forestville, CA 95436, USA",38.47523,-122.89547,5788.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5788,Berger Center,"6633 Oakmont Dr, Santa Rosa, CA 95409, USA",38.44142,-122.60266,5789.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5789,Rohnert Park Senior Center,"6800 Hunter Dr, Rohnert Park, CA 94928, USA",38.34501,-122.70777,5790.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5790,Roseland Community Center,"779 Sebastopol Rd, Santa Rosa, CA 95407, USA",38.43095,-122.72934,5791.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5791,Cotati Veterans Memorial Building,"8505 Park Ave, Cotati, CA 94931, USA",38.32249,-122.70243,5792.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5792,Hermann Sons Hall,"860 Western Ave, Petaluma, CA 94952, USA",38.23041,-122.65251,5793.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5793,Graton Community Club,"8996 Graton Rd, Graton, CA 95444, USA",38.43666,-122.86833,5794.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5794,Villa Chanticleer,"900 Chanticleer Way, Healdsburg, CA 95448, USA",38.62161,-122.84948,5795.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0
+5795,Windsor Civic Center - Council Chambers,"9291 Old Redwood Hwy, Windsor, CA 95492, USA",38.54947,-122.81405,5796.0,CA,SONOMA COUNTY,Locality wide location,False,False,1.0

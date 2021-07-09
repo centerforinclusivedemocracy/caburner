@@ -1,7 +1,7 @@
-name,address,lat,lon
-Fairgrounds - Heritage Arts Building,1234 Fair Street  Bishop 93514,37.37333,-118.3992
-Statham Town Hall,138 N Jackson St  Lone Pine 93545,36.6066,-118.06229
-Big Pine Town Hall,150 Dewey St  Big Pine 93513,37.16409,-118.29068
-Inyo County Elections,168 N Edwards St  Independence 93526,36.80357,-118.19962
-Basement Courtroom,168 N Edwards St  Independence 93526,36.80357,-118.19962
-Paiute Professional Building,52 Tu Su Ln  Bishop 93514,37.36176,-118.41832
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Fairgrounds - Heritage Arts Building,1234 Fair Street  Bishop 93514,37.37333,-118.3992,,,,,,,
+1,Statham Town Hall,138 N Jackson St  Lone Pine 93545,36.6066,-118.06229,,,,,,,
+2,Big Pine Town Hall,150 Dewey St  Big Pine 93513,37.16409,-118.29068,,,,,,,
+3,Inyo County Elections,168 N Edwards St  Independence 93526,36.80357,-118.19962,,,,,,,
+4,Basement Courtroom,168 N Edwards St  Independence 93526,36.80357,-118.19962,,,,,,,
+5,Paiute Professional Building,52 Tu Su Ln  Bishop 93514,37.36176,-118.41832,,,,,,,

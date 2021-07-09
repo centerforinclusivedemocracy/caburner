@@ -1,0 +1,88 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+3286,Aromas Bible Church,"Community Baptist Church of Aromas, 263 Carpenteria Rd, Aromas, CA 95004, USA",36.88946,-121.6436,3287.0,CA,MONTEREY COUNTY,Aromas,False,False,1.0
+3287,Big Sur Grange Hall,"47090 CA-1, Big Sur, CA 93920, USA",36.26361,-121.80037,3288.0,CA,MONTEREY COUNTY,Big Sur,False,False,1.0
+3288,Boronda Meadows School,"915 Larkin St, Salinas, CA 93907, USA",36.694,-121.67008,3289.0,CA,MONTEREY COUNTY,Boronda 1,False,False,1.0
+3289,Nancy Dodd Center,"3043 MacArthur Dr, Marina, CA 93933, USA",36.67154,-121.7788,3290.0,CA,MONTEREY COUNTY,"CSUMB 3 - Housing, Marina 9",False,False,1.0
+3290,Mission Ranch - Small Barn,"26270 Dolores St, Carmel-By-The-Sea, CA 93923, USA",36.54228,-121.92303,3291.0,CA,MONTEREY COUNTY,"Carmel 3, Carmel 4",False,False,1.0
+3291,Community Church Fellowship Hall,"4590 Carmel Valley Rd, Carmel-By-The-Sea, CA 93923, USA",36.542,-121.8933,3292.0,CA,MONTEREY COUNTY,"Carmel Valley 1, Carmel Valley 5",False,False,1.0
+3292,Hacienda Carmel - Casa Fiesta,"1000 Hacienda Carmel, Carmel-By-The-Sea, CA 93923, USA",36.53764,-121.87974,3293.0,CA,MONTEREY COUNTY,Carmel Valley 2,False,False,1.0
+3293,Saint Dunstan's Episcopal Church,"28003 Robinson Canyon Rd, Carmel-By-The-Sea, CA 93923, USA",36.51979,-121.80551,3294.0,CA,MONTEREY COUNTY,"Carmel Valley 6, Carmel Valley 7",False,False,1.0
+3294,Carmel Valley Community Youth Center,"25 Ford Rd, Carmel Valley, CA 93924, USA",36.4834,-121.73615,3295.0,CA,MONTEREY COUNTY,"Carmel Valley 8, Carmel Valley 9",False,False,1.0
+3295,Castroville Library,"11160 Speegle St, Castroville, CA 95012, USA",36.76768,-121.75757,3296.0,CA,MONTEREY COUNTY,"Castroville 1, Castroville 1",False,False,1.0
+3296,Old Town Hall,"999 Angelus Way, Del Rey Oaks, CA 93940, USA",36.5946,-121.84008,3297.0,CA,MONTEREY COUNTY,Del Rey Oaks,False,False,1.0
+3297,Harbor Chapel,"620 Dolan Rd, Moss Landing, CA 95039, USA",36.79754,-121.73912,3298.0,CA,MONTEREY COUNTY,Elkhorn,False,False,1.0
+3298,Saint Theodore Church Hall,"116 Belden St, Gonzales, CA 93926, USA",36.50578,-121.44137,3299.0,CA,MONTEREY COUNTY,"Gonzales 1, Gonzales 2",False,False,1.0
+3299,Cesar Chavez School,"250 Apple Ave, Greenfield, CA 93927, USA",36.33088,-121.23442,3300.0,CA,MONTEREY COUNTY,Greenfield 1,False,False,1.0
+3300,Greenfield Memorial Building,"615 El Camino Real, Greenfield, CA 93927, USA",36.33019,-121.252,3301.0,CA,MONTEREY COUNTY,"Greenfield 2, Greenfield 3",False,False,1.0
+3301,First Baptist Church - Social Hall,"450 King St, King City, CA 93930, USA",36.21705,-121.13296,3302.0,CA,MONTEREY COUNTY,King City 1,False,False,1.0
+3302,King City High School,"720 Broadway St, King City, CA 93930, USA",36.20911,-121.135,3303.0,CA,MONTEREY COUNTY,"King City 3, King City 4",False,False,1.0
+3303,Prunedale Grange Hall,"17890 Moro Rd, Prunedale, CA 93907, USA",36.80295,-121.66142,3304.0,CA,MONTEREY COUNTY,"Lake, Prunedale 3, Prunedale 4",False,False,1.0
+3304,Kinship Center,"124 River Rd, Salinas, CA 93908, USA",36.61617,-121.66053,3305.0,CA,MONTEREY COUNTY,"Las Palmas, Las Palmas 30",False,False,1.0
+3305,Early Voting Center,"1441 Canyon Del Rey Blvd, Seaside, CA 93955, USA",36.6068,-121.85639,3306.0,CA,MONTEREY COUNTY,Locality wide location,False,False,1.0
+3306,Monterey County Elections - Office,"1441 Schilling Pl, Salinas, CA 93901, USA",36.65324,-121.61949,3307.0,CA,MONTEREY COUNTY,Locality wide location,False,False,1.0
+3307,Marina First Assembly Of God,"3185 De Forest Rd, Marina, CA 93933, USA",36.68724,-121.79204,3308.0,CA,MONTEREY COUNTY,Marina,False,False,1.0
+3308,Marina Library,"190 Seaside Cir, Marina, CA 93933, USA",36.69142,-121.79965,3309.0,CA,MONTEREY COUNTY,"Marina 1, Marina 3",False,False,1.0
+3309,Los Arboles Middle School,"294 Hillcrest Ave, Marina, CA 93933, USA",36.67861,-121.7974,3310.0,CA,MONTEREY COUNTY,"Marina 4, Marina 5",False,False,1.0
+3310,Epiphany Lutheran Church,"425 Carmel Ave, Marina, CA 93933, USA",36.67705,-121.78701,3311.0,CA,MONTEREY COUNTY,"Marina 6, Marina 7",False,False,1.0
+3311,Scholze Park Center,"280 Dickman Ave, Monterey, CA 93940, USA",36.61116,-121.8989,3312.0,CA,MONTEREY COUNTY,"Monterey 1, Monterey 2",False,False,1.0
+3312,Monterey Youth Center Conference Room,"777 Pearl St, Monterey, CA 93940, USA",36.59749,-121.88672,3313.0,CA,MONTEREY COUNTY,"Monterey 10, Monterey 10",False,False,1.0
+3313,Saint James Episcopal Church,"381 High St, Monterey, CA 93940, USA",36.60259,-121.90397,3314.0,CA,MONTEREY COUNTY,Monterey 4,False,False,1.0
+3314,Monterey County Fairgrounds Gate 5,"2004 Fairground Rd, Monterey, CA 93940, USA",36.59412,-121.86564,3315.0,CA,MONTEREY COUNTY,"Monterey 5, Monterey 6, Monterey 6",False,False,1.0
+3315,Monterey United Methodist Church,"1 Soledad Dr, Monterey, CA 93940, USA",36.58403,-121.90335,3316.0,CA,MONTEREY COUNTY,"Monterey 7, Monterey 9",False,False,1.0
+3316,Bethlehem Lutheran Church,"800 Cass St, Monterey, CA 93940, USA",36.59409,-121.8959,3317.0,CA,MONTEREY COUNTY,Monterey 8,False,False,1.0
+3317,Monte Del Lago - Club Room,"13100 Monte Del Lago, Castroville, CA 95012, USA",36.77219,-121.73448,3318.0,CA,MONTEREY COUNTY,Oak Hills,False,False,1.0
+3318,PG Adult School - Multipurpose Room,"1025 Lighthouse Ave, Pacific Grove, CA 93950, USA",36.62635,-121.929,3319.0,CA,MONTEREY COUNTY,"Pacific Grove 1, Pacific Grove 2",False,False,1.0
+3319,Pg Community Center,"515 Junipero Ave, Pacific Grove, CA 93950, USA",36.61611,-121.91781,3320.0,CA,MONTEREY COUNTY,"Pacific Grove 3, Pacific Grove 5",False,False,1.0
+3320,PG First Baptist Church,"246 Laurel Ave, Pacific Grove, CA 93950, USA",36.61757,-121.90978,3321.0,CA,MONTEREY COUNTY,Pacific Grove 4,False,False,1.0
+3321,Pacific Grove High School,"615 Sunset Dr, Pacific Grove, CA 93950, USA",36.61032,-121.92527,3322.0,CA,MONTEREY COUNTY,"Pacific Grove 6, Pacific Grove 7",False,False,1.0
+3322,Pajaro Middle School,"250 Salinas Rd, Pajaro, CA 95076, USA",36.89908,-121.74893,3323.0,CA,MONTEREY COUNTY,Pajaro 1,False,False,1.0
+3323,Iglesia Roca Firme,"47 Sill Rd, Watsonville, CA 95076, USA",36.86567,-121.73206,3324.0,CA,MONTEREY COUNTY,"Pajaro 2, Pajaro 3",False,False,1.0
+3324,Pebble Beach Community Services District,"3101 Forest Lake Rd, Pebble Beach, CA 93953, USA",36.58921,-121.94451,3325.0,CA,MONTEREY COUNTY,"Pebble Beach 1, Pebble Beach 2",False,False,1.0
+3325,First Baptist Church Of Prunedale,"17716 Pesante Rd, Prunedale, CA 93907, USA",36.77593,-121.66534,3326.0,CA,MONTEREY COUNTY,Prunedale 1,False,False,1.0
+3326,Prunetree Shopping Center A-05,"17551 Vierra Canyon Rd, Prunedale, CA 93907, USA",36.792,-121.66506,3327.0,CA,MONTEREY COUNTY,Prunedale 2,False,False,1.0
+3327,Pine Canyon Mobile Estates - Rec Room,"51201 Pine Canyon Rd, King City, CA 93930, USA",36.18002,-121.14916,3328.0,CA,MONTEREY COUNTY,Riverside 2,False,False,1.0
+3328,Martin Luther King Academy,"925 N Sanborn Rd, Salinas, CA 93905, USA",36.68569,-121.61729,3329.0,CA,MONTEREY COUNTY,Salinas 11,False,False,1.0
+3329,La Paz School,"1300 N Sanborn Rd, Salinas, CA 93905, USA",36.6906,-121.60527,3330.0,CA,MONTEREY COUNTY,"Salinas 12, Salinas 13",False,False,1.0
+3330,Dr. Oscar F. Loya School,"1505 Cougar Dr, Salinas, CA 93905, USA",36.68993,-121.59439,3331.0,CA,MONTEREY COUNTY,"Salinas 14, Salinas 14",False,False,1.0
+3331,Creekside Elementary School,"1770 Kittery St, Salinas, CA 93906, USA",36.70499,-121.61133,3332.0,CA,MONTEREY COUNTY,"Salinas 15, Salinas 68",False,False,1.0
+3332,Sherwood Elementary School,"110 S Wood St, Salinas, CA 93905, USA",36.67181,-121.63508,3333.0,CA,MONTEREY COUNTY,Salinas 21,False,False,1.0
+3333,Saint Mary Of The Nativity - Parish Hall,"424 Towt St, Salinas, CA 93905, USA",36.68115,-121.61307,3334.0,CA,MONTEREY COUNTY,"Salinas 22, Salinas 23",False,False,1.0
+3334,Bardin Elementary School - PDC,"425 Bardin Rd, Salinas, CA 93905, USA",36.67327,-121.60089,3335.0,CA,MONTEREY COUNTY,"Salinas 24, Salinas 25, Salinas 25",False,False,1.0
+3335,Hartnell College - Steinbeck Hall,"411 Central Ave, Salinas, CA 93901, USA",36.67395,-121.66565,3336.0,CA,MONTEREY COUNTY,"Salinas 32, Salinas 33, Salinas 33",False,False,1.0
+3336,First Baptist Church - Salinas,"1130 San Vincente Ave, Salinas, CA 93901, USA",36.66315,-121.67332,3337.0,CA,MONTEREY COUNTY,Salinas 34,False,False,1.0
+3337,University Park School,"833 W Acacia St, Salinas, CA 93901, USA",36.67133,-121.67853,3338.0,CA,MONTEREY COUNTY,Salinas 34,False,False,1.0
+3338,First Presbyterian Church - Salinas,"830 Padre Dr, Salinas, CA 93901, USA",36.66444,-121.6603,3339.0,CA,MONTEREY COUNTY,Salinas 35,False,False,1.0
+3339,Lutheran Church Of Our Savior - Hall,"1230 Luther Way, Salinas, CA 93901, USA",36.66162,-121.67229,3340.0,CA,MONTEREY COUNTY,Salinas 36,False,False,1.0
+3340,Saint Ansgars Church,"72 E San Joaquin St, Salinas, CA 93901, USA",36.65772,-121.65696,3341.0,CA,MONTEREY COUNTY,"Salinas 37, Salinas 38, Salinas 38",False,False,1.0
+3341,"Active Seniors, Inc.","100 Harvest St, Salinas, CA 93901, USA",36.66851,-121.6526,3342.0,CA,MONTEREY COUNTY,Salinas 39,False,False,1.0
+3342,"Filipino Community Of Salinas Valley, Inc.","250 Calle Cebu, Salinas, CA 93901, USA",36.68016,-121.64887,3343.0,CA,MONTEREY COUNTY,Salinas 42,False,False,1.0
+3343,Madonna Del Sasso Church - Parish Hall,"320 E Laurel Dr, Salinas, CA 93906, USA",36.69753,-121.64596,3344.0,CA,MONTEREY COUNTY,"Salinas 43, Salinas 44, Salinas 45",False,False,1.0
+3344,Hebbron Family Center,"683 Fremont St, Salinas, CA 93905, USA",36.67769,-121.63202,3345.0,CA,MONTEREY COUNTY,Salinas 46,False,False,1.0
+3345,East Salinas Family Center,"995 N Madeira Ave, Salinas, CA 93905, USA",36.68338,-121.62176,3346.0,CA,MONTEREY COUNTY,Salinas 46,False,False,1.0
+3346,The Salvation Army Of Salinas,"2460 N Main St, Salinas, CA 93906, USA",36.73402,-121.65565,3347.0,CA,MONTEREY COUNTY,Salinas 51,False,False,1.0
+3347,Santa Rita School,"2014 Santa Rita St, Salinas, CA 93906, USA",36.72454,-121.6526,3348.0,CA,MONTEREY COUNTY,Salinas 52,False,False,1.0
+3348,Northminster Presbyterian Church,"315 E Alvin Dr, Salinas, CA 93906, USA",36.70757,-121.64535,3349.0,CA,MONTEREY COUNTY,Salinas 55,False,False,1.0
+3349,Kammann School,"521 Rochex Ave, Salinas, CA 93906, USA",36.69962,-121.6591,3350.0,CA,MONTEREY COUNTY,"Salinas 56, Salinas 56",False,False,1.0
+3350,Petra Bible Church,"115 Iris Dr, Salinas, CA 93906, USA",36.69264,-121.6542,3351.0,CA,MONTEREY COUNTY,Salinas 58,False,False,1.0
+3351,Lutheran Church Of The Good Shepherd,"580 Larkin St, Salinas, CA 93907, USA",36.69067,-121.65995,3352.0,CA,MONTEREY COUNTY,"Salinas 59, Salinas 41, Salinas 57",False,False,1.0
+3352,Harden Middle School,"1561 McKinnon St, Salinas, CA 93906, USA",36.70982,-121.64595,3353.0,CA,MONTEREY COUNTY,"Salinas 61, Salinas 61",False,False,1.0
+3353,New Republic Elementary School,"636 Arcadia Way, Salinas, CA 93906, USA",36.7133,-121.62646,3354.0,CA,MONTEREY COUNTY,"Salinas 62, Salinas 63",False,False,1.0
+3354,El Dorado Park,"1655 El Dorado Dr, Salinas, CA 93906, USA",36.70977,-121.63753,3355.0,CA,MONTEREY COUNTY,"Salinas 63, Salinas 62",False,False,1.0
+3355,Natividad School,"1465 Modoc Ave, Salinas, CA 93906, USA",36.70422,-121.63729,3356.0,CA,MONTEREY COUNTY,Salinas 64,False,False,1.0
+3356,Loma Vista School,"757 Sausal Dr, Salinas, CA 93906, USA",36.7085,-121.62323,3357.0,CA,MONTEREY COUNTY,Salinas 65,False,False,1.0
+3357,Everett Alvarez High School,"1900 Independence Blvd, Salinas, CA 93906, USA",36.71214,-121.61476,3358.0,CA,MONTEREY COUNTY,"Salinas 66, Salinas 67",False,False,1.0
+3358,San Antonio Valley Community Center,"65951 Lockwood San Lucas Rd, Lockwood, CA 93932, USA",35.96657,-121.08577,3359.0,CA,MONTEREY COUNTY,San Antonio 1,False,False,1.0
+3359,Crossroads Christian Church,"1035 Rogge Rd, Salinas, CA 93906, USA",36.73189,-121.6315,3360.0,CA,MONTEREY COUNTY,"Santa Rita 4, Santa Rita 6",False,False,1.0
+3360,Seaside Community Center - Soper Field,"220 Coe Ave, Seaside, CA 93955, USA",36.626,-121.83246,3361.0,CA,MONTEREY COUNTY,"Seaside 2, Seaside 2",False,False,1.0
+3361,La Iglesia De San Pablo,"1092 Noche Buena St, Seaside, CA 93955, USA",36.59915,-121.83756,3362.0,CA,MONTEREY COUNTY,Seaside 3,False,False,1.0
+3362,Cabrillo Family Resource Center,"1295 La Salle Ave, Seaside, CA 93955, USA",36.617,-121.83798,3363.0,CA,MONTEREY COUNTY,"Seaside 4, Seaside 6, Seaside 7",False,False,1.0
+3363,Greater Victory Temple,"1620 Broadway Ave, Seaside, CA 93955, USA",36.6085,-121.82926,3364.0,CA,MONTEREY COUNTY,"Seaside 5, Seaside 8",False,False,1.0
+3364,Oldemeyer Center,"986 Hilby Ave, Seaside, CA 93955, USA",36.60212,-121.84606,3365.0,CA,MONTEREY COUNTY,"Seaside 9, Seaside 10",False,False,1.0
+3365,Soledad Ymca,"560 Walker Dr, Soledad, CA 93960, USA",36.42935,-121.31958,3366.0,CA,MONTEREY COUNTY,"Soledad 1, Soledad 2",False,False,1.0
+3366,Soledad High School,"425 Gabilan Dr, Soledad, CA 93960, USA",36.4363,-121.32548,3367.0,CA,MONTEREY COUNTY,"Soledad 3, Soledad 4",False,False,1.0
+3367,Cdf Tularcitos Fire Station,"16650 Cachagua Rd, Carmel Valley, CA 93924, USA",36.44626,-121.68581,3368.0,CA,MONTEREY COUNTY,Tassajara,False,False,1.0
+3368,Cypress Community Church,"681 Monterey Salinas Hwy, Salinas, CA 93908, USA",36.58224,-121.72665,3369.0,CA,MONTEREY COUNTY,Toro 1,False,False,1.0
+3369,Good Shepherd Church,"301 Corral De Tierra Rd, Salinas, CA 93908, USA",36.54121,-121.7258,3370.0,CA,MONTEREY COUNTY,Toro 2,False,False,1.0
+3370,Creekside Club House,"19323 Creekside Cir, Salinas, CA 93908, USA",36.62308,-121.68741,3371.0,CA,MONTEREY COUNTY,Toro 3,False,False,1.0
+50883,Sunset Center - Carpenter Hall,"San Carlos St, Carmel-By-The-Sea, CA 93923, USA",36.55174,-121.92164,50885.0,CA,MONTEREY COUNTY,"Carmel-by-the-Sea 1, Carmel-by-the-Sea 2",False,False,1.0
+51285,Chualar School,"24285 Lincoln St, Chualar, CA 93925, USA",36.57235,-121.51635,4.0,CA,MONTEREY COUNTY,Alisal 2,False,False,1.0

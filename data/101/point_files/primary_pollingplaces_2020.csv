@@ -1,20 +1,20 @@
-name,address,lat,lon
-Live Oak Community Building,10200 O St  Live Oak 95953,39.27837,-121.66552
-Sutter Estates,1230 Plumas St  Yuba City 95991,39.14719,-121.61842
-Saint Andrew Presbyterian Church,1390 Franklin Rd  Yuba City 95993,39.12662,-121.63835
-Veterans Center,1425 Veterans Memorial Cir  Yuba City 95993,39.14505,-121.63624
-Walnut Avenue Community Center,1431 Walnut Ave  Yuba City 95993,39.08082,-121.63767
-Sutter County Elections,1435 Veterans Memorial Cir  Yuba City 95993,39.14396,-121.63697
-Meridian Elementary School,15898 Central St  Meridian 95957,39.14193,-121.90963
-Andros Karperos School,1666 Camino De Flores  Yuba City 95993,39.12325,-121.64585
-Saint Isidore Church,222 Clark Ave  Yuba City 95991,39.12256,-121.6255
-United Pentecostal Church,2649 E Onstott Rd  Yuba City 95991,39.16601,-121.63424
-Sutter Union High School,2665 Acacia Ave  Sutter 95982,39.16132,-121.74695
-Riverbend Elementary School,301 Stewart Rd  Yuba City 95991,39.08852,-121.61035
-Pleasant Grove Fire Department,3100 Howsley Rd  Pleasant Grove 95668,38.82427,-121.50341
-First United Methodist Church,3101 Colusa Hwy  Yuba City 95993,39.142,-121.6726
-Dell-Wayne Estates,3120 Live Oak Blvd  Yuba City 95991,39.17282,-121.6276
-Franklin Elementary School,332 N Township Rd  Yuba City 95993,39.1282,-121.68953
-Yuba Sutter Fairgrounds,442 Franklin Ave  Yuba City 95991,39.13028,-121.61047
-Saint James Of Jerusalem Episcopal Church,556 N George Washington Blvd  Yuba City 95993,39.13232,-121.6722
-North Valley Calvary Chapel,613 Bogue Rd  Yuba City 95991,39.10123,-121.61868
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Live Oak Community Building,10200 O St  Live Oak 95953,39.27837,-121.66552,,,,,,,
+1,Sutter Estates,1230 Plumas St  Yuba City 95991,39.14719,-121.61842,,,,,,,
+2,Saint Andrew Presbyterian Church,1390 Franklin Rd  Yuba City 95993,39.12662,-121.63835,,,,,,,
+3,Veterans Center,1425 Veterans Memorial Cir  Yuba City 95993,39.14505,-121.63624,,,,,,,
+4,Walnut Avenue Community Center,1431 Walnut Ave  Yuba City 95993,39.08082,-121.63767,,,,,,,
+5,Sutter County Elections,1435 Veterans Memorial Cir  Yuba City 95993,39.14396,-121.63697,,,,,,,
+6,Meridian Elementary School,15898 Central St  Meridian 95957,39.14193,-121.90963,,,,,,,
+7,Andros Karperos School,1666 Camino De Flores  Yuba City 95993,39.12325,-121.64585,,,,,,,
+8,Saint Isidore Church,222 Clark Ave  Yuba City 95991,39.12256,-121.6255,,,,,,,
+9,United Pentecostal Church,2649 E Onstott Rd  Yuba City 95991,39.16601,-121.63424,,,,,,,
+10,Sutter Union High School,2665 Acacia Ave  Sutter 95982,39.16132,-121.74695,,,,,,,
+11,Riverbend Elementary School,301 Stewart Rd  Yuba City 95991,39.08852,-121.61035,,,,,,,
+12,Pleasant Grove Fire Department,3100 Howsley Rd  Pleasant Grove 95668,38.82427,-121.50341,,,,,,,
+13,First United Methodist Church,3101 Colusa Hwy  Yuba City 95993,39.142,-121.6726,,,,,,,
+14,Dell-Wayne Estates,3120 Live Oak Blvd  Yuba City 95991,39.17282,-121.6276,,,,,,,
+15,Franklin Elementary School,332 N Township Rd  Yuba City 95993,39.1282,-121.68953,,,,,,,
+16,Yuba Sutter Fairgrounds,442 Franklin Ave  Yuba City 95991,39.13028,-121.61047,,,,,,,
+17,Saint James Of Jerusalem Episcopal Church,556 N George Washington Blvd  Yuba City 95993,39.13232,-121.6722,,,,,,,
+18,North Valley Calvary Chapel,613 Bogue Rd  Yuba City 95991,39.10123,-121.61868,,,,,,,

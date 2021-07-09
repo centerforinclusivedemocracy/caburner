@@ -1,21 +1,21 @@
-name,address,lat,lon
-Wheatland Community Center,101 C St  Wheatland 95692,39.01298,-121.42602
-Loma Rica Community Church,11234 Loma Rica Rd  Marysville 95901,39.30797,-121.42918
-Rio Del Oro School,1220 Zanes Dr  Plumas Lake 95961,39.01162,-121.55251
-Word Of Life Church,1229 Buchanan St  Marysville 95901,39.15004,-121.57789
-Camptonville School,16585 School St  Camptonville 95922,39.4532,-121.04821
-Yuba Feather Community Center,17103 Ponderosa Way  Brownsville 95919,39.45966,-121.28945
-Cobblestone School,1718 Churchill Way  Plumas Lake 95961,39.00204,-121.54934
-Yuba College,2088 N Beale Rd Building 2100 Marysville 95901,39.12509,-121.53843
-Bible Baptist Church,2787 N Beale Rd  Marysville 95901,39.12925,-121.5138
-Hallwood Church Of The Nazarene,2825 State Highway 20  Marysville 95901,39.20478,-121.51688
-Johnson Park School,4364 Lever Ave  Olivehurst 95961,39.08087,-121.53593
-River Valley Church,4997 Olivehurst Ave  Olivehurst 95961,39.09885,-121.55105
-Emmanuel Faith Tabernacle,5286 Feather River Blvd  Olivehurst 95961,39.10666,-121.58042
-Edgewater Elementary School,5715 Oakwood Dr  Marysville 95901,39.11978,-121.5494
-New Life Assembly,5736 Arboga Rd  Olivehurst 95961,39.12026,-121.57539
-Calvary Chapel,6349 Marysville Rd  Browns Valley 95918,39.29002,-121.3871
-Yuba County Elections,915 8th St  Marysville 95901,39.14426,-121.59839
-Yuba County Government Center,915 8th St  Marysville 95901,39.14426,-121.59839
-Dobbins / Oregon House Com Ctr,9185 Marysville Rd  Oregon House 95962,39.36451,-121.25376
-Johl Station,9274 State Highway 70  Marysville 95901,39.23086,-121.60171
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Wheatland Community Center,101 C St  Wheatland 95692,39.01298,-121.42602,,,,,,,
+1,Loma Rica Community Church,11234 Loma Rica Rd  Marysville 95901,39.30797,-121.42918,,,,,,,
+2,Rio Del Oro School,1220 Zanes Dr  Plumas Lake 95961,39.01162,-121.55251,,,,,,,
+3,Word Of Life Church,1229 Buchanan St  Marysville 95901,39.15004,-121.57789,,,,,,,
+4,Camptonville School,16585 School St  Camptonville 95922,39.4532,-121.04821,,,,,,,
+5,Yuba Feather Community Center,17103 Ponderosa Way  Brownsville 95919,39.45966,-121.28945,,,,,,,
+6,Cobblestone School,1718 Churchill Way  Plumas Lake 95961,39.00204,-121.54934,,,,,,,
+7,Yuba College,2088 N Beale Rd Building 2100 Marysville 95901,39.12509,-121.53843,,,,,,,
+8,Bible Baptist Church,2787 N Beale Rd  Marysville 95901,39.12925,-121.5138,,,,,,,
+9,Hallwood Church Of The Nazarene,2825 State Highway 20  Marysville 95901,39.20478,-121.51688,,,,,,,
+10,Johnson Park School,4364 Lever Ave  Olivehurst 95961,39.08087,-121.53593,,,,,,,
+11,River Valley Church,4997 Olivehurst Ave  Olivehurst 95961,39.09885,-121.55105,,,,,,,
+12,Emmanuel Faith Tabernacle,5286 Feather River Blvd  Olivehurst 95961,39.10666,-121.58042,,,,,,,
+13,Edgewater Elementary School,5715 Oakwood Dr  Marysville 95901,39.11978,-121.5494,,,,,,,
+14,New Life Assembly,5736 Arboga Rd  Olivehurst 95961,39.12026,-121.57539,,,,,,,
+15,Calvary Chapel,6349 Marysville Rd  Browns Valley 95918,39.29002,-121.3871,,,,,,,
+16,Yuba County Elections,915 8th St  Marysville 95901,39.14426,-121.59839,,,,,,,
+17,Yuba County Government Center,915 8th St  Marysville 95901,39.14426,-121.59839,,,,,,,
+18,Dobbins / Oregon House Com Ctr,9185 Marysville Rd  Oregon House 95962,39.36451,-121.25376,,,,,,,
+19,Johl Station,9274 State Highway 70  Marysville 95901,39.23086,-121.60171,,,,,,,

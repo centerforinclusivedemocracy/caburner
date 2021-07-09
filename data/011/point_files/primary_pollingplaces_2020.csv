@@ -1,11 +1,11 @@
-name,address,lat,lon
-Arbuckle Public Utility Dist Office,104 5th St  Arbuckle 95912,39.0194,-122.0582
-Eskaton Frank Jaconetti  Manor,232 E Carson St  Colusa 95932,39.2051,-122.00009
-Maxwell Legion Hall,250 Oak Street  Maxwell 95955,39.27649,-122.19527
-Our Lady of Lourdes Parish Hall,335 Oak St  Colusa 95932,39.21154,-122.00697
-Colusa County Registrar of Voters,546 Jay St  Colusa 95932,39.21354,-122.00906
-St. Bernadette's Hall,745 Ware Ave  Colusa 95932,39.2041,-122.0153
-Colusa City Fire Station,750 Market St  Colusa 95932,39.21516,-122.01167
-Williams Community Center,860 C St  Williams 95987,39.15635,-122.15272
-Alexander Center Apartments,901 Gail Ave  Arbuckle 95912,39.01969,-122.06839
-Senior Center/Scouts Cabin,901 Parkhill St  Colusa 95932,39.2115,-122.01515
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Arbuckle Public Utility Dist Office,104 5th St  Arbuckle 95912,39.0194,-122.0582,,,,,,,
+1,Eskaton Frank Jaconetti  Manor,232 E Carson St  Colusa 95932,39.2051,-122.00009,,,,,,,
+2,Maxwell Legion Hall,250 Oak Street  Maxwell 95955,39.27649,-122.19527,,,,,,,
+3,Our Lady of Lourdes Parish Hall,335 Oak St  Colusa 95932,39.21154,-122.00697,,,,,,,
+4,Colusa County Registrar of Voters,546 Jay St  Colusa 95932,39.21354,-122.00906,,,,,,,
+5,St. Bernadette's Hall,745 Ware Ave  Colusa 95932,39.2041,-122.0153,,,,,,,
+6,Colusa City Fire Station,750 Market St  Colusa 95932,39.21516,-122.01167,,,,,,,
+7,Williams Community Center,860 C St  Williams 95987,39.15635,-122.15272,,,,,,,
+8,Alexander Center Apartments,901 Gail Ave  Arbuckle 95912,39.01969,-122.06839,,,,,,,
+9,Senior Center/Scouts Cabin,901 Parkhill St  Colusa 95932,39.2115,-122.01515,,,,,,,

@@ -1,0 +1,20 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+5974,Bible Baptist Church,"2787 N Beale Rd, Marysville, CA 95901, USA",39.12925,-121.5138,5975.0,CA,YUBA COUNTY,Bible Baptist,False,False,1.0
+5975,Calvary,"6349 Marysville Rd, Browns Valley, CA 95918, USA",39.29002,-121.3871,5976.0,CA,YUBA COUNTY,Calvary,False,False,1.0
+5976,Cobblestone School,"1718 Churchill Way, Plumas Lake, CA 95961, USA",39.00204,-121.54934,5977.0,CA,YUBA COUNTY,Cobblestone,False,False,1.0
+5977,Dobbins / Oregon House Com Ctr,"9185 Marysville Rd, Oregon House, CA 95962, USA",39.36449,-121.25372,5978.0,CA,YUBA COUNTY,"Dob-OH, Camptonville",False,False,1.0
+5978,Edgewater Elementary School,"5715 Oakwood Dr, Marysville, CA 95901, USA",39.11973,-121.54933,5979.0,CA,YUBA COUNTY,Edgewater,False,False,1.0
+5979,Yuba County Government Center,"915 8th St, Marysville, CA 95901, USA",39.14426,-121.59839,5980.0,CA,YUBA COUNTY,"Govt Ctr A, Govt Ctr B",False,False,1.0
+5980,Hallwood Church Of The Nazarene,"2825 State Hwy 20, Marysville, CA 95901, USA",39.20478,-121.51688,5981.0,CA,YUBA COUNTY,Hallwood,False,False,1.0
+5981,Johl Station,"9274 CA-70, Marysville, CA 95901, USA",39.23087,-121.60171,5982.0,CA,YUBA COUNTY,Johl Station,False,False,1.0
+5982,Johnson Park School,"4364 Lever Ave, Olivehurst, CA 95961, USA",39.08087,-121.53593,5983.0,CA,YUBA COUNTY,Johnson Park,False,False,1.0
+5983,Yuba County Elections,"915 8th St, Marysville, CA 95901, USA",39.14426,-121.59839,5984.0,CA,YUBA COUNTY,Locality wide location,False,False,1.0
+5984,Loma Rica Community Church,"11234 Loma Rica Rd, Marysville, CA 95901, USA",39.30701,-121.4279,5985.0,CA,YUBA COUNTY,Loma Rica,False,False,1.0
+5985,New Life Assembly,"5736 Arboga Rd, Olivehurst, CA 95961, USA",39.12026,-121.57539,5986.0,CA,YUBA COUNTY,New Life,False,False,1.0
+5986,Rio Del Oro School,"1220 Zanes Dr, Plumas Lake, CA 95961, USA",39.01162,-121.55251,5987.0,CA,YUBA COUNTY,Rio Del Oro,False,False,1.0
+5987,River Valley Church,"4997 Olivehurst Ave, Olivehurst, CA 95961, USA",39.09885,-121.55105,5988.0,CA,YUBA COUNTY,"River Valley A, River Valley B",False,False,1.0
+5988,Emmanuel Faith Tabernacle,"5286 Feather River Blvd, Olivehurst, CA 95961, USA",39.10666,-121.58042,5989.0,CA,YUBA COUNTY,Tabernacle,False,False,1.0
+5989,Wheatland Community Center,"Tom Abe Park, 101 C St, Wheatland, CA 95692, USA",39.01298,-121.42602,5990.0,CA,YUBA COUNTY,"Wheatland A, Wheatland B",False,False,1.0
+5990,Word Of Life Church,"1229 Buchanan St, Marysville, CA 95901, USA",39.15004,-121.57789,5991.0,CA,YUBA COUNTY,Word of Life,False,False,1.0
+5991,Yuba College (Building 2100),"2088 N Beale Rd, Marysville, CA 95901, USA",39.12509,-121.53843,5992.0,CA,YUBA COUNTY,Yuba College,False,False,1.0
+5992,Yuba Feather Community Center,"17103 Ponderosa Way, Brownsville, CA 95919, USA",39.45867,-121.28984,5993.0,CA,YUBA COUNTY,Yuba Feather,False,False,1.0

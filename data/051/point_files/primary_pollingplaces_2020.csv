@@ -1,9 +1,9 @@
-name,address,lat,lon
-Chalfant Community Center,123 Valley Rd  Chalfant Valley 93514,37.52651,-118.36754
-Mammoth High School,365 Sierra Park Rd  Mammoth Lakes 93546,37.64067,-118.96277
-Mono County Satellite Office,437 Old Mammoth Rd  Mammoth Lakes 93546,37.6391,-118.9656
-Walker Community Center,442 Mule Deer Dr  Walker 96107,38.51435,-119.47982
-Crowley Community Center,58 Pearson Rd  Crowley Lake 93546,37.56667,-118.74178
-Bridgeport Memorial Hall,73 School St  Bridgeport 93517,38.25677,-119.22943
-Mono County Elections Office,74 N School St  Bridgeport 93517,38.25724,-119.2289
-June Lake Community Center,90 Granite Ave  June Lake 93529,37.77773,-119.07747
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Chalfant Community Center,123 Valley Rd  Chalfant Valley 93514,37.52651,-118.36754,,,,,,,
+1,Mammoth High School,365 Sierra Park Rd  Mammoth Lakes 93546,37.64067,-118.96277,,,,,,,
+2,Mono County Satellite Office,437 Old Mammoth Rd  Mammoth Lakes 93546,37.6391,-118.9656,,,,,,,
+3,Walker Community Center,442 Mule Deer Dr  Walker 96107,38.51435,-119.47982,,,,,,,
+4,Crowley Community Center,58 Pearson Rd  Crowley Lake 93546,37.56667,-118.74178,,,,,,,
+5,Bridgeport Memorial Hall,73 School St  Bridgeport 93517,38.25677,-119.22943,,,,,,,
+6,Mono County Elections Office,74 N School St  Bridgeport 93517,38.25724,-119.2289,,,,,,,
+7,June Lake Community Center,90 Granite Ave  June Lake 93529,37.77773,-119.07747,,,,,,,

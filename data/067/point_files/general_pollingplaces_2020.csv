@@ -1,0 +1,87 @@
+Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
+3721,3722,CA,SACRAMENTO COUNTY,Locality wide location,Toby Johnson Middle School,"10099 Franklin High Rd, Elk Grove, CA 95757, USA",38.39097,-121.432,False,False,1
+3722,3723,CA,SACRAMENTO COUNTY,Locality wide location,George Washington Carver High School,"10101 Systems Pkwy, Sacramento, CA 95827, USA",38.5649,-121.31636,False,False,1
+3723,3724,CA,SACRAMENTO COUNTY,Locality wide location,Koreana Plaza,"10947 Olson Dr #402, Rancho Cordova, CA 95670, USA",38.59627,-121.28319,False,False,1
+3724,3725,CA,SACRAMENTO COUNTY,Locality wide location,Herald Fire Station #87,"12746 Ivie Rd, Herald, CA 95638, USA",38.2937,-121.24068,False,False,1
+3725,3726,CA,SACRAMENTO COUNTY,Locality wide location,First Step Communities,"1400 A St # A, Sacramento, CA 95811, USA",38.58897,-121.48433,False,False,1
+3726,3727,CA,SACRAMENTO COUNTY,Locality wide location,Walnut Grove Library,"14177 Market St, Walnut Grove, CA 95690, USA",38.24078,-121.51402,False,False,1
+3727,3728,CA,SACRAMENTO COUNTY,Locality wide location,CLARA Auditorium,"1425 24th St, Sacramento, CA 95816, USA",38.57008,-121.47661,False,False,1
+3728,3729,CA,SACRAMENTO COUNTY,Locality wide location,Secretary of State Building,"1500 11th St, Sacramento, CA 95814, USA",38.57424,-121.4949,False,False,1
+3729,3730,CA,SACRAMENTO COUNTY,Locality wide location,Rancho Murieta Community Services District,"15160 Jackson Rd, Sloughhouse, CA 95683, USA",38.48686,-121.08298,False,False,1
+3730,3731,CA,SACRAMENTO COUNTY,Locality wide location,Isleton Community Center,"208 Jackson Blvd, Isleton, CA 95641, USA",38.16045,-121.61276,False,False,1
+3731,3732,CA,SACRAMENTO COUNTY,Locality wide location,Dept of Human Assistance - Galt,"210 N Lincoln Way, Galt, CA 95632, USA",38.25733,-121.30077,False,False,1
+3732,3733,CA,SACRAMENTO COUNTY,Locality wide location,Richard T. Conzelmann Community Center,"2201 Cottage Way, Sacramento, CA 95825, USA",38.60524,-121.41204,False,False,1
+3733,3734,CA,SACRAMENTO COUNTY,Locality wide location,Gold River Sports Club,"2201 Gold Rush Dr, Gold River, CA 95670, USA",38.62319,-121.25988,False,False,1
+3734,3735,CA,SACRAMENTO COUNTY,Locality wide location,Johnston Community Center,"231 Eleanor Ave, Sacramento, CA 95815, USA",38.61757,-121.46262,False,False,1
+3735,3736,CA,SACRAMENTO COUNTY,Locality wide location,Marina Vista Community Center,"240 Seavey Cir, Sacramento, CA 95818, USA",38.55996,-121.51322,False,False,1
+3736,3737,CA,SACRAMENTO COUNTY,Locality wide location,Arcade Library,"2443 Marconi Ave, Sacramento, CA 95821, USA",38.61861,-121.40409,False,False,1
+3737,3738,CA,SACRAMENTO COUNTY,Locality wide location,Dept of Human Assistance - Florin,"2450 Florin Rd, Sacramento, CA 95822, USA",38.49502,-121.48106,False,False,1
+3738,3739,CA,SACRAMENTO COUNTY,Locality wide location,Pannell Meadowview Community Center,"2450 Meadowview Rd, Sacramento, CA 95832, USA",38.48063,-121.47882,False,False,1
+3739,3740,CA,SACRAMENTO COUNTY,Locality wide location,Heritage Park Clubhouse,"2481 Heritage Park Ln, Sacramento, CA 95835, USA",38.68274,-121.51657,False,False,1
+3740,3741,CA,SACRAMENTO COUNTY,Locality wide location,Rancho Cordova City Hall,"2729 Prospect Park Dr, Rancho Cordova, CA 95670, USA",38.58929,-121.28457,False,False,1
+3741,3742,CA,SACRAMENTO COUNTY,Locality wide location,Sierra 2 Center,"2791 24th St, Sacramento, CA 95818, USA",38.55383,-121.48317,False,False,1
+3742,3743,CA,SACRAMENTO COUNTY,Locality wide location,University of Phoenix,"2860 Gateway Oaks Dr, Sacramento, CA 95833, USA",38.62206,-121.5191,False,False,1
+3743,3744,CA,SACRAMENTO COUNTY,Locality wide location,South Natomas Library,"2901 Truxel Rd, Sacramento, CA 95833, USA",38.61902,-121.4981,False,False,1
+3744,3745,CA,SACRAMENTO COUNTY,Locality wide location,CJUSD Office Annex,"3243 Center Ct Ln, Antelope, CA 95843, USA",38.71919,-121.38496,False,False,1
+3745,3746,CA,SACRAMENTO COUNTY,Locality wide location,V F W Post 4647,"3300 U St, Antelope, CA 95843, USA",38.70317,-121.38951,False,False,1
+3746,3747,CA,SACRAMENTO COUNTY,Locality wide location,Maple Neighborhood Center,"3301 37th Ave, Sacramento, CA 95824, USA",38.51964,-121.47186,False,False,1
+3747,3748,CA,SACRAMENTO COUNTY,Locality wide location,Oak Park Community Center,"3425 Martin Luther King Jr Blvd, Sacramento, CA 95817, USA",38.54356,-121.46397,False,False,1
+3748,3749,CA,SACRAMENTO COUNTY,Locality wide location,Robertson Community Center,"3525 Norwood Ave, Sacramento, CA 95838, USA",38.63092,-121.45736,False,False,1
+3749,3750,CA,SACRAMENTO COUNTY,Locality wide location,Natomas Pacific Pathways Prep Charter School,"3700 Del Paso Rd, Sacramento, CA 95834, USA",38.6552,-121.54606,False,False,1
+3750,3751,CA,SACRAMENTO COUNTY,Locality wide location,Greater Sacramento Urban League,"3725 Marysville Blvd, Sacramento, CA 95838, USA",38.63588,-121.43017,False,False,1
+3751,3752,CA,SACRAMENTO COUNTY,Locality wide location,Animal Care & Regulation,"3839 Bradshaw Rd, Sacramento, CA 95827, USA",38.55368,-121.33443,False,False,1
+3752,3753,CA,SACRAMENTO COUNTY,Locality wide location,Faith Lutheran Church,"4000 San Juan Ave, Fair Oaks, CA 95628, USA",38.63668,-121.2905,False,False,1
+3753,3754,CA,SACRAMENTO COUNTY,Locality wide location,APAPA,"4000 Truxel Rd #3, Sacramento, CA 95834, USA",38.64203,-121.50822,False,False,1
+3754,3755,CA,SACRAMENTO COUNTY,Locality wide location,Littleton Community Center,"410 Civic Dr, Galt, CA 95632, USA",38.25218,-121.29584,False,False,1
+3755,3756,CA,SACRAMENTO COUNTY,Locality wide location,Murph - Emmanuel  A M E Church,"4151 Don Julio Blvd, North Highlands, CA 95660, USA",38.68272,-121.37223,False,False,1
+3756,3757,CA,SACRAMENTO COUNTY,Locality wide location,North Highlands - Antelope Library,"4235 Antelope Rd, Antelope, CA 95843, USA",38.70464,-121.36479,False,False,1
+3757,3758,CA,SACRAMENTO COUNTY,Locality wide location,Rio Americano High School,"4540 American River Dr, Sacramento, CA 95864, USA",38.57894,-121.35513,False,False,1
+3758,3759,CA,SACRAMENTO COUNTY,Locality wide location,Natomas Charter School,"4600 Blackrock Dr, Sacramento, CA 95835, USA",38.65752,-121.49382,False,False,1
+3759,3760,CA,SACRAMENTO COUNTY,Locality wide location,Orange Grove Adult School,"4640 Orange Grove Ave, Sacramento, CA 95841, USA",38.64792,-121.35574,False,False,1
+3760,3761,CA,SACRAMENTO COUNTY,Locality wide location,Lutheran Church of Our Redeemer,"4641 Marconi Ave, Sacramento, CA 95821, USA",38.61769,-121.35584,False,False,1
+3761,3762,CA,SACRAMENTO COUNTY,Locality wide location,North Natomas Library,"4660 Via Ingoglia, Sacramento, CA 95835, USA",38.65746,-121.51799,False,False,1
+3762,3763,CA,SACRAMENTO COUNTY,Locality wide location,American River College,"4700 College Oak Dr, Sacramento, CA 95841, USA",38.64885,-121.34702,False,False,1
+3763,3764,CA,SACRAMENTO COUNTY,Locality wide location,Colonial Heights Library,"4799 Stockton Blvd, Sacramento, CA 95820, USA",38.53256,-121.44531,False,False,1
+3764,3765,CA,SACRAMENTO COUNTY,Locality wide location,Will Rogers Middle School,"4924 Dewey Dr, Fair Oaks, CA 95628, USA",38.65324,-121.30626,False,False,1
+3765,3766,CA,SACRAMENTO COUNTY,Locality wide location,Golden 1 Center,"500 David J Stern Walk, Sacramento, CA 95814, USA",38.58021,-121.49935,False,False,1
+3766,3767,CA,SACRAMENTO COUNTY,Locality wide location,The East Jay Building,"5025 J St #102, Sacramento, CA 95819, USA",38.56674,-121.44184,False,False,1
+3767,3768,CA,SACRAMENTO COUNTY,Locality wide location,Folsom Community Center,"52 Natoma St, Folsom, CA 95630, USA",38.68147,-121.16503,False,False,1
+3768,3769,CA,SACRAMENTO COUNTY,Locality wide location,Centennial United Methodist Church,"5401 Freeport Blvd, Sacramento, CA 95822, USA",38.52604,-121.49629,False,False,1
+3769,3770,CA,SACRAMENTO COUNTY,Locality wide location,Carmichael Library,"5605 Marconi Ave, Carmichael, CA 95608, USA",38.61765,-121.33423,False,False,1
+3770,3771,CA,SACRAMENTO COUNTY,Locality wide location,Belle Cooledge Community Center,"5699 S Land Park Dr, Sacramento, CA 95822, USA",38.52395,-121.51088,False,False,1
+3771,3772,CA,SACRAMENTO COUNTY,Locality wide location,Orangevale Grange Hall,"5807 Walnut Ave, Orangevale, CA 95662, USA",38.67158,-121.20768,False,False,1
+3772,3773,CA,SACRAMENTO COUNTY,Locality wide location,North Highlands Recreation Center,"6040 Watt Ave, North Highlands, CA 95660, USA",38.67549,-121.38154,False,False,1
+3773,3774,CA,SACRAMENTO COUNTY,Locality wide location,Hillsdale Blvd Baptist Church,"6201 Hillsdale Blvd, Sacramento, CA 95842, USA",38.67996,-121.35135,False,False,1
+3774,3775,CA,SACRAMENTO COUNTY,Locality wide location,George Sim Community Center,"6207 Logan St, Sacramento, CA 95824, USA",38.5135,-121.41468,False,False,1
+3775,3776,CA,SACRAMENTO COUNTY,Locality wide location,City of Citrus Heights City Hall,"6360 Fountain Square Dr, Citrus Heights, CA 95621, USA",38.68237,-121.29716,False,False,1
+3776,3777,CA,SACRAMENTO COUNTY,Locality wide location,Sacramento Elks Lodge No. 6,"6446 Riverside Blvd, Sacramento, CA 95831, USA",38.51129,-121.54436,False,False,1
+3777,3778,CA,SACRAMENTO COUNTY,Locality wide location,Campus Commons Clubhouse,"650 Commons Dr, Sacramento, CA 95825, USA",38.5683,-121.41337,False,False,1
+3778,3779,CA,SACRAMENTO COUNTY,Locality wide location,Andy Morin Sports Complex,"66 Clarksville Rd, Folsom, CA 95630, USA",38.65478,-121.13005,False,False,1
+3779,3780,CA,SACRAMENTO COUNTY,Locality wide location,Sylvan Oaks Library,"6700 Auburn Blvd, Citrus Heights, CA 95621, USA",38.68664,-121.3075,False,False,1
+3780,3781,CA,SACRAMENTO COUNTY,Locality wide location,Depot Building And Park,"6730 Front St, Rio Linda, CA 95673, USA",38.69013,-121.44908,False,False,1
+3781,3782,CA,SACRAMENTO COUNTY,Locality wide location,Orangevale Rec & Park District - Activity Building,"6818 Hazel Ave, Orangevale, CA 95662, USA",38.68971,-121.2246,False,False,1
+3782,3783,CA,SACRAMENTO COUNTY,Locality wide location,Sacramento County Administration Building,"700 H St, Sacramento, CA 95814, USA",38.58287,-121.49581,False,False,1
+3783,3784,CA,SACRAMENTO COUNTY,Locality wide location,Voter Registration & Elections,"7000 65th St A, Sacramento, CA 95823, USA",38.49856,-121.44008,False,False,1
+3784,3785,CA,SACRAMENTO COUNTY,Locality wide location,Fletcher Farm Community Center,"7245 Fletcher Farms Dr, Sacramento, CA 95828, USA",38.49344,-121.38208,False,False,1
+3785,3786,CA,SACRAMENTO COUNTY,Locality wide location,Robbie Waters Pocket-Greenhaven Library,"7335 Gloria Dr, Sacramento, CA 95831, USA",38.4937,-121.5368,False,False,1
+3786,3787,CA,SACRAMENTO COUNTY,Locality wide location,Valley Hi - North Laguna Library,"7400 Imagination Pkwy, Elk Grove, CA 95758, USA",38.45237,-121.41735,False,False,1
+3787,3788,CA,SACRAMENTO COUNTY,Locality wide location,Citrus Heights Fellowship,"7405 Mariposa Ave, Citrus Heights, CA 95610, USA",38.70103,-121.28222,False,False,1
+3788,3789,CA,SACRAMENTO COUNTY,Locality wide location,St. Luke's Lutheran Church,"7595 Center Pkwy, Sacramento, CA 95823, USA",38.48211,-121.44194,False,False,1
+3789,3790,CA,SACRAMENTO COUNTY,Locality wide location,Florin High School,"7956 Cottonwood Ln, Sacramento, CA 95828, USA",38.46915,-121.39275,False,False,1
+3790,3791,CA,SACRAMENTO COUNTY,Locality wide location,The Center at District56,"8230 Civic Center Dr, Elk Grove, CA 95757, USA",38.40599,-121.4021,False,False,1
+3791,3792,CA,SACRAMENTO COUNTY,Locality wide location,Bella Vista High School,"8301 Madison Ave, Fair Oaks, CA 95628, USA",38.6656,-121.25155,False,False,1
+3792,3793,CA,SACRAMENTO COUNTY,Locality wide location,Sunrise Community Church,"8321 Greenback Ln, Fair Oaks, CA 95628, USA",38.67977,-121.2518,False,False,1
+3793,3794,CA,SACRAMENTO COUNTY,Locality wide location,Elk Grove City Council Chambers,"8400 Laguna Palms Way, Elk Grove, CA 95758, USA",38.41722,-121.39481,False,False,1
+3794,3795,CA,SACRAMENTO COUNTY,Locality wide location,Edward Harris Jr. Middle School,"8691 Power Inn Rd, Elk Grove, CA 95624, USA",38.44849,-121.39467,False,False,1
+3795,3796,CA,SACRAMENTO COUNTY,Locality wide location,Bayside Church Folsom,"870 Glenn Dr, Folsom, CA 95630, USA",38.66302,-121.17579,False,False,1
+3796,3797,CA,SACRAMENTO COUNTY,Locality wide location,Arden - Dimick Library,"891 Watt Ave, Sacramento, CA 95864, USA",38.58088,-121.3836,False,False,1
+3797,3798,CA,SACRAMENTO COUNTY,Locality wide location,Wackford Community and Aquatic Complex,"9014 Bruceville Rd, Elk Grove, CA 95758, USA",38.4294,-121.41872,False,False,1
+3798,3799,CA,SACRAMENTO COUNTY,Locality wide location,Sacramento Asian Sports Foundation,"9040 High Tech Ct, Elk Grove, CA 95758, USA",38.43008,-121.46642,False,False,1
+3799,3800,CA,SACRAMENTO COUNTY,Locality wide location,Katherine L. Albiani Middle School,"9140 Bradshaw Rd, Elk Grove, CA 95624, USA",38.42638,-121.33553,False,False,1
+3800,3801,CA,SACRAMENTO COUNTY,Locality wide location,Unity of Sacramento Church,"9249 Folsom Blvd, Sacramento, CA 95826, USA",38.56291,-121.3583,False,False,1
+3801,3802,CA,SACRAMENTO COUNTY,Locality wide location,Laguna Creek Sports Club,"9570 Racquet Ct, Elk Grove, CA 95758, USA",38.40997,-121.42767,False,False,1
+3802,3803,CA,SACRAMENTO COUNTY,Locality wide location,CNU Event Center,"9650 W Taron Dr, Elk Grove, CA 95757, USA",38.40714,-121.48109,False,False,1
+3803,3804,CA,SACRAMENTO COUNTY,Locality wide location,Wilton Community Center,"9717 Colony Rd, Wilton, CA 95693, USA",38.4038,-121.25075,False,False,1
+3804,3805,CA,SACRAMENTO COUNTY,Locality wide location,Coloma Community Center,"Coloma Community Center, 4623 T St, Sacramento, CA 95819, USA",38.55695,-121.45058,False,False,1
+3805,3806,CA,SACRAMENTO COUNTY,Locality wide location,CSUS Modoc Hall,"Modoc Hall, 3020 State University Dr, Sacramento, CA 95819, USA",38.55313,-121.41932,False,False,1
+3806,3807,CA,SACRAMENTO COUNTY,Locality wide location,Muslim Community of Folsom,"Muslim Community of Folsom, 391 S Lexington Dr #120, Folsom, CA 95630, USA",38.66619,-121.13229,False,False,1

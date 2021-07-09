@@ -1,24 +1,24 @@
-name,address,lat,lon
-Seventh-day Adventist Church,1111 Park Way  Lakeport 95453,39.08217,-122.92578
-Lake County Office Of Education,1152 S Main St  Lakeport 95453,39.0346,-122.91519
-Clearlake City Hall,14050 Olympic Dr  Clearlake 95422,38.96148,-122.6492
-First Baptist Church,14550 Pearl Ave  Clearlake 95422,38.95366,-122.64068
-Big Valley Grange,1510 Big Valley Rd  Finley 95435,39.00656,-122.88421
-Middletown Lions Club,15399 Central Park Rd  Middletown 95461,38.74524,-122.6239
-Little Red Schoolhouse,15780 Bottle Rock Rd  Cobb 95426,38.83218,-122.73395
-Lower Lake Methodist Church Social Hall,16255 2nd St  Lower Lake 95457,38.91113,-122.60865
-HVL Golf Course Restaurant,18174 Hidden Valley Rd  Hidden Valley Lake 95467,38.80806,-122.5694
-HVL Community Services Dist Office,19400 Hartmann Rd  Hidden Valley Lake 95467,38.79762,-122.55376
-Scotts Valley Women's Clubhouse,2298 Hendricks Rd  Lakeport 95453,39.06359,-122.95246
-Lake County Registrar-Voters,255 N Forbes St  Lakeport 95453,39.04367,-122.91648
-Buckingham Homeowner's Association,2850 Eastlake Dr  Kelseyville 95451,39.00088,-122.75153
-Community Baptist Church,2877 E Highway 20  Nice 95464,39.12302,-122.85887
-Highlands Senior Service Center,3245 Bowers Ave  Clearlake 95422,38.96594,-122.63062
-Lutheran Church Parish Hall,3863 Country Club Dr  Lucerne 95458,39.09048,-122.7919
-Orchard Shores Clubhouse,500 Orchard Shores Dr  Clearlake Oaks 95423,39.01876,-122.65315
-Lakeport Senior Activity Center,527 Konocti Ave  Lakeport 95453,39.03513,-122.91951
-Kels Presbyterian Church Hall,5340 3rd St  Kelseyville 95451,38.97679,-122.83775
-LDS Church,600 16th St  Lakeport 95453,39.05308,-122.91973
-Galilee Lutheran Church,8860 Soda Bay Rd  Kelseyville 95451,38.98119,-122.74224
-North Shore Christian Fellowship,9456 Main St  Upper Lake 95485,39.1639,-122.9107
-Clearlake Riviera Association,9689 Highway 281  Kelseyville 95451,38.95372,-122.72872
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Seventh-day Adventist Church,1111 Park Way  Lakeport 95453,39.08217,-122.92578,,,,,,,
+1,Lake County Office Of Education,1152 S Main St  Lakeport 95453,39.0346,-122.91519,,,,,,,
+2,Clearlake City Hall,14050 Olympic Dr  Clearlake 95422,38.96148,-122.6492,,,,,,,
+3,First Baptist Church,14550 Pearl Ave  Clearlake 95422,38.95366,-122.64068,,,,,,,
+4,Big Valley Grange,1510 Big Valley Rd  Finley 95435,39.00656,-122.88421,,,,,,,
+5,Middletown Lions Club,15399 Central Park Rd  Middletown 95461,38.74524,-122.6239,,,,,,,
+6,Little Red Schoolhouse,15780 Bottle Rock Rd  Cobb 95426,38.83218,-122.73395,,,,,,,
+7,Lower Lake Methodist Church Social Hall,16255 2nd St  Lower Lake 95457,38.91113,-122.60865,,,,,,,
+8,HVL Golf Course Restaurant,18174 Hidden Valley Rd  Hidden Valley Lake 95467,38.80806,-122.5694,,,,,,,
+9,HVL Community Services Dist Office,19400 Hartmann Rd  Hidden Valley Lake 95467,38.79762,-122.55376,,,,,,,
+10,Scotts Valley Women's Clubhouse,2298 Hendricks Rd  Lakeport 95453,39.06359,-122.95246,,,,,,,
+11,Lake County Registrar-Voters,255 N Forbes St  Lakeport 95453,39.04367,-122.91648,,,,,,,
+12,Buckingham Homeowner's Association,2850 Eastlake Dr  Kelseyville 95451,39.00088,-122.75153,,,,,,,
+13,Community Baptist Church,2877 E Highway 20  Nice 95464,39.12302,-122.85887,,,,,,,
+14,Highlands Senior Service Center,3245 Bowers Ave  Clearlake 95422,38.96594,-122.63062,,,,,,,
+15,Lutheran Church Parish Hall,3863 Country Club Dr  Lucerne 95458,39.09048,-122.7919,,,,,,,
+16,Orchard Shores Clubhouse,500 Orchard Shores Dr  Clearlake Oaks 95423,39.01876,-122.65315,,,,,,,
+17,Lakeport Senior Activity Center,527 Konocti Ave  Lakeport 95453,39.03513,-122.91951,,,,,,,
+18,Kels Presbyterian Church Hall,5340 3rd St  Kelseyville 95451,38.97679,-122.83775,,,,,,,
+19,LDS Church,600 16th St  Lakeport 95453,39.05308,-122.91973,,,,,,,
+20,Galilee Lutheran Church,8860 Soda Bay Rd  Kelseyville 95451,38.98119,-122.74224,,,,,,,
+21,North Shore Christian Fellowship,9456 Main St  Upper Lake 95485,39.1639,-122.9107,,,,,,,
+22,Clearlake Riviera Association,9689 Highway 281  Kelseyville 95451,38.95372,-122.72872,,,,,,,

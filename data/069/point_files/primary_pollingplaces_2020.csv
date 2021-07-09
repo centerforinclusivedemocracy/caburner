@@ -1,17 +1,17 @@
-name,address,lat,lon
-San Juan Bautista Community Center,10 San Jose St  San Juan Bautista 95045,36.84715,-121.53838
-Rancho San Justo Middle School,1201 Rancho Dr  Hollister 95023,36.84245,-121.39658
-Lighthouse Apostolic Church Of Hollister,1515 Santa Ana Rd  Hollister 95023,36.85515,-121.37455
-Sunnyslope Christian Center,1520 Sunnyslope Rd  Hollister 95023,36.83961,-121.37511
-Ladd Lane School,161 Ladd Ln  Hollister 95023,36.82943,-121.3924
-Calvary Baptist Church,1900 Highland Dr  Hollister 95023,36.8326,-121.37467
-Seventh Day Adventist Church,2121 Sunnyslope Rd  Hollister 95023,36.83873,-121.36605
-Hollister School District,2690 Cienega Rd  Hollister 95023,36.82347,-121.40146
-Hollister Community Center,300 West St  Hollister 95023,36.85339,-121.40624
-Ridgemark Golf & Country Club,3800 Airline Hwy  Hollister 95023,36.81418,-121.36305
-San Benito County Elections Department,440 5th St  Hollister 95023,36.85184,-121.40428
-Aromas Fire Station,492 Carpenteria Rd  Aromas 95004,36.8794,-121.64101
-Spring Grove School,500 Spring Grove Rd  Hollister 95023,36.91556,-121.35952
-Dunne Park,600 West St  Hollister 95023,36.84998,-121.40661
-SDES Hall-Portuguese Hall,695 7th St  Hollister 95023,36.84916,-121.40914
-Immaculate Conception Church,7290 Airline Hwy  Tres Pinos 95075,36.78678,-121.31647
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,San Juan Bautista Community Center,10 San Jose St  San Juan Bautista 95045,36.84715,-121.53838,,,,,,,
+1,Rancho San Justo Middle School,1201 Rancho Dr  Hollister 95023,36.84245,-121.39658,,,,,,,
+2,Lighthouse Apostolic Church Of Hollister,1515 Santa Ana Rd  Hollister 95023,36.85515,-121.37455,,,,,,,
+3,Sunnyslope Christian Center,1520 Sunnyslope Rd  Hollister 95023,36.83961,-121.37511,,,,,,,
+4,Ladd Lane School,161 Ladd Ln  Hollister 95023,36.82943,-121.3924,,,,,,,
+5,Calvary Baptist Church,1900 Highland Dr  Hollister 95023,36.8326,-121.37467,,,,,,,
+6,Seventh Day Adventist Church,2121 Sunnyslope Rd  Hollister 95023,36.83873,-121.36605,,,,,,,
+7,Hollister School District,2690 Cienega Rd  Hollister 95023,36.82347,-121.40146,,,,,,,
+8,Hollister Community Center,300 West St  Hollister 95023,36.85339,-121.40624,,,,,,,
+9,Ridgemark Golf & Country Club,3800 Airline Hwy  Hollister 95023,36.81418,-121.36305,,,,,,,
+10,San Benito County Elections Department,440 5th St  Hollister 95023,36.85184,-121.40428,,,,,,,
+11,Aromas Fire Station,492 Carpenteria Rd  Aromas 95004,36.8794,-121.64101,,,,,,,
+12,Spring Grove School,500 Spring Grove Rd  Hollister 95023,36.91556,-121.35952,,,,,,,
+13,Dunne Park,600 West St  Hollister 95023,36.84998,-121.40661,,,,,,,
+14,SDES Hall-Portuguese Hall,695 7th St  Hollister 95023,36.84916,-121.40914,,,,,,,
+15,Immaculate Conception Church,7290 Airline Hwy  Tres Pinos 95075,36.78678,-121.31647,,,,,,,

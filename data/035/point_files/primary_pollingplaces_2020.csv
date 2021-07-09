@@ -1,8 +1,8 @@
-name,address,lat,lon
-Susanville Community Church,@417 - Pct 417  Susanville 96130,40.75422,-121.38572
-Lassen County Registrar of Voters,220 S Lassen St  Susanville 96130,40.41636,-120.66345
-Janesville Fire Hall,463-390 Main St  Janesville 96114,40.29283,-120.51059
-Bieber Memorial Building,657-575 Bridge St  Bieber 96009,41.1216,-121.1358
-Westwood Visitor Center,669-605 Third St  Westwood 96137,40.30205,-121.01631
-Richmond Elementary School,700-585 E Richmond Rd  Susanville 96130,40.37197,-120.63898
-Susan River Fire Station,705-145 E Us Highway 395  Susanville 96130,40.38458,-120.58444
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Susanville Community Church,@417 - Pct 417  Susanville 96130,40.75422,-121.38572,,,,,,,
+1,Lassen County Registrar of Voters,220 S Lassen St  Susanville 96130,40.41636,-120.66345,,,,,,,
+2,Janesville Fire Hall,463-390 Main St  Janesville 96114,40.29283,-120.51059,,,,,,,
+3,Bieber Memorial Building,657-575 Bridge St  Bieber 96009,41.1216,-121.1358,,,,,,,
+4,Westwood Visitor Center,669-605 Third St  Westwood 96137,40.30205,-121.01631,,,,,,,
+5,Richmond Elementary School,700-585 E Richmond Rd  Susanville 96130,40.37197,-120.63898,,,,,,,
+6,Susan River Fire Station,705-145 E Us Highway 395  Susanville 96130,40.38458,-120.58444,,,,,,,

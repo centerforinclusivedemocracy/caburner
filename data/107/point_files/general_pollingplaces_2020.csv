@@ -1,0 +1,22 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+5886,Porterville College,"100 E College Ave, Porterville, CA 93257, USA",36.0489,-119.01617,5887.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5887,Tulare Memorial,"1771 E Tulare Ave, Tulare, CA 93274, USA",36.21037,-119.32022,5888.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5888,Porterville Veterans Memorial,"1900 W Olive Ave, Porterville, CA 93257, USA",36.06634,-119.05954,5889.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5889,Visalia Branch Library,"200 W Oak Ave, Visalia, CA 93291, USA",36.33219,-119.29411,5890.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5890,Valley Oak Middle,"2000 N Lovers Ln, Visalia, CA 93292, USA",36.34649,-119.26018,5891.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5891,"Boys & Girls Club, Visalia","215 W Tulare Ave, Visalia, CA 93277, USA",36.31918,-119.29307,5892.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5892,Manuel Hernandez Community Center,"247 W Ferguson Ave, Visalia, CA 93291, USA",36.34931,-119.29463,5893.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5893,Dinuba Memorial,"249 S Alta Ave, Dinuba, CA 93618, USA",36.54468,-119.39589,5894.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5894,Exeter Memorial,"324 N Kaweah Ave, Exeter, CA 93221, USA",36.30183,-119.13679,5895.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5895,Exeter Memorial,"324 N Kaweah Ave, Exeter, CA 93221, USA",36.30183,-119.13679,5896.0,CA,TULARE COUNTY,Locality wide location,True,False,1.0
+5896,"Sears Building, Sequoia Mall","3501 S Mooney Blvd, Visalia, CA 93277, USA",36.3005,-119.31578,5897.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5897,Woodlake Memorial,"355 N Acacia St, Woodlake, CA 93286, USA",36.4181,-119.10321,5898.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5898,Tulare County Ag.,"4437 S Laspina St, Tulare, CA 93274, USA",36.16609,-119.32912,5899.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5899,CHMA Community Center,"466 E Putnam Ave, Porterville, CA 93257, USA",36.06976,-119.00743,5900.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5900,Tulare Akers Professional Center,"5300 W Tulare Ave, Tulare, CA 93274, USA",36.32162,-119.35044,5901.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5901,Registrar of Voters Office,"5951 S Mooney Blvd, Visalia, CA 93277, USA",36.27747,-119.31449,5902.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5902,Farmersville Community Cente,"623 N Avery Ave, Farmersville, CA 93223, USA",36.30206,-119.20293,5903.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5903,Office of Education,"7000 W Doe Ave, Visalia, CA 93291, USA",36.34765,-119.36854,5904.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5904,Earlimart Memorial,"712 E Washington St, Earlimart, CA 93219, USA",35.88511,-119.27027,5905.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5905,Lindsay Memorial,"775 N Elmwood Ave, Lindsay, CA 93247, USA",36.21192,-119.09299,5906.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0
+5906,Prosperity Sports Park Clubhouse,"846 W Prosperity Ave, Tulare, CA 93274, USA",36.22606,-119.36012,5907.0,CA,TULARE COUNTY,Locality wide location,False,False,1.0

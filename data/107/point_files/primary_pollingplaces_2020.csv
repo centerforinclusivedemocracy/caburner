@@ -1,52 +1,52 @@
-name,address,lat,lon
-First Baptist - Porterville,101 N G St  Porterville 93257,36.06724,-119.02358
-First Christian Church-porterville,1020 N Prospect St  Porterville 93257,36.08373,-119.04367
-The Fountain,1023 N Chinowth St  Visalia 93291,36.33782,-119.33679
-Gateway Church Of Visalia,1100 S Sowell St  Visalia 93277,36.32052,-119.30235
-Seventh Day Adventist,1310 S Woodland St  Visalia 93277,36.31877,-119.31787
-Elbow Creek Hall,13781 Avenue 328  Visalia 93292,36.385,-119.2659
-Dinuba Community Center,1390 E Elizabeth Way  Dinuba 93618,36.54394,-119.38015
-Sierra Baptist Church,1437 E Walnut Ave  Visalia 93292,36.31199,-119.27561
-Tulare Church Of God,159 S A St  Tulare 93274,36.20535,-119.36053
-First Southern Baptist,1641 W Henderson Ave  Porterville 93257,36.07998,-119.05418
-Tulare Memorial,1771 E Tulare Ave  Tulare 93274,36.21037,-119.32022
-Prosperity Baptist,1781 E Prosperity Ave  Tulare 93274,36.22551,-119.3201
-Tulare Community Church,1820 N Gem St  Tulare 93274,36.22988,-119.33919
-Henderson Baptist,1876 W Henderson Ave  Porterville 93257,36.08107,-119.05931
-Porterville Veterans Memorial,1900 W Olive Ave  Porterville 93257,36.06634,-119.05954
-Tulare Missionary Baptist,1902 W Prosperity Ave  Tulare 93274,36.22642,-119.37374
-Wayside Nazarene,1929 E Bardsley Ave  Tulare 93274,36.1963,-119.31714
-Cal Fire,1968 S Lovers Ln  Visalia 93292,36.31389,-119.26002
-Terra Bella Memorial,23941 Avenue 95  Terra Bella 93270,35.96145,-119.03691
-Manuel Hernandez Community Center,247 W Ferguson Ave  Visalia 93291,36.34931,-119.29463
-Dinuba Memorial,249 S Alta Ave  Dinuba 93618,36.54468,-119.39589
-Visalia Convention Center,303 E Acequia Ave  Visalia 93291,36.3285,-119.29046
-Exeter Memorial,324 N Kaweah Ave  Exeter 93221,36.30144,-119.1361
-Ivanhoe Memorial,33209 Hawthorne Rd  Ivanhoe 93235,36.39262,-119.21707
-Visalia Nazarene Church,3333 W Caldwell Ave  Visalia 93277,36.29706,-119.32685
-Tule River Tribal Office,340 N Reservation Rd  Porterville 93257,36.02689,-118.79813
-First United Methodist,344 E Morton Ave  Porterville 93257,36.07348,-119.00967
-Anthony Community Center,345 N Jacob St  Visalia 93291,36.33276,-119.30256
-Dinuba Christian,355 E Saginaw Ave  Dinuba 93618,36.55345,-119.39213
-Woodlake Memorial,355 N Acacia St  Woodlake 93286,36.4181,-119.10321
-Springville Memorial,35994 Highway 190  Springville 93265,36.13626,-118.81207
-First Assembly Of God,3737 S Akers St  Visalia 93277,36.2963,-119.35077
-Kingsburg Fire Station,3811 Avenue 400  Kingsburg 93631,36.5174,-119.48886
-Christ Lutheran Church,3830 W Tulare Ave  Visalia 93277,36.32083,-119.33356
-Visalia Community Church,3838 S Court St  Visalia 93277,36.29553,-119.29106
-Cutler School,40532 Road 128  Cutler 93615,36.52523,-119.2864
-Orosi Memorial,41645 Road 128  Orosi 93647,36.54575,-119.28723
-Bello Vita,4211 W Goshen Ave  Visalia 93291,36.33928,-119.33783
-Grace Community Church,424 N Lovers Ln  Visalia 93292,36.33319,-119.25994
-Three Rivers Memorial,43490 Sierra Dr  Three Rivers 93271,36.45734,-118.87767
-Tulare County Ag,4437 S Laspina St  Tulare 93274,36.16609,-119.32912
-Tipton Memorial,577 E Spencer Ave  Tipton 93272,36.05844,-119.30629
-Tulare County Registrar of Voters,5951 S Mooney Blvd  Visalia 93277,36.27747,-119.31449
-Richgrove Memorial,607 Richgrove Dr  Richgrove 93261,35.80251,-119.10667
-Farmersville Community Center,623 N Avery Ave  Farmersville 93223,36.30206,-119.20293
-Garden School,640 E Pleasant Ave  Tulare 93274,36.21937,-119.34137
-Goshen Csd,6678 Avenue 308  Visalia 93291,36.3493,-119.42408
-Earlimart Memorial,712 E Washington St  Earlimart 93219,35.88511,-119.27027
-PIXLEY MEMORIAL,718 N Park Dr  Pixley 93256,35.9734,-119.29241
-Lindsay Memorial,775 N Elmwood Ave  Lindsay 93247,36.21192,-119.09299
-Grand Ave Methodist,776 W Grand Ave  Porterville 93257,36.07761,-119.03464
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,First Baptist - Porterville,101 N G St  Porterville 93257,36.06724,-119.02358,,,,,,,
+1,First Christian Church-porterville,1020 N Prospect St  Porterville 93257,36.08373,-119.04367,,,,,,,
+2,The Fountain,1023 N Chinowth St  Visalia 93291,36.33782,-119.33679,,,,,,,
+3,Gateway Church Of Visalia,1100 S Sowell St  Visalia 93277,36.32052,-119.30235,,,,,,,
+4,Seventh Day Adventist,1310 S Woodland St  Visalia 93277,36.31877,-119.31787,,,,,,,
+5,Elbow Creek Hall,13781 Avenue 328  Visalia 93292,36.385,-119.2659,,,,,,,
+6,Dinuba Community Center,1390 E Elizabeth Way  Dinuba 93618,36.54394,-119.38015,,,,,,,
+7,Sierra Baptist Church,1437 E Walnut Ave  Visalia 93292,36.31199,-119.27561,,,,,,,
+8,Tulare Church Of God,159 S A St  Tulare 93274,36.20535,-119.36053,,,,,,,
+9,First Southern Baptist,1641 W Henderson Ave  Porterville 93257,36.07998,-119.05418,,,,,,,
+10,Tulare Memorial,1771 E Tulare Ave  Tulare 93274,36.21037,-119.32022,,,,,,,
+11,Prosperity Baptist,1781 E Prosperity Ave  Tulare 93274,36.22551,-119.3201,,,,,,,
+12,Tulare Community Church,1820 N Gem St  Tulare 93274,36.22988,-119.33919,,,,,,,
+13,Henderson Baptist,1876 W Henderson Ave  Porterville 93257,36.08107,-119.05931,,,,,,,
+14,Porterville Veterans Memorial,1900 W Olive Ave  Porterville 93257,36.06634,-119.05954,,,,,,,
+15,Tulare Missionary Baptist,1902 W Prosperity Ave  Tulare 93274,36.22642,-119.37374,,,,,,,
+16,Wayside Nazarene,1929 E Bardsley Ave  Tulare 93274,36.1963,-119.31714,,,,,,,
+17,Cal Fire,1968 S Lovers Ln  Visalia 93292,36.31389,-119.26002,,,,,,,
+18,Terra Bella Memorial,23941 Avenue 95  Terra Bella 93270,35.96145,-119.03691,,,,,,,
+19,Manuel Hernandez Community Center,247 W Ferguson Ave  Visalia 93291,36.34931,-119.29463,,,,,,,
+20,Dinuba Memorial,249 S Alta Ave  Dinuba 93618,36.54468,-119.39589,,,,,,,
+21,Visalia Convention Center,303 E Acequia Ave  Visalia 93291,36.3285,-119.29046,,,,,,,
+22,Exeter Memorial,324 N Kaweah Ave  Exeter 93221,36.30144,-119.1361,,,,,,,
+23,Ivanhoe Memorial,33209 Hawthorne Rd  Ivanhoe 93235,36.39262,-119.21707,,,,,,,
+24,Visalia Nazarene Church,3333 W Caldwell Ave  Visalia 93277,36.29706,-119.32685,,,,,,,
+25,Tule River Tribal Office,340 N Reservation Rd  Porterville 93257,36.02689,-118.79813,,,,,,,
+26,First United Methodist,344 E Morton Ave  Porterville 93257,36.07348,-119.00967,,,,,,,
+27,Anthony Community Center,345 N Jacob St  Visalia 93291,36.33276,-119.30256,,,,,,,
+28,Dinuba Christian,355 E Saginaw Ave  Dinuba 93618,36.55345,-119.39213,,,,,,,
+29,Woodlake Memorial,355 N Acacia St  Woodlake 93286,36.4181,-119.10321,,,,,,,
+30,Springville Memorial,35994 Highway 190  Springville 93265,36.13626,-118.81207,,,,,,,
+31,First Assembly Of God,3737 S Akers St  Visalia 93277,36.2963,-119.35077,,,,,,,
+32,Kingsburg Fire Station,3811 Avenue 400  Kingsburg 93631,36.5174,-119.48886,,,,,,,
+33,Christ Lutheran Church,3830 W Tulare Ave  Visalia 93277,36.32083,-119.33356,,,,,,,
+34,Visalia Community Church,3838 S Court St  Visalia 93277,36.29553,-119.29106,,,,,,,
+35,Cutler School,40532 Road 128  Cutler 93615,36.52523,-119.2864,,,,,,,
+36,Orosi Memorial,41645 Road 128  Orosi 93647,36.54575,-119.28723,,,,,,,
+37,Bello Vita,4211 W Goshen Ave  Visalia 93291,36.33928,-119.33783,,,,,,,
+38,Grace Community Church,424 N Lovers Ln  Visalia 93292,36.33319,-119.25994,,,,,,,
+39,Three Rivers Memorial,43490 Sierra Dr  Three Rivers 93271,36.45734,-118.87767,,,,,,,
+40,Tulare County Ag,4437 S Laspina St  Tulare 93274,36.16609,-119.32912,,,,,,,
+41,Tipton Memorial,577 E Spencer Ave  Tipton 93272,36.05844,-119.30629,,,,,,,
+42,Tulare County Registrar of Voters,5951 S Mooney Blvd  Visalia 93277,36.27747,-119.31449,,,,,,,
+43,Richgrove Memorial,607 Richgrove Dr  Richgrove 93261,35.80251,-119.10667,,,,,,,
+44,Farmersville Community Center,623 N Avery Ave  Farmersville 93223,36.30206,-119.20293,,,,,,,
+45,Garden School,640 E Pleasant Ave  Tulare 93274,36.21937,-119.34137,,,,,,,
+46,Goshen Csd,6678 Avenue 308  Visalia 93291,36.3493,-119.42408,,,,,,,
+47,Earlimart Memorial,712 E Washington St  Earlimart 93219,35.88511,-119.27027,,,,,,,
+48,PIXLEY MEMORIAL,718 N Park Dr  Pixley 93256,35.9734,-119.29241,,,,,,,
+49,Lindsay Memorial,775 N Elmwood Ave  Lindsay 93247,36.21192,-119.09299,,,,,,,
+50,Grand Ave Methodist,776 W Grand Ave  Porterville 93257,36.07761,-119.03464,,,,,,,

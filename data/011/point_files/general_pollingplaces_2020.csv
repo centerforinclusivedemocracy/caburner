@@ -1,0 +1,12 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+1095,Pierce High School,"960 Wildwood Rd, Arbuckle, CA 95912, USA",39.01018,-122.05462,1095.0,CA,COLUSA COUNTY,ARBUCKLE B,False,False,1.0
+1096,Holy Cross Mission Church,"408 Laurel St, Arbuckle, CA 95912, USA",39.02001,-122.05623,1096.0,CA,COLUSA COUNTY,ARBUCKLE COLLEGE CITY -  A,False,False,1.0
+1097,Our Lady of Lourdes Parish Hall,"335 Oak St, Colusa, CA 95932, USA",39.21145,-122.00655,1097.0,CA,COLUSA COUNTY,COLUSA A,False,False,1.0
+1098,Senior Center/Scouts Cabin,"901 Parkhill St, Colusa, CA 95932, USA",39.2115,-122.01515,1098.0,CA,COLUSA COUNTY,COLUSA B,False,False,1.0
+1099,Williams Community Center,"860 C St, Williams, CA 95987, USA",39.15643,-122.15354,1099.0,CA,COLUSA COUNTY,CORTINA,False,False,1.0
+1100,Education Village,"499 Marguerite St, Williams, CA 95987, USA",39.16004,-122.13653,1100.0,CA,COLUSA COUNTY,"GENEVA, WILLIAMS, VALLEY RANCH",False,False,1.0
+1101,COLUSA COUNTY ELECTIONS OFFICE,"546 Jay St #200, Colusa, CA 95932, USA",39.21354,-122.00906,1101.0,CA,COLUSA COUNTY,Locality wide location,False,False,1.0
+1102,Maxwell Precinct,"250 Oak St, Maxwell, CA 95955, USA",39.27651,-122.19527,1102.0,CA,COLUSA COUNTY,MAXWELL,False,False,1.0
+1103,VFW Post 2441,"108 E Main St, Colusa, CA 95932, USA",39.21315,-121.99984,1103.0,CA,COLUSA COUNTY,NEWLAND,False,False,1.0
+1104,St. Bernadette's Hall,"745 Ware Ave, Colusa, CA 95932, USA",39.2041,-122.0153,1104.0,CA,COLUSA COUNTY,VISTA A,False,False,1.0
+1105,Colusa Assembly Of God,"1747 State Hwy 20, Colusa, CA 95932, USA",39.20085,-122.00191,1105.0,CA,COLUSA COUNTY,VISTA B,False,False,1.0

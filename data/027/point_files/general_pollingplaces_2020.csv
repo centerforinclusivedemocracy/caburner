@@ -1,0 +1,7 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+1429,Fairgrounds,"1234 Sierra St, Bishop, CA 93514, USA",37.3704,-118.40238,1429.0,CA,INYO COUNTY,"101, 102, 103, 105, 106, 107, 108, 109, 112",False,False,1.0
+1430,Paiute Professional Building,"52 N Tu-Su Ln, Bishop, CA 93514, USA",37.36176,-118.41829,1430.0,CA,INYO COUNTY,"110, 111",False,False,1.0
+1431,Big Pine Town Hall,"150 Dewey St, Big Pine, CA 93513, USA",37.16409,-118.29068,1431.0,CA,INYO COUNTY,113,False,False,1.0
+1432,Basement Courtroom,"168 N Edwards St, Independence, CA 93526, USA",36.80357,-118.19962,1432.0,CA,INYO COUNTY,116,False,False,1.0
+1433,Statham Town Hall,"138 N Jackson St, Lone Pine, CA 93545, USA",36.6066,-118.06229,1433.0,CA,INYO COUNTY,117,False,False,1.0
+1434,Inyo County Elections,"168 N Edwards St, Independence, CA 93526, USA",36.80357,-118.19962,1434.0,CA,INYO COUNTY,Locality wide location,False,False,1.0

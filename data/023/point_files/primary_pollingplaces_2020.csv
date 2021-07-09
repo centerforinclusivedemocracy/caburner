@@ -1,49 +1,49 @@
-name,address,lat,lon
-Hoopa Neighborhood Facility*,0 Hwy 96  Hoopa 95546,41.04972,-123.67431
-H S U - The Great Hall,1 Harpst St  Arcata 95521,40.87444,-124.0791
-Jefferson School Community Center*,1000 B St  Eureka 95501,40.79693,-124.16994
-Eureka Veterans Memorial Building*,1018 H St  Eureka 95501,40.79766,-124.16312
-Eureka Pentecostal Church*,1060 Hoover St  Eureka 95501,40.80053,-124.13683
-Pacific View Charter School*,115 Henderson St  Eureka 95501,40.78328,-124.16937
-Seventh Day Advent Church,1200 Central Ave  McKinleyville 95519,40.92738,-124.10167
-Humboldt County Fairgrounds,1250 5th St  Ferndale 95536,40.58706,-124.26572
-Willow Creek C S D,135 Willow Way  Willow Creek 95573,40.94114,-123.63233
-Arcata Veterans Memorial Building,1425 J St  Arcata 95521,40.87376,-124.08768
-Sunny Brae Middle School*,1430 Buttermilk Ln  Arcata 95521,40.85676,-124.06841
-Manila Community Center,1611 Peninsula Dr  Arcata 95521,40.8457,-124.16893
-Jacoby Creek School,1617 Old Arcata Rd  Bayside 95524,40.84659,-124.06834
-Azalea Hall,1620 Pickett Rd  McKinleyville 95519,40.94413,-124.09908
-Arcata High School,1720 M St  Arcata 95521,40.87674,-124.08907
-Christ The King Catholic Church,1951 Mckinleyville Ave  McKinleyville 95519,40.94107,-124.10901
-Zoe Barnum High School - Lincoln Site,200 W Harris St  Eureka 95503,40.78049,-124.17305
-Eureka City Schools Marshall Annex*,2100 J St  Eureka 95501,40.78806,-124.15983
-Mckinleyville Union Middle School*,2275 Central Ave  McKinleyville 95519,40.94656,-124.09917
-Humboldt County Office of Elections,2426 6th St  Eureka 95501,40.8029,-124.14543
-Trinity Baptist Church,2450 Alliance Rd  Arcata 95521,40.88401,-124.08974
-Winship Middle School,2500 Cypress Ave  Eureka 95503,40.765,-124.13822
-Toddy Thomas Middle School*,2800 Thomas St  Fortuna 95540,40.56826,-124.13726
-Sohum Health - Garberville Campus,286 Sprowl Creek Rd  Garberville 95542,40.09786,-123.79756
-Trinidad Union School*,300 Trinity St  Trinidad 95570,41.06034,-124.14354
-Cuddeback School,300 Wilder Rd  Carlotta 95528,40.53724,-124.04284
-Pacific Union School*,3001 Janes Rd  Arcata 95521,40.89511,-124.0929
-Boys & Girls Club Of The Redwoods*,3015 J St  Eureka 95501,40.78102,-124.15816
-Prasch Hall*,312 S Railroad Ave  Blue Lake 95525,40.88196,-123.99298
-Planning & Building Dept. - Redway Office*,3156 Redwood Dr  Redway 95560,40.11734,-123.81979
-Arcata Community Center*,321 Dr. Martin Luther King Jr. Pkwy  Arcata 95521,40.86438,-124.08007
-Washington School*,3322 Dolbeer St  Eureka 95503,40.77798,-124.14234
-Hydesville Fire Hall*,3495 Hwy 36  Hydesville 95547,40.54711,-124.09456
-Mad River Rapids Rv Park,3501 Janes Rd  Arcata 95521,40.90172,-124.0912
-Fortuna Community Health Center - Open Door*,3750 Rohnerville Rd  Fortuna 95540,40.582,-124.13101
-Bridgeville Community Center*,38717 Kneeland Rd  Bridgeville 95526,40.47108,-123.79664
-Dows Prairie School*,3940 Dows Prairie Rd  McKinleyville 95519,40.97696,-124.09679
-Fieldbrook School,4070 Fieldbrook Rd  McKinleyville 95519,40.9562,-124.03492
-Cutten School*,4182 Walnut Dr  Eureka 95503,40.76648,-124.14392
-Pine Hill School,5230 Vance Ave  Eureka 95503,40.75829,-124.18164
-Loleta Fire Station,567 Park Ave  Loleta 95551,40.64225,-124.21803
-South Bay School Library*,6077 Loma Ave  Eureka 95503,40.73465,-124.20729
-South Fork High School*,6831 Hwy 254  Miranda 95553,40.23682,-123.82313
-Calvary Lutheran Church*,716 South Ave  Eureka 95503,40.77782,-124.17923
-Freshwater School*,75 Greenwood Hts Dr  Eureka 95503,40.78612,-124.08202
-Fortuna Middle School*,843 L St  Fortuna 95540,40.59649,-124.15836
-Humboldt County Office Of Education*,901 Myrtle Ave  Eureka 95501,40.80153,-124.14904
-Monument Middle School,95 Center St  Rio Dell 95562,40.50155,-124.10271
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Hoopa Neighborhood Facility*,0 Hwy 96  Hoopa 95546,41.04972,-123.67431,,,,,,,
+1,H S U - The Great Hall,1 Harpst St  Arcata 95521,40.87444,-124.0791,,,,,,,
+2,Jefferson School Community Center*,1000 B St  Eureka 95501,40.79693,-124.16994,,,,,,,
+3,Eureka Veterans Memorial Building*,1018 H St  Eureka 95501,40.79766,-124.16312,,,,,,,
+4,Eureka Pentecostal Church*,1060 Hoover St  Eureka 95501,40.80053,-124.13683,,,,,,,
+5,Pacific View Charter School*,115 Henderson St  Eureka 95501,40.78328,-124.16937,,,,,,,
+6,Seventh Day Advent Church,1200 Central Ave  McKinleyville 95519,40.92738,-124.10167,,,,,,,
+7,Humboldt County Fairgrounds,1250 5th St  Ferndale 95536,40.58706,-124.26572,,,,,,,
+8,Willow Creek C S D,135 Willow Way  Willow Creek 95573,40.94114,-123.63233,,,,,,,
+9,Arcata Veterans Memorial Building,1425 J St  Arcata 95521,40.87376,-124.08768,,,,,,,
+10,Sunny Brae Middle School*,1430 Buttermilk Ln  Arcata 95521,40.85676,-124.06841,,,,,,,
+11,Manila Community Center,1611 Peninsula Dr  Arcata 95521,40.8457,-124.16893,,,,,,,
+12,Jacoby Creek School,1617 Old Arcata Rd  Bayside 95524,40.84659,-124.06834,,,,,,,
+13,Azalea Hall,1620 Pickett Rd  McKinleyville 95519,40.94413,-124.09908,,,,,,,
+14,Arcata High School,1720 M St  Arcata 95521,40.87674,-124.08907,,,,,,,
+15,Christ The King Catholic Church,1951 Mckinleyville Ave  McKinleyville 95519,40.94107,-124.10901,,,,,,,
+16,Zoe Barnum High School - Lincoln Site,200 W Harris St  Eureka 95503,40.78049,-124.17305,,,,,,,
+17,Eureka City Schools Marshall Annex*,2100 J St  Eureka 95501,40.78806,-124.15983,,,,,,,
+18,Mckinleyville Union Middle School*,2275 Central Ave  McKinleyville 95519,40.94656,-124.09917,,,,,,,
+19,Humboldt County Office of Elections,2426 6th St  Eureka 95501,40.8029,-124.14543,,,,,,,
+20,Trinity Baptist Church,2450 Alliance Rd  Arcata 95521,40.88401,-124.08974,,,,,,,
+21,Winship Middle School,2500 Cypress Ave  Eureka 95503,40.765,-124.13822,,,,,,,
+22,Toddy Thomas Middle School*,2800 Thomas St  Fortuna 95540,40.56826,-124.13726,,,,,,,
+23,Sohum Health - Garberville Campus,286 Sprowl Creek Rd  Garberville 95542,40.09786,-123.79756,,,,,,,
+24,Trinidad Union School*,300 Trinity St  Trinidad 95570,41.06034,-124.14354,,,,,,,
+25,Cuddeback School,300 Wilder Rd  Carlotta 95528,40.53724,-124.04284,,,,,,,
+26,Pacific Union School*,3001 Janes Rd  Arcata 95521,40.89511,-124.0929,,,,,,,
+27,Boys & Girls Club Of The Redwoods*,3015 J St  Eureka 95501,40.78102,-124.15816,,,,,,,
+28,Prasch Hall*,312 S Railroad Ave  Blue Lake 95525,40.88196,-123.99298,,,,,,,
+29,Planning & Building Dept. - Redway Office*,3156 Redwood Dr  Redway 95560,40.11734,-123.81979,,,,,,,
+30,Arcata Community Center*,321 Dr. Martin Luther King Jr. Pkwy  Arcata 95521,40.86438,-124.08007,,,,,,,
+31,Washington School*,3322 Dolbeer St  Eureka 95503,40.77798,-124.14234,,,,,,,
+32,Hydesville Fire Hall*,3495 Hwy 36  Hydesville 95547,40.54711,-124.09456,,,,,,,
+33,Mad River Rapids Rv Park,3501 Janes Rd  Arcata 95521,40.90172,-124.0912,,,,,,,
+34,Fortuna Community Health Center - Open Door*,3750 Rohnerville Rd  Fortuna 95540,40.582,-124.13101,,,,,,,
+35,Bridgeville Community Center*,38717 Kneeland Rd  Bridgeville 95526,40.47108,-123.79664,,,,,,,
+36,Dows Prairie School*,3940 Dows Prairie Rd  McKinleyville 95519,40.97696,-124.09679,,,,,,,
+37,Fieldbrook School,4070 Fieldbrook Rd  McKinleyville 95519,40.9562,-124.03492,,,,,,,
+38,Cutten School*,4182 Walnut Dr  Eureka 95503,40.76648,-124.14392,,,,,,,
+39,Pine Hill School,5230 Vance Ave  Eureka 95503,40.75829,-124.18164,,,,,,,
+40,Loleta Fire Station,567 Park Ave  Loleta 95551,40.64225,-124.21803,,,,,,,
+41,South Bay School Library*,6077 Loma Ave  Eureka 95503,40.73465,-124.20729,,,,,,,
+42,South Fork High School*,6831 Hwy 254  Miranda 95553,40.23682,-123.82313,,,,,,,
+43,Calvary Lutheran Church*,716 South Ave  Eureka 95503,40.77782,-124.17923,,,,,,,
+44,Freshwater School*,75 Greenwood Hts Dr  Eureka 95503,40.78612,-124.08202,,,,,,,
+45,Fortuna Middle School*,843 L St  Fortuna 95540,40.59649,-124.15836,,,,,,,
+46,Humboldt County Office Of Education*,901 Myrtle Ave  Eureka 95501,40.80153,-124.14904,,,,,,,
+47,Monument Middle School,95 Center St  Rio Dell 95562,40.50155,-124.10271,,,,,,,

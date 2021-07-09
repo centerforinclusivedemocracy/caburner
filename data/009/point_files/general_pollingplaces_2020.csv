@@ -1,0 +1,5 @@
+Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
+1091,1091,CA,CALAVERAS COUNTY,Locality wide location,Jenny Lind Veterans Memorial Hall,"300 Daphne St, Valley Springs, CA 95252, USA",38.18982,-120.83208,False,False,1
+1092,1092,CA,CALAVERAS COUNTY,Locality wide location,Bret Harte Theatre,"323 S Main St, Angels Camp, CA 95222, USA",38.08016,-120.5513,False,False,1
+1093,1093,CA,CALAVERAS COUNTY,Locality wide location,Mokelumne Hill Town Hall,"8283 Main St, Mokelumne Hill, CA 95245, USA",38.30094,-120.70619,False,False,1
+1094,1094,CA,CALAVERAS COUNTY,Locality wide location,Government Center Elections Office,"891 Mountain Ranch Rd, San Andreas, CA 95249, USA",38.18948,-120.66578,False,False,1

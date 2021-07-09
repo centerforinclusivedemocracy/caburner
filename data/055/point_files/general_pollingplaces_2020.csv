@@ -1,0 +1,11 @@
+Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
+3371,3372,CA,NAPA COUNTY,Locality wide location,Napa Valley College,"1088 College Ave, St Helena, CA 94574, USA",38.50945,-122.45658,False,False,1
+3372,3373,CA,NAPA COUNTY,Locality wide location,Napa Valley College,"1088 College Ave, St Helena, CA 94574, USA",38.50945,-122.45658,True,False,1
+3373,3374,CA,NAPA COUNTY,Locality wide location,Napa County Election Division,"1127 1st St E, Napa, CA 94559, USA",38.29864,-122.28644,False,False,1
+3374,3375,CA,NAPA COUNTY,Locality wide location,Calistoga Community Center,"1307 Washington St, Calistoga, CA 94515, USA",38.57884,-122.58066,False,False,1
+3375,3376,CA,NAPA COUNTY,Locality wide location,Napa Valley College,"2277 Napa Vallejo Hwy, Napa, CA 94558, USA",38.27684,-122.27516,False,False,1
+3376,3377,CA,NAPA COUNTY,Locality wide location,Angwin Fire House,"275 College Ave, Angwin, CA 94508, USA",38.57568,-122.44482,False,False,1
+3377,3378,CA,NAPA COUNTY,Locality wide location,Las Flores Community Center,"4300 Linda Vista Ave, Napa, CA 94558, USA",38.33128,-122.32798,False,False,1
+3378,3379,CA,NAPA COUNTY,Locality wide location,American Canyon Holiday Inn Express & Suites,"5001 Main St, American Canyon, CA 94503, USA",38.17985,-122.25381,False,False,1
+3379,3380,CA,NAPA COUNTY,Locality wide location,Boys and Girls Club,"60 Benton Way, American Canyon, CA 94503, USA",38.17055,-122.26357,False,False,1
+3380,3381,CA,NAPA COUNTY,Locality wide location,Yountville Community Center,"6516 Washington St, Yountville, CA 94599, USA",38.40202,-122.3604,False,False,1

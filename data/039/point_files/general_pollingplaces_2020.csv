@@ -1,0 +1,9 @@
+Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
+3142,3143,CA,MADERA COUNTY,Locality wide location,County Superintendent of Schools - Conference Room 1,"1105 S Madera Ave, Madera, CA 93637, USA",36.94279,-120.0552,False,False,1
+3143,3144,CA,MADERA COUNTY,Locality wide location,Liberty High School - Theatre (Madera Ranchos),"12220 Rd 36, Madera, CA 93636, USA",36.92711,-119.89787,False,False,1
+3144,3145,CA,MADERA COUNTY,Locality wide location,Chowchilla City Hall â€“ Council Chambers,"130 S 2nd St, Chowchilla, CA 93610, USA",37.12203,-120.25968,False,False,1
+3145,3146,CA,MADERA COUNTY,Locality wide location,Madera County Government Center - Lobby,"200 W 4th St, Madera, CA 93637, USA",36.96183,-120.06373,False,False,1
+3146,3147,CA,MADERA COUNTY,Locality wide location,Oakhurst Community Center - Main Hall,"39800 Rd 425B, Oakhurst, CA 93644, USA",37.32652,-119.65105,False,False,1
+3147,3148,CA,MADERA COUNTY,Locality wide location,Coarsegold Vote Center,"45543 Rd 415, Coarsegold, CA 93614, USA",37.25855,-119.71731,False,False,1
+3148,3149,CA,MADERA COUNTY,Locality wide location,Pan Am Community Center - Gymnnasium,"703 Sherwood Way, Madera, CA 93638, USA",36.97766,-120.05849,False,False,1
+51407,28,CA,MADERA COUNTY,Locality wide location,Madera County Government Center - Lobby,"200 W 4th St, Madera, CA 93637, USA",36.96183,-120.06373,True,False,1

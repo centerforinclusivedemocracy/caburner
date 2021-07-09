@@ -1,0 +1,89 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+3149,Marin County Office Of Education,"1111 Las Gallinas Ave, San Rafael, CA 94903, USA",38.01351,-122.55027,3150.0,CA,MARIN COUNTY,"C-10903, C-10901, C-10902",False,False,1.0
+3150,Marin County Office Of Education,"1111 Las Gallinas Ave, San Rafael, CA 94903, USA",38.01351,-122.55027,3151.0,CA,MARIN COUNTY,"C-10903, C-10901, C-10902",True,False,1.0
+3151,Embassy Suites Hotel,"101 McInnis Pkwy, San Rafael, CA 94903, USA",38.0048,-122.53241,3152.0,CA,MARIN COUNTY,"C-10904, C-10906, C-10908, C-11217, C-11218",False,False,1.0
+3152,Embassy Suites Hotel,"101 McInnis Pkwy, San Rafael, CA 94903, USA",38.0048,-122.53241,3153.0,CA,MARIN COUNTY,"C-10904, C-10906, C-10908, C-11217, C-11218",True,False,1.0
+3153,First Presbyterian Church of San Rafael,"1510 Fifth Ave, San Rafael, CA 94901, USA",37.97498,-122.53368,3154.0,CA,MARIN COUNTY,"C-10907, C-10909, C-10910",False,False,1.0
+3154,First Presbyterian Church of San Rafael,"1510 Fifth Ave, San Rafael, CA 94901, USA",37.97498,-122.53368,3155.0,CA,MARIN COUNTY,"C-10907, C-10909, C-10910",True,False,1.0
+3155,Whistlestop,"930 Tamalpais Ave, San Rafael, CA 94901, USA",37.97192,-122.52298,3156.0,CA,MARIN COUNTY,"C-10911, C-10914, C-20915",False,False,1.0
+3156,Whistlestop,"930 Tamalpais Ave, San Rafael, CA 94901, USA",37.97192,-122.52298,3157.0,CA,MARIN COUNTY,"C-10911, C-10914, C-20915",True,False,1.0
+3157,St Luke Presbyterian Church,"10 Bayview Dr, San Rafael, CA 94901, USA",37.97589,-122.48087,3158.0,CA,MARIN COUNTY,"C-10912, C-11219",False,False,1.0
+3158,St Luke Presbyterian Church,"10 Bayview Dr, San Rafael, CA 94901, USA",37.97589,-122.48087,3159.0,CA,MARIN COUNTY,"C-10912, C-11219",True,False,1.0
+3159,San Rafael Community Center,"618 B St, San Rafael, CA 94901, USA",37.96944,-122.52922,3160.0,CA,MARIN COUNTY,"C-10913, C-20913, C-20914",False,False,1.0
+3160,San Rafael Community Center,"618 B St, San Rafael, CA 94901, USA",37.96944,-122.52922,3161.0,CA,MARIN COUNTY,"C-10913, C-20913, C-20914",True,False,1.0
+3161,Marinwood Community Center,"775 Miller Creek Rd, San Rafael, CA 94903, USA",38.02774,-122.55248,3162.0,CA,MARIN COUNTY,"C-11216, C-10905, C-11215",False,False,1.0
+3162,Marinwood Community Center,"775 Miller Creek Rd, San Rafael, CA 94903, USA",38.02774,-122.55248,3163.0,CA,MARIN COUNTY,"C-11216, C-10905, C-11215",True,False,1.0
+3163,Fairfax Women's Club,"46 Park Rd, Fairfax, CA 94930, USA",37.9863,-122.59208,3164.0,CA,MARIN COUNTY,"C-20301, C-20302, C-21217",False,False,1.0
+3164,Fairfax Women's Club,"46 Park Rd, Fairfax, CA 94930, USA",37.9863,-122.59208,3165.0,CA,MARIN COUNTY,"C-20301, C-20302, C-21217",True,False,1.0
+3165,Masonic Lodge,"1122 Magnolia Ave, Larkspur, CA 94939, USA",37.94764,-122.54724,3166.0,CA,MARIN COUNTY,"C-20403, C-20405, C-21218, C-40404",False,False,1.0
+3166,Masonic Lodge,"1122 Magnolia Ave, Larkspur, CA 94939, USA",37.94764,-122.54724,3167.0,CA,MARIN COUNTY,"C-20403, C-20405, C-21218, C-40404",True,False,1.0
+3167,St Sebastian's Church,"373 Bon Air Rd, Kentfield, CA 94904, USA",37.9502,-122.53422,3168.0,CA,MARIN COUNTY,"C-20406, C-20408, C-21219, C-40405",False,False,1.0
+3168,St Sebastian's Church,"373 Bon Air Rd, Kentfield, CA 94904, USA",37.9502,-122.53422,3169.0,CA,MARIN COUNTY,"C-20406, C-20408, C-21219, C-40405",True,False,1.0
+3169,Redwoods Presbyterian Church,"110 Magnolia Ave, Larkspur, CA 94939, USA",37.92991,-122.5343,3170.0,CA,MARIN COUNTY,"C-20407, C-40201, C-40202, C-40203",False,False,1.0
+3170,Redwoods Presbyterian Church,"110 Magnolia Ave, Larkspur, CA 94939, USA",37.92991,-122.5343,3171.0,CA,MARIN COUNTY,"C-20407, C-40201, C-40202, C-40203",True,False,1.0
+3171,First Presbyterian Church Of San Anselmo,"72 Kensington Rd, San Anselmo, CA 94960, USA",37.97056,-122.56652,3172.0,CA,MARIN COUNTY,"C-20709, C-20811",False,False,1.0
+3172,First Presbyterian Church Of San Anselmo,"72 Kensington Rd, San Anselmo, CA 94960, USA",37.97056,-122.56652,3173.0,CA,MARIN COUNTY,"C-20709, C-20811",True,False,1.0
+3173,American Legion Hall,"Sonoma Ave, Santa Rosa, CA, USA",38.44308,-122.69292,3174.0,CA,MARIN COUNTY,"C-20810, C-20812, C-21216",False,False,1.0
+3174,American Legion Hall,"Sonoma Ave, Santa Rosa, CA, USA",38.44308,-122.69292,3175.0,CA,MARIN COUNTY,"C-20810, C-20812, C-21216",True,False,1.0
+3175,Belvedere Community Center,"450 San Rafael Ave, Belvedere Tiburon, CA 94920, USA",37.87421,-122.46559,3176.0,CA,MARIN COUNTY,"C-30101, C-31107, C-31215, C-31218, C-31216",False,False,1.0
+3176,Belvedere Community Center,"450 San Rafael Ave, Belvedere Tiburon, CA 94920, USA",37.87421,-122.46559,3177.0,CA,MARIN COUNTY,"C-30101, C-31107, C-31215, C-31218, C-31216",True,False,1.0
+3177,Mill Valley Community Center,"180 Camino Alto, Mill Valley, CA 94941, USA",37.89907,-122.52825,3178.0,CA,MARIN COUNTY,"C-30502, C-30504, C-31210",False,False,1.0
+3178,Mill Valley Community Center,"180 Camino Alto, Mill Valley, CA 94941, USA",37.89907,-122.52825,3179.0,CA,MARIN COUNTY,"C-30502, C-30504, C-31210",True,False,1.0
+3179,Homestead Valley Community Ctr,"315 Montford Ave, Mill Valley, CA 94941, USA",37.89695,-122.54459,3180.0,CA,MARIN COUNTY,"C-30503, C-41214, C-41213",False,False,1.0
+3180,Homestead Valley Community Ctr,"315 Montford Ave, Mill Valley, CA 94941, USA",37.89695,-122.54459,3181.0,CA,MARIN COUNTY,"C-30503, C-41214, C-41213",True,False,1.0
+3181,Sausalito City Hall,"420 Litho St, Sausalito, CA 94965, USA",37.85965,-122.48887,3182.0,CA,MARIN COUNTY,"C-31005, C-31006",False,False,1.0
+3182,Sausalito City Hall,"420 Litho St, Sausalito, CA 94965, USA",37.85965,-122.48887,3183.0,CA,MARIN COUNTY,"C-31005, C-31006",True,False,1.0
+3183,Tiburon Town Hall,"1505 Tiburon Blvd, Belvedere Tiburon, CA 94920, USA",37.87677,-122.46083,3184.0,CA,MARIN COUNTY,"C-31108, C-31109, C-31219",False,False,1.0
+3184,Tiburon Town Hall,"1505 Tiburon Blvd, Belvedere Tiburon, CA 94920, USA",37.87677,-122.46083,3185.0,CA,MARIN COUNTY,"C-31108, C-31109, C-31219",True,False,1.0
+3185,Tam Valley Community Center,"203 Marin Ave, Mill Valley, CA 94941, USA",37.87618,-122.52673,3186.0,CA,MARIN COUNTY,"C-31211, C-31212, C-31213, C-31217",False,False,1.0
+3186,Tam Valley Community Center,"203 Marin Ave, Mill Valley, CA 94941, USA",37.87618,-122.52673,3187.0,CA,MARIN COUNTY,"C-31211, C-31212, C-31213, C-31217",True,False,1.0
+3187,Marguerita C. Johnson Senior Center,"640 Drake Ave, Sausalito, CA 94965, USA",37.87267,-122.51502,3188.0,CA,MARIN COUNTY,C-31214,False,False,1.0
+3188,Marguerita C. Johnson Senior Center,"640 Drake Ave, Sausalito, CA 94965, USA",37.87267,-122.51502,3189.0,CA,MARIN COUNTY,C-31214,True,False,1.0
+3189,Albert J. Boro Community Center,"50 Canal St, San Rafael, CA 94901, USA",37.96805,-122.49776,3190.0,CA,MARIN COUNTY,C-40908,False,False,1.0
+3190,Albert J. Boro Community Center,"50 Canal St, San Rafael, CA 94901, USA",37.96805,-122.49776,3191.0,CA,MARIN COUNTY,C-40908,True,False,1.0
+3191,West Marin Health & Human Services Center,"1 6th St, Petaluma, CA 94952, USA",38.06951,-122.80816,3192.0,CA,MARIN COUNTY,C-41209,False,False,1.0
+3192,West Marin Health & Human Services Center,"1 6th St, Petaluma, CA 94952, USA",38.06951,-122.80816,3193.0,CA,MARIN COUNTY,C-41209,True,False,1.0
+3193,San Geronimo Valley Community Center,"6350 Sir Francis Drake Blvd, San Geronimo, CA 94963, USA",38.01653,-122.67456,3194.0,CA,MARIN COUNTY,C-41210,False,False,1.0
+3194,San Geronimo Valley Community Center,"6350 Sir Francis Drake Blvd, San Geronimo, CA 94963, USA",38.01653,-122.67456,3195.0,CA,MARIN COUNTY,C-41210,True,False,1.0
+3195,Bolinas Community Center,"14 Wharf Rd, Bolinas, CA 94924, USA",37.9093,-122.68571,3196.0,CA,MARIN COUNTY,C-41212,False,False,1.0
+3196,Bolinas Community Center,"14 Wharf Rd, Bolinas, CA 94924, USA",37.9093,-122.68571,3197.0,CA,MARIN COUNTY,C-41212,True,False,1.0
+3197,Novato Library,"1720 Novato Blvd, Novato, CA 94947, USA",38.1072,-122.58009,3198.0,CA,MARIN COUNTY,"C-50605, C-50601, C-40606",False,False,1.0
+3198,Novato Library,"1720 Novato Blvd, Novato, CA 94947, USA",38.1072,-122.58009,3199.0,CA,MARIN COUNTY,"C-50605, C-50601, C-40606",True,False,1.0
+3199,Novato City Hall,"901 Sherman Ave, Novato, CA 94945, USA",38.10616,-122.56844,3200.0,CA,MARIN COUNTY,"C-51212, C-50607, C-50606, C-50602",False,False,1.0
+3200,Novato City Hall,"901 Sherman Ave, Novato, CA 94945, USA",38.10616,-122.56844,3201.0,CA,MARIN COUNTY,"C-51212, C-50607, C-50606, C-50602",True,False,1.0
+3201,Hamilton Community Center,"Hamilton Field History Museum, 555 Hangar Ave, Novato, CA 94949, USA",38.05663,-122.51439,3202.0,CA,MARIN COUNTY,"C-51213, C-50611, C-50610",False,False,1.0
+3202,Hamilton Community Center,"Hamilton Field History Museum, 555 Hangar Ave, Novato, CA 94949, USA",38.05663,-122.51439,3203.0,CA,MARIN COUNTY,"C-51213, C-50611, C-50610",True,False,1.0
+3203,Novato School District Offices,"1015 7th St, Novato, CA 94945, USA",38.10966,-122.57859,3204.0,CA,MARIN COUNTY,"C-51214, C-50604, C-50603, C-41211, C-40607",False,False,1.0
+3204,Novato School District Offices,"1015 7th St, Novato, CA 94945, USA",38.10966,-122.57859,3205.0,CA,MARIN COUNTY,"C-51214, C-50604, C-50603, C-41211, C-40607",True,False,1.0
+3205,Nativity Of Christ Greek Orthodox Church,"1110 Highland Dr, Novato, CA 94949, USA",38.07117,-122.55276,3206.0,CA,MARIN COUNTY,"C-51215, C-50609, C-50608",False,False,1.0
+3206,Nativity Of Christ Greek Orthodox Church,"1110 Highland Dr, Novato, CA 94949, USA",38.07117,-122.55276,3207.0,CA,MARIN COUNTY,"C-51215, C-50609, C-50608",True,False,1.0
+3207,St. Luke Presbyterian Church,"10 Bayview Dr, San Rafael, CA 94901, USA",37.97589,-122.48087,3208.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3208,Embassy Suites Hotel,"101 McInnis Pkwy, San Rafael, CA 94903, USA",38.00473,-122.53242,3209.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3209,Novato School District Offices,"1015 7th St, Novato, CA 94945, USA",38.10967,-122.57838,3210.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3210,Redwoods Presbyterian Church,"110 Magnolia Ave, Larkspur, CA 94939, USA",37.92966,-122.53414,3211.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3211,Nativity of Christ Greek Orthodox Church,"1110 Highland Dr, Novato, CA 94949, USA",38.07117,-122.55276,3212.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3212,Marin County Office of Education,"1111 Las Gallinas Ave, San Rafael, CA 94903, USA",38.01351,-122.55027,3213.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3213,Masonic Lodge,"1122 Magnolia Ave, Larkspur, CA 94939, USA",37.94764,-122.54724,3214.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3214,Bolinas Community Center,"14 Wharf Rd, Bolinas, CA 94924, USA",37.90941,-122.68583,3215.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3215,Tiburon Town Hall,"1505 Tiburon Blvd, Belvedere Tiburon, CA 94920, USA",37.87673,-122.4609,3216.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3216,First Presbyterian Church of San Rafael,"1510 Fifth Ave, San Rafael, CA 94901, USA",37.97523,-122.53362,3217.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3217,Novato Library,"1730 Novato Blvd suite a, Novato, CA 94947, USA",38.10749,-122.58112,3218.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3218,Mill Valley Community Center,"180 Camino Alto, Mill Valley, CA 94941, USA",37.89906,-122.52822,3219.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3219,Tam Valley Community Center,"203 Marin Ave, Mill Valley, CA 94941, USA",37.87618,-122.52673,3220.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3220,West Marin Health & Human Services Center,"3 6th St, Point Reyes Station, CA 94956, USA",38.06913,-122.80846,3221.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3221,Homestead Valley Community Center,"315 Montford Ave, Mill Valley, CA 94941, USA",37.89715,-122.54513,3222.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3222,Marin Elections Dept,"3501 Civic Center Dr #121, San Rafael, CA 94903, USA",37.99793,-122.53066,3223.0,CA,MARIN COUNTY,Locality wide location,False,False,1.0
+3223,St. Sebastians Church,"373 Bon Air Rd, Kentfield, CA 94904, USA",37.9502,-122.53423,3224.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3224,Sausalito City Hall,"420 Litho St, Sausalito, CA 94965, USA",37.85965,-122.48887,3225.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3225,Belvedere Community Center,"450 San Rafael Ave, Belvedere Tiburon, CA 94920, USA",37.8742,-122.46553,3226.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3226,Fairfax Womens Club,"46 Park Rd, Fairfax, CA 94930, USA",37.9863,-122.59208,3227.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3227,Albert J. Boro Community Center,"50 Canal St #4, San Rafael, CA 94901, USA",37.96805,-122.49776,3228.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3228,Hamilton Community Center,"503 S Palm Dr, Novato, CA 94949, USA",38.05706,-122.51806,3229.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3229,San Rafael Community Center,"618 B St #5, San Rafael, CA 94901, USA",37.96944,-122.52922,3230.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3230,San Geronimo Valley Cultural Center,"6350 Sir Francis Drake Blvd, San Geronimo, CA 94963, USA",38.01653,-122.67456,3231.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3231,Marguerita C. Johnson Senior Center,"640 Drake Ave, Sausalito, CA 94965, USA",37.87267,-122.51502,3232.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3232,First Presbyterian Church of San Anselmo,"72 Kensington Rd, San Anselmo, CA 94960, USA",37.97051,-122.56678,3233.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3233,Marinwood Community Center,"775 Miller Creek Rd, San Rafael, CA 94903, USA",38.02755,-122.55263,3234.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3234,Novato City Hall,"901 Sherman Ave, Novato, CA 94945, USA",38.10606,-122.56819,3235.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3235,Whistlestop,"930 Tamalpais Ave #1, San Rafael, CA 94901, USA",37.97192,-122.52298,3236.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0
+3236,American Legion Hall,"Veterans Pl, San Anselmo, CA 94960, USA",37.98446,-122.56629,3237.0,CA,MARIN COUNTY,Locality wide location,True,False,1.0

@@ -1,0 +1,47 @@
+Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
+5348,5349,CA,SAN MATEO COUNTY,Locality wide location,Onetta Harris Community Ctr,"100 Terminal Ave, Menlo Park, CA 94025, USA",37.47887,-122.16817,False,False,1
+5349,5350,CA,SAN MATEO COUNTY,Locality wide location,Foster City Community Ctr.,"1000 E Hillsdale Blvd, Foster City, CA 94404, USA",37.55867,-122.27073,False,False,1
+5350,5351,CA,SAN MATEO COUNTY,Locality wide location,Menlo College - El Camino Hall,"1000 El Camino Real, Atherton, CA 94027, USA",37.45621,-122.19234,False,False,1
+5351,5352,CA,SAN MATEO COUNTY,Locality wide location,SMC Office Of Education California Rm,"101 Twin Dolphin Dr, Redwood City, CA 94065, USA",37.52593,-122.263,False,False,1
+5352,5353,CA,SAN MATEO COUNTY,Locality wide location,Courtyard By Marriott SFO,"1050 Bayhill Dr, San Bruno, CA 94066, USA",37.63039,-122.41956,False,False,1
+5353,5354,CA,SAN MATEO COUNTY,Locality wide location,East Palo Alto Academy Library,"1050 Myrtle St, East Palo Alto, CA 94303, USA",37.46293,-122.1322,False,False,1
+5354,5355,CA,SAN MATEO COUNTY,Locality wide location,Peninsula Masonic Ldg. #168,"1150 Arroyo Ave, San Carlos, CA 94070, USA",37.50301,-122.25636,False,False,1
+5355,5356,CA,SAN MATEO COUNTY,Locality wide location,Mahany Hall,"1336 Arroyo Ave, San Carlos, CA 94070, USA",37.50229,-122.25772,False,False,1
+5356,5357,CA,SAN MATEO COUNTY,Locality wide location,St Francis of Assisi Church,"1425 Bay Rd, East Palo Alto, CA 94303, USA",37.47171,-122.144,False,False,1
+5357,5358,CA,SAN MATEO COUNTY,Locality wide location,Pacelli Event Center,"145 Lake Merced Blvd, Daly City, CA 94015, USA",37.70403,-122.48489,False,False,1
+5358,5359,CA,SAN MATEO COUNTY,Locality wide location,Notre Dame de Namur Univ.,"1500 Ralston Ave, Belmont, CA 94002, USA",37.51734,-122.28674,False,False,1
+5359,5360,CA,SAN MATEO COUNTY,Locality wide location,Colma Community Center,"1520 Hillside Blvd, Colma, CA 94014, USA",37.68191,-122.45606,False,False,1
+5360,5361,CA,SAN MATEO COUNTY,Locality wide location,Hillsborough Town Hall,"1600 Floribunda Ave, Hillsborough, CA 94010, USA",37.57752,-122.35623,False,False,1
+5361,5362,CA,SAN MATEO COUNTY,Locality wide location,Pacifica Council Chambers,"2212 Beach Blvd, Pacifica, CA 94044, USA",37.63255,-122.49364,False,False,1
+5362,5363,CA,SAN MATEO COUNTY,Locality wide location,Cong. Church of San Mateo,"225 Tilton Ave, San Mateo, CA 94401, USA",37.56889,-122.3278,False,False,1
+5363,5364,CA,SAN MATEO COUNTY,Locality wide location,San Mateo Co. Event Center,"2495 S Delaware St, San Mateo, CA 94403, USA",37.5464,-122.30367,False,False,1
+5364,5365,CA,SAN MATEO COUNTY,Locality wide location,Veterans Memorial Rec. Center,"251 City Park Way, San Bruno, CA 94066, USA",37.61502,-122.41567,False,False,1
+5365,5366,CA,SAN MATEO COUNTY,Locality wide location,Fair Oaks Branch Library,"2510 Middlefield Rd, Redwood City, CA 94063, USA",37.47733,-122.21424,False,False,1
+5366,5367,CA,SAN MATEO COUNTY,Locality wide location,So. San Francisco Conf. Center,"255 S Airport Blvd, South San Francisco, CA 94080, USA",37.64745,-122.40421,False,False,1
+5367,5368,CA,SAN MATEO COUNTY,Locality wide location,Beresford Rec. Center,"2720 Alameda de las Pulgas, San Mateo, CA 94403, USA",37.53799,-122.31301,False,False,1
+5368,5369,CA,SAN MATEO COUNTY,Locality wide location,Woodside Village Church,"3154 Woodside Rd, Woodside, CA 94062, USA",37.42901,-122.25827,False,False,1
+5369,5370,CA,SAN MATEO COUNTY,Locality wide location,Skyline College,"3300 College Dr Bldg. 12, San Bruno, CA 94066, USA",37.63215,-122.46024,False,False,1
+5370,5371,CA,SAN MATEO COUNTY,Locality wide location,Registration & Elections Div Vote Ctr,"40 Tower Rd, San Mateo, CA 94402, USA",37.51233,-122.33248,False,False,1
+5371,5372,CA,SAN MATEO COUNTY,Locality wide location,St Paul's Church,"415 El Camino Real, Burlingame, CA 94010, USA",37.57677,-122.35216,False,False,1
+5372,5373,CA,SAN MATEO COUNTY,Locality wide location,Bayshore Community Ctr.,"450 Martin St, Daly City, CA 94014, USA",37.70178,-122.41908,False,False,1
+5373,5374,CA,SAN MATEO COUNTY,Locality wide location,The Church Of Jesus Christ Of Lds,"475 California Ave, Moss Beach, CA 94038, USA",37.52726,-122.5142,False,False,1
+5374,5375,CA,SAN MATEO COUNTY,Locality wide location,Brisbane City Hall,"50 Park Pl, Brisbane, CA 94005, USA",37.68683,-122.40258,False,False,1
+5375,5376,CA,SAN MATEO COUNTY,Locality wide location,Half Moon Bay EOC,"537 Kelly Ave, Half Moon Bay, CA 94019, USA",37.46545,-122.43206,False,False,1
+5376,5377,CA,SAN MATEO COUNTY,Locality wide location,San Mateo Main Library,"55 W 3rd Ave, San Mateo, CA 94402, USA",37.56197,-122.32674,False,False,1
+5377,5378,CA,SAN MATEO COUNTY,Locality wide location,"Lewis and Joan Platt YMCA, Gym","550 Bell St, East Palo Alto, CA 94303, USA",37.4651,-122.14258,False,False,1
+5378,5379,CA,SAN MATEO COUNTY,Locality wide location,Assessor County Clerk-Recorders Office,"555 County Center, Redwood City, CA 94063, USA",37.489,-122.22989,False,False,1
+5379,5380,CA,SAN MATEO COUNTY,Locality wide location,Residence Inn Menlo Park,"555 Glenwood Ave, Menlo Park, CA 94025, USA",37.45668,-122.186,False,False,1
+5380,5381,CA,SAN MATEO COUNTY,Locality wide location,San Carlos Library,"610 Elm St, San Carlos, CA 94070, USA",37.50367,-122.26243,False,False,1
+5381,5382,CA,SAN MATEO COUNTY,Locality wide location,Millbrae City Hall,"621 Magnolia Ave, Millbrae, CA 94030, USA",37.60263,-122.3962,False,False,1
+5382,5383,CA,SAN MATEO COUNTY,Locality wide location,Millbrae Community Center,"623 Magnolia Ave, Millbrae, CA 94030, USA",37.60272,-122.39677,False,False,1
+5383,5384,CA,SAN MATEO COUNTY,Locality wide location,William E. Walker Rec Center,"650 Shell Blvd, Foster City, CA 94404, USA",37.55685,-122.27175,False,False,1
+5384,5385,CA,SAN MATEO COUNTY,Locality wide location,American Legion Post 105,"651 El Camino Real, Redwood City, CA 94063, USA",37.48822,-122.23663,False,False,1
+5385,5386,CA,SAN MATEO COUNTY,Locality wide location,War Memorial Community Ctr.,"6655 Mission St, Daly City, CA 94014, USA",37.70195,-122.46271,False,False,1
+5386,5387,CA,SAN MATEO COUNTY,Locality wide location,Jefferson Union HS District,"699 Serramonte Blvd, Daly City, CA 94015, USA",37.66804,-122.47854,False,False,1
+5387,5388,CA,SAN MATEO COUNTY,Locality wide location,Arrillaga Family Rec. Center,"700 Alma St, Menlo Park, CA 94025, USA",37.45315,-122.17805,False,False,1
+5388,5389,CA,SAN MATEO COUNTY,Locality wide location,St. Peter Parish,"700 Oddstad Blvd, Pacifica, CA 94044, USA",37.5801,-122.47468,False,False,1
+5389,5390,CA,SAN MATEO COUNTY,Locality wide location,San Mateo Co. Law Library,"710 Hamilton St, Redwood City, CA 94063, USA",37.48731,-122.23051,False,False,1
+5390,5391,CA,SAN MATEO COUNTY,Locality wide location,Portola Valley Town Hall,"765 Portola Rd, Portola Valley, CA 94028, USA",37.38152,-122.23016,False,False,1
+5391,5392,CA,SAN MATEO COUNTY,Locality wide location,Joseph A. Fernekes Rec. Bldg.,"781 Tennis Dr, South San Francisco, CA 94080, USA",37.65417,-122.42679,False,False,1
+5392,5393,CA,SAN MATEO COUNTY,Locality wide location,South San Francisco Main Library,"840 W Orange Ave, South San Francisco, CA 94080, USA",37.65251,-122.43677,False,False,1
+5393,5394,CA,SAN MATEO COUNTY,Locality wide location,Lincoln Park Community Ctr.,"901 Brunswick St, Daly City, CA 94014, USA",37.70703,-122.4521,False,False,1

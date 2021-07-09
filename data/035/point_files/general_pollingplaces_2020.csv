@@ -1,0 +1,3 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+1623,Lassen County Clerk's Office,"220 S Lassen St, Susanville, CA 96130, USA",40.41636,-120.66345,1623.0,CA,LASSEN COUNTY,Locality wide location,False,False,1.0
+1624,Janesville Fire Hall,"463-390 Main St, Janesville, CA 96114, USA",40.29283,-120.51059,1624.0,CA,LASSEN COUNTY,Locality wide location,False,False,1.0

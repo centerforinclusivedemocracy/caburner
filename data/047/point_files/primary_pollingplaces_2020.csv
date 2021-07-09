@@ -1,63 +1,63 @@
-name,address,lat,lon
-Los Banos United Methodist Church,1031 Iowa Ave  Los Banos 93635,37.06198,-120.8616
-Veteran's Memorial Building,11305 Ballico Ave  Ballico 95303,37.4526,-120.70163
-Atwater Women's Club,1201 Grove Ave  Atwater 95301,37.35098,-120.60672
-Sheehy School,1240 W 6th St  Merced 95341,37.29407,-120.50154
-County Fire Station #72,13193 S Hwy 33  Santa Nella 95322,37.09796,-121.01593
-Foster Farms,1333 Swan St  Livingston 95334,37.39222,-120.72091
-Calvary Chapel Merced,1345 E Olive Ave  Merced 95340,37.31905,-120.45534
-Atwater Memorial Building,1390 Broadway Ave  Atwater 95301,37.34724,-120.61069
-Veterans Memorial Building,145 5th St  Gustine 95322,37.25916,-121.00121
-Shepherd of the Valley Church,1455 E Yosemite Ave  Merced 95340,37.33254,-120.45408
-Stratford Evans,1490 B St  Merced 95341,37.29361,-120.46943
-Presbyterian Church,15917 El Capitan Way  Delhi 95315,37.43344,-120.77542
-Scripps/College Green Building,1815 Scripps Dr  Los Banos 93635,37.04901,-120.83163
-Castle Communication Center,1900 Airdrome Entry Gate  Atwater 95301,37.36308,-120.57562
-Castle Communications Center,1900 Airdrome Entry Gate  Atwater 95301,37.36308,-120.57562
-Atwater First Church Of God,2100 Fruitland Ave  Atwater 95301,37.36359,-120.61608
-Merced County Library,2100 O St  Merced 95340,37.30688,-120.48499
-George Washington Carver Building,21475 Reynolds Ave  So Dos Palos 93665,36.97539,-120.64478
-Christian Church Of The Valley,2212 Cherry Ave  Merced 95340,37.2988,-120.45903
-Seventh Day Adventist Church,2222 E Olive Ave  Merced 95340,37.31802,-120.44387
-Merced County Registrar of Voter's Office,2222 M St  Merced 95340,37.30704,-120.48121
-Merced County Administration Building,2222 M St  Merced 95340,37.30704,-120.48121
-Merced Community College - Los Banos Campus,22240 Hwy 152  Los Banos 93635,37.05788,-120.89434
-Merced County Elections Facility,250 E 15th St  Merced 95341,37.29433,-120.47208
-Saint Mary's Catholic Church,2809 Railroad Ave  Stevinson 95374,37.32887,-120.85341
-Liberty Fellowship,281 Juniper Ave  Atwater 95301,37.35085,-120.59953
-Creekside Evangelical Free Church,2876 G St  Merced 95340,37.31117,-120.46893
-STEAM Center,2900 Green St  Merced 95340,37.30486,-120.45199
-Gospel Defenders Church,2909 Beachwood Dr  Merced 95348,37.33051,-120.52841
-Pioneer School,2950 E Gerard Ave  Merced 95341,37.279,-120.43468
-Park Merced,3050 M St  Merced 95348,37.31773,-120.4778
-Chenoweth School,3200 N Parsons Ave  Merced 95340,37.32149,-120.44981
-Snelling Community Recreation Building,3325 Merced Falls Rd  Snelling 95369,37.52191,-120.41907
-Los Banos City Fire Station #1,333 7th St  Los Banos 93635,37.06612,-120.84294
-Department of Child Support Services,3368 N Hwy 59  Merced 95348,37.32713,-120.50455
-Pacifica Senior Living,3420 R St  Merced 95348,37.32899,-120.48626
-Merced Community College Theater Lobby,3600 M St  Merced 95348,37.33368,-120.473
-Washington School,4402 Oakdale Rd  Winton 95388,37.43877,-120.56507
-First Baptist Church,500 Buena Vista Dr  Merced 95348,37.32669,-120.47645
-Sacred Heart Hall,504 W 13th St  Merced 95341,37.29701,-120.48621
-Los Banos City Hall,520 J St  Los Banos 93635,37.06065,-120.84931
-UC Merced,5200 N Lake Rd  Merced 95343,37.36373,-120.43111
-"University of California, Merced",5200 N Lake Rd  Merced 95343,37.36373,-120.43111
-County Fire Station #71,525 H St  Los Banos 93635,37.06197,-120.84814
-Merced County Office of Education (MCOE),632 W 13th St  Merced 95341,37.29712,-120.48849
-Los Banos Community Center,645 7th St  Los Banos 93635,37.06254,-120.84604
-Christian Life Center,650 E Olive Ave  Merced 95340,37.31757,-120.46288
-Saint Patrick's Catholic Church,671 E Yosemite Ave  Merced 95340,37.30568,-120.48054
-City of Merced,678 W 18th St  Merced 95340,37.30298,-120.48562
-County Fire Station #88,6825 Winton Way  Winton 95388,37.38682,-120.61383
-City of Atwater,750 Bellevue Rd  Atwater 95301,37.35985,-120.60039
-Atwater Community Center,760 E Bellevue Rd  Atwater 95301,37.35983,-120.59061
-Tenaya Middle School,760 W 8th St  Merced 95341,37.29274,-120.4935
-County Fire Station #75,8047 Dairy Ln  Dos Palos 93620,37.04687,-120.63646
-Hilmar Grange,8188 Lander Ave  Hilmar 95324,37.40698,-120.84967
-Livingston Community Center,848 Prusso St  Livingston 95334,37.38267,-120.72783
-United Methodist Church of Merced,899 Yosemite Pkwy  Merced 95340,37.29563,-120.46399
-Planada Community Center,9167 Stanford Ave  Planada 95365,37.29186,-120.32266
-Del Hale Hall,931 Center Ave  Dos Palos 93620,36.99227,-120.62608
-Gracey School,945 West Ave  Merced 95341,37.29997,-120.50611
-County Fire Station #61,961 N Gurr Rd  Merced 95341,37.3019,-120.55979
-Winton Community Hall,Walnut And Center  Winton 95388,37.38945,-120.61745
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Los Banos United Methodist Church,1031 Iowa Ave  Los Banos 93635,37.06198,-120.8616,,,,,,,
+1,Veteran's Memorial Building,11305 Ballico Ave  Ballico 95303,37.4526,-120.70163,,,,,,,
+2,Atwater Women's Club,1201 Grove Ave  Atwater 95301,37.35098,-120.60672,,,,,,,
+3,Sheehy School,1240 W 6th St  Merced 95341,37.29407,-120.50154,,,,,,,
+4,County Fire Station #72,13193 S Hwy 33  Santa Nella 95322,37.09796,-121.01593,,,,,,,
+5,Foster Farms,1333 Swan St  Livingston 95334,37.39222,-120.72091,,,,,,,
+6,Calvary Chapel Merced,1345 E Olive Ave  Merced 95340,37.31905,-120.45534,,,,,,,
+7,Atwater Memorial Building,1390 Broadway Ave  Atwater 95301,37.34724,-120.61069,,,,,,,
+8,Veterans Memorial Building,145 5th St  Gustine 95322,37.25916,-121.00121,,,,,,,
+9,Shepherd of the Valley Church,1455 E Yosemite Ave  Merced 95340,37.33254,-120.45408,,,,,,,
+10,Stratford Evans,1490 B St  Merced 95341,37.29361,-120.46943,,,,,,,
+11,Presbyterian Church,15917 El Capitan Way  Delhi 95315,37.43344,-120.77542,,,,,,,
+12,Scripps/College Green Building,1815 Scripps Dr  Los Banos 93635,37.04901,-120.83163,,,,,,,
+13,Castle Communication Center,1900 Airdrome Entry Gate  Atwater 95301,37.36308,-120.57562,,,,,,,
+14,Castle Communications Center,1900 Airdrome Entry Gate  Atwater 95301,37.36308,-120.57562,,,,,,,
+15,Atwater First Church Of God,2100 Fruitland Ave  Atwater 95301,37.36359,-120.61608,,,,,,,
+16,Merced County Library,2100 O St  Merced 95340,37.30688,-120.48499,,,,,,,
+17,George Washington Carver Building,21475 Reynolds Ave  So Dos Palos 93665,36.97539,-120.64478,,,,,,,
+18,Christian Church Of The Valley,2212 Cherry Ave  Merced 95340,37.2988,-120.45903,,,,,,,
+19,Seventh Day Adventist Church,2222 E Olive Ave  Merced 95340,37.31802,-120.44387,,,,,,,
+20,Merced County Registrar of Voter's Office,2222 M St  Merced 95340,37.30704,-120.48121,,,,,,,
+21,Merced County Administration Building,2222 M St  Merced 95340,37.30704,-120.48121,,,,,,,
+22,Merced Community College - Los Banos Campus,22240 Hwy 152  Los Banos 93635,37.05788,-120.89434,,,,,,,
+23,Merced County Elections Facility,250 E 15th St  Merced 95341,37.29433,-120.47208,,,,,,,
+24,Saint Mary's Catholic Church,2809 Railroad Ave  Stevinson 95374,37.32887,-120.85341,,,,,,,
+25,Liberty Fellowship,281 Juniper Ave  Atwater 95301,37.35085,-120.59953,,,,,,,
+26,Creekside Evangelical Free Church,2876 G St  Merced 95340,37.31117,-120.46893,,,,,,,
+27,STEAM Center,2900 Green St  Merced 95340,37.30486,-120.45199,,,,,,,
+28,Gospel Defenders Church,2909 Beachwood Dr  Merced 95348,37.33051,-120.52841,,,,,,,
+29,Pioneer School,2950 E Gerard Ave  Merced 95341,37.279,-120.43468,,,,,,,
+30,Park Merced,3050 M St  Merced 95348,37.31773,-120.4778,,,,,,,
+31,Chenoweth School,3200 N Parsons Ave  Merced 95340,37.32149,-120.44981,,,,,,,
+32,Snelling Community Recreation Building,3325 Merced Falls Rd  Snelling 95369,37.52191,-120.41907,,,,,,,
+33,Los Banos City Fire Station #1,333 7th St  Los Banos 93635,37.06612,-120.84294,,,,,,,
+34,Department of Child Support Services,3368 N Hwy 59  Merced 95348,37.32713,-120.50455,,,,,,,
+35,Pacifica Senior Living,3420 R St  Merced 95348,37.32899,-120.48626,,,,,,,
+36,Merced Community College Theater Lobby,3600 M St  Merced 95348,37.33368,-120.473,,,,,,,
+37,Washington School,4402 Oakdale Rd  Winton 95388,37.43877,-120.56507,,,,,,,
+38,First Baptist Church,500 Buena Vista Dr  Merced 95348,37.32669,-120.47645,,,,,,,
+39,Sacred Heart Hall,504 W 13th St  Merced 95341,37.29701,-120.48621,,,,,,,
+40,Los Banos City Hall,520 J St  Los Banos 93635,37.06065,-120.84931,,,,,,,
+41,UC Merced,5200 N Lake Rd  Merced 95343,37.36373,-120.43111,,,,,,,
+42,"University of California, Merced",5200 N Lake Rd  Merced 95343,37.36373,-120.43111,,,,,,,
+43,County Fire Station #71,525 H St  Los Banos 93635,37.06197,-120.84814,,,,,,,
+44,Merced County Office of Education (MCOE),632 W 13th St  Merced 95341,37.29712,-120.48849,,,,,,,
+45,Los Banos Community Center,645 7th St  Los Banos 93635,37.06254,-120.84604,,,,,,,
+46,Christian Life Center,650 E Olive Ave  Merced 95340,37.31757,-120.46288,,,,,,,
+47,Saint Patrick's Catholic Church,671 E Yosemite Ave  Merced 95340,37.30568,-120.48054,,,,,,,
+48,City of Merced,678 W 18th St  Merced 95340,37.30298,-120.48562,,,,,,,
+49,County Fire Station #88,6825 Winton Way  Winton 95388,37.38682,-120.61383,,,,,,,
+50,City of Atwater,750 Bellevue Rd  Atwater 95301,37.35985,-120.60039,,,,,,,
+51,Atwater Community Center,760 E Bellevue Rd  Atwater 95301,37.35983,-120.59061,,,,,,,
+52,Tenaya Middle School,760 W 8th St  Merced 95341,37.29274,-120.4935,,,,,,,
+53,County Fire Station #75,8047 Dairy Ln  Dos Palos 93620,37.04687,-120.63646,,,,,,,
+54,Hilmar Grange,8188 Lander Ave  Hilmar 95324,37.40698,-120.84967,,,,,,,
+55,Livingston Community Center,848 Prusso St  Livingston 95334,37.38267,-120.72783,,,,,,,
+56,United Methodist Church of Merced,899 Yosemite Pkwy  Merced 95340,37.29563,-120.46399,,,,,,,
+57,Planada Community Center,9167 Stanford Ave  Planada 95365,37.29186,-120.32266,,,,,,,
+58,Del Hale Hall,931 Center Ave  Dos Palos 93620,36.99227,-120.62608,,,,,,,
+59,Gracey School,945 West Ave  Merced 95341,37.29997,-120.50611,,,,,,,
+60,County Fire Station #61,961 N Gurr Rd  Merced 95341,37.3019,-120.55979,,,,,,,
+61,Winton Community Hall,Walnut And Center  Winton 95388,37.38945,-120.61745,,,,,,,

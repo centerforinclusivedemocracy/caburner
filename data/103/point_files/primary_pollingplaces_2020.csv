@@ -1,32 +1,32 @@
-name,address,lat,lon
-Cone Methodist Church,11220 Hwy 99e  Los Molinos 96055,40.1193,-122.11911
-Tehama County Dept. Of Education,1135 Lincoln St  Red Bluff 96080,40.17855,-122.24558
-Moose Lodge,11745 Hwy 99w  Red Bluff 96080,40.08116,-122.17131
-Red Bluff Community Center,1500 S Jackson St  Red Bluff 96080,40.15665,-122.23889
-Corning Veterans Hall,1620 Solano St  Corning 96021,39.9282,-122.18786
-Rancho Tehama Recreation Hall,17605 Park Terrace Rd  Corning 96021,40.01489,-122.38092
-Bowman Community Church,18335 Bowman Rd  Cottonwood 96022,40.34434,-122.35412
-Reeds Creek School,18335 Johnson Rd  Red Bluff 96080,40.15643,-122.35521
-Ridgeway Park,19725 Ridge Rd  Red Bluff 96080,40.14622,-122.30623
-Dibble Creek Fire Station,20230 Hwy 36w  Red Bluff 96080,40.17849,-122.23583
-Trinity Landmark Missionary Baptist Church,20910 Hampton Rhodes Dr  Red Bluff 96080,40.16265,-122.26065
-Bend School,22270 Bend Ferry Rd  Red Bluff 96080,40.25894,-122.20823
-Lake California Lake Club,22431 Rio Alto Dr  Cottonwood 96022,40.35028,-122.20106
-Sacred Heart Parish Hall,2355 Monroe St  Red Bluff 96080,40.19045,-122.24701
-Mill Creek Baptist Church,25145 Taft St  Los Molinos 96055,40.04706,-122.09968
-Christ Community Church Of Vina,26370 5th St  Vina 96092,39.93303,-122.05272
-Gerber Bible Fellowship,301 Samson Ave  Gerber 96035,40.05685,-122.14945
-Mt Olive Lutheran Church,341 Solano St  Corning 96021,39.92749,-122.16993
-First Baptist Church,506 Colusa St  Corning 96021,39.93186,-122.17194
-United Methodist Church,525 David Ave  Red Bluff 96080,40.16763,-122.25249
-Church Of Jesus Christ Of Latter-day Saints,545 Berrendos Ave  Red Bluff 96080,40.19277,-122.20733
-Richfield Fire Station,6115 Grange Rd  Corning 96021,39.97439,-122.17675
-High Point Assembly Of God,625 Luther Rd  Red Bluff 96080,40.1603,-122.23377
-Tehama County Elections Office,633 Washington St  Red Bluff 96080,40.17625,-122.2361
-Fairgrounds - Tehama Room,650 Antelope Blvd  Red Bluff 96080,40.19039,-122.20227
-Tehama County Administration - Tuscan Room,727 Oak St  Red Bluff 96080,40.17416,-122.23853
-Capay School,7504 Cutting Ave  Orland 95963,39.79711,-122.08452
-Corning City Hall,794 3rd St  Corning 96021,39.9282,-122.1797
-Los Molinos Veterans Hall,7980 Sherwood Blvd  Los Molinos 96055,40.02778,-122.09591
-El Camino Methodist Church,8345 Hwy 99w  Gerber 96035,40.03918,-122.17154
-El Camino Fire Station,9580 Hwy 99w  Gerber 96035,40.07141,-122.16942
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Cone Methodist Church,11220 Hwy 99e  Los Molinos 96055,40.1193,-122.11911,,,,,,,
+1,Tehama County Dept. Of Education,1135 Lincoln St  Red Bluff 96080,40.17855,-122.24558,,,,,,,
+2,Moose Lodge,11745 Hwy 99w  Red Bluff 96080,40.08116,-122.17131,,,,,,,
+3,Red Bluff Community Center,1500 S Jackson St  Red Bluff 96080,40.15665,-122.23889,,,,,,,
+4,Corning Veterans Hall,1620 Solano St  Corning 96021,39.9282,-122.18786,,,,,,,
+5,Rancho Tehama Recreation Hall,17605 Park Terrace Rd  Corning 96021,40.01489,-122.38092,,,,,,,
+6,Bowman Community Church,18335 Bowman Rd  Cottonwood 96022,40.34434,-122.35412,,,,,,,
+7,Reeds Creek School,18335 Johnson Rd  Red Bluff 96080,40.15643,-122.35521,,,,,,,
+8,Ridgeway Park,19725 Ridge Rd  Red Bluff 96080,40.14622,-122.30623,,,,,,,
+9,Dibble Creek Fire Station,20230 Hwy 36w  Red Bluff 96080,40.17849,-122.23583,,,,,,,
+10,Trinity Landmark Missionary Baptist Church,20910 Hampton Rhodes Dr  Red Bluff 96080,40.16265,-122.26065,,,,,,,
+11,Bend School,22270 Bend Ferry Rd  Red Bluff 96080,40.25894,-122.20823,,,,,,,
+12,Lake California Lake Club,22431 Rio Alto Dr  Cottonwood 96022,40.35028,-122.20106,,,,,,,
+13,Sacred Heart Parish Hall,2355 Monroe St  Red Bluff 96080,40.19045,-122.24701,,,,,,,
+14,Mill Creek Baptist Church,25145 Taft St  Los Molinos 96055,40.04706,-122.09968,,,,,,,
+15,Christ Community Church Of Vina,26370 5th St  Vina 96092,39.93303,-122.05272,,,,,,,
+16,Gerber Bible Fellowship,301 Samson Ave  Gerber 96035,40.05685,-122.14945,,,,,,,
+17,Mt Olive Lutheran Church,341 Solano St  Corning 96021,39.92749,-122.16993,,,,,,,
+18,First Baptist Church,506 Colusa St  Corning 96021,39.93186,-122.17194,,,,,,,
+19,United Methodist Church,525 David Ave  Red Bluff 96080,40.16763,-122.25249,,,,,,,
+20,Church Of Jesus Christ Of Latter-day Saints,545 Berrendos Ave  Red Bluff 96080,40.19277,-122.20733,,,,,,,
+21,Richfield Fire Station,6115 Grange Rd  Corning 96021,39.97439,-122.17675,,,,,,,
+22,High Point Assembly Of God,625 Luther Rd  Red Bluff 96080,40.1603,-122.23377,,,,,,,
+23,Tehama County Elections Office,633 Washington St  Red Bluff 96080,40.17625,-122.2361,,,,,,,
+24,Fairgrounds - Tehama Room,650 Antelope Blvd  Red Bluff 96080,40.19039,-122.20227,,,,,,,
+25,Tehama County Administration - Tuscan Room,727 Oak St  Red Bluff 96080,40.17416,-122.23853,,,,,,,
+26,Capay School,7504 Cutting Ave  Orland 95963,39.79711,-122.08452,,,,,,,
+27,Corning City Hall,794 3rd St  Corning 96021,39.9282,-122.1797,,,,,,,
+28,Los Molinos Veterans Hall,7980 Sherwood Blvd  Los Molinos 96055,40.02778,-122.09591,,,,,,,
+29,El Camino Methodist Church,8345 Hwy 99w  Gerber 96035,40.03918,-122.17154,,,,,,,
+30,El Camino Fire Station,9580 Hwy 99w  Gerber 96035,40.07141,-122.16942,,,,,,,

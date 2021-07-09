@@ -1,0 +1,24 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+1600,Highlands Senior Service Center,"3245 Bowers Ave, Clearlake, CA 95422, USA",38.96594,-122.63062,1600.0,CA,LAKE COUNTY,"CL AUSTIN PARK, CL MOLESWORTH, CL PIERCE",False,False,1.0
+1601,Clearlake City Hall,"14050 Olympic Dr, Clearlake, CA 95422, USA",38.96148,-122.6492,1601.0,CA,LAKE COUNTY,"CL MONITOR PT, CL BURNS VALLEY, CL DAVIS",False,False,1.0
+1602,First Baptist Church,"14550 Pearl Ave, Clearlake, CA 95422, USA",38.95366,-122.64068,1602.0,CA,LAKE COUNTY,"CL REDBUD, CL VILLAGE, CL PALMER",False,False,1.0
+1603,Scotts Valley Women's Clubhouse,"2298 Hendricks Rd, Lakeport, CA 95453, USA",39.06359,-122.95246,1603.0,CA,LAKE COUNTY,"COW MTN, SCOTTS VALLEY",False,False,1.0
+1604,HVL Golf Course Restaurant,"18174 Hidden Valley Rd, Hidden Valley Lake, CA 95467, USA",38.80806,-122.5694,1604.0,CA,LAKE COUNTY,"HIDDEN VALLEY 1, HIDDEN VALLEY 2",False,False,1.0
+1605,HVL Community Services Dist Office,"19400 Hartmann Rd, Hidden Valley Lake, CA 95467, USA",38.79762,-122.55376,1605.0,CA,LAKE COUNTY,"HIDDEN VALLEY 3, HIDDEN VALLEY 4",False,False,1.0
+1606,Kels Presbyterian Church Hall,"5340 3rd St, Kelseyville, CA 95451, USA",38.97679,-122.83775,1606.0,CA,LAKE COUNTY,"KELSEYVILLE, COLE CREEK, KELSEY CREEK",False,False,1.0
+1607,Big Valley Grange,"1510 Big Valley Rd, Lakeport, CA 95453, USA",39.00656,-122.88421,1607.0,CA,LAKE COUNTY,"LANDS END, ADOBE",False,False,1.0
+1608,Little Red Schoolhouse,"15780 Bottle Rock Rd, Cobb, CA 95426, USA",38.83219,-122.73397,1608.0,CA,LAKE COUNTY,"LOCH LOMOND, GLENBROOK, W PINE/HOBERGS",False,False,1.0
+1609,Orchard Shores Clubhouse,"500 Orchard Shore Dr, Clearlake Oaks, CA 95423, USA",39.01902,-122.65332,1609.0,CA,LAKE COUNTY,"LONG VALLEY, EAST LAKE, KEYS WEST, KEYS EAST",False,False,1.0
+1610,Lake County Office Of Education,"1152 S Main St, Lakeport, CA 95453, USA",39.0346,-122.91519,1610.0,CA,LAKE COUNTY,"LP FAIRGROUNDS, BIG VALLEY",False,False,1.0
+1611,Lakeport Senior Activity Center,"527 Konocti Ave, Lakeport, CA 95453, USA",39.03513,-122.91951,1611.0,CA,LAKE COUNTY,LP GOVERNMENT,False,False,1.0
+1612,LDS Church,"600 16th St, Lakeport, CA 95453, USA",39.05308,-122.91973,1612.0,CA,LAKE COUNTY,"LP LANGE, LP WILLOW TREE",False,False,1.0
+1613,Lutheran Church Parish Hall,"3863 Country Club Dr, Lucerne, CA 95458, USA",39.09048,-122.7919,1613.0,CA,LAKE COUNTY,"LUCERNE, THE CASTLE, KONO TAYEE",False,False,1.0
+1614,Lake County Registrar of Voters Office,"255 N Forbes St, Lakeport, CA 95453, USA",39.04367,-122.91648,1614.0,CA,LAKE COUNTY,Locality wide location,False,False,1.0
+1615,Middletown Lions Club,"15399 Central Park Rd, Middletown, CA 95461, USA",38.74524,-122.6239,1615.0,CA,LAKE COUNTY,"MIDDLETOWN, CENTRAL PARK",False,False,1.0
+1616,Community Baptist Church,"2877 E Hwy 20, Upper Lake, CA 95485, USA",39.12302,-122.85887,1616.0,CA,LAKE COUNTY,"NICE, NICE HARBOR",False,False,1.0
+1617,Clearlake Riviera Association,"9689 CA-281, Kelseyville, CA 95451, USA",38.95372,-122.72872,1617.0,CA,LAKE COUNTY,"RIVIERA, MTN PEAK",False,False,1.0
+1618,Seventh-day Adventist Church,"1111 Park Way, Lakeport, CA 95453, USA",39.08209,-122.92506,1618.0,CA,LAKE COUNTY,"ROBIN HILL, WESTLAKE",False,False,1.0
+1619,Buckingham Homeowner's Association,"2850 Eastlake Dr, Kelseyville, CA 95451, USA",39.00088,-122.75153,1619.0,CA,LAKE COUNTY,"SODA BAY, LITTLE BORAX",False,False,1.0
+1620,Lower Lake Methodist Church Social Hall,"16255 2nd St, Lower Lake, CA 95457, USA",38.91113,-122.60865,1620.0,CA,LAKE COUNTY,"TWIN LAKES, LOWER LAKE",False,False,1.0
+1621,North Shore Christian Fellowship,"9456 Main St, Upper Lake, CA 95485, USA",39.1639,-122.9107,1621.0,CA,LAKE COUNTY,"UPPER LAKE, BACHELOR",False,False,1.0
+1622,Galilee Lutheran Church,"8860 Soda Bay Rd, Kelseyville, CA 95451, USA",38.9812,-122.7422,1622.0,CA,LAKE COUNTY,WHEELER PT,False,False,1.0

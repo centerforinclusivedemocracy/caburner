@@ -1,783 +1,748 @@
 ,osm_id,code,fclass,name,lon,lat
-0,297744290,2002,fire_station,Los Angeles County Fire Department Station #23,-118.13016,33.88183
-1,298257651,2002,fire_station,Los Angeles County Fire Department Station #31,-118.16807,33.8967
-2,298533974,2002,fire_station,Long Beach Fire Station #12,-118.17544,33.873
-3,358825930,2005,post_office,Hollydale Station South Gate Post Office,-118.16924,33.91613
-4,358828952,2005,post_office,Paramount Post Office,-118.17229,33.89613
-5,368167688,2002,fire_station,Los Angeles County Fire Department Station #115,-118.09213,33.88784
-6,368167695,2002,fire_station,Los Angeles County Fire Dept. Station 20,-118.07426,33.91311
-7,368168311,2002,fire_station,Los Angeles County Fire Department Station #98,-118.12495,33.89988
-8,368168353,2002,fire_station,Downey Fire Station 1,-118.14722,33.92972
-9,368168354,2002,fire_station,Downey Fire Station 2,-118.12333,33.91667
-10,368168502,2002,fire_station,Los Angeles County Fire Department Station #57,-118.16814,33.92235
-11,368168706,2002,fire_station,Long Beach Fire Station 12,-118.17528,33.87306
-12,368169484,2007,library,Hollydale Branch County of Los Angeles Public Library,-118.16868,33.91724
-13,368171452,2008,town_hall,Norwalk City Hall,-118.07201,33.91557
-14,392435100,2001,police,Bellflower Sheriff,-118.12555,33.88347
-15,2107684756,2005,post_office,Paddison Square Post Office,-118.07406,33.91872
-16,2930821893,2005,post_office,Norwalk US Post Office,-118.0786,33.9041
-17,3008139319,2005,post_office,The UPS Store,-118.1443,33.85179
-18,5638790721,2007,library,County of Los Angeles Public Library,-118.07764,33.86059
-19,344743063,2002,fire_station,Chilao,-118.02449,34.33336
-20,358827473,2005,post_office,Lake Los Angeles Branch Palmdale Post Office,-117.83118,34.61582
-21,358827474,2005,post_office,Littlerock Post Office,-117.99174,34.52138
-22,368169607,2007,library,Lake Los Angeles Branch County of Los Angeles Public Library,-117.82729,34.61693
-23,368169732,2007,library,Littlerock Branch County of Los Angeles Public Library,-117.98396,34.52138
-24,1124342195,2002,fire_station,USFS Station,-117.86289,34.23907
-25,1842395443,2002,fire_station,Los Angeles County Fire Department Station #79,-117.89693,34.50252
-26,1842426700,2002,fire_station,Los Angeles County Fire Department Station #92,-117.97096,34.52876
-27,358852684,2005,post_office,Montebello Post Office,-118.10472,34.01111
-28,368167687,2002,fire_station,Los Angeles County Fire Department Station #17,-118.04889,33.9825
-29,368168299,2002,fire_station,Los Angeles County Fire Department Station #103,-118.10819,33.98279
-30,368168419,2002,fire_station,Los Angeles County Fire Department Station #25,-118.10041,33.96983
-31,368169515,2007,library,Rivera Branch County of Los Angeles Public Library,-118.1009,33.9689
-32,368171198,2001,police,Montebello Police Building,-118.11646,34.02112
-33,368171304,2001,police,Pico Rivera Sheriffs Station,-118.08861,33.98194
-34,368171710,2008,town_hall,Montebello City Hall,-118.11646,34.02029
-35,368172071,2008,town_hall,Pico Rivera City Hall,-118.08868,33.98251
-36,4242074403,2002,fire_station,Fire Station 55,-118.33566,33.33316
-37,4388681533,2001,police,L.A. County Sheriffs Department,-118.32714,33.34314
-38,4574053678,2009,courthouse,Superior Court,-118.32698,33.34316
-39,4911757875,2002,fire_station,Avalon Fire Department,-118.32901,33.33944
-40,5466045124,2005,post_office,US Post Office,-118.32668,33.34376
-41,5466045125,2007,library,L.A. County Public Library,-118.32707,33.34328
-42,368170851,2007,library,Huntington Library,-118.11201,34.12779
-43,368169777,2007,library,Chinatown Branch Los Angeles Public Library,-118.24109,34.06063
-44,368169795,2007,library,Echo Park Branch Los Angeles Public Library,-118.2574,34.06711
-45,3326547102,2002,fire_station,,-118.25385,34.06749
-46,368169857,2007,library,Venice-Abbot Kinney Memorial Branch Los Angeles Public Library,-118.46526,33.99135
-47,358826470,2005,post_office,Dockweller Station Los Angeles Post Office,-118.29202,34.02585
-48,368169844,2007,library,Exposition Park-Doctor Mary McLeod Bethune Regional Branch Los Angeles Public Library,-118.29174,34.0214
-49,5237388100,2005,post_office,Amazon Pick up Center,-118.28517,34.02558
-50,5567729100,2005,post_office,FedEx Print and Ship Center,-118.28591,34.02528
-51,6042978413,2007,library,Leavey Library,-118.28285,34.02177
-52,358826404,2005,post_office,Sierra Madre Post Office,-118.05312,34.16056
-53,358852624,2005,post_office,Arcadia Post Office,-118.02972,34.14139
-54,368171977,2008,town_hall,Old Sierra Madre City Hall,-118.05406,34.16202
-55,368171987,2008,town_hall,Monrovia City Hall,-117.99909,34.14757
-56,368172019,2008,town_hall,Arcadia City Hall,-118.03882,34.1371
-57,539321027,2001,police,Monrovia Police Department,-117.99904,34.14798
-58,539322207,2002,fire_station,Monrovia Fire Department,-117.99961,34.14719
-59,1666862474,2001,police,Sierra Madre Police Department,-118.05834,34.16162
-60,1666878568,2008,town_hall,Sierra Madre City Hall,-118.05775,34.1616
-61,2343815380,2005,post_office,The UPS Store,-118.00074,34.14446
-62,3919483995,2001,police,Arcadia Police Department,-118.03978,34.13675
-63,4793973843,2007,library,Monrovia Public Library,-118.00208,34.14865
-64,358825344,2005,post_office,El Segundo Post Office,-118.41563,33.91807
-65,368171453,2008,town_hall,El Segundo City Hall,-118.41563,33.92057
-66,368171457,2008,town_hall,Manhattan Beach City Hall,-118.41062,33.88737
-67,6534399111,2002,fire_station,Station 1,-118.40946,33.88782
-68,6534399112,2001,police,Manhattan Beach Police Department,-118.40952,33.88742
-69,358852669,2005,post_office,Hillcrest Station Inglewood Post Office,-118.35111,33.95944
-70,358852692,2005,post_office,North Inglewood Station Inglewood Post Office,-118.35806,33.97361
-71,368168341,2002,fire_station,Los Angeles County Fire Department Station #172,-118.35332,33.97614
-72,368168342,2002,fire_station,Los Angeles County Fire Department Station #171,-118.35683,33.96474
-73,368168439,2002,fire_station,Los Angeles County Fire Department Station #38,-118.34242,33.9933
-74,368168503,2002,fire_station,Los Angeles County Fire Department Station #58,-118.36317,33.98789
-75,368169715,2007,library,City of Inglewood Public Library,-118.35561,33.9622
-76,368169820,2007,library,View Park Branch County of Los Angeles Public Library,-118.34174,33.99279
-77,368171201,2001,police,Inglewood Police Station,-118.35436,33.96368
-78,368171455,2008,town_hall,Inglewood City Hall,-118.35483,33.96309
-79,358817638,2005,post_office,Lawndale Post Office,-118.35119,33.89418
-80,358825516,2005,post_office,Manhattan Beach Post Office,-118.39633,33.88599
-81,368168324,2002,fire_station,Los Angeles County Fire Department Station #160,-118.373,33.90212
-82,368168416,2002,fire_station,Los Angeles County Fire Department Station #21,-118.35113,33.89799
-83,368169322,2007,library,Lawndale Branch County of Los Angeles Public Library,-118.35424,33.89863
-84,368169824,2007,library,Wiseburn Branch County of Los Angeles Public Library,-118.3736,33.90976
-85,368171309,2001,police,Lawndale Sheriff's Service Center,-118.34417,33.89222
-86,368171358,2008,town_hall,Lawndale City Hall,-118.35424,33.89807
-87,3137961977,2005,post_office,Joe's Postal Center,-118.36267,33.89316
-88,358826604,2005,post_office,Wilcox Station Los Angeles Post Office,-118.33063,34.09112
-89,368168307,2002,fire_station,Los Angeles County Fire Department Station #95,-118.27758,33.89315
-90,368168316,2002,fire_station,Los Angeles County Fire Department Station #116,-118.2619,33.86746
-91,368168357,2002,fire_station,Compton Fire Station 4,-118.23972,33.87583
-92,368168360,2002,fire_station,Compton Fire Station 3,-118.24556,33.90361
-93,368168411,2002,fire_station,Los Angeles County Fire Department Station #10,-118.23549,33.84643
-94,368168878,2002,fire_station,Cressey Park Fire Station,-118.24528,33.90374
-95,368169514,2007,library,Victoria Park Branch County of Los Angeles Public Library,-118.26591,33.86752
-96,368171285,2001,police,Southeast Community Police Station,-118.27556,33.93861
-97,368168351,2002,fire_station,Los Angeles County Fire Department Station #185,-117.7379,34.03749
-98,1843284741,2002,fire_station,Los Angeles County Fire Department Station #121,-117.79331,34.02602
-99,358827438,2005,post_office,Quartz Hill Post Office,-118.21896,34.64832
-100,368168918,2002,fire_station,Los Angeles County Fire Department Station #78,-118.43082,34.67362
-101,1730625718,2005,post_office,,-118.42932,34.67318
-102,1742521590,2008,town_hall,Lakes Community Center,-118.4397,34.67301
-103,1840386343,2002,fire_station,Los Angeles County Fire Department Station #33,-118.14128,34.69942
-104,1840409883,2002,fire_station,Los Angeles County Fire Department Station #37,-118.114,34.57813
-105,1842407210,2002,fire_station,Los Angeles County Fire Department Station #84,-118.21959,34.64721
-106,1843344524,2002,fire_station,Los Angeles County Fire Department Station #129,-118.14077,34.64807
-107,1843345593,2002,fire_station,Los Angeles County Fire Department Station #130,-118.20108,34.69287
-108,1843371626,2002,fire_station,Los Angeles County Fire Department Station #135,-118.09522,34.67111
-109,1843372614,2002,fire_station,Los Angeles County Fire Department Station #136,-118.19485,34.61613
-110,1843397052,2002,fire_station,Los Angeles County Fire Department Station #157,-118.41015,34.61792
-111,6324300472,2005,post_office,Mailbox Plus,-118.1463,34.58791
-112,6672845163,2009,courthouse,Antelope Valley Juvenile Court,-118.14972,34.68862
-113,6810258741,2005,post_office,The UPS Store,-118.14878,34.58571
-114,358852658,2005,post_office,East Pasadena Station Pasadena Post Office,-118.09639,34.14639
-115,368169482,2007,library,Hastings Branch Pasadena Public Library,-118.08201,34.15806
-116,368169506,2007,library,Sierra Madre Public Library,-118.06205,34.16146
-117,1210964744,2005,post_office,,-118.07259,34.15179
-118,1666861741,2002,fire_station,Sierra Madre Fire Department,-118.05846,34.16159
-119,1666876689,2005,post_office,USPS Sierra Madre 91024,-118.05301,34.16073
-120,2120255137,2005,post_office,The UPS Store,-118.1026,34.14654
-121,2412277969,2007,library,,-118.1168,34.14526
-122,2412277974,2001,police,,-118.12025,34.14451
-123,3091983061,2005,post_office,The UPS Store,-118.02744,34.15081
-124,358809629,2005,post_office,Downey Main Post Office,-118.13618,33.94196
-125,358825742,2005,post_office,Bell Gardens Branch Bell Post Office,-118.16451,33.97251
-126,358825819,2005,post_office,Downey Post Office,-118.1359,33.94224
-127,358826143,2005,post_office,Commerce Station Los Angeles Post Office,-118.15563,34.00057
-128,358826144,2005,post_office,East Los Angeles Branch Los Angeles Post Office,-118.15813,34.01835
-129,358826212,2005,post_office,South Gate Post Office,-118.18121,33.93935
-130,358852721,2005,post_office,South Downey Station Downey Post Office,-118.15083,33.92389
-131,368168367,2002,fire_station,Downey Fire Station 3,-118.12831,33.95533
-132,368168417,2002,fire_station,Los Angeles County Fire Department Station #22,-118.14692,34.01734
-133,368169492,2007,library,Montebello Branch County of Los Angeles Public Library,-118.11535,34.02085
-134,368169519,2007,library,Chet Holifield Branch County of Los Angeles Public Library,-118.12007,33.99335
-135,368169541,2007,library,Downey City Library,-118.12868,33.93974
-136,368171199,2001,police,East LA Sheriff's Station,-118.15791,34.03423
-137,368171979,2008,town_hall,Bell Gardens City Hall,-118.15035,33.96696
-138,368171990,2008,town_hall,Commerce City Hall,-118.15563,34.00085
-139,368172001,2008,town_hall,Downey City Hall,-118.12854,33.94063
-140,1840335369,2002,fire_station,Los Angeles County Fire Department Station #27,-118.15412,33.98846
-141,3627504615,2008,town_hall,Bell Gardens Park City Hall,-118.15002,33.96742
-142,3897158117,2001,police,Downey Police Department,-118.12864,33.94084
-143,368169648,2007,library,Lamanda Park Branch Pasadena Public Library,-118.09832,34.14348
-144,358825568,2005,post_office,Cerritos Post Office,-118.0459,33.8664
-145,368168487,2002,fire_station,Los Angeles County Fire Department Station #35,-118.03942,33.8736
-146,368168501,2002,fire_station,Los Angeles County Fire Department Station #49,-118.01137,33.90506
-147,368169535,2007,library,La Mirada Branch County of Los Angeles Public Library,-118.0109,33.90585
-148,368172016,2008,town_hall,La Mirada City Hall,-118.01118,33.90612
-149,358852678,2005,post_office,Magnolia Park Station Burbank Post Office,-118.34834,34.16722
-150,368168023,2002,fire_station,Burbank Fire Station Number 5,-118.32111,34.16833
-151,368168024,2002,fire_station,Burbank Fire Station Number 12,-118.34398,34.16261
-152,462002198,2007,library,Buena Vista Branch Burbank Public Library,-118.33034,34.16411
-153,4711222941,2005,post_office,Mail Box Toluca Lake,-118.35252,34.15236
-154,358852695,2005,post_office,North Torrance Station Torrance Post Office,-118.32611,33.86722
-155,368169458,2007,library,North Torrance Branch Torrance Public Library,-118.33622,33.87253
-156,4529169990,2007,library,"Torrance Public Library, Northern branch",-118.33544,33.87262
-157,6950121111,2007,library,Pomona Public Library,-117.75065,34.05392
-158,6950121112,2001,police,Pomona Police Department,-117.75394,34.0547
-159,368169545,2007,library,Bruggemeyer Memorial Library,-118.12514,34.05904
-160,368170850,2007,library,Kennedy Library,-118.1675,34.0675
-161,368171989,2008,town_hall,Monterey Park City Hall,-118.12604,34.05911
-162,2681628008,2002,fire_station,Monterey Park Fire Station,-118.12714,34.05955
-163,4206206889,2007,library,Baldwin Park Library,-117.96509,34.08799
-164,4311239794,2009,courthouse,West Covina Courthouse,-117.93818,34.0699
-165,4311244490,2009,courthouse,Superior Court of California for the County of Los Angeles,-117.93856,34.0702
-166,368168319,2002,fire_station,Los Angeles County Fire Department Station #118,-117.9355,34.00026
-167,368169012,2007,library,Margaret Herrick Library,-118.37674,34.06057
-168,368169014,2007,library,Robertson Branch Los Angeles Public Library,-118.38591,34.04834
-169,368169624,2007,library,Peter M Khan Memorial Library,-118.3698,34.06418
-170,368168877,2002,fire_station,Los Angeles County Fire Department Station #72,-118.88116,34.07663
-171,884662001,2005,post_office,PostalAnnex,-118.84322,34.0314
-172,1842454236,2002,fire_station,Los Angeles County Fire Department Station #99,-118.88364,34.03992
-173,298305230,2002,fire_station,Long Beach Fire Department Station #6,-118.19013,33.74998
-174,298472149,2002,fire_station,Long Beach Fire Station #3,-118.19908,33.78176
-175,298480095,2002,fire_station,Long Beach Fire Station #7,-118.18851,33.7987
-176,298535537,2002,fire_station,Long Beach Fire Station #13,-118.21463,33.80217
-177,298539823,2002,fire_station,Long Beach Fire Station #15,-118.2152,33.74732
-178,358852637,2005,post_office,Cabrillo Station Long Beach Post Office,-118.21528,33.79861
-179,358852698,2005,post_office,Pacific Station Long Beach Post Office,-118.19333,33.79194
-180,368168366,2002,fire_station,Fire Station #2,-118.17113,33.76968
-181,368168510,2002,fire_station,Los Angeles County Fire Department Station #60,-118.16417,33.80612
-182,368168704,2002,fire_station,Long Beach Fire Station 24,-118.22167,33.75639
-183,368168707,2002,fire_station,Long Beach Fire Station 13,-118.21472,33.80222
-184,368168708,2002,fire_station,Long Beach Fire Station Number 10,-118.17336,33.78487
-185,368169441,2007,library,Bret Harte Branch Long Beach Public Library,-118.21396,33.80474
-186,368169447,2007,library,Burnett Branch Long Beach Public Library,-118.18535,33.79668
-187,368169450,2007,library,La Casa De Rancho Los Cerritos Library,-118.19555,33.83949
-188,3576710450,2007,library,Family History Center,-118.18845,33.82447
-189,5638625547,2005,post_office,FedEx,-118.1853,33.76661
-190,368168349,2002,fire_station,Los Angeles County Fire Department Station #187,-117.80827,34.04629
-191,368168352,2002,fire_station,Los Angeles County Fire Department Station #184,-117.78488,34.063
-192,368171303,2001,police,San Dimas Sheriffs Station,-117.80222,34.10472
-193,4566280153,2005,post_office,The UPS Store,-117.8092,34.00178
-194,368171286,2001,police,Rampart Community Police Station,-118.27639,34.07278
-195,610178523,2005,post_office,USPO Edendale Station,-118.26069,34.08291
-196,2406451769,2007,library,Edendale Branch L A Public Library,-118.26226,34.07804
-197,368167698,2002,fire_station,Fire Station Number 3,-118.14742,34.09222
-198,368167699,2002,fire_station,Fire Station Number 2,-118.12951,34.0789
-199,368167701,2002,fire_station,Fire Station Number 4,-118.15118,34.07584
-200,368169469,2007,library,El Sereno Branch Los Angeles Public Library,-118.17396,34.08751
-201,368169640,2007,library,South Pasadena Public Library,-118.15578,34.11427
-202,368169661,2007,library,Jack Miller Memorial Library,-118.1253,34.09152
-203,368169817,2007,library,Alhambra Public Library,-118.13139,34.09255
-204,368171976,2008,town_hall,South Pasadena City Hall,-118.1521,34.11613
-205,368171995,2008,town_hall,Alhambra City Hall,-118.12729,34.09251
-206,721252526,2009,courthouse,Alhambra Trial Court,-118.12615,34.09114
-207,723361328,2007,library,Alhambra Civic Center Library,-118.12751,34.09309
-208,368167707,2002,fire_station,Fire Station Number 5,-118.45675,34.01446
-209,368169009,2007,library,Santa Monica College Library,-118.47009,34.01609
-210,368169022,2007,library,Fairview Branch Santa Monica Public Library,-118.46369,34.01457
-211,344327189,2007,library,Sunland-Tujunga Library,-118.30135,34.25825
-212,346301139,2008,town_hall,Sunland-Tujunga Municipal Building,-118.30094,34.25782
-213,358852729,2005,post_office,Sun Valley Post Office,-118.36861,34.21722
-214,368169786,2007,library,Sun Valley Branch Los Angeles Public Library,-118.37091,34.21473
-215,358852640,2005,post_office,Chatsworth Post Office,-118.60082,34.25685
-216,368169892,2007,library,Chatsworth Branch Los Angeles Public Library,-118.59264,34.25697
-217,1842381002,2002,fire_station,Los Angeles County Fire Department Station #75,-118.63471,34.2379
-218,358852722,2005,post_office,South El Monte Post Office,-118.04306,34.05167
-219,368168330,2002,fire_station,Los Angeles County Fire Department Station #166,-118.04177,34.07509
-220,368168331,2002,fire_station,Los Angeles County Fire Department Station #167,-118.02074,34.07893
-221,368168522,2002,fire_station,Los Angeles County Fire Department Station #90,-118.04936,34.05212
-222,368169694,2007,library,Carl W Mischke Memorial Library,-118.0534,34.10806
-223,579457989,2009,courthouse,Los Angeles Superior Court - El Monte Courthouse,-118.03158,34.07088
-224,6811714605,2005,post_office,The UPS Store,-118.04592,34.57468
-225,6978502255,2007,library,Arcadia High School Library,-118.03873,34.13008
-226,358824245,2005,post_office,Walnut Post Office,-117.85923,34.01057
-227,368168511,2002,fire_station,Los Angeles County Fire Department Station #61,-117.86565,34.02078
-228,368169557,2007,library,Walnut Branch County of Los Angeles Public Library,-117.84145,34.02668
-229,368171439,2008,town_hall,Walnut City Hall,-117.85562,34.01612
-230,358826409,2005,post_office,South Pasadena Post Office,-118.1534,34.11445
-231,369854252,2099,public_building,Pasadena Senior Center,-118.14859,34.14719
-232,723969356,2005,post_office,The UPS Store,-118.15142,34.11362
-233,358826252,2005,post_office,Tujunga Post Office,-118.29115,34.25144
-234,358852686,2005,post_office,Montrose Post Office,-118.22504,34.20664
-235,358852760,2005,post_office,Verdugo City Post Office,-118.2407,34.21148
-236,368168415,2002,fire_station,Los Angeles County Fire Department Station #19,-118.21439,34.21128
-237,368168509,2002,fire_station,Los Angeles County Department Station #63,-118.24404,34.22786
-238,368169728,2007,library,Montrose-Crescenta Branch Glendale Public Library,-118.23259,34.20742
-239,368171197,2001,police,Los Angeles County Sheriff's Department - Crescenta Valley Station,-118.23039,34.22084
-240,5792775206,2005,post_office,The UPS Store,-118.23556,34.22223
-241,358826358,2005,post_office,Glassell Station Los Angeles Post Office,-118.22924,34.11945
-242,358826369,2005,post_office,Highland Park Station Los Angeles Post Office,-118.18979,34.11084
-243,358826414,2005,post_office,York Station Los Angeles Post Office,-118.20365,34.12063
-244,358826706,2005,post_office,Eagle Rock Station Los Angeles Post Office,-118.21452,34.13723
-245,368169466,2007,library,Arroyo Seco Regional Branch Los Angeles Public Library,-118.18646,34.11362
-246,368169651,2007,library,San Rafael Branch Pasadena Public Library,-118.17563,34.13584
-247,368169652,2007,library,Linda Vista Branch Pasadena Public Library,-118.17785,34.17001
-248,368169698,2007,library,Braun Research Library,-118.20618,34.10067
-249,368169720,2007,library,Chevy Chase Branch Glendale Public Library,-118.19999,34.17381
-250,368169814,2007,library,Eagle Rock Branch Los Angeles Public Library,-118.21368,34.13779
-251,368170860,2007,library,Mary Norton Clapp Library,-118.21168,34.1259
-252,368171568,2099,public_building,Arthur G. Coons Administration Center,-118.21088,34.12714
-253,1540321968,2007,library,James Lemont Fogg Memorial Library,-118.18526,34.16927
-254,5313058607,2001,police,Glendale Community College Police Department,-118.22777,34.16684
-255,358826451,2005,post_office,City National Plaza Station Los Angeles Post Office,-118.25646,34.0514
-256,470868192,2005,post_office,,-118.25796,34.04801
-257,1584094441,2005,post_office,United States Post Office,-118.25831,34.04805
-258,3262466438,2005,post_office,United States Post Office,-118.25157,34.05182
-259,3180272740,2005,post_office,US Post Office,-118.14457,34.14608
-260,4367205671,2001,police,LA County Sheriff's Department,-118.14397,34.14925
-261,4691641109,2005,post_office,The UPS Store,-118.15015,34.13635
-262,4777387247,2007,library,David Allen Hubbard Library,-118.14015,34.14755
-263,4244752051,2005,post_office,,-118.60546,34.15641
-264,358819807,2005,post_office,Ocean Park Station Santa Monica Post Office,-118.48286,33.99973
-265,368169008,2007,library,Ocean Park Branch Santa Monica Public Library,-118.48364,34.00274
-266,416766633,2001,police,Venice Beach,-118.47395,33.98609
-267,2030772619,2005,post_office,Post Office,-118.12703,34.13561
-268,2449722966,2005,post_office,US Post Office Pasadena Station,-118.13015,34.14608
-269,3985086524,2005,post_office,,-118.12982,34.14472
-270,358826544,2005,post_office,Oakwood/Nat King Cole Post Office,-118.30953,34.06943
-271,368169832,2007,library,Wilshire Branch Los Angeles Public Library,-118.31174,34.0745
-272,358852690,2005,post_office,North Hollywood Post Office,-118.39679,34.19862
-273,358852728,2005,post_office,Studio City Post Office,-118.39444,34.14194
-274,358852748,2005,post_office,Valley Plaza Station North Hollywood Post Office,-118.39694,34.18472
-275,358852752,2005,post_office,Valley Village Post Office,-118.405,34.16472
-276,358852768,2005,post_office,Victory Center Station North Hollywood Post Office,-118.3875,34.18889
-277,358852666,2005,post_office,Grand Central Station Glendale Post Office,-118.28889,34.16472
-278,358852689,2005,post_office,North Glendale Station Glendale Post Office,-118.26442,34.16029
-279,368168022,2002,fire_station,Glendale Fire Station 27,-118.2891,34.17209
-280,368168036,2002,fire_station,Glendale Fire Station 26,-118.25556,34.16306
-281,368169656,2007,library,Casa Verdugo Branch Glendale Public Library,-118.25543,34.16324
-282,368169724,2007,library,Brand Art and Music Branch Glendale Public Library,-118.27639,34.18221
-283,368169736,2007,library,Grandview Branch Glendale Public Library,-118.2856,34.17046
-284,368169790,2007,library,Cahuenga Branch Los Angeles Public Library,-118.28896,34.09112
-285,358852797,2005,post_office,Winnetka Post Office,-118.57139,34.20944
-286,4202607480,2007,library,,-118.57732,34.18614
-287,358826545,2005,post_office,Pico Heights Station Los Angeles Post Office,-118.29063,34.04696
-288,368169668,2007,library,Sigmund Hecht Library,-118.30508,34.06245
-289,368169845,2007,library,Felipe De Neve Branch Los Angeles Public Library,-118.28403,34.06324
-290,2118239695,2009,courthouse,Los Angeles County Superior Court,-118.28518,34.0632
-291,3795950075,2011,embassy,Philippine Consulate General,-118.29859,34.06238
-292,368171282,2001,police,Marina Del Rey Sheriff's Station,-118.44639,33.97139
-293,358826377,2005,post_office,Los Angeles Main Post Office,-118.2398,34.05386
-294,5693811048,2008,town_hall,Los Angeles City Hall,-118.2429,34.05378
-295,1843384102,2002,fire_station,Los Angeles County Fire Department Station #144,-118.81928,34.139
-296,358826140,2005,post_office,Boyle Heights Station Los Angeles Post Office,-118.21452,34.04501
-297,358826145,2005,post_office,Hazard Branch Los Angeles Post Office,-118.18591,34.0364
-298,358826350,2005,post_office,El Sereno Station Los Angeles Post Office,-118.17785,34.08418
-299,358826373,2005,post_office,Lincoln Heights Station Los Angeles Post Office,-118.21002,34.07389
-300,358826527,2005,post_office,Lugo Station Los Angeles Post Office,-118.19868,34.01918
-301,368168384,2002,fire_station,Los Angeles County Fire Department Headquarters,-118.17194,34.05167
-302,368168405,2002,fire_station,Los Angeles County Fire Department Station #3,-118.17363,34.023
-303,368169471,2007,library,Benjamin Franklin Branch Los Angeles Public Library,-118.21229,34.04418
-304,368169472,2007,library,Cypress Park Branch Los Angeles Public Library,-118.22257,34.09084
-305,368169475,2007,library,R L Stevenson Branch Los Angeles Public Library,-118.19813,34.02751
-306,368169496,2007,library,City Terrace Branch County of Los Angeles Public Library,-118.17804,34.05595
-307,368169499,2007,library,El Camino Real Branch County of Los Angeles Public Library,-118.17781,34.02371
-308,368169653,2007,library,Anthony Quinn Branch County of Los Angeles Public Library,-118.1809,34.04085
-309,368169776,2007,library,Lincoln Heights Branch Los Angeles Public Library,-118.21403,34.0762
-310,368169810,2007,library,Malabar Branch Los Angeles Public Library,-118.19785,34.05057
-311,368171293,2001,police,Hollenbeck Community Police Station,-118.21333,34.045
-312,368171571,2099,public_building,Los Angeles Municipal Arraignment Court,-118.22944,34.09361
-313,1839364255,2002,fire_station,Los Angeles County Fire Department Station #1,-118.17076,34.04981
-314,2130274941,2001,police,City Terrace Sheriff's Office,-118.17744,34.05522
-315,368168491,2002,fire_station,Los Angeles County Fire Department Station #40,-118.07842,34.00145
-316,368169509,2007,library,South Whittier Branch County of Los Angeles Public Library,-118.02453,33.9242
-317,368169516,2007,library,Pico Rivera Branch County of Los Angeles Public Library,-118.08923,33.99196
-318,368169517,2007,library,Los Nietos Branch County of Los Angeles Public Library,-118.07007,33.96446
-319,1839560564,2002,fire_station,Los Angeles County Fire Department Station #15,-117.99339,33.92966
-320,1842425948,2002,fire_station,Los Angeles County Fire Department Station #91,-117.98844,33.99655
-321,1842445071,2002,fire_station,Los Angeles County Fire Department Station #96,-118.04,33.93709
-322,358852647,2005,post_office,Crenshaw Imperial Station Inglewood Post Office,-118.32389,33.93083
-323,368168333,2002,fire_station,Los Angeles County Fire Department Station #161,-118.35438,33.91666
-324,368168343,2002,fire_station,Los Angeles County Fire Department Station #170,-118.32687,33.93835
-325,368168414,2002,fire_station,Los Angeles County Fire Department Station #18,-118.35562,33.93794
-326,368169711,2007,library,Crenshaw-Imperial Branch City of Inglewood Public Library,-118.32702,33.93335
-327,368169874,2007,library,Lennox Branch County of Los Angeles Public Library,-118.35202,33.93835
-328,368169877,2007,library,Hawthorne Branch County of Los Angeles Public Library,-118.35424,33.91724
-329,368171310,2001,police,Lennox Sheriffs Station,-118.35083,33.93861
-330,2995001209,2002,fire_station,,-118.38502,33.92398
-331,358852794,2005,post_office,Will Rogers Station Santa Monica Post Office,-118.49037,34.02582
-332,358851306,2005,post_office,University of California Los Angeles Post Office,-118.44397,34.07053
-333,358852628,2005,post_office,Barrington Station Los Angeles Post Office,-118.46944,34.06639
-334,368169703,2007,library,Blumenthal Library,-118.42897,34.0664
-335,1564072178,2007,library,Arts Library,-118.43935,34.07419
-336,1951264203,2007,library,Science and Engineering Library – Engineering and Mathematical Sciences,-118.44261,34.06907
-337,1951264206,2007,library,,-118.44039,34.071
-338,1951264211,2007,library,Science and Engineering Library Geology Geophysics,-118.44077,34.06925
-339,1951264212,2007,library,,-118.44214,34.06633
-340,1956603876,2007,library,,-118.43826,34.07265
-341,4226023190,2007,library,Rosenfeld Library,-118.44343,34.07438
-342,358784348,2002,fire_station,Burbank Fire Station 13,-118.34119,34.19584
-343,358809617,2005,post_office,Downtown Station Burbank Post Office,-118.30958,34.18043
-344,358852635,2005,post_office,Burbank Post Office,-118.34806,34.18806
-345,358852665,2005,post_office,Glenoaks Station Burbank Post Office,-118.32472,34.19194
-346,368167520,2009,courthouse,Burbank County Courts Building,-118.30694,34.18222
-347,368168021,2002,fire_station,Burbank Fire Station Number 13,-118.33778,34.19694
-348,368169821,2007,library,Southern California Genealogical Society Library,-118.30785,34.18056
-349,368169830,2007,library,Northwest Park Branch Burbank Public Library,-118.34758,34.18501
-350,368172503,2008,town_hall,Burbank City Hall Annex,-118.30722,34.18167
-351,1831615685,2008,town_hall,Burbank City Hall,-118.3081,34.18207
-352,358852798,2005,post_office,Yorba Station Pomona Post Office,-117.75056,34.08611
-353,368168310,2002,fire_station,Los Angeles County Fire Department Station #101,-117.72362,34.09621
-354,368168337,2002,fire_station,Los Angeles County Fire Department Station #183,-117.73634,34.0656
-355,368168338,2002,fire_station,Los Angeles County Fire Department Station #182,-117.75956,34.06767
-356,368168339,2002,fire_station,Los Angeles County Fire Department (Out of Service),-117.75402,34.05411
-357,368168506,2002,fire_station,Los Angeles County Fire Department Station #62,-117.70775,34.13632
-358,368170823,2007,library,Pomona Public Library,-117.75033,34.05362
-359,368171437,2008,town_hall,La Verne City Hall,-117.76506,34.11195
-360,368172086,2008,town_hall,Pomona City Hall,-117.75113,34.05462
-361,487073897,2002,fire_station,,-117.77732,34.12518
-362,1588726480,2008,town_hall,Claremont City Hall,-117.71686,34.09593
-363,6193355280,2005,post_office,PostalAnnex,-117.77513,34.11538
-364,6199348857,2005,post_office,The UPS Store,-117.76479,34.11376
-365,368169752,2007,library,North Hollywood Regional Branch Los Angeles Public Library,-118.3793,34.16556
-366,368171196,2001,police,North Hollywood Community Police Station,-118.38175,34.17834
-367,2302675851,2002,fire_station,Fire Station,-118.36144,34.20011
-368,352502734,2007,library,Beverly Hills Public Library,-118.3991,34.07288
-369,4993538460,2001,police,Beverly Hills Police,-118.39998,34.07363
-370,5282412702,2005,post_office,,-118.39924,34.07024
-371,358852723,2005,post_office,South Hill Station West Covina Post Office,-117.90722,34.04833
-372,368168312,2002,fire_station,Los Angeles County Fire Department Station #141,-117.82949,34.07458
-373,368168320,2002,fire_station,Los Angeles County Fire Department Station #154,-117.88829,34.08966
-374,368168327,2002,fire_station,Los Angeles County Fire Department Station #152,-117.90588,34.09607
-375,368168328,2002,fire_station,Los Angeles County Fire Department Station #153,-117.85761,34.09609
-376,368168527,2002,fire_station,Los Angeles County Fire Department Station #85,-117.85111,34.11361
-377,368169572,2007,library,Covina Public Library,-117.88741,34.08822
-378,368169573,2007,library,Charter Oak Branch County of Los Angeles Public Library,-117.85312,34.10612
-379,368171463,2008,town_hall,Covina City Hall,-117.88951,34.08779
-380,1731480722,2005,post_office,Covina Post Office,-117.91174,34.08971
-381,1843387758,2002,fire_station,Los Angeles County Fire Department Station #146,-117.8528,34.04506
-382,4725138314,2005,post_office,PostalAnnex,-117.87094,34.08546
-383,3878656067,2005,post_office,,-118.34506,34.09849
-384,368168315,2002,fire_station,Los Angeles County Fire Department Station #145,-117.88954,33.98932
-385,1843278003,2002,fire_station,Los Angeles County Fire Department Station #119,-117.85546,33.97635
-386,5174152494,2007,library,Diamond Bar City Library,-117.83084,33.99905
-387,5174153573,2008,town_hall,Diamond Bar City Hall,-117.83057,33.99924
-388,5238874154,2001,police,Security/Sheriff's Sub-Station,-118.35422,34.1361
-389,358825546,2005,post_office,Temple City Post Office,-118.06507,34.10751
-390,358852660,2005,post_office,El Monte Post Office,-118.03306,34.07417
-391,358852784,2005,post_office,West Arcadia Station Arcadia Post Office,-118.05615,34.12613
-392,368168332,2002,fire_station,Los Angeles County Fire Department Station #168,-118.01842,34.06458
-393,368169465,2007,library,Arcadia Public Library,-118.03192,34.1285
-394,368169540,2007,library,El Monte Branch County of Los Angeles Public Library,-118.03562,34.06695
-395,368169611,2007,library,Norwood Branch County of Los Angeles Public Library,-118.01673,34.08612
-396,938901434,2002,fire_station,,-118.054,34.13252
-397,268376953,2001,police,City Of San Gabriel Police Department,-118.0999,34.09476
-398,358852717,2005,post_office,San Gabriel Post Office,-118.09937,34.1021
-399,358852718,2005,post_office,San Marino Post Office,-118.09139,34.12639
-400,368168407,2002,fire_station,Los Angeles County Fire Department Station #5,-118.07361,34.12841
-401,368168408,2002,fire_station,Los Angeles County Fire Department Station #4,-118.09022,34.0603
-402,368169502,2007,library,San Gabriel Public Library,-118.09924,34.09584
-403,368169657,2007,library,Dorothy Hooper Library,-118.12174,34.09834
-404,368171992,2008,town_hall,San Marino City Hall,-118.10599,34.12149
-405,738418813,2001,police,San Marino Police Department,-118.10603,34.12134
-406,1216189839,2001,police,Temple City Sheriff Station,-118.0759,34.10333
-407,358824102,2005,post_office,Glendora Post Office,-117.86701,34.13806
-408,358852627,2005,post_office,Azusa Post Office,-117.90792,34.13135
-409,368168326,2002,fire_station,Los Angeles County Fire Department Station #151,-117.86776,34.1378
-410,368168424,2002,fire_station,Los Angeles County Fire Department Station #32,-117.91037,34.13183
-411,368168530,2002,fire_station,Los Angeles County Fire Department Station #86,-117.82017,34.12822
-412,368169534,2007,library,Azusa City Library,-117.90534,34.13473
-413,368170855,2007,library,Hayden Library,-117.88528,34.13556
-414,368172020,2008,town_hall,Azusa City Hall,-117.90562,34.13417
-415,1956776530,2005,post_office,,-117.86609,34.1327
-416,4633449324,2002,fire_station,Fire Station 97,-117.89101,34.14674
-417,298305489,2002,fire_station,Terminal Island Fire Station,-118.24176,33.75872
-418,368167532,2009,courthouse,San Pedro County Courts Building,-118.28424,33.73919
-419,368168505,2002,fire_station,Los Angeles County Fire Department Station #56,-118.35407,33.75669
-420,368168514,2002,fire_station,Los Angeles County Fire Department Station #83,-118.32505,33.74918
-421,368171047,2099,public_building,Los Angeles Harbor Administration Building,-118.28181,33.74064
-422,368171294,2001,police,Harbor Community Police Station,-118.28917,33.75806
-423,3627504616,2008,town_hall,San Pedro City Hall,-118.28018,33.73808
-424,6236921863,2005,post_office,,-118.30914,33.73685
-425,6283641985,2005,post_office,Рort,-118.27867,33.77009
-426,298297119,2002,fire_station,Long Beach Fire Department Station #11,-118.19234,33.85407
-427,358809651,2005,post_office,Lynwood Main Post Office,-118.2109,33.92918
-428,358852646,2005,post_office,Compton Post Office,-118.21694,33.89
-429,358852694,2005,post_office,North Long Beach Station Long Beach Post Office,-118.19361,33.85472
-430,368168305,2002,fire_station,Los Angeles County Fire Department Station #105,-118.21655,33.8598
-431,368168314,2002,fire_station,Los Angeles County Fire Department Station #147,-118.21427,33.93049
-432,368168325,2002,fire_station,Los Angeles County Fire Department Station #148,-118.19037,33.92217
-433,368169491,2007,library,Lynwood Branch Co. Library,-118.19869,33.92523
-434,368169539,2007,library,East Rancho Dominguez Branch Los Angeles County Public Library,-118.19757,33.8964
-435,368172011,2008,town_hall,Lynwood City Hall,-118.19702,33.92696
-436,4364315023,2007,library,Michelle Obama Library,-118.18473,33.86163
-437,358852687,2005,post_office,Morningside Park Station Inglewood Post Office,-118.32833,33.96083
-438,358852779,2005,post_office,Wagner Branch Station Los Angeles Post Office,-118.31806,33.94528
-439,368169690,2007,library,Morningside Park Branch City of Inglewood Public Library,-118.32785,33.96057
-440,368169846,2007,library,Hyde Park Branch Los Angeles Public Library,-118.33119,33.97946
-441,368169851,2007,library,Angeles Mesa Branch Los Angeles Public Library,-118.31952,33.9914
-442,6381256192,2001,police,,-118.33075,33.94429
-443,358826930,2005,post_office,Lomita Post Office,-118.32035,33.79641
-444,358852680,2005,post_office,Marcelina Station Torrance Post Office,-118.31611,33.83389
-445,358852796,2005,post_office,Wilmington Post Office,-118.2625,33.78333
-446,368167704,2002,fire_station,Los Angeles County Fire Department Station #6,-118.32021,33.79184
-447,368168313,2002,fire_station,Los Angeles County Fire Department Station #127,-118.23841,33.82462
-448,368168462,2002,fire_station,Los Angeles County Fire Department Station #36,-118.2771,33.82468
+0,368168903,2002,fire_station,Quail Lake Fire Station,-118.71252,34.74436
+1,1842389310,2002,fire_station,Los Angeles County Fire Department Station #77,-118.79744,34.75941
+2,368168622,2002,fire_station,Los Angeles County Fire Department Station #68,-118.65236,34.15174
+3,1842381002,2002,fire_station,Los Angeles County Fire Department Station #75,-118.63471,34.2379
+4,368168877,2002,fire_station,Los Angeles County Fire Department Station #72,-118.88116,34.07663
+5,368168900,2002,fire_station,Los Angeles County Fire Department Station #67,-118.69411,34.07809
+6,368169462,2007,library,Malibu Branch County of Los Angeles Public Library,-118.68817,34.0371
+7,878729364,2002,fire_station,Los Angeles County Fire Department Station #69,-118.60011,34.08387
+8,884662001,2005,post_office,PostalAnnex,-118.84322,34.0314
+9,1842421055,2002,fire_station,Los Angeles County Fire Department Station #88,-118.69182,34.03353
+10,1842454236,2002,fire_station,Los Angeles County Fire Department Station #99,-118.88364,34.03992
+11,3956252095,2009,courthouse,US Bankruptcy Court,-118.59196,34.17388
+12,4244752051,2005,post_office,,-118.60546,34.15641
+13,358852640,2005,post_office,Chatsworth Post Office,-118.60082,34.25685
+14,368169892,2007,library,Chatsworth Branch Los Angeles Public Library,-118.59264,34.25697
+15,2814705439,2005,post_office,United States Post Office,-118.52618,34.26576
+16,368167685,2002,fire_station,Los Angeles County Fire Department Station #12,-118.15852,34.19296
+17,1758970545,2008,town_hall,,-118.13126,34.20098
+18,7185705823,2002,fire_station,Pasadena Fire Department Station 36,-118.15035,34.16542
+19,358852666,2005,post_office,Grand Central Station Glendale Post Office,-118.28889,34.16472
+20,368168022,2002,fire_station,Glendale Fire Station 27,-118.2891,34.17209
+21,368169656,2007,library,Casa Verdugo Branch Glendale Public Library,-118.25543,34.16324
+22,368169724,2007,library,Brand Art and Music Branch Glendale Public Library,-118.27639,34.18221
+23,368169736,2007,library,Grandview Branch Glendale Public Library,-118.2856,34.17046
+24,8534158127,2005,post_office,U.S. Post Office,-118.28991,34.16738
+25,358852689,2005,post_office,North Glendale Station Glendale Post Office,-118.26442,34.16029
+26,358852745,2005,post_office,Tropico Station Glendale Post Office,-118.25391,34.1333
+27,358852765,2005,post_office,Verdugo Viejo Station Glendale Post Office,-118.23556,34.14639
+28,368168034,2002,fire_station,Glendale Fire Station 25,-118.23717,34.15131
+29,368169681,2007,library,Sons of the American Revolution Genealogical Library,-118.25758,34.1389
+30,5904572371,2001,police,Glendale Police Department,-118.24908,34.14723
+31,5904654259,2002,fire_station,Glendale Fire Station 21,-118.2616,34.14379
+32,5904931944,2007,library,Pacific Park Library,-118.26492,34.13967
+33,6645740431,2005,post_office,The UPS Store,-118.24486,34.15132
+34,368167707,2002,fire_station,Fire Station Number 5,-118.45675,34.01446
+35,368169022,2007,library,Fairview Branch Santa Monica Public Library,-118.46369,34.01457
+36,4636122601,2007,library,Westwood Branch Library,-118.44182,34.05776
+37,5455418945,2005,post_office,Mail & Boxes Ship,-118.44322,34.04841
+38,8756620419,2005,post_office,The UPS Store,-118.44182,34.03822
+39,358827347,2005,post_office,Acton Post Office,-118.19535,34.46833
+40,358827474,2005,post_office,Littlerock Post Office,-117.99174,34.52138
+41,358827475,2005,post_office,Llano Post Office,-117.82033,34.50571
+42,358827478,2005,post_office,Palmdale Post Office,-118.11396,34.58443
+43,358827480,2005,post_office,Pearblossom Post Office,-117.90945,34.50612
+44,358827500,2005,post_office,Valyermo Post Office,-117.85395,34.44722
+45,368168879,2002,fire_station,County Fire Station Number Seventynine,-117.86118,34.455
+46,368168895,2002,fire_station,Los Angeles County Fire Department Station #80,-118.1421,34.48778
+47,368168917,2002,fire_station,Area 4 Work Center Fire Station,-117.85229,34.445
+48,368169607,2007,library,Lake Los Angeles Branch County of Los Angeles Public Library,-117.82787,34.61687
+49,368169732,2007,library,Littlerock Branch County of Los Angeles Public Library,-117.98396,34.52138
+50,368169886,2007,library,Palmdale City Library,-118.11618,34.57916
+51,1840409883,2002,fire_station,Los Angeles County Fire Department Station #37,-118.114,34.57813
+52,1842395443,2002,fire_station,Los Angeles County Fire Department Station #79,-117.89693,34.50252
+53,1842400403,2002,fire_station,Los Angeles County Fire Department Station #81,-118.28645,34.51917
+54,1842426700,2002,fire_station,Los Angeles County Fire Department Station #92,-117.97096,34.52876
+55,1842432642,2002,fire_station,Los Angeles County Fire Department Station #93,-118.02884,34.57212
+56,1843362587,2002,fire_station,Los Angeles County Fire Department Station #131,-118.0813,34.55849
+57,1843372614,2002,fire_station,Los Angeles County Fire Department Station #136,-118.19485,34.61613
+58,1843380832,2002,fire_station,Los Angeles County Fire Department Station #140,-118.28488,34.61735
+59,6324300472,2005,post_office,Mailbox Plus,-118.1463,34.58791
+60,6810258741,2005,post_office,The UPS Store,-118.14878,34.58571
+61,6811714605,2005,post_office,The UPS Store,-118.04592,34.57468
+62,8150330780,2005,post_office,United States Post Office,-117.8252,34.60038
+63,358824245,2005,post_office,Walnut Post Office,-117.85923,34.01057
+64,368168315,2002,fire_station,Los Angeles County Fire Department Station #145,-117.88954,33.98932
+65,368168511,2002,fire_station,Los Angeles County Fire Department Station #61,-117.86565,34.02078
+66,368169557,2007,library,Walnut Branch County of Los Angeles Public Library,-117.84145,34.02668
+67,368171439,2008,town_hall,Walnut City Hall,-117.85562,34.01612
+68,1843278003,2002,fire_station,Los Angeles County Fire Department Station #119,-117.85546,33.97635
+69,4566280153,2005,post_office,The UPS Store,-117.8092,34.00178
+70,5174152494,2007,library,Diamond Bar City Library,-117.83084,33.99905
+71,5174153573,2008,town_hall,Diamond Bar City Hall,-117.83057,33.99924
+72,368171437,2008,town_hall,La Verne City Hall,-117.76506,34.11195
+73,6193355280,2005,post_office,PostalAnnex,-117.77513,34.11538
+74,6199348857,2005,post_office,The UPS Store,-117.76479,34.11376
+75,358826144,2005,post_office,East Los Angeles Branch Los Angeles Post Office,-118.15813,34.01835
+76,358826145,2005,post_office,Hazard Branch Los Angeles Post Office,-118.18591,34.0364
+77,358826350,2005,post_office,El Sereno Station Los Angeles Post Office,-118.17785,34.08418
+78,368167698,2002,fire_station,Fire Station Number 3,-118.14742,34.09222
+79,368167701,2002,fire_station,Fire Station Number 4,-118.15118,34.07584
+80,368168384,2002,fire_station,Los Angeles County Fire Department Headquarters,-118.17194,34.05167
+81,368168405,2002,fire_station,Los Angeles County Fire Department Station #3,-118.17363,34.023
+82,368169469,2007,library,El Sereno Branch Los Angeles Public Library,-118.17396,34.08751
+83,368169496,2007,library,City Terrace Branch County of Los Angeles Public Library,-118.17804,34.05595
+84,368169499,2007,library,El Camino Real Branch County of Los Angeles Public Library,-118.17781,34.02371
+85,368169653,2007,library,Anthony Quinn Branch County of Los Angeles Public Library,-118.1809,34.04085
+86,368170850,2007,library,Kennedy Library,-118.1675,34.0675
+87,368171199,2001,police,East LA Sheriff's Station,-118.15791,34.03423
+88,1839364255,2002,fire_station,Los Angeles County Fire Department Station #1,-118.17076,34.04981
+89,2130274941,2001,police,City Terrace Sheriff's Office,-118.17744,34.05522
+90,7204978037,2007,library,"Los Angeles Public Library, El Sereno Branch",-118.16874,34.08926
+91,368168338,2002,fire_station,Los Angeles County Fire Department Station #182,-117.75956,34.06767
+92,368168339,2002,fire_station,Los Angeles County Fire Department (Out of Service),-117.75402,34.05411
+93,368168351,2002,fire_station,Los Angeles County Fire Department Station #185,-117.7379,34.03749
+94,368171045,2009,courthouse,Pomona Courthouse,-117.75276,34.05469
+95,6950121112,2001,police,Pomona Police Department,-117.75394,34.0547
+96,358826140,2005,post_office,Boyle Heights Station Los Angeles Post Office,-118.21452,34.04501
+97,358826373,2005,post_office,Lincoln Heights Station Los Angeles Post Office,-118.21002,34.07389
+98,358826527,2005,post_office,Lugo Station Los Angeles Post Office,-118.19868,34.01918
+99,368169471,2007,library,Benjamin Franklin Branch Los Angeles Public Library,-118.21229,34.04418
+100,368169472,2007,library,Cypress Park Branch Los Angeles Public Library,-118.22257,34.09084
+101,368169475,2007,library,R L Stevenson Branch Los Angeles Public Library,-118.19813,34.02751
+102,368169698,2007,library,Braun Research Library,-118.20618,34.10067
+103,368169776,2007,library,Lincoln Heights Branch Los Angeles Public Library,-118.21403,34.0762
+104,368169810,2007,library,Malabar Branch Los Angeles Public Library,-118.19785,34.05057
+105,368171293,2001,police,Hollenbeck Community Police Station,-118.21333,34.045
+106,1839143502,2005,post_office,US Post Office - PALOS VERDES PENINSULA,-118.36529,33.76917
+107,1840680085,2007,library,The Annex,-118.37109,33.76995
+108,358824950,2005,post_office,Baldwin Park Post Office,-117.96006,34.08945
+109,358825185,2005,post_office,Irwindale Post Office,-117.93395,34.10584
+110,358852787,2005,post_office,West Covina Post Office,-117.92917,34.06889
+111,368168344,2002,fire_station,Los Angeles County Fire Department Station #169,-118.01194,34.09557
+112,368168421,2002,fire_station,Los Angeles County Fire Department Station #29,-117.96184,34.0921
+113,368169510,2007,library,Sunkist Branch County of Los Angeles Public Library,-117.97701,34.05501
+114,368169521,2007,library,West Covina Branch County of Los Angeles Public Library,-117.94062,34.07112
+115,368169574,2007,library,Irwindale Public Library,-117.93284,34.10418
+116,368169605,2007,library,Live Oak Branch County of Los Angeles Public Library,-118.01257,34.11029
+117,368171451,2008,town_hall,West Covina City Hall,-117.93885,34.07122
+118,368171464,2008,town_hall,Baldwin Park City Hall,-117.95967,34.08546
+119,368171465,2008,town_hall,Irwindale City Hall,-117.9334,34.10473
+120,4205283990,2001,police,Baldwin Park Police Department,-117.95991,34.08552
+121,4206206889,2007,library,Baldwin Park Library,-117.96509,34.08799
+122,4288310890,2005,post_office,United States Post Office,-117.93343,34.10555
+123,4288336390,2001,police,Irwindale City Police Station,-117.93342,34.10479
+124,4311239794,2009,courthouse,West Covina Courthouse,-117.93818,34.0699
+125,4311244490,2009,courthouse,Superior Court of California for the County of Los Angeles,-117.93856,34.0702
+126,358826619,2005,post_office,Foy Station Los Angeles Post Office,-118.27369,34.05473
+127,358826466,2005,post_office,Crenshaw Station Los Angeles Post Office,-118.33452,34.01473
+128,358851305,2005,post_office,Baldwin Hills Post Office,-118.33841,34.01223
+129,358852669,2005,post_office,Hillcrest Station Inglewood Post Office,-118.35111,33.95944
+130,358852687,2005,post_office,Morningside Park Station Inglewood Post Office,-118.32833,33.96083
+131,358852692,2005,post_office,North Inglewood Station Inglewood Post Office,-118.35806,33.97361
+132,368168341,2002,fire_station,Los Angeles County Fire Department Station #172,-118.35332,33.97614
+133,368168342,2002,fire_station,Los Angeles County Fire Department Station #171,-118.35683,33.96474
+134,368168439,2002,fire_station,Los Angeles County Fire Department Station #38,-118.34242,33.9933
+135,368168503,2002,fire_station,Los Angeles County Fire Department Station #58,-118.36317,33.98789
+136,368169690,2007,library,Morningside Park Branch City of Inglewood Public Library,-118.32785,33.96057
+137,368169715,2007,library,City of Inglewood Public Library,-118.35561,33.9622
+138,368169820,2007,library,View Park Branch County of Los Angeles Public Library,-118.34174,33.99279
+139,368169846,2007,library,Hyde Park Branch Los Angeles Public Library,-118.33119,33.97946
+140,368171118,2099,public_building,Inglewood County Building,-118.35424,33.96418
+141,368171201,2001,police,Inglewood Police Station,-118.35436,33.96368
+142,368171455,2008,town_hall,Inglewood City Hall,-118.35483,33.96309
+143,6381256192,2001,police,,-118.33075,33.94429
+144,368169651,2007,library,San Rafael Branch Pasadena Public Library,-118.17563,34.13584
+145,368169814,2007,library,Eagle Rock Branch Los Angeles Public Library,-118.21349,34.13762
+146,5629661813,2005,post_office,Jolly-B Box,-118.22482,34.1412
+147,358852671,2005,post_office,La Cañada Flintridge Post Office,-118.19168,34.20115
+148,368168512,2002,fire_station,Los Angeles County Fire Department Station #82,-118.18639,34.1975
+149,368169486,2007,library,La Cañada Flintridge Library,-118.19405,34.20283
+150,368169652,2007,library,Linda Vista Branch Pasadena Public Library,-118.17785,34.17001
+151,368169720,2007,library,Chevy Chase Branch Glendale Public Library,-118.19999,34.17381
+152,1540321968,2007,library,James Lemont Fogg Memorial Library,-118.18526,34.16927
+153,4864275135,2005,post_office,The UPS Store,-118.2204,34.20526
+154,5313058607,2001,police,Glendale Community College Police Department,-118.22777,34.16684
+155,7185685983,2002,fire_station,Pasadena Fire Department Station 38,-118.17613,34.16679
+156,352502734,2007,library,Beverly Hills Public Library,-118.3991,34.07288
+157,4993538460,2001,police,Beverly Hills Police,-118.39998,34.07363
+158,5282412702,2005,post_office,,-118.39924,34.07024
+159,358852630,2005,post_office,(Former) Bassett Branch La Puente Post Office,-117.98917,34.04361
+160,358852673,2005,post_office,La Puente Post Office,-117.95222,34.03639
+161,368168319,2002,fire_station,Los Angeles County Fire Department Station #118,-117.9355,34.00026
+162,368168420,2002,fire_station,Los Angeles County Fire Department Station #26,-117.95124,34.03633
+163,368168489,2002,fire_station,Los Angeles County Fire Department Station #43,-117.95572,34.01033
+164,368169488,2007,library,La Puente Branch County of Los Angeles Public Library,-117.9509,34.01918
+165,368171466,2008,town_hall,La Puente City Hall,-117.95034,34.01973
+166,1842416411,2002,fire_station,Los Angeles County Fire Department Station #87,-117.99331,34.04613
+167,1842425948,2002,fire_station,Los Angeles County Fire Department Station #91,-117.98844,33.99655
+168,298293424,2002,fire_station,LB Fire Station #5,-118.08709,33.8189
+169,358825546,2005,post_office,Temple City Post Office,-118.06507,34.10751
+170,358852714,2005,post_office,Rosemead Post Office,-118.07583,34.08111
+171,368168492,2002,fire_station,Los Angeles County Fire Department Station #42,-118.06659,34.08134
+172,1216189839,2001,police,Temple City Sheriff Station,-118.0759,34.10333
+173,8092872739,2005,post_office,The UPS Store,-118.071,34.07476
+174,358826553,2005,post_office,Rimpau Station Los Angeles Post Office,-118.32702,34.03946
+175,368169668,2007,library,Sigmund Hecht Library,-118.30508,34.06245
+176,368169779,2007,library,Washington Irving Branch Los Angeles Public Library,-118.31785,34.04001
+177,368169848,2007,library,Jefferson Branch Los Angeles Public Library,-118.31869,34.02585
+178,2514213546,2007,library,Memorial Branch Library,-118.33155,34.05732
+179,358826536,2005,post_office,Miracle Mile Station Los Angeles Post Office,-118.3454,34.06205
+180,358826592,2005,post_office,Ray Charles Post Office Building,-118.35147,34.03279
+181,358852504,2005,post_office,Ray Charles Post Office,-118.34818,34.04011
+182,368169012,2007,library,Margaret Herrick Library,-118.37674,34.06057
+183,368169624,2007,library,Peter M Khan Memorial Library,-118.3698,34.06418
+184,368169849,2007,library,Baldwin Hills Branch Los Angeles Public Library,-118.3526,34.02829
+185,368169852,2007,library,Memorial Branch Los Angeles Public Library,-118.33535,34.06251
+186,368171283,2001,police,Wilshire Community Police Station,-118.34278,34.04667
+187,368168312,2002,fire_station,Los Angeles County Fire Department Station #141,-117.82949,34.07458
+188,368168349,2002,fire_station,Los Angeles County Fire Department Station #187,-117.80827,34.04629
+189,368168352,2002,fire_station,Los Angeles County Fire Department Station #184,-117.78488,34.063
+190,368168530,2002,fire_station,Los Angeles County Fire Department Station #86,-117.82017,34.12822
+191,368171303,2001,police,San Dimas Sheriffs Station,-117.80222,34.10472
+192,487073897,2002,fire_station,,-117.77732,34.12518
+193,358826358,2005,post_office,Glassell Station Los Angeles Post Office,-118.22924,34.11945
+194,358826369,2005,post_office,Highland Park Station Los Angeles Post Office,-118.18979,34.11084
+195,358826409,2005,post_office,South Pasadena Post Office,-118.1534,34.11445
+196,358826414,2005,post_office,York Station Los Angeles Post Office,-118.20365,34.12063
+197,368169466,2007,library,Arroyo Seco Regional Branch Los Angeles Public Library,-118.18646,34.11362
+198,368169640,2007,library,South Pasadena Public Library,-118.15578,34.11427
+199,368171976,2008,town_hall,South Pasadena City Hall,-118.1521,34.11613
+200,723969356,2005,post_office,The UPS Store,-118.15142,34.11362
+201,358825610,2005,post_office,Hawaiian Gardens Post Office,-118.07173,33.83363
+202,368167688,2002,fire_station,Los Angeles County Fire Department Station #115,-118.09213,33.88784
+203,368167695,2002,fire_station,Los Angeles County Fire Dept. Station 20,-118.07426,33.91311
+204,368168488,2002,fire_station,Los Angeles County Fire Department Station #34,-118.07233,33.83698
+205,368169524,2007,library,Alondra Branch County of Los Angeles Public Library,-118.07893,33.88791
+206,368171452,2008,town_hall,Norwalk City Hall,-118.07201,33.91557
+207,368172014,2008,town_hall,Hawaiian Gardens City Hall,-118.07229,33.83307
+208,2107684756,2005,post_office,Paddison Square Post Office,-118.07406,33.91872
+209,2930821893,2005,post_office,Norwalk US Post Office,-118.0786,33.9041
+210,3627504612,2008,town_hall,Artesia City Hall,-118.07996,33.86004
+211,5434324595,2007,library,Library,-118.08877,33.85571
+212,5439116102,2007,library,,-118.09438,33.87377
+213,5452020352,2007,library,,-118.08744,33.84664
+214,5638790721,2007,library,County of Los Angeles Public Library,-118.07764,33.86059
+215,358852760,2005,post_office,Verdugo City Post Office,-118.2407,34.21148
+216,358825568,2005,post_office,Cerritos Post Office,-118.0459,33.8664
+217,368168487,2002,fire_station,Los Angeles County Fire Department Station #35,-118.03942,33.8736
+218,358824102,2005,post_office,Glendora Post Office,-117.86701,34.13806
+219,358852627,2005,post_office,Azusa Post Office,-117.90792,34.13135
+220,368168326,2002,fire_station,Los Angeles County Fire Department Station #151,-117.86776,34.1378
+221,368168424,2002,fire_station,Los Angeles County Fire Department Station #32,-117.91037,34.13183
+222,368169534,2007,library,Azusa City Library,-117.90534,34.13473
+223,368170855,2007,library,Hayden Library,-117.88528,34.13556
+224,368172020,2008,town_hall,Azusa City Hall,-117.90562,34.13417
+225,1956776530,2005,post_office,,-117.86609,34.1327
+226,358851304,2005,post_office,Canyon Country Post Office,-118.45314,34.41611
+227,368168905,2002,fire_station,Texas Canyon Fire Control Station,-118.45036,34.50971
+228,368168918,2002,fire_station,Los Angeles County Fire Department Station #78,-118.43082,34.67362
+229,368169834,2007,library,Canyon Country Jo Anne Darcy Library,-118.46175,34.41611
+230,616684676,2002,fire_station,Los Angeles County Fire Department Camp 9,-118.41121,34.35285
+231,616696425,2002,fire_station,USDA Forest Service Bear Divide Station,-118.39679,34.35904
+232,1730625718,2005,post_office,,-118.42932,34.67318
+233,1742521590,2008,town_hall,Lakes Community Center,-118.4397,34.67301
+234,1843193798,2002,fire_station,Los Angeles County Fire Department Station #104,-118.50363,34.40663
+235,1843238756,2002,fire_station,Los Angeles County Fire Department Station #108,-118.51455,34.46877
+236,1843289013,2002,fire_station,Los Angeles County Fire Department Station #123,-118.41408,34.38494
+237,1843365030,2002,fire_station,Los Angeles County Fire Department Station #132,-118.41715,34.43962
+238,1843397052,2002,fire_station,Los Angeles County Fire Department Station #157,-118.41015,34.61792
+239,3770871428,2008,town_hall,Hart Hall,-118.52542,34.37523
+240,5874336327,2005,post_office,The UPS Store,-118.47506,34.41643
+241,358809655,2005,post_office,Sylmar Post Office,-118.43235,34.30779
+242,358852625,2005,post_office,Arleta Post Office,-118.42556,34.24194
+243,358852700,2005,post_office,Pacoima Post Office,-118.42778,34.2625
+244,368169707,2007,library,Sylmar Branch Los Angeles Public Library,-118.45008,34.3075
+245,368171291,2001,police,Foothill Community Police Station,-118.41028,34.25306
+246,358819807,2005,post_office,Ocean Park Station Santa Monica Post Office,-118.48286,33.99973
+247,368169008,2007,library,Ocean Park Branch Santa Monica Public Library,-118.48364,34.00274
+248,1414408268,2002,fire_station,Lifeguard Station,-118.49545,34.00929
+249,358825703,2005,post_office,Altadena Post Office,-118.13202,34.18473
+250,368168519,2002,fire_station,Los Angeles County Fire Department Station #66,-118.09378,34.17445
+251,368169482,2007,library,Hastings Branch Pasadena Public Library,-118.08201,34.15806
+252,368169505,2007,library,Santa Catalina Branch Pasedena Public Library,-118.12979,34.16917
+253,368169533,2007,library,Altadena Public Library,-118.13715,34.18917
+254,368171188,2001,police,Altadena Sheriffs Station,-118.13229,34.18973
+255,358852660,2005,post_office,El Monte Post Office,-118.03306,34.07417
+256,358852722,2005,post_office,South El Monte Post Office,-118.04306,34.05167
+257,368168330,2002,fire_station,Los Angeles County Fire Department Station #166,-118.04177,34.07509
+258,368168332,2002,fire_station,Los Angeles County Fire Department Station #168,-118.01842,34.06458
+259,368168522,2002,fire_station,Los Angeles County Fire Department Station #90,-118.04936,34.05212
+260,368169540,2007,library,El Monte Branch County of Los Angeles Public Library,-118.03562,34.06695
+261,368169611,2007,library,Norwood Branch County of Los Angeles Public Library,-118.01673,34.08612
+262,368169694,2007,library,Carl W Mischke Memorial Library,-118.0534,34.10806
+263,579457989,2009,courthouse,Los Angeles Superior Court - El Monte Courthouse,-118.03158,34.07088
+264,1840470712,2002,fire_station,Los Angeles County Fire Department Station #47,-118.05812,34.10849
+265,358828146,2005,post_office,Castaic Post Office,-118.61926,34.49195
+266,368167537,2002,fire_station,San Francisquito Canyon Fire Control Station,-118.52546,34.53352
+267,1843391130,2002,fire_station,Los Angeles County Fire Department Station #149,-118.61612,34.4966
+268,268376953,2001,police,City Of San Gabriel Police Department,-118.0999,34.09476
+269,358852717,2005,post_office,San Gabriel Post Office,-118.09937,34.1021
+270,368167699,2002,fire_station,Fire Station Number 2,-118.12951,34.0789
+271,368169502,2007,library,San Gabriel Public Library,-118.09924,34.09584
+272,368169657,2007,library,Dorothy Hooper Library,-118.12174,34.09834
+273,368169661,2007,library,Jack Miller Memorial Library,-118.1253,34.09152
+274,368169817,2007,library,Alhambra Public Library,-118.13139,34.09255
+275,368171992,2008,town_hall,San Marino City Hall,-118.10599,34.12149
+276,368171995,2008,town_hall,Alhambra City Hall,-118.12729,34.09251
+277,370376755,2002,fire_station,,-118.10002,34.10352
+278,721252526,2009,courthouse,Alhambra Trial Court,-118.12615,34.09114
+279,723361328,2007,library,Alhambra Civic Center Library,-118.12751,34.09309
+280,738418813,2001,police,San Marino Police Department,-118.10603,34.12134
+281,1128082892,2005,post_office,The UPS Store,-118.10544,34.12247
+282,3180272740,2005,post_office,United States Post Office,-118.14457,34.14608
+283,4367205671,2001,police,LA County Sheriff's Department,-118.14397,34.14925
+284,4777387247,2007,library,David Allen Hubbard Library,-118.14015,34.14755
+285,369854252,2099,public_building,Pasadena Senior Center,-118.14859,34.14719
+286,4691641109,2005,post_office,The UPS Store,-118.15015,34.13635
+287,368167687,2002,fire_station,Los Angeles County Fire Department Station #17,-118.04889,33.9825
+288,368168299,2002,fire_station,Los Angeles County Fire Department Station #103,-118.10819,33.98279
+289,368168367,2002,fire_station,Downey Fire Station 3,-118.12831,33.95533
+290,368168419,2002,fire_station,Los Angeles County Fire Department Station #25,-118.10041,33.96983
+291,368168491,2002,fire_station,Los Angeles County Fire Department Station #40,-118.07842,34.00145
+292,368169515,2007,library,Rivera Branch County of Los Angeles Public Library,-118.1009,33.9689
+293,368169516,2007,library,Pico Rivera Branch County of Los Angeles Public Library,-118.08923,33.99196
+294,368169517,2007,library,Los Nietos Branch County of Los Angeles Public Library,-118.07007,33.96446
+295,368169519,2007,library,Chet Holifield Branch County of Los Angeles Public Library,-118.12007,33.99335
+296,368171304,2001,police,Pico Rivera Sheriffs Station,-118.08861,33.98194
+297,368172071,2008,town_hall,Pico Rivera City Hall,-118.08868,33.98251
+298,368169503,2007,library,San Fernando Branch County of Los Angeles Public Library,-118.43536,34.28722
+299,368169685,2007,library,Pacoima Branch Los Angeles Public Library,-118.4298,34.26084
+300,368171292,2001,police,Devonshire Community Police Station,-118.53129,34.25671
+301,368171993,2008,town_hall,San Fernando City Hall,-118.43869,34.28361
+302,3008743764,2002,fire_station,Camp 16,-118.36,34.29932
+303,4269213062,2001,police,San Fernando PD,-118.43906,34.283
+304,297744290,2002,fire_station,Los Angeles County Fire Department Station #23,-118.13016,33.88183
+305,298257651,2002,fire_station,Los Angeles County Fire Department Station #31,-118.16807,33.8967
+306,358809651,2005,post_office,Lynwood Main Post Office,-118.2109,33.92918
+307,358825930,2005,post_office,Hollydale Station South Gate Post Office,-118.16924,33.91613
+308,358826212,2005,post_office,South Gate Post Office,-118.18121,33.93935
+309,358828952,2005,post_office,Paramount Post Office,-118.17229,33.89613
+310,358852646,2005,post_office,Compton Post Office,-118.21694,33.89
+311,358852721,2005,post_office,South Downey Station Downey Post Office,-118.15083,33.92389
+312,368168311,2002,fire_station,Los Angeles County Fire Department Station #98,-118.12495,33.89988
+313,368168314,2002,fire_station,Los Angeles County Fire Department Station #147,-118.21427,33.93049
+314,368168325,2002,fire_station,Los Angeles County Fire Department Station #148,-118.19037,33.92217
+315,368168353,2002,fire_station,Downey Fire Station 1,-118.14722,33.92972
+316,368168354,2002,fire_station,Downey Fire Station 2,-118.12333,33.91667
+317,368168502,2002,fire_station,Los Angeles County Fire Department Station #57,-118.16814,33.92235
+318,368168504,2002,fire_station,Los Angeles County Fire Department Station #54,-118.18386,33.94849
+319,368169484,2007,library,Hollydale Branch County of Los Angeles Public Library,-118.16869,33.91773
+320,368169487,2007,library,Leland R Weaver Branch County of Los Angeles Public Library,-118.20145,33.94407
+321,368169491,2007,library,Lynwood Branch Co. Library,-118.19869,33.92523
+322,368169539,2007,library,East Rancho Dominguez Branch Los Angeles County Public Library,-118.19757,33.8964
+323,368172011,2008,town_hall,Lynwood City Hall,-118.19702,33.92696
+324,392435100,2001,police,Bellflower Sheriff,-118.12555,33.88347
+325,358826544,2005,post_office,Oakwood/Nat King Cole Post Office,-118.30953,34.06943
+326,368169832,2007,library,Wilshire Branch Los Angeles Public Library,-118.31174,34.0745
+327,368169840,2007,library,John C Fremont Branch Los Angeles Public Library,-118.34369,34.08418
+328,3825249404,2005,post_office,FedEx,-118.35014,34.08382
+329,3825249423,2005,post_office,United States Post Office,-118.35014,34.08385
+330,5304495453,2005,post_office,Larchmont Mail Shop,-118.32391,34.07412
+331,5891848783,2005,post_office,Mail Call,-118.32841,34.08326
+332,298305230,2002,fire_station,Long Beach Fire Department Station #6,-118.19013,33.74998
+333,298472149,2002,fire_station,Long Beach Fire Station #3,-118.19908,33.78176
+334,298480095,2002,fire_station,Long Beach Fire Station #7,-118.18851,33.7987
+335,298535537,2002,fire_station,Long Beach Fire Station #13,-118.21463,33.80217
+336,298539823,2002,fire_station,Long Beach Fire Station #15,-118.2152,33.74732
+337,358852637,2005,post_office,Cabrillo Station Long Beach Post Office,-118.21528,33.79861
+338,358852698,2005,post_office,Pacific Station Long Beach Post Office,-118.19333,33.79194
+339,368168704,2002,fire_station,Long Beach Fire Station 24,-118.22167,33.75639
+340,368168707,2002,fire_station,Long Beach Fire Station 13,-118.21472,33.80222
+341,368169441,2007,library,Bret Harte Branch Long Beach Public Library,-118.21396,33.80474
+342,368169447,2007,library,Burnett Branch Long Beach Public Library,-118.18535,33.79668
+343,5638625547,2005,post_office,FedEx,-118.1853,33.76661
+344,358826377,2005,post_office,Los Angeles Main Post Office,-118.2398,34.05386
+345,5693811048,2008,town_hall,Los Angeles City Hall,-118.2429,34.05378
+346,358852690,2005,post_office,North Hollywood Post Office,-118.39679,34.19862
+347,358852728,2005,post_office,Studio City Post Office,-118.39444,34.14194
+348,358852729,2005,post_office,Sun Valley Post Office,-118.36861,34.21722
+349,358852748,2005,post_office,Valley Plaza Station North Hollywood Post Office,-118.39694,34.18472
+350,358852752,2005,post_office,Valley Village Post Office,-118.40459,34.16467
+351,358852768,2005,post_office,Victory Center Station North Hollywood Post Office,-118.3875,34.18889
+352,368169752,2007,library,North Hollywood Regional Branch Los Angeles Public Library,-118.3793,34.16556
+353,368169786,2007,library,Sun Valley Branch Los Angeles Public Library,-118.37091,34.21473
+354,368171196,2001,police,North Hollywood Community Police Station,-118.38175,34.17834
+355,2302675851,2002,fire_station,Airport Fire Station,-118.36079,34.20011
+356,358825742,2005,post_office,Bell Gardens Branch Bell Post Office,-118.16451,33.97251
+357,358825747,2005,post_office,Bell Post Office,-118.19257,33.97946
+358,358825933,2005,post_office,Huntington Park Post Office,-118.22229,33.9789
+359,358825992,2005,post_office,Maywood Post Office,-118.18785,33.98779
+360,358826143,2005,post_office,Commerce Station Los Angeles Post Office,-118.15563,34.00057
+361,358826208,2005,post_office,Soto Station Huntington Park Post Office,-118.21979,33.9914
+362,358826219,2005,post_office,State Street Station Huntington Park Post Office,-118.21007,33.96668
+363,358826265,2005,post_office,Vernon Branch Los Angeles Post Office,-118.2273,33.99668
+364,368168329,2002,fire_station,Los Angeles County Fire Department Station #164,-118.20855,33.97629
+365,368168335,2002,fire_station,Los Angeles County Fire Department Station #163,-118.18861,33.97944
+366,368169483,2007,library,Huntington Park Branch County of Los Angeles Public Library,-118.21868,33.98029
+367,368169490,2007,library,Maywood Branch County of Los Angeles Public Library,-118.18896,33.98779
+368,368169497,2007,library,Commerce Public Library,-118.15618,34.00057
+369,368169531,2007,library,Bell Branch County of Los Angeles Public Library,-118.18868,33.97863
+370,368169532,2007,library,Bell Gardens Branch County of Los Angeles Public Library,-118.15063,33.96668
+371,368169544,2007,library,Cudahy Branch County of Los Angeles Public Library,-118.17387,33.9593
+372,368171979,2008,town_hall,Bell Gardens City Hall,-118.15035,33.96696
+373,368171990,2008,town_hall,Commerce City Hall,-118.15563,34.00085
+374,368171999,2008,town_hall,Cudahy City Hall,-118.17463,33.95936
+375,368172006,2008,town_hall,Huntington Park City Hall,-118.21868,33.97974
+376,368172013,2008,town_hall,Maywood City Hall,-118.18924,33.98779
+377,368172022,2008,town_hall,Bell City Hall,-118.1884,33.97918
+378,368172052,2008,town_hall,Vernon City Hall,-118.23054,34.00504
+379,1840335369,2002,fire_station,Los Angeles County Fire Department Station #27,-118.15412,33.98846
+380,1840422116,2002,fire_station,Los Angeles County Fire Department Station #39,-118.14926,33.96894
+381,3627504615,2008,town_hall,Bell Gardens Park City Hall,-118.15002,33.96742
+382,4864606245,2001,police,,-118.18134,33.96547
+383,368169835,2007,library,Newhall Branch County of Los Angeles Public Library,-118.53001,34.38164
+384,1490063910,2002,fire_station,Los Angeles County Fire Department Station #126,-118.55324,34.4151
+385,1490064633,2005,post_office,United States Post Office,-118.56175,34.42238
+386,1785640661,2005,post_office,,-118.55817,34.46258
+387,1842359721,2002,fire_station,Los Angeles County Fire Department Station #73,-118.53382,34.38751
+388,1843396757,2002,fire_station,Los Angeles County Fire Department Station #156,-118.56651,34.45382
+389,1911677515,2005,post_office,The UPS Store,-118.53028,34.4344
+390,1977020335,2005,post_office,FedEx,-118.542,34.38039
+391,1990577876,2005,post_office,The UPS Store,-118.57277,34.39171
+392,4807239663,2005,post_office,,-118.56143,34.39215
+393,8122192772,2007,library,Stevenson Ranch Library,-118.57285,34.39327
+394,358827029,2005,post_office,Canoga Parks Post Office,-118.60312,34.20125
+395,3890744020,2005,post_office,The UPS Store,-118.60274,34.20142
+396,358826545,2005,post_office,Pico Heights Station Los Angeles Post Office,-118.29063,34.04696
+397,368169845,2007,library,Felipe De Neve Branch Los Angeles Public Library,-118.28403,34.06324
+398,2118239695,2009,courthouse,Los Angeles County Superior Court,-118.28518,34.0632
+399,368171299,2001,police,Lakewood Sheriffs Station,-118.13333,33.85139
+400,3008139319,2005,post_office,The UPS Store,-118.1443,33.85179
+401,3675749016,2007,library,,-118.12282,33.83916
+402,7902254454,2005,post_office,,-118.14126,33.86055
+403,4192495914,2005,post_office,Viking Statioin Post Office,-118.12651,33.83364
+404,6698425770,2005,post_office,The UPS Store,-118.14526,33.83061
+405,1842385331,2002,fire_station,Los Angeles County Fire Department Station #76,-118.61046,34.43905
+406,2979099239,2005,post_office,Castaic Post Office,-118.62849,34.43523
+407,2979099240,2001,police,California Highway Patrol,-118.60115,34.44015
+408,368169703,2007,library,Blumenthal Library,-118.42897,34.0664
+409,8441554590,2005,post_office,The UPS Store,-118.42145,34.04399
+410,358852679,2005,post_office,Mar Vista Station Los Angeles Post Office,-118.43001,34.00442
+411,368168355,2002,fire_station,Culver City Fire Station 2,-118.41378,34.00516
+412,368169819,2007,library,Mar Vista Branch Los Angeles Public Library,-118.42897,34.00584
+413,368169879,2007,library,Julian Dixon Culver City Library,-118.39702,34.00751
+414,8388480456,2005,post_office,Culver Mail Box,-118.40862,34.01379
+415,8508036698,2005,post_office,The UPS Store,-118.4341,34.00384
+416,358852680,2005,post_office,Marcelina Station Torrance Post Office,-118.31611,33.83389
+417,368168313,2002,fire_station,Los Angeles County Fire Department Station #127,-118.23841,33.82462
+418,368168316,2002,fire_station,Los Angeles County Fire Department Station #116,-118.2619,33.86746
+419,368168462,2002,fire_station,Los Angeles County Fire Department Station #36,-118.2771,33.82468
+420,368169514,2007,library,Victoria Park Branch County of Los Angeles Public Library,-118.26591,33.86752
+421,368171307,2001,police,Carson Sheriffs Station,-118.26306,33.83444
+422,368171981,2008,town_hall,Carson City Hall,-118.26298,33.83226
+423,6232349373,2005,post_office,The UPS Store,-118.26585,33.83145
+424,6241322286,2005,post_office,Atlas Shippers,-118.27993,33.83186
+425,6566555724,2005,post_office,Mailbox Outlet,-118.27748,33.83249
+426,368168317,2002,fire_station,Los Angeles County Fire Department Station #110,-118.4486,33.98393
+427,368169857,2007,library,Venice-Abbot Kinney Memorial Branch Los Angeles Public Library,-118.46526,33.99135
+428,368171320,2001,police,Venice Police Station,-118.45889,33.99167
+429,368172061,2008,town_hall,Venice City Hall,-118.45897,33.9914
+430,416766633,2001,police,Venice Beach,-118.47395,33.98609
+431,368171282,2001,police,Marina Del Rey Sheriff's Station,-118.4461,33.97074
+432,358826404,2005,post_office,Sierra Madre Post Office,-118.05312,34.16056
+433,358852784,2005,post_office,West Arcadia Station Arcadia Post Office,-118.05615,34.12613
+434,368169506,2007,library,Sierra Madre Public Library,-118.06205,34.16146
+435,368171977,2008,town_hall,Old Sierra Madre City Hall,-118.05406,34.16202
+436,368172019,2008,town_hall,Arcadia City Hall,-118.03882,34.1371
+437,938901434,2002,fire_station,,-118.054,34.13252
+438,1666861741,2002,fire_station,Sierra Madre Fire Department,-118.05846,34.16159
+439,1666862474,2001,police,Sierra Madre Police Department,-118.05834,34.16162
+440,1666876689,2005,post_office,USPS Sierra Madre 91024,-118.05301,34.16073
+441,1666878568,2008,town_hall,Sierra Madre City Hall,-118.05775,34.1616
+442,3919483995,2001,police,Arcadia Police Department,-118.03978,34.13675
+443,6978502255,2007,library,Arcadia High School Library,-118.03873,34.13008
+444,298305489,2002,fire_station,Terminal Island Fire Station,-118.24176,33.75872
+445,358826930,2005,post_office,Lomita Post Office,-118.32035,33.79641
+446,358852796,2005,post_office,Wilmington Post Office,-118.2625,33.78333
+447,368167532,2009,courthouse,San Pedro County Courts Building,-118.28424,33.73919
+448,368167704,2002,fire_station,Los Angeles County Fire Department Station #6,-118.32021,33.79184
 449,368169463,2007,library,Southeast Branch Torrance Public Library,-118.32035,33.81502
-450,368169473,2007,library,Wilmington Branch Los Angeles Public Library,-118.26285,33.78918
+450,368169473,2007,library,Wilmington Branch Los Angeles Public Library,-118.26284,33.78916
 451,368169513,2007,library,Lomita Branch County of Los Angeles Public Library,-118.31952,33.80529
-452,368171307,2001,police,Carson Sheriffs Station,-118.26306,33.83444
-453,368171980,2008,town_hall,Lomita City Hall,-118.31955,33.8043
-454,368171981,2008,town_hall,Carson City Hall,-118.26298,33.83226
-455,6232349373,2005,post_office,The UPS Store,-118.26585,33.83145
-456,6241322286,2005,post_office,Atlas Shippers,-118.27993,33.83186
-457,6566555724,2005,post_office,Mailbox Outlet,-118.27748,33.83249
-458,368169464,2007,library,Torrance Public Library,-118.34174,33.83724
-459,368172109,2008,town_hall,Torrance City Hall,-118.34091,33.83696
-460,2302431574,2001,police,Torrance Police Station,-118.3423,33.83987
-461,2302431575,2009,courthouse,Torrance Courthouse,-118.34091,33.83864
-462,2646671880,2005,post_office,,-118.35855,33.80644
-463,2894786951,2005,post_office,The UPS Store,-118.35561,33.83831
-464,4238692692,2001,police,,-118.34183,33.78453
-465,5775902453,2005,post_office,Postmaster Plus,-118.35518,33.83685
-466,358852702,2005,post_office,Palos Verdes Estates Post Office,-118.38833,33.80056
-467,368168304,2002,fire_station,Los Angeles County Fire Department Station #106,-118.37639,33.77215
-468,368168406,2002,fire_station,Los Angeles County Fire Department Station #2,-118.39167,33.8
-469,368168498,2002,fire_station,Los Angeles County Fire Deparment Station #53,-118.38459,33.74479
-470,368169444,2007,library,El Retiro Branch Torrance Public Library,-118.37892,33.81562
-471,368172093,2008,town_hall,Palos Verdes Estates City Hall,-118.39149,33.7999
-472,1839143502,2005,post_office,US Post Office - PALOS VERDES PENINSULA,-118.36537,33.7684
-473,1840680085,2007,library,The Annex,-118.37109,33.76995
-474,368168488,2002,fire_station,Los Angeles County Fire Department Station #34,-118.07233,33.83698
-475,368169524,2007,library,Alondra Branch County of Los Angeles Public Library,-118.07893,33.88791
-476,368171299,2001,police,Lakewood Sheriffs Station,-118.13333,33.85139
-477,3627504612,2008,town_hall,Artesia City Hall,-118.07996,33.86004
-478,5434324595,2007,library,Library,-118.08877,33.85571
-479,5439116102,2007,library,,-118.09438,33.87377
-480,5452020352,2007,library,,-118.08744,33.84664
-481,6698425770,2005,post_office,The UPS Store,-118.14526,33.83061
-482,358827322,2005,post_office,Gardena Post Office,-118.30202,33.8914
-483,368168321,2002,fire_station,Los Angeles County Fire Department Station #158,-118.30617,33.88352
-484,368168322,2002,fire_station,Los Angeles County Fire Department Station #159,-118.31473,33.90894
-485,368168412,2002,fire_station,Los Angeles County Fire Department Station #14,-118.30057,33.9385
-486,368169876,2007,library,Gardena Mayme Dear Memorial Library,-118.30757,33.88224
-487,368172091,2008,town_hall,Gardena City Hall,-118.3073,33.88279
-488,2780450584,2005,post_office,South Gardena post office,-118.29381,33.8816
-489,368168361,2002,fire_station,Long Beach Fire Station 8,-118.13083,33.75878
-490,5636397925,2005,post_office,The UPS Store,-118.13849,33.76164
-491,358852671,2005,post_office,La Cañada Flintridge Post Office,-118.19168,34.20115
-492,368168512,2002,fire_station,Los Angeles County Fire Department Station #82,-118.18639,34.1975
-493,368169486,2007,library,La Cañada Flintridge Library,-118.19405,34.20283
-494,4864275135,2005,post_office,The UPS Store,-118.2204,34.20526
-495,358852714,2005,post_office,Rosemead Post Office,-118.07583,34.08111
-496,368168492,2002,fire_station,Los Angeles County Fire Department Station #42,-118.06659,34.08134
-497,1840470712,2002,fire_station,Los Angeles County Fire Department Station #47,-118.05812,34.10849
-498,358852725,2005,post_office,South San Gabriel Station Rosemead Post Office,-118.09139,34.06028
-499,370376755,2002,fire_station,,-118.10002,34.10352
-500,298293424,2002,fire_station,LB Fire Station #5,-118.08709,33.8189
-501,358825610,2005,post_office,Hawaiian Gardens Post Office,-118.07173,33.83363
-502,368172014,2008,town_hall,Hawaiian Gardens City Hall,-118.07229,33.83307
-503,243805625,2007,library,Westchester Public Library,-118.41712,33.95942
-504,358852649,2005,post_office,Culver City Post Office,-118.39611,33.99694
-505,358852661,2005,post_office,Fox Hills Station Culver City Post Office,-118.38778,33.98556
-506,368169873,2007,library,Loyola Village Branch Los Angeles Public Library,-118.41785,33.95946
-507,368171287,2001,police,Pacific Community Police Station,-118.42028,33.99111
-508,3254606625,2002,fire_station,Culver City Fire Station No. 3,-118.38667,33.98604
-509,3613766693,2001,police,California Highway Patrol,-118.39169,33.9811
-510,3699304320,2007,library,Playa Vista Library,-118.4255,33.97018
-511,368168317,2002,fire_station,Los Angeles County Fire Department Station #110,-118.4486,33.98393
-512,368171320,2001,police,Venice Police Station,-118.45889,33.99167
-513,368172061,2008,town_hall,Venice City Hall,-118.45897,33.9914
-514,368169870,2007,library,Palisades Branch Los Angeles Public Library,-118.52509,34.04402
-515,878729364,2002,fire_station,Los Angeles County Fire Department Station #69,-118.60011,34.08387
-516,2380549695,2005,post_office,,-118.52452,34.04658
-517,368168622,2002,fire_station,Los Angeles County Fire Department Station #68,-118.65236,34.15174
-518,368169887,2007,library,Woodland Hills Branch Los Angeles Public Library,-118.61073,34.16793
-519,368172088,2008,town_hall,Hidden Hills City Hall,-118.65981,34.16806
-520,298293943,2002,fire_station,L B Fire Station #17,-118.13644,33.79792
-521,298474987,2002,fire_station,Long Beach Fire Station #4,-118.1505,33.77194
-522,298537270,2002,fire_station,Long Beach Fire Station #14,-118.13202,33.76955
-523,358852634,2005,post_office,Bryant Station Post Office,-118.12307,33.79684
-524,358852657,2005,post_office,East Long Beach Station Long Beach Post Office,-118.15913,33.78283
-525,358852676,2005,post_office,Loma Station Post Office,-118.15056,33.77139
-526,368167656,2002,fire_station,Long Beach Fire Station 4,-118.15062,33.77196
-527,2819402126,2005,post_office,Post Office (regional center),-118.14997,33.79972
-528,3675749016,2007,library,,-118.12282,33.83916
-529,4192495914,2005,post_office,Viking Statioin Post Office,-118.12651,33.83364
-530,5640763130,2005,post_office,Mail Services Etc.,-118.1248,33.80858
-531,358824950,2005,post_office,Baldwin Park Post Office,-117.96006,34.08945
-532,358825185,2005,post_office,Irwindale Post Office,-117.93395,34.10584
-533,358852630,2005,post_office,(Former) Bassett Branch La Puente Post Office,-117.98917,34.04361
-534,358852673,2005,post_office,La Puente Post Office,-117.95222,34.03639
-535,358852787,2005,post_office,West Covina Post Office,-117.92917,34.06889
-536,368168344,2002,fire_station,Los Angeles County Fire Department Station #169,-118.01194,34.09557
-537,368168420,2002,fire_station,Los Angeles County Fire Department Station #26,-117.95124,34.03633
-538,368168421,2002,fire_station,Los Angeles County Fire Department Station #29,-117.96184,34.0921
-539,368168489,2002,fire_station,Los Angeles County Fire Department Station #43,-117.95572,34.01033
-540,368169488,2007,library,La Puente Branch County of Los Angeles Public Library,-117.9509,34.01918
-541,368169510,2007,library,Sunkist Branch County of Los Angeles Public Library,-117.97701,34.05501
-542,368169521,2007,library,West Covina Branch County of Los Angeles Public Library,-117.94062,34.07112
-543,368169574,2007,library,Irwindale Public Library,-117.93284,34.10418
-544,368169605,2007,library,Live Oak Branch County of Los Angeles Public Library,-118.01257,34.11029
-545,368171302,2001,police,Industry Sheriffs Station,-117.95771,34.02404
-546,368171451,2008,town_hall,West Covina City Hall,-117.93756,34.07112
-547,368171464,2008,town_hall,Baldwin Park City Hall,-117.95967,34.08546
-548,368171465,2008,town_hall,Irwindale City Hall,-117.9334,34.10473
-549,368171466,2008,town_hall,La Puente City Hall,-117.95034,34.01973
-550,1842416411,2002,fire_station,Los Angeles County Fire Department Station #87,-117.99331,34.04613
-551,4205283990,2001,police,Baldwin Park Police Department,-117.95991,34.08552
-552,4288310890,2005,post_office,US Post Office,-117.93343,34.10555
-553,4288336390,2001,police,Irwindale City Police Station,-117.93342,34.10479
-554,358809655,2005,post_office,Sylmar Post Office,-118.4323,34.31
-555,358851304,2005,post_office,Canyon Country Post Office,-118.45314,34.41611
-556,358852625,2005,post_office,Arleta Post Office,-118.42556,34.24194
-557,358852700,2005,post_office,Pacoima Post Office,-118.42778,34.2625
-558,358852715,2005,post_office,San Fernando Main Post Office,-118.4425,34.28222
-559,368168905,2002,fire_station,Texas Canyon Fire Control Station,-118.45036,34.50971
-560,368169503,2007,library,San Fernando Branch County of Los Angeles Public Library,-118.43536,34.28722
-561,368169685,2007,library,Pacoima Branch Los Angeles Public Library,-118.4298,34.26084
-562,368169707,2007,library,Sylmar Branch Los Angeles Public Library,-118.45008,34.3075
-563,368169834,2007,library,Canyon Country Jo Anne Darcy Library,-118.46175,34.41611
-564,368171291,2001,police,Foothill Community Police Station,-118.41028,34.25306
-565,368171993,2008,town_hall,San Fernando City Hall,-118.43869,34.28361
-566,616684676,2002,fire_station,Los Angeles County Fire Department Camp 9,-118.41121,34.35285
-567,616696425,2002,fire_station,USDA Forest Service Bear Divide Station,-118.39679,34.35904
-568,1843193798,2002,fire_station,Los Angeles County Fire Department Station #104,-118.50363,34.40663
-569,1843289013,2002,fire_station,Los Angeles County Fire Department Station #123,-118.41408,34.38494
-570,1843365030,2002,fire_station,Los Angeles County Fire Department Station #132,-118.41715,34.43962
-571,4269213062,2001,police,San Fernando PD,-118.43906,34.283
-572,5874336327,2005,post_office,The UPS Store,-118.47506,34.41643
-573,358852641,2005,post_office,Civic Center Station Van Nuys Post Office,-118.44833,34.18361
-574,358852719,2005,post_office,Sherman Oaks Post Office,-118.45778,34.16472
-575,368169775,2007,library,Van Nuys Branch Los Angeles Public Library,-118.44616,34.18397
-576,368171290,2001,police,Van Nuys Community Police Station,-118.44492,34.18334
-577,368171978,2008,town_hall,Van Nuys City Hall,-118.44703,34.18445
-578,358825703,2005,post_office,Altadena Post Office,-118.13202,34.18473
-579,368167685,2002,fire_station,Los Angeles County Fire Department Station #12,-118.15852,34.19296
-580,368169505,2007,library,Santa Catalina Branch Pasedena Public Library,-118.12979,34.16917
-581,368169533,2007,library,Altadena Public Library,-118.13715,34.18917
-582,368171188,2001,police,Altadena Sheriffs Station,-118.13229,34.18973
-583,368171588,2099,public_building,United States Forest Service Headquarters,-118.13257,34.16334
-584,1758970545,2008,town_hall,,-118.13126,34.20098
-585,3956252095,2009,courthouse,US Bankruptcy Court,-118.59196,34.17388
-586,358826619,2005,post_office,Foy Station Los Angeles Post Office,-118.27369,34.05473
-587,2939997629,2005,post_office,"Spring Carrier Annex, US Post Office",-118.12558,33.81124
-588,3675763866,2007,library,,-118.11913,33.7997
-589,4107842592,2005,post_office,The UPS Store,-118.15281,33.7752
-590,5238861323,2001,police,,-118.14254,33.77193
-591,5640763225,2005,post_office,The Box Zone,-118.12369,33.81074
-592,358828146,2005,post_office,Castaic Post Office,-118.61909,34.49199
-593,1842385331,2002,fire_station,Los Angeles County Fire Department Station #76,-118.61046,34.43905
-594,1843391130,2002,fire_station,Los Angeles County Fire Department Station #149,-118.61612,34.4966
-595,2979099239,2005,post_office,Castaic Post Office,-118.62849,34.43523
-596,2979099240,2001,police,California Highway Patrol,-118.60115,34.44015
-597,368168698,2002,fire_station,Long Beach Fire Station 21,-118.11371,33.75071
-598,368169442,2007,library,Bay Shore Branch Long Beach Public Library,-118.13048,33.75808
-599,1544609428,2005,post_office,US Post Office,-118.13623,33.7606
-600,358826465,2005,post_office,Cole Branch Los Angeles Post Office,-118.36174,34.09168
-601,368168410,2002,fire_station,Los Angeles County Fire Department Station #8,-118.3565,34.09103
-602,2894755447,2005,post_office,Postal Center,-118.36104,34.07361
-603,5853191711,2005,post_office,Postal Center & More,-118.36653,34.09104
-604,368168903,2002,fire_station,Quail Lake Fire Station,-118.71252,34.74436
-605,1842389310,2002,fire_station,Los Angeles County Fire Department Station #77,-118.79744,34.75941
-606,344369828,2002,fire_station,Monte Cristo,-118.12315,34.32817
-607,344980631,2002,fire_station,Big Tujunga Station,-118.22617,34.28684
-608,347080269,2002,fire_station,Noth Fork Station,-118.25268,34.38834
-609,358827347,2005,post_office,Acton Post Office,-118.19535,34.46833
-610,368168895,2002,fire_station,Los Angeles County Fire Department Station #80,-118.1421,34.48778
-611,616728589,2002,fire_station,Mt Gleason Camp 16,-118.15138,34.3792
-612,368169840,2007,library,John C Fremont Branch Los Angeles Public Library,-118.34369,34.08418
-613,3825249404,2005,post_office,FedEx,-118.35014,34.08382
-614,3825249423,2005,post_office,USPS,-118.35014,34.08385
-615,5304495453,2005,post_office,Larchmont Mail Shop,-118.32391,34.07412
-616,5891848783,2005,post_office,Mail Call,-118.32841,34.08326
-617,368167537,2002,fire_station,San Francisquito Canyon Fire Control Station,-118.52546,34.53352
-618,368169835,2007,library,Newhall Branch County of Los Angeles Public Library,-118.53001,34.38164
-619,1490063910,2002,fire_station,Los Angeles County Fire Department Station #126,-118.55324,34.4151
-620,1490064633,2005,post_office,United States Post Office,-118.56175,34.42238
-621,1785640661,2005,post_office,,-118.55817,34.46258
-622,1842359721,2002,fire_station,Los Angeles County Fire Department Station #73,-118.53382,34.38751
-623,1843238756,2002,fire_station,Los Angeles County Fire Department Station #108,-118.51455,34.46877
-624,1843396757,2002,fire_station,Los Angeles County Fire Department Station #156,-118.56651,34.45382
-625,1911677515,2005,post_office,The UPS Store,-118.53028,34.4344
-626,1977020335,2005,post_office,FedEx,-118.542,34.38039
-627,1990577876,2005,post_office,The UPS Store,-118.57277,34.39171
-628,3770871428,2008,town_hall,Hart Hall,-118.52542,34.37523
-629,4807239663,2005,post_office,,-118.56143,34.39215
-630,6952936824,2005,post_office,,-118.55027,34.37842
-631,368168900,2002,fire_station,Los Angeles County Fire Department Station #67,-118.69411,34.07809
-632,368169462,2007,library,Malibu Branch County of Los Angeles Public Library,-118.68817,34.0371
-633,1842421055,2002,fire_station,Los Angeles County Fire Department Station #88,-118.69182,34.03353
-634,344433409,2002,fire_station,Clear Creek,-118.15419,34.27069
-635,344435597,2002,fire_station,Angeles Crest Station,-118.18393,34.23435
-636,368168519,2002,fire_station,Los Angeles County Fire Department Station #66,-118.09378,34.17445
-637,368168876,2002,fire_station,Los Angeles County Fire Department Station #65,-118.75351,34.13432
-638,368169468,2007,library,Las Virgenes Branch County of Los Angeles Public Library,-118.77562,34.14451
-639,368171048,2099,public_building,Las Virgenes County Administration Center,-118.70675,34.13945
-640,1843298349,2002,fire_station,Los Angeles County Fire Department Station #125,-118.69781,34.15116
-641,3627504611,2008,town_hall,Agoura Hills City Hall,-118.77603,34.14457
-642,4906581933,2007,library,Westlake Village,-118.79846,34.14464
-643,4906581934,2008,town_hall,Westlake Village,-118.79909,34.1445
-644,368169658,2007,library,Hollywood Film Archive Library,-118.37147,34.0889
-645,5247316881,2005,post_office,The UPS Store,-118.37871,34.08847
-646,5247316895,2005,post_office,Eath Class Mail,-118.37943,34.08807
-647,5851987501,2005,post_office,Mail Boxes & Things,-118.37407,34.09037
-648,358828940,2005,post_office,Genesta Station Encino Post Office,-118.50369,34.16084
-649,358852713,2005,post_office,Coach John Wooden Post Office,-118.53583,34.20361
-650,358852733,2005,post_office,Tarzana Post Office,-118.54111,34.17278
-651,358852756,2005,post_office,Van Nuys Post Office,-118.47528,34.20167
-652,6389831750,2005,post_office,,-118.50056,34.15992
-653,358827475,2005,post_office,Llano Post Office,-117.82033,34.50571
-654,358827478,2005,post_office,Palmdale Post Office,-118.11396,34.58443
-655,358827480,2005,post_office,Pearblossom Post Office,-117.90945,34.50612
-656,358827500,2005,post_office,Valyermo Post Office,-117.85395,34.44722
-657,368168879,2002,fire_station,County Fire Station Number Seventynine,-117.86118,34.455
-658,368168917,2002,fire_station,Area 4 Work Center Fire Station,-117.85229,34.445
-659,368169886,2007,library,Palmdale City Library,-118.11618,34.57916
-660,1842400403,2002,fire_station,Los Angeles County Fire Department Station #81,-118.28645,34.51917
-661,1842432642,2002,fire_station,Los Angeles County Fire Department Station #93,-118.02884,34.57212
-662,1843263596,2002,fire_station,Los Angeles County Fire Department Station #112,-118.28819,34.75441
-663,1843266552,2002,fire_station,Los Angeles County Fire Department Station #114,-117.82544,34.60686
-664,1843274336,2002,fire_station,Los Angeles County Fire Department Station #117,-118.07754,34.69869
-665,1843362587,2002,fire_station,Los Angeles County Fire Department Station #131,-118.0813,34.55849
-666,1843369758,2002,fire_station,Los Angeles County Fire Department Station #134,-118.17505,34.66827
-667,1843380832,2002,fire_station,Los Angeles County Fire Department Station #140,-118.28488,34.61735
-668,3008743764,2002,fire_station,,-118.36,34.29932
-669,358852645,2005,post_office,Colorado Station Santa Monica Post Office,-118.48694,34.01833
-670,358825747,2005,post_office,Bell Post Office,-118.19257,33.97946
-671,358825933,2005,post_office,Huntington Park Post Office,-118.22229,33.9789
-672,358825992,2005,post_office,Maywood Post Office,-118.18785,33.98779
-673,358826208,2005,post_office,Soto Station Huntington Park Post Office,-118.21979,33.9914
-674,358826219,2005,post_office,State Street Station Huntington Park Post Office,-118.21007,33.96668
-675,358826265,2005,post_office,Vernon Branch Los Angeles Post Office,-118.2273,33.99668
-676,368168329,2002,fire_station,Los Angeles County Fire Department Station #164,-118.20855,33.97629
-677,368168335,2002,fire_station,Los Angeles County Fire Department Station #163,-118.18861,33.97944
-678,368168504,2002,fire_station,Los Angeles County Fire Department Station #54,-118.18386,33.94849
-679,368169483,2007,library,Huntington Park Branch County of Los Angeles Public Library,-118.21868,33.98029
-680,368169487,2007,library,Leland R Weaver Branch County of Los Angeles Public Library,-118.20145,33.94407
-681,368169490,2007,library,Maywood Branch County of Los Angeles Public Library,-118.18896,33.98779
-682,368169497,2007,library,Commerce Public Library,-118.15618,34.00057
-683,368169531,2007,library,Bell Branch County of Los Angeles Public Library,-118.18868,33.97863
-684,368169532,2007,library,Bell Gardens Branch County of Los Angeles Public Library,-118.15063,33.96668
-685,368169544,2007,library,Cudahy Branch County of Los Angeles Public Library,-118.17387,33.9593
-686,368171115,2099,public_building,South Gate Hall of Justice,-118.20485,33.95669
-687,368171999,2008,town_hall,Cudahy City Hall,-118.17463,33.95936
-688,368172006,2008,town_hall,Huntington Park City Hall,-118.21868,33.97974
-689,368172013,2008,town_hall,Maywood City Hall,-118.18924,33.98779
-690,368172022,2008,town_hall,Bell City Hall,-118.1884,33.97918
-691,1840422116,2002,fire_station,Los Angeles County Fire Department Station #39,-118.14926,33.96894
-692,4864606245,2001,police,,-118.18134,33.96547
-693,358852776,2005,post_office,Village Station Los Angeles Post Office,-118.44858,34.05632
-694,358852790,2005,post_office,West Los Angeles Finance Station Los Angeles Post Office,-118.45139,34.04555
-695,368171289,2001,police,West Los Angeles Community Police Station,-118.45083,34.04389
-696,2363521788,2005,post_office,Postal spot,-118.44805,34.06143
-697,4636122601,2007,library,Westwood Branch Library,-118.44182,34.05776
-698,4726882463,2005,post_office,Wilshire Business Center Post Office,-118.44471,34.05821
-699,5455418945,2005,post_office,Mail & Boxes Ship,-118.44322,34.04841
-700,5464021931,2011,embassy,Consulate General of the Czech Republic,-118.44723,34.05754
-701,368167710,2002,fire_station,Fire Station Number 3,-118.48258,34.0289
-702,368169011,2007,library,Brentwood Branch Los Angeles Public Library,-118.46869,34.05251
-703,368168346,2002,fire_station,Beverly Hills Fire Station 2,-118.41155,34.09041
-704,358827029,2005,post_office,Canoga Park Post Office,-118.60312,34.20125
-705,368169474,2007,library,Canoga Park Branch Los Angeles Public Library,-118.59015,34.20137
-706,358852655,2005,post_office,Duarte Post Office,-117.96611,34.13889
-707,368168496,2002,fire_station,Los Angeles County Fire Department Station #44,-117.96693,34.14071
-708,368169542,2007,library,Duarte Branch County of Los Angeles Public Library,-117.97794,34.13817
-709,368172002,2008,town_hall,Duarte City Hall,-117.97006,34.14084
-710,368172029,2008,town_hall,Bradbury City Hall,-117.97062,34.14556
-711,847243418,2001,police,Duarte Public Safety Sheriff,-117.98365,34.1382
-712,4732453964,2008,town_hall,Duarte City Hall,-117.97177,34.13939
-713,358852642,2005,post_office,US Post Office,-117.71604,34.09548
-714,358852707,2005,post_office,Pomona Post Office,-117.75861,34.06
-715,368168302,2002,fire_station,Los Angeles County Fire Department Station #102,-117.73814,34.1211
-716,368168350,2002,fire_station,Los Angeles County Fire Department Station #186,-117.74526,34.09589
-717,368169562,2007,library,City of Claremont Public Library,-117.71601,34.09614
-718,368171045,2009,courthouse,Pomona Courthouse,-117.75276,34.05469
-719,487074386,2002,fire_station,,-117.75714,34.13472
-720,3835509210,2007,library,Denison Library,-117.71128,34.10399
-721,368169744,2007,library,Northridge Branch Los Angeles Public Library,-118.53425,34.23528
-722,368171292,2001,police,Devonshire Community Police Station,-118.53129,34.25671
-723,2814705439,2005,post_office,US Post Office,-118.52618,34.26576
-724,267988188,2005,post_office,,-118.39673,34.02052
-725,358852663,2005,post_office,Gateway Station Culver City Post Office,-118.39667,34.02056
-726,358852701,2005,post_office,Palms Station Los Angeles Post Office,-118.40498,34.02132
-727,368168355,2002,fire_station,Culver City Fire Station 2,-118.41389,34.00528
-728,368168358,2002,fire_station,Culver City Fire Station 1,-118.39528,34.0225
-729,368169879,2007,library,Culver City Branch of Los Angeles Public Library,-118.39702,34.00751
-730,3960923717,2005,post_office,The UPS Store,-118.40459,34.02052
-731,368168705,2002,fire_station,Santa Monica Fire Station 1,-118.4917,34.01785
-732,368169061,2007,library,Santa Monica Main Public Library,-118.49326,34.01863
-733,1414408268,2002,fire_station,Lifeguard Station,-118.49545,34.00929
-734,358826599,2005,post_office,Westvern Station Los Angeles Post Office,-118.30424,34.01112
-735,358850578,2005,post_office,Hancock Station Los Angeles Post Office,-118.29146,33.9639
-736,368168336,2002,fire_station,Los Angeles County Fire Department Station #164,-118.23065,33.98132
-737,368168413,2002,fire_station,Los Angeles County Fire Department Station #16,-118.24739,33.96624
-738,368169478,2007,library,Graham Branch County of Los Angeles Public Library,-118.23834,33.95989
-739,368169643,2007,library,Vernon Public Library,-118.23079,34.00509
-740,368169822,2007,library,Woodcrest Branch County of Los Angeles Public Library,-118.2998,33.93974
-741,368169837,2007,library,Vermont Square Branch Los Angeles Public Library,-118.2959,33.99987
-742,368169838,2007,library,Vernon Branch Los Angeles Public Library,-118.25618,34.00251
-743,368169841,2007,library,John Muir Branch Los Angeles Public Library,-118.29202,33.98557
-744,368169842,2007,library,Junipero Serra Branch Los Angeles Public Library,-118.28313,34.00529
-745,368169843,2007,library,Mark Twain Branch Los Angeles Public Library,-118.28316,33.94879
-746,368169850,2007,library,Ascot Branch Los Angeles Public Library,-118.27813,33.9764
-747,368172052,2008,town_hall,Vernon City Hall,-118.23054,34.00504
-748,2134538676,2001,police,Newton Community Police Station,-118.25612,34.01229
-749,3699294513,2007,library,Junipero Serra Library,-118.27433,34.00175
-750,358826466,2005,post_office,Crenshaw Station Los Angeles Post Office,-118.33452,34.01473
-751,358826536,2005,post_office,Miracle Mile Station Los Angeles Post Office,-118.3454,34.06205
-752,358826553,2005,post_office,Rimpau Station Los Angeles Post Office,-118.32702,34.03946
-753,358826592,2005,post_office,Ray Charles Post Office Building,-118.35147,34.03279
-754,358851305,2005,post_office,Baldwin Hills Post Office,-118.33841,34.01223
-755,358852504,2005,post_office,Ray Charles Post Office,-118.34818,34.04011
-756,368169779,2007,library,Washington Irving Branch Los Angeles Public Library,-118.31785,34.04001
-757,368169848,2007,library,Jefferson Branch Los Angeles Public Library,-118.31869,34.02585
-758,368169849,2007,library,Baldwin Hills Branch Los Angeles Public Library,-118.3526,34.02829
-759,368169852,2007,library,Memorial Branch Los Angeles Public Library,-118.33535,34.06251
-760,368171283,2001,police,Wilshire Community Police Station,-118.34278,34.04667
-761,2514213546,2007,library,Memorial Branch Library,-118.33155,34.05732
-762,3751118752,2011,embassy,Consulate General of Belgium,-118.36196,34.0628
-763,4597653686,2011,embassy,Consulate General of the Federal Republic of Germany,-118.36434,34.06308
-764,4825852953,2011,embassy,Consulate General of Spain,-118.34021,34.06243
-765,358852679,2005,post_office,Mar Vista Station Los Angeles Post Office,-118.43001,34.00442
-766,368169819,2007,library,Mar Vista Branch Los Angeles Public Library,-118.42897,34.00584
-767,358826486,2005,post_office,Griffith Station Los Angeles Post Office,-118.25827,34.11961
-768,358852745,2005,post_office,Tropico Station Glendale Post Office,-118.25391,34.1333
-769,358852765,2005,post_office,Verdugo Viejo Station Glendale Post Office,-118.23556,34.14639
-770,368168034,2002,fire_station,Glendale Fire Station 25,-118.23717,34.15131
-771,368169681,2007,library,Sons of the American Revolution Genealogical Library,-118.25758,34.1389
-772,368169782,2007,library,Atwater Branch Los Angeles Public Library,-118.25952,34.12001
-773,5904572371,2001,police,Glendale Police Department,-118.24908,34.14723
-774,5904654259,2002,fire_station,Glendale Fire Station 21,-118.2616,34.14379
-775,5904931944,2007,library,Pacific Park Library,-118.26492,34.13967
-776,6645740431,2005,post_office,The UPS Store,-118.24486,34.15132
-777,358826921,2005,post_office,Hermosa Beach Post Office,-118.39571,33.86485
-778,368169665,2007,library,Redondo Beach Public Library,-118.38816,33.84596
-779,368169875,2007,library,Hermosa Beach Branch County of Los Angeles Public Library,-118.39554,33.86426
-780,368172096,2008,town_hall,Redondo Beach City Hall,-118.38869,33.84557
-781,4529169993,2007,library,"Redondo Beach Public Library, Northern Branch",-118.3767,33.87257
+452,368171980,2008,town_hall,Lomita City Hall,-118.31955,33.8043
+453,3627504616,2008,town_hall,San Pedro City Hall,-118.28018,33.73808
+454,6236921863,2005,post_office,,-118.30914,33.73685
+455,6283641985,2005,post_office,Рort,-118.27867,33.77009
+456,368169777,2007,library,Chinatown Branch Los Angeles Public Library,-118.24109,34.06063
+457,368169795,2007,library,Echo Park Branch Los Angeles Public Library,-118.2574,34.06711
+458,368171286,2001,police,Rampart Community Police Station,-118.27639,34.07278
+459,3326547102,2002,fire_station,,-118.25385,34.06749
+460,8122201485,2002,fire_station,Los Angeles County Fire Dept Station 150,-118.46512,34.39213
+461,358851306,2005,post_office,University of California Los Angeles Post Office,-118.44397,34.07053
+462,358852628,2005,post_office,Barrington Station Los Angeles Post Office,-118.46944,34.06639
+463,358852776,2005,post_office,Village Station Los Angeles Post Office,-118.44858,34.05632
+464,1564072178,2007,library,Arts Library,-118.43935,34.07419
+465,1951264203,2007,library,Science and Engineering Library – Engineering and Mathematical Sciences,-118.44261,34.06907
+466,1951264206,2007,library,UCLA Music Library,-118.44039,34.071
+467,1951264211,2007,library,Science and Engineering Library Geology Geophysics,-118.44077,34.06925
+468,1951264212,2007,library,UCLA Louise M. Darling Biomedical Library,-118.44214,34.06633
+469,1956603876,2007,library,Hugh & Hazel Darling Law Library,-118.43826,34.07265
+470,2363521788,2005,post_office,Postal spot,-118.44805,34.06143
+471,4726882463,2005,post_office,Wilshire Business Center Post Office,-118.44471,34.05821
+472,3960923717,2005,post_office,The UPS Store,-118.40461,34.0205
+473,3961992011,2005,post_office,US 24/7 Postal Center,-118.40358,34.02895
+474,8322266866,2005,post_office,National Shipping Center,-118.43807,34.02281
+475,8455881814,2005,post_office,Boxes Plus,-118.42941,34.02742
+476,358826599,2005,post_office,Westvern Station Los Angeles Post Office,-118.30424,34.01112
+477,358850578,2005,post_office,Hancock Station Los Angeles Post Office,-118.29146,33.9639
+478,358852779,2005,post_office,Wagner Branch Station Los Angeles Post Office,-118.31806,33.94528
+479,368169837,2007,library,Vermont Square Branch Los Angeles Public Library,-118.2959,33.99987
+480,368169841,2007,library,John Muir Branch Los Angeles Public Library,-118.29202,33.98557
+481,368169842,2007,library,Junipero Serra Branch Los Angeles Public Library,-118.28313,34.00529
+482,368169843,2007,library,Mark Twain Branch Los Angeles Public Library,-118.28316,33.94879
+483,368169850,2007,library,Ascot Branch Los Angeles Public Library,-118.27813,33.9764
+484,368169851,2007,library,Angeles Mesa Branch Los Angeles Public Library,-118.31952,33.9914
+485,3699294513,2007,library,Junipero Serra Library,-118.27433,34.00175
+486,344327189,2007,library,Sunland-Tujunga Library,-118.30135,34.25825
+487,344369828,2002,fire_station,Monte Cristo,-118.12315,34.32817
+488,344433409,2002,fire_station,Clear Creek Fire Station,-118.15419,34.27069
+489,344980631,2002,fire_station,Big Tujunga Station,-118.22617,34.28684
+490,346301139,2008,town_hall,Sunland-Tujunga Municipal Building,-118.30094,34.25782
+491,347080269,2002,fire_station,Noth Fork Station,-118.25268,34.38834
+492,358826252,2005,post_office,Tujunga Post Office,-118.29119,34.25154
+493,358852686,2005,post_office,Montrose Post Office,-118.22504,34.20664
+494,368168415,2002,fire_station,Los Angeles County Fire Department Station #19,-118.21439,34.21128
+495,368168509,2002,fire_station,Los Angeles County Department Station #63,-118.24404,34.22786
+496,368169728,2007,library,Montrose-Crescenta Branch Glendale Public Library,-118.23259,34.20742
+497,368171197,2001,police,Los Angeles County Sheriff's Department - Crescenta Valley Station,-118.23039,34.22084
+498,5792775206,2005,post_office,The UPS Store,-118.23556,34.22223
+499,368171457,2008,town_hall,Manhattan Beach City Hall,-118.41062,33.88737
+500,6534399111,2002,fire_station,Station 1,-118.40946,33.88782
+501,6534399112,2001,police,Manhattan Beach Police Department,-118.40952,33.88742
+502,358826451,2005,post_office,City National Plaza Station Los Angeles Post Office,-118.25646,34.0514
+503,1584094441,2005,post_office,United States Post Office,-118.25831,34.04805
+504,8384716789,2005,post_office,FedEx Office,-118.25843,34.04933
+505,358826486,2005,post_office,Griffith Station Los Angeles Post Office,-118.25827,34.11961
+506,368169782,2007,library,Atwater Branch Los Angeles Public Library,-118.25952,34.12001
+507,368169014,2007,library,Robertson Branch Los Angeles Public Library,-118.38591,34.04834
+508,368168336,2002,fire_station,Los Angeles County Fire Department Station #164,-118.23065,33.98132
+509,368168413,2002,fire_station,Los Angeles County Fire Department Station #16,-118.24739,33.96624
+510,368169478,2007,library,Graham Branch County of Los Angeles Public Library,-118.23834,33.95989
+511,368169643,2007,library,Vernon Public Library,-118.23079,34.00509
+512,368169838,2007,library,Vernon Branch Los Angeles Public Library,-118.25618,34.00251
+513,2134538676,2001,police,Newton Community Police Station,-118.25612,34.01229
+514,1840386343,2002,fire_station,Los Angeles County Fire Department Station #33,-118.14128,34.69942
+515,1843274336,2002,fire_station,Los Angeles County Fire Department Station #117,-118.07754,34.69869
+516,1843344524,2002,fire_station,Los Angeles County Fire Department Station #129,-118.14077,34.64807
+517,1843369758,2002,fire_station,Los Angeles County Fire Department Station #134,-118.17505,34.66827
+518,1843371626,2002,fire_station,Los Angeles County Fire Department Station #135,-118.09522,34.67111
+519,6672845163,2009,courthouse,Antelope Valley Juvenile Court,-118.14972,34.68862
+520,7895160276,2001,police,,-118.138,34.64667
+521,7983158048,2005,post_office,The UPS Store,-118.16617,34.67466
+522,358827438,2005,post_office,Quartz Hill Post Office,-118.21896,34.64832
+523,1842407210,2002,fire_station,Los Angeles County Fire Department Station #84,-118.21959,34.64721
+524,1843263596,2002,fire_station,Los Angeles County Fire Department Station #112,-118.28819,34.75441
+525,1843345593,2002,fire_station,Los Angeles County Fire Department Station #130,-118.20108,34.69287
+526,368169464,2007,library,Torrance Public Library,-118.34174,33.83724
+527,368172109,2008,town_hall,Torrance City Hall,-118.34091,33.83696
+528,2302431574,2001,police,Torrance Police Station,-118.3423,33.83987
+529,2302431575,2009,courthouse,Torrance Courthouse,-118.34091,33.83864
+530,2646671880,2005,post_office,,-118.35855,33.80644
+531,2894786951,2005,post_office,The UPS Store,-118.35561,33.83831
+532,4238692692,2001,police,,-118.34183,33.78453
+533,5775902453,2005,post_office,Postmaster Plus,-118.35518,33.83685
+534,358852655,2005,post_office,Duarte Post Office,-117.96611,34.13889
+535,368168496,2002,fire_station,Los Angeles County Fire Department Station #44,-117.96693,34.14071
+536,368172002,2008,town_hall,Duarte City Hall,-117.97006,34.14084
+537,368172029,2008,town_hall,Bradbury City Hall,-117.97062,34.14556
+538,4732453964,2008,town_hall,Duarte City Hall,-117.97177,34.13939
+539,368168302,2002,fire_station,Los Angeles County Fire Department Station #102,-117.73814,34.1211
+540,368168506,2002,fire_station,Los Angeles County Fire Department Station #62,-117.70775,34.13632
+541,344743063,2002,fire_station,Chilao,-118.02449,34.33336
+542,358852702,2005,post_office,Palos Verdes Estates Post Office,-118.38833,33.80056
+543,368168406,2002,fire_station,Los Angeles County Fire Department Station #2,-118.39167,33.8
+544,368169444,2007,library,El Retiro Branch Torrance Public Library,-118.37892,33.81562
+545,368169665,2007,library,Redondo Beach Public Library,-118.38816,33.84596
+546,368172093,2008,town_hall,Palos Verdes Estates City Hall,-118.39149,33.7999
+547,368172096,2008,town_hall,Redondo Beach City Hall,-118.38869,33.84557
+548,3262466438,2005,post_office,United States Post Office,-118.25157,34.05182
+549,358852707,2005,post_office,Pomona Post Office,-117.75861,34.06
+550,358852798,2005,post_office,Yorba Station Pomona Post Office,-117.75056,34.08611
+551,368168337,2002,fire_station,Los Angeles County Fire Department Station #183,-117.73634,34.0656
+552,368168350,2002,fire_station,Los Angeles County Fire Department Station #186,-117.74526,34.09589
+553,368170823,2007,library,Pomona Public Library,-117.75065,34.0539
+554,368172086,2008,town_hall,Pomona City Hall,-117.75113,34.05462
+555,358852624,2005,post_office,Arcadia Post Office,-118.02972,34.14139
+556,368169465,2007,library,Arcadia Public Library,-118.03192,34.1285
+557,368169542,2007,library,Duarte Branch County of Los Angeles Public Library,-117.97794,34.13817
+558,368171987,2008,town_hall,Monrovia City Hall,-117.99909,34.14757
+559,539321027,2001,police,Monrovia Police Department,-117.99904,34.14798
+560,539322207,2002,fire_station,Monrovia Fire Department,-117.99961,34.14719
+561,847243418,2001,police,Duarte Public Safety Sheriff,-117.98365,34.1382
+562,2343815380,2005,post_office,The UPS Store,-118.00074,34.14446
+563,3091983061,2005,post_office,The UPS Store,-118.02744,34.15081
+564,4793973843,2007,library,Monrovia Public Library,-118.00208,34.14865
+565,368168310,2002,fire_station,Los Angeles County Fire Department Station #101,-117.72362,34.09621
+566,368169562,2007,library,City of Claremont Public Library,-117.71601,34.09614
+567,1588726480,2008,town_hall,Claremont City Hall,-117.71686,34.09593
+568,3835509210,2007,library,Denison Library,-117.71128,34.10399
+569,358852790,2005,post_office,West Los Angeles Finance Station Los Angeles Post Office,-118.45139,34.04555
+570,368169011,2007,library,Brentwood Branch Los Angeles Public Library,-118.46869,34.05251
+571,368171289,2001,police,West Los Angeles Community Police Station,-118.45083,34.04389
+572,358852663,2005,post_office,Gateway Station Culver City Post Office,-118.3968,34.02053
+573,368168358,2002,fire_station,Culver City Fire Station,-118.39506,34.02255
+574,1771029512,2005,post_office,US 24/7 Postal Center,-118.401,34.0305
+575,358817638,2005,post_office,Lawndale Post Office,-118.35119,33.89418
+576,358825516,2005,post_office,Manhattan Beach Post Office,-118.39633,33.88599
+577,358827322,2005,post_office,Gardena Post Office,-118.30202,33.8914
+578,368168307,2002,fire_station,Los Angeles County Fire Department Station #95,-118.27758,33.89315
+579,368168322,2002,fire_station,Los Angeles County Fire Department Station #159,-118.31473,33.90894
+580,368168324,2002,fire_station,Los Angeles County Fire Department Station #160,-118.373,33.90212
+581,368168360,2002,fire_station,Compton Fire Station 3,-118.24556,33.90361
+582,368168416,2002,fire_station,Los Angeles County Fire Department Station #21,-118.35113,33.89799
+583,368168878,2002,fire_station,Cressey Park Fire Station,-118.24528,33.90374
+584,368169322,2007,library,Lawndale Branch County of Los Angeles Public Library,-118.35424,33.89863
+585,368169824,2007,library,Wiseburn Branch County of Los Angeles Public Library,-118.3736,33.90976
+586,368171309,2001,police,Lawndale Sheriff's Service Center,-118.34417,33.89222
+587,368171358,2008,town_hall,Lawndale City Hall,-118.35424,33.89807
+588,2780450584,2005,post_office,South Gardena post office,-118.29381,33.8816
+589,3137961977,2005,post_office,Joe's Postal Center,-118.36267,33.89316
+590,8630308241,2005,post_office,UPS Compton Customer Service Center,-118.25832,33.90876
+591,358826470,2005,post_office,Dockweller Station Los Angeles Post Office,-118.2918,34.02366
+592,5237388100,2005,post_office,Amazon Pick up Center,-118.28517,34.02558
+593,5567729100,2005,post_office,FedEx Print and Ship Center,-118.28591,34.02528
+594,6042978413,2007,library,Leavey Library,-118.28285,34.02177
+595,358852684,2005,post_office,Montebello Post Office,-118.10472,34.01111
+596,358852725,2005,post_office,South San Gabriel Station Rosemead Post Office,-118.09139,34.06028
+597,368168408,2002,fire_station,Los Angeles County Fire Department Station #4,-118.09022,34.0603
+598,368169545,2007,library,Bruggemeyer Memorial Library,-118.12514,34.05904
+599,368171198,2001,police,Montebello Police Building,-118.11646,34.02112
+600,368171989,2008,town_hall,Monterey Park City Hall,-118.12604,34.05911
+601,2681628008,2002,fire_station,Monterey Park Fire Station,-118.12714,34.05955
+602,368169870,2007,library,Palisades Branch Los Angeles Public Library,-118.52509,34.04402
+603,2380549695,2005,post_office,,-118.52452,34.04658
+604,358852649,2005,post_office,Culver City Post Office,-118.39574,33.99729
+605,358852661,2005,post_office,Fox Hills Station Culver City Post Office,-118.38778,33.98556
+606,3254606625,2002,fire_station,Culver City Fire Station No. 3,-118.38667,33.98604
+607,3613766693,2001,police,California Highway Patrol,-118.39169,33.9811
+608,368168410,2002,fire_station,Los Angeles County Fire Department Station #8,-118.3565,34.09103
+609,358852634,2005,post_office,Bryant Station Post Office,-118.12307,33.79684
+610,3675763866,2007,library,,-118.11913,33.7997
+611,368168346,2002,fire_station,Beverly Hills Fire Station 2,-118.41155,34.09041
+612,368169009,2007,library,Santa Monica College Library,-118.47009,34.01609
+613,3878656067,2005,post_office,,-118.34503,34.0985
+614,358825344,2005,post_office,El Segundo Post Office,-118.41563,33.91807
+615,358852647,2005,post_office,Crenshaw Imperial Station Inglewood Post Office,-118.32389,33.93083
+616,368168414,2002,fire_station,Los Angeles County Fire Department Station #18,-118.35562,33.93794
+617,368169711,2007,library,Crenshaw-Imperial Branch City of Inglewood Public Library,-118.32702,33.93335
+618,368169822,2007,library,Woodcrest Branch County of Los Angeles Public Library,-118.2998,33.93974
+619,368169874,2007,library,Lennox Branch County of Los Angeles Public Library,-118.35202,33.93835
+620,368169877,2007,library,Hawthorne Branch County of Los Angeles Public Library,-118.35424,33.91724
+621,368171285,2001,police,Southeast Community Police Station,-118.27556,33.93861
+622,368171310,2001,police,Lennox Sheriffs Station,-118.35083,33.93861
+623,368171453,2008,town_hall,El Segundo City Hall,-118.41563,33.92057
+624,7179614734,2002,fire_station,El Segundo Fire Department,-118.41571,33.92107
+625,243805625,2007,library,Westchester Public Library,-118.41712,33.95942
+626,368169873,2007,library,Loyola Village Branch Los Angeles Public Library,-118.41785,33.95946
+627,368171287,2001,police,Pacific Community Police Station,-118.42028,33.99111
+628,3699304320,2007,library,Playa Vista Library,-118.4255,33.97018
+629,358826921,2005,post_office,Hermosa Beach Post Office,-118.39571,33.86485
+630,358852695,2005,post_office,North Torrance Station Torrance Post Office,-118.32611,33.86722
+631,368169458,2007,library,North Torrance Branch Torrance Public Library,-118.33622,33.87253
+632,368169875,2007,library,Hermosa Beach Branch County of Los Angeles Public Library,-118.39554,33.86426
+633,4529169990,2007,library,"Torrance Public Library, Northern branch",-118.33544,33.87262
+634,4529169993,2007,library,"Redondo Beach Public Library, Northern Branch",-118.3767,33.87257
+635,1843384102,2002,fire_station,Los Angeles County Fire Department Station #144,-118.81928,34.139
+636,358852723,2005,post_office,South Hill Station West Covina Post Office,-117.90722,34.04833
+637,368168320,2002,fire_station,Los Angeles County Fire Department Station #154,-117.88829,34.08966
+638,368168327,2002,fire_station,Los Angeles County Fire Department Station #152,-117.90588,34.09607
+639,368168328,2002,fire_station,Los Angeles County Fire Department Station #153,-117.85761,34.09609
+640,368168527,2002,fire_station,Los Angeles County Fire Department Station #85,-117.85111,34.11361
+641,368169572,2007,library,Covina Public Library,-117.88741,34.08822
+642,368169573,2007,library,Charter Oak Branch County of Los Angeles Public Library,-117.85312,34.10612
+643,368171463,2008,town_hall,Covina City Hall,-117.88951,34.08779
+644,1731480722,2005,post_office,Covina Post Office,-117.91174,34.08971
+645,1843387758,2002,fire_station,Los Angeles County Fire Department Station #146,-117.8528,34.04506
+646,4725138314,2005,post_office,PostalAnnex,-117.87094,34.08546
+647,358852678,2005,post_office,Magnolia Park Station Burbank Post Office,-118.34834,34.16722
+648,368168023,2002,fire_station,Burbank Fire Station Number 5,-118.32111,34.16833
+649,368168024,2002,fire_station,Burbank Fire Station Number 12,-118.34398,34.16261
+650,462002198,2007,library,Buena Vista Branch Burbank Public Library,-118.33034,34.16411
+651,4711222941,2005,post_office,Mail Box Toluca Lake,-118.35252,34.15236
+652,358852713,2005,post_office,Coach John Wooden Post Office,-118.53583,34.20361
+653,358852733,2005,post_office,Tarzana Post Office,-118.54111,34.17278
+654,368168876,2002,fire_station,Los Angeles County Fire Department Station #65,-118.75351,34.13432
+655,368169468,2007,library,Las Virgenes Branch County of Los Angeles Public Library,-118.77562,34.14451
+656,368171048,2099,public_building,Las Virgenes County Administration Center,-118.70675,34.13945
+657,1843298349,2002,fire_station,Los Angeles County Fire Department Station #125,-118.69781,34.15116
+658,3627504611,2008,town_hall,Agoura Hills City Hall,-118.77603,34.14457
+659,4906581933,2007,library,Westlake Village,-118.79846,34.14464
+660,4906581934,2008,town_hall,Westlake Village,-118.79909,34.1445
+661,358852756,2005,post_office,Van Nuys Post Office,-118.47528,34.20167
+662,358826465,2005,post_office,Cole Branch Los Angeles Post Office,-118.36174,34.09168
+663,368169658,2007,library,Hollywood Film Archive Library,-118.37147,34.0889
+664,5247316881,2005,post_office,The UPS Store,-118.37871,34.08847
+665,5247316895,2005,post_office,Eath Class Mail,-118.37943,34.08807
+666,5851987501,2005,post_office,Mail Boxes & Things,-118.37407,34.09037
+667,5853191711,2005,post_office,Postal Center & More,-118.36653,34.09104
+668,358828940,2005,post_office,Genesta Station Encino Post Office,-118.50369,34.16084
+669,358852641,2005,post_office,Civic Center Station Van Nuys Post Office,-118.44833,34.18361
+670,358852719,2005,post_office,Sherman Oaks Post Office,-118.45778,34.16472
+671,368169775,2007,library,Van Nuys Branch Los Angeles Public Library,-118.44616,34.18397
+672,368171290,2001,police,Van Nuys Community Police Station,-118.44492,34.18334
+673,368171978,2008,town_hall,Van Nuys City Hall,-118.44703,34.18445
+674,6389831750,2005,post_office,,-118.50056,34.15992
+675,358852645,2005,post_office,Colorado Station Santa Monica Post Office,-118.48694,34.01833
+676,358852794,2005,post_office,Will Rogers Station Santa Monica Post Office,-118.49037,34.02582
+677,368167710,2002,fire_station,Fire Station Number 3,-118.48258,34.0289
+678,368168705,2002,fire_station,Santa Monica Fire Station 1,-118.4917,34.01785
+679,368169061,2007,library,Santa Monica Main Public Library,-118.49326,34.01863
+680,368168366,2002,fire_station,Fire Station #2,-118.17113,33.76968
+681,368168510,2002,fire_station,Los Angeles County Fire Department Station #60,-118.16417,33.80612
+682,368168708,2002,fire_station,Long Beach Fire Station Number 10,-118.17336,33.78487
+683,368168361,2002,fire_station,Long Beach Fire Station 8,-118.13083,33.75878
+684,368168698,2002,fire_station,Long Beach Fire Station 21,-118.11371,33.75071
+685,368169442,2007,library,Bay Shore Branch Long Beach Public Library,-118.13048,33.75808
+686,1544609428,2005,post_office,United States Post Office,-118.13623,33.7606
+687,5636397925,2005,post_office,The UPS Store,-118.13849,33.76164
+688,358852797,2005,post_office,Winnetka Post Office,-118.57139,34.20944
+689,4202607480,2007,library,,-118.57732,34.18614
+690,6952936824,2005,post_office,,-118.55027,34.37842
+691,4242074403,2002,fire_station,Fire Station 55,-118.33566,33.33316
+692,4388681533,2001,police,L.A. County Sheriffs Department,-118.32714,33.34314
+693,4574053678,2009,courthouse,Superior Court,-118.32698,33.34316
+694,4911757875,2002,fire_station,Avalon Fire Department,-118.32901,33.33944
+695,5466045124,2005,post_office,United States Post Office,-118.32668,33.34376
+696,5466045125,2007,library,L.A. County Public Library,-118.32707,33.34328
+697,368168501,2002,fire_station,Los Angeles County Fire Department Station #49,-118.01137,33.90506
+698,368169535,2007,library,La Mirada Library,-118.01079,33.9059
+699,368172016,2008,town_hall,La Mirada City Hall,-118.01118,33.90612
+700,1839560564,2002,fire_station,Los Angeles County Fire Department Station #15,-117.99339,33.92966
+701,1842445071,2002,fire_station,Los Angeles County Fire Department Station #96,-118.04,33.93709
+702,368169790,2007,library,Cahuenga Branch Los Angeles Public Library,-118.28896,34.09112
+703,610178523,2005,post_office,USPO Edendale Station,-118.26069,34.08291
+704,2406451769,2007,library,Edendale Branch L A Public Library,-118.26226,34.07804
+705,2894755447,2005,post_office,Postal Center,-118.36104,34.07361
+706,358826604,2005,post_office,Wilcox Station Los Angeles Post Office,-118.33063,34.09112
+707,298293943,2002,fire_station,L B Fire Station #17,-118.13644,33.79792
+708,298474987,2002,fire_station,Long Beach Fire Station #4,-118.1505,33.77194
+709,298537270,2002,fire_station,Long Beach Fire Station #14,-118.13202,33.76955
+710,358852657,2005,post_office,East Long Beach Station Long Beach Post Office,-118.15913,33.78283
+711,358852676,2005,post_office,Loma Station Post Office,-118.15056,33.77139
+712,368167656,2002,fire_station,Long Beach Fire Station 4,-118.15062,33.77196
+713,4107842592,2005,post_office,The UPS Store,-118.15281,33.7752
+714,5238861323,2001,police,,-118.14254,33.77193
+715,298297119,2002,fire_station,Long Beach Fire Department Station #11,-118.19234,33.85407
+716,358852694,2005,post_office,North Long Beach Station Long Beach Post Office,-118.19361,33.85472
+717,368168305,2002,fire_station,Los Angeles County Fire Department Station #105,-118.21655,33.8598
+718,368169450,2007,library,La Casa De Rancho Los Cerritos Library,-118.19555,33.83949
+719,3576710450,2007,library,Family History Center,-118.18845,33.82447
+720,4364315023,2007,library,Michelle Obama Library,-118.18463,33.86118
+721,2939997629,2005,post_office,"Spring Carrier Annex, US Post Office",-118.12558,33.81124
+722,5640763130,2005,post_office,Mail Services Etc.,-118.1248,33.80858
+723,5640763225,2005,post_office,The Box Zone,-118.12369,33.81074
+724,358784348,2002,fire_station,Burbank Fire Station 13,-118.34119,34.19584
+725,358852635,2005,post_office,Burbank Post Office,-118.34806,34.18806
+726,358852665,2005,post_office,Glenoaks Station Burbank Post Office,-118.32472,34.19194
+727,368167520,2009,courthouse,Burbank County Courts Building,-118.30694,34.18222
+728,368168021,2002,fire_station,Burbank Fire Station Number 13,-118.33778,34.19694
+729,368169821,2007,library,Southern California Genealogical Society Library,-118.30785,34.18056
+730,368169830,2007,library,Northwest Park Branch Burbank Public Library,-118.34758,34.18501
+731,368172503,2008,town_hall,Burbank City Hall Annex,-118.30722,34.18167
+732,1831615685,2008,town_hall,Burbank City Hall,-118.3081,34.18207
+733,368168407,2002,fire_station,Los Angeles County Fire Department Station #5,-118.07361,34.12841
+734,1210964744,2005,post_office,,-118.07259,34.15179
+735,358852658,2005,post_office,East Pasadena Station Pasadena Post Office,-118.09639,34.14639
+736,358852718,2005,post_office,San Marino Post Office,-118.09139,34.12639
+737,368169648,2007,library,Lamanda Park Branch Pasadena Public Library,-118.09832,34.14348
+738,368170851,2007,library,Huntington Library,-118.11201,34.12779
+739,2030772619,2005,post_office,United States Post Office,-118.12703,34.13561
+740,2120255137,2005,post_office,The UPS Store,-118.1026,34.14654
+741,2412277969,2007,library,,-118.1168,34.14526
+742,2412277974,2001,police,,-118.12025,34.14451
+743,2449722966,2005,post_office,US Post Office Pasadena Station,-118.13015,34.14608
+744,3985086524,2005,post_office,,-118.12982,34.14472
+745,5238874154,2001,police,Security/Sheriff's Sub-Station,-118.35422,34.1361
+746,1124342195,2002,fire_station,USFS Station,-117.86289,34.23907

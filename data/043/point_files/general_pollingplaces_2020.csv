@@ -1,0 +1,5 @@
+Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
+3237,3238,CA,MARIPOSA COUNTY,Locality wide location,Greeley Hill Public Library,"10332 Fiske Rd, Coulterville, CA 95311, USA",37.74616,-120.13121,False,False,1
+3238,3239,CA,MARIPOSA COUNTY,Locality wide location,Bootjack Fire Department,"3883 Bootjack Ln, Mariposa, CA 95338, USA",37.46361,-119.88308,False,False,1
+3239,3240,CA,MARIPOSA COUNTY,Locality wide location,Mariposa County Elections Office,"4982 10th St, Mariposa, CA 95338, USA",37.48938,-119.96778,False,False,1
+3240,3241,CA,MARIPOSA COUNTY,Locality wide location,El Portal Public Library,"9670 Rancheria Flat Rd, El Portal, CA 95318, USA",37.67251,-119.80874,False,False,1

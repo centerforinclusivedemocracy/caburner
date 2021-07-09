@@ -1,55 +1,55 @@
-name,address,lat,lon
-Bethel Transformation Center,@0000897 - REDDING 27  Redding 96001,40.54419,-122.4617
-Oakdale Heights West,101 Quartz Hill Rd  Redding 96003,40.59777,-122.40175
-North Cow Creek School,10619 Swede Creek Rd  Palo Cedro 96073,40.59308,-122.22925
-French Gulch - Whiskeytown School,11442 Cline Gulch Rd  French Gulch 96033,40.70895,-122.635
-Crossroads Baptist Church,12105 Dry Creek Rd  Bella Vista 96008,40.63998,-122.23847
-Redding Fire Station #8,131 Churn Creek Rd  Redding 96003,40.61165,-122.34747
-Mt Gate Comm Serv District Office,14508 Wonderland Blvd  Redding 96003,40.71005,-122.33558
-Jones Valley Fire Station,14680 Ravine Rd  Redding 96003,40.71448,-122.23883
-Redding Masonic Family Center,160 Masonic Ave  Redding 96003,40.60756,-122.38072
-Shasta County Veterans Hall,1605 Yuba St  Redding 96001,40.58231,-122.39284
-Happy Valley Community Church,16350 Hawthorne Ave  Anderson 96007,40.47829,-122.451
-Shasta County Clerk/Elections,1643 Market St  Redding 96001,40.5828,-122.38975
-Martin Luther King Mem. Cntr.,1815 Sheridan St  Redding 96001,40.57262,-122.39252
-First United Methodist Church,1825 East St  Redding 96001,40.58191,-122.38652
-Hat Creek Community Church,18735 V N Ln  Hat Creek 96040,40.83441,-121.5139
-Shasta Lake Bible Fellowship,19200 Fellowship Way  Redding 96003,40.68504,-122.3455
-Cottonwood Community Center,20595 Gas Point Rd  Cottonwood 96022,40.38632,-122.28796
-Trinity Alliance Church,20639 State Highway 299 E  Redding 96003,40.62576,-122.29117
-Lions Club,20814 Mammoth Dr  Lakehead 96051,40.88993,-122.38492
-Grace Presbyterian Church,2095 El Verano St  Redding 96002,40.53774,-122.33263
-Redding Christian Fellowship,2157 Victor Ave  Redding 96002,40.57587,-122.33751
-Redding First Church Of The Nazarene,2225 Bechelli Ln  Redding 96002,40.57467,-122.3617
-Alta Mesa School,2301 Saturn Skwy  Redding 96002,40.55485,-122.3286
-Millville Community Baptist Church,23625 Millville Way  Millville 96062,40.5401,-122.17836
-Boggs Building,2460 Breslauer Way  Redding 96001,40.55077,-122.38244
-Fall River Mills Veterans Hall,24843 Long St  Fall River Mills 96028,41.00378,-121.44373
-St James Lutheran Church,2500 Shasta View Dr  Redding 96002,40.57051,-122.3262
-Redding Fire Station #4,2605 S Bonnyview Rd  Redding 96001,40.53045,-122.37699
-Oak Run Fire Hall,27480 Oak Run To Fern Rd  Oak Run 96069,40.68509,-122.03154
-Seventh Day Adventist Church,2769 N Balls Ferry Rd  Anderson 96007,40.45508,-122.2869
-Mountain Community Center,29775 State Highway 299 E  Round Mountain 96084,40.81144,-121.93881
-Whitmore Volunteer Fire Dept,30480 Boggs Ln  Whitmore 96096,40.63237,-121.91765
-Sacred Heart Parish,3141 Saint Stephans Dr  Anderson 96007,40.46324,-122.28905
-Valley Christian Fellowship,3180 Rancho Rd  Redding 96002,40.5362,-122.31166
-Shingletown Volunteer Fire Department,31990 State Highway 44  Shingletown 96088,40.49692,-121.86132
-Anderson Veterans Hall,3210 W Center St  Anderson 96007,40.45178,-122.30456
-Family Celebration Center,3220 Keswick Dam Rd  Redding 96003,40.62605,-122.40684
-Anderson Church Of Christ,3434 North St  Anderson 96007,40.46966,-122.29664
-Redding Fire Station #2,3491 Placer St  Redding 96001,40.5742,-122.41761
-Burney Veterans Hall,37410 State Highway 299 E  Burney 96013,40.88817,-121.65523
-West Valley High School,3805 Happy Valley Rd  Cottonwood 96022,40.39724,-122.4037
-The Church Of Jesus Christ Of Lds,3950 Sunflower Dr  Redding 96001,40.58356,-122.43096
-American Legion,4309 Vallecito St  Shasta Lake 96019,40.67485,-122.36842
-Shasta Lake City Community Center,4499 Main St  Shasta Lake 96019,40.68205,-122.366
-Happy Valley Community Center,5400 Happy Valley Rd  Anderson 96007,40.44389,-122.40818
-Risen King Community Church,6100 Oasis Rd  Redding 96003,40.64642,-122.35173
-Shasta Baptist Church,6600 Westside Rd  Redding 96001,40.51927,-122.3825
-Mountain Vistas Senior Apartments,675 Peppertree Ln  Redding 96003,40.60099,-122.37243
-Churn Creek Golf Course,7335 Churn Creek Rd  Redding 96002,40.50584,-122.31932
-Redding City Hall,777 E Cypress Ave  Redding 96002,40.57103,-122.35741
-Pathway Church,777 Loma Vista Dr  Redding 96002,40.54805,-122.35591
-Westside Church Of Redding,8780 Swasey Dr  Redding 96001,40.53957,-122.47399
-Palo Cedro Fire Hall,9418 Deschutes Rd  Palo Cedro 96073,40.56114,-122.23908
-Redding Fire Station #5,955 Hartnell Ave  Redding 96002,40.56352,-122.35391
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Bethel Transformation Center,@0000897 - REDDING 27  Redding 96001,40.54419,-122.4617,,,,,,,
+1,Oakdale Heights West,101 Quartz Hill Rd  Redding 96003,40.59777,-122.40175,,,,,,,
+2,North Cow Creek School,10619 Swede Creek Rd  Palo Cedro 96073,40.59308,-122.22925,,,,,,,
+3,French Gulch - Whiskeytown School,11442 Cline Gulch Rd  French Gulch 96033,40.70895,-122.635,,,,,,,
+4,Crossroads Baptist Church,12105 Dry Creek Rd  Bella Vista 96008,40.63998,-122.23847,,,,,,,
+5,Redding Fire Station #8,131 Churn Creek Rd  Redding 96003,40.61165,-122.34747,,,,,,,
+6,Mt Gate Comm Serv District Office,14508 Wonderland Blvd  Redding 96003,40.71005,-122.33558,,,,,,,
+7,Jones Valley Fire Station,14680 Ravine Rd  Redding 96003,40.71448,-122.23883,,,,,,,
+8,Redding Masonic Family Center,160 Masonic Ave  Redding 96003,40.60756,-122.38072,,,,,,,
+9,Shasta County Veterans Hall,1605 Yuba St  Redding 96001,40.58231,-122.39284,,,,,,,
+10,Happy Valley Community Church,16350 Hawthorne Ave  Anderson 96007,40.47829,-122.451,,,,,,,
+11,Shasta County Clerk/Elections,1643 Market St  Redding 96001,40.5828,-122.38975,,,,,,,
+12,Martin Luther King Mem. Cntr.,1815 Sheridan St  Redding 96001,40.57262,-122.39252,,,,,,,
+13,First United Methodist Church,1825 East St  Redding 96001,40.58191,-122.38652,,,,,,,
+14,Hat Creek Community Church,18735 V N Ln  Hat Creek 96040,40.83441,-121.5139,,,,,,,
+15,Shasta Lake Bible Fellowship,19200 Fellowship Way  Redding 96003,40.68504,-122.3455,,,,,,,
+16,Cottonwood Community Center,20595 Gas Point Rd  Cottonwood 96022,40.38632,-122.28796,,,,,,,
+17,Trinity Alliance Church,20639 State Highway 299 E  Redding 96003,40.62576,-122.29117,,,,,,,
+18,Lions Club,20814 Mammoth Dr  Lakehead 96051,40.88993,-122.38492,,,,,,,
+19,Grace Presbyterian Church,2095 El Verano St  Redding 96002,40.53774,-122.33263,,,,,,,
+20,Redding Christian Fellowship,2157 Victor Ave  Redding 96002,40.57587,-122.33751,,,,,,,
+21,Redding First Church Of The Nazarene,2225 Bechelli Ln  Redding 96002,40.57467,-122.3617,,,,,,,
+22,Alta Mesa School,2301 Saturn Skwy  Redding 96002,40.55485,-122.3286,,,,,,,
+23,Millville Community Baptist Church,23625 Millville Way  Millville 96062,40.5401,-122.17836,,,,,,,
+24,Boggs Building,2460 Breslauer Way  Redding 96001,40.55077,-122.38244,,,,,,,
+25,Fall River Mills Veterans Hall,24843 Long St  Fall River Mills 96028,41.00378,-121.44373,,,,,,,
+26,St James Lutheran Church,2500 Shasta View Dr  Redding 96002,40.57051,-122.3262,,,,,,,
+27,Redding Fire Station #4,2605 S Bonnyview Rd  Redding 96001,40.53045,-122.37699,,,,,,,
+28,Oak Run Fire Hall,27480 Oak Run To Fern Rd  Oak Run 96069,40.68509,-122.03154,,,,,,,
+29,Seventh Day Adventist Church,2769 N Balls Ferry Rd  Anderson 96007,40.45508,-122.2869,,,,,,,
+30,Mountain Community Center,29775 State Highway 299 E  Round Mountain 96084,40.81144,-121.93881,,,,,,,
+31,Whitmore Volunteer Fire Dept,30480 Boggs Ln  Whitmore 96096,40.63237,-121.91765,,,,,,,
+32,Sacred Heart Parish,3141 Saint Stephans Dr  Anderson 96007,40.46324,-122.28905,,,,,,,
+33,Valley Christian Fellowship,3180 Rancho Rd  Redding 96002,40.5362,-122.31166,,,,,,,
+34,Shingletown Volunteer Fire Department,31990 State Highway 44  Shingletown 96088,40.49692,-121.86132,,,,,,,
+35,Anderson Veterans Hall,3210 W Center St  Anderson 96007,40.45178,-122.30456,,,,,,,
+36,Family Celebration Center,3220 Keswick Dam Rd  Redding 96003,40.62605,-122.40684,,,,,,,
+37,Anderson Church Of Christ,3434 North St  Anderson 96007,40.46966,-122.29664,,,,,,,
+38,Redding Fire Station #2,3491 Placer St  Redding 96001,40.5742,-122.41761,,,,,,,
+39,Burney Veterans Hall,37410 State Highway 299 E  Burney 96013,40.88817,-121.65523,,,,,,,
+40,West Valley High School,3805 Happy Valley Rd  Cottonwood 96022,40.39724,-122.4037,,,,,,,
+41,The Church Of Jesus Christ Of Lds,3950 Sunflower Dr  Redding 96001,40.58356,-122.43096,,,,,,,
+42,American Legion,4309 Vallecito St  Shasta Lake 96019,40.67485,-122.36842,,,,,,,
+43,Shasta Lake City Community Center,4499 Main St  Shasta Lake 96019,40.68205,-122.366,,,,,,,
+44,Happy Valley Community Center,5400 Happy Valley Rd  Anderson 96007,40.44389,-122.40818,,,,,,,
+45,Risen King Community Church,6100 Oasis Rd  Redding 96003,40.64642,-122.35173,,,,,,,
+46,Shasta Baptist Church,6600 Westside Rd  Redding 96001,40.51927,-122.3825,,,,,,,
+47,Mountain Vistas Senior Apartments,675 Peppertree Ln  Redding 96003,40.60099,-122.37243,,,,,,,
+48,Churn Creek Golf Course,7335 Churn Creek Rd  Redding 96002,40.50584,-122.31932,,,,,,,
+49,Redding City Hall,777 E Cypress Ave  Redding 96002,40.57103,-122.35741,,,,,,,
+50,Pathway Church,777 Loma Vista Dr  Redding 96002,40.54805,-122.35591,,,,,,,
+51,Westside Church Of Redding,8780 Swasey Dr  Redding 96001,40.53957,-122.47399,,,,,,,
+52,Palo Cedro Fire Hall,9418 Deschutes Rd  Palo Cedro 96073,40.56114,-122.23908,,,,,,,
+53,Redding Fire Station #5,955 Hartnell Ave  Redding 96002,40.56352,-122.35391,,,,,,,

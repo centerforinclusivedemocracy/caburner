@@ -1,0 +1,6 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+5852,Live Oak Community Building,"10200 O St, Live Oak, CA 95953, USA",39.27837,-121.66552,5853.0,CA,SUTTER COUNTY,Locality wide location,False,False,1.0
+5853,East Nicolaus High School,"2454 Nicolaus Ave, Nicolaus, CA 95659, USA",38.91111,-121.52651,5854.0,CA,SUTTER COUNTY,Locality wide location,False,False,1.0
+5854,Sutter Union High School,"2665 Acacia Ave, Sutter, CA 95982, USA",39.16537,-121.75469,5855.0,CA,SUTTER COUNTY,Locality wide location,False,False,1.0
+5855,Yuba Sutter Fairgrounds,"442 Franklin Ave, Yuba City, CA 95991, USA",39.13056,-121.61056,5856.0,CA,SUTTER COUNTY,Locality wide location,False,False,1.0
+51288,Sutter County Elections,"49V7+MH, 1435 Veterans Memorial Cir   Yuba City CA 95993",39.14419,-121.63606,7.0,CA,SUTTER COUNTY,Locality wide location,False,False,2.0

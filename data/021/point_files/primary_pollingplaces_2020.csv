@@ -1,5 +1,5 @@
-name,address,lat,lon
-Glenn County Office Of Education,149 E Walker St  Orland 95963,39.7476,-122.1828
-Hamilton City Evangelical Free Church,490 Los Robles Ave  Hamilton City 95951,39.74372,-122.01553
-Glenn County Elections,516 W Sycamore St  Willows 95988,39.52026,-122.19994
-Willows Veterans Memorial Hall,525 W Sycamore St  Willows 95988,39.52095,-122.20023
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+0,Glenn County Office Of Education,149 E Walker St  Orland 95963,39.7476,-122.1828,,,,,,,
+1,Hamilton City Evangelical Free Church,490 Los Robles Ave  Hamilton City 95951,39.74372,-122.01553,,,,,,,
+2,Glenn County Elections,516 W Sycamore St  Willows 95988,39.52026,-122.19994,,,,,,,
+3,Willows Veterans Memorial Hall,525 W Sycamore St  Willows 95988,39.52095,-122.20023,,,,,,,

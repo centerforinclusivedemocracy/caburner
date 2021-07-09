@@ -418,14 +418,25 @@ DATA_LAYERS.prc_white = {
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
 };
+DATA_LAYERS.gen2020 = {
+    id: 'gen2020',
+    title: "2020 General Election Voting Locations",
+    csvfile: 'point_files/general_pollingplaces_2020.csv',
+    circle: { radius: 20, color: '#B941FF', opacity: 1, fillColor: '#B941FF', fillOpacity: 1, weight: 4, },
+    popupnamefield: 'name',
+    popuptypetext: '2020 General Voting Location',
+    downloadfile: 'point_files/generalvote_2020.csv',
+    mapzindex: 'highest',
+    layertype: 'pois'
+};
 DATA_LAYERS.pripoll2020 = {
     id: 'pripoll2020',
-    title: "2020 Primary Polling Place Locations",
+    title: "2020 Primary Vote Locations",
     csvfile: 'point_files/primary_pollingplaces_2020.csv',
     circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 2, },
     popupnamefield: 'name',
-    popuptypetext: '2020 Primary Polling Place Location',
-    downloadfile: 'point_files/primary_pollingplaces_2020.csv',
+    popuptypetext: '2020 Primary Vote Location',
+    downloadfile: 'point_files/primaryvote_2020.csv',
     mapzindex: 'highest',
     layertype: 'pois'
 };
@@ -516,6 +527,7 @@ DATA_PROFILES.fullmodel = {
         DATA_LAYERS.prc_nonengprof, 
     ],
     pointsofinterest: [
+        DATA_LAYERS.gen2020,
         DATA_LAYERS.pripoll2020,
         DATA_LAYERS.pricenter2020,
         DATA_LAYERS.transit_stops,
@@ -530,6 +542,7 @@ DATA_PROFILES.lite.suggestedareas = [];
 DATA_PROFILES.lite.additionalareas = [];
 DATA_PROFILES.lite.allareas = [];
 DATA_PROFILES.lite.pointsofinterest = [
+    DATA_LAYERS.gen2020,
     DATA_LAYERS.pripoll2020,
     DATA_LAYERS.pricenter2020,
 ];

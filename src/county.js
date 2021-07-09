@@ -192,7 +192,7 @@ function initLayerControls () {
         $section_popn.append($cb);
     });
     COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
-        var $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"><label class="form-check-label" style="align-self: flex-start;" for="layercheckbox-${layerinfo.id}"><i class="fa fa-circle" aria-hidden="true" style="color: ${layerinfo.circle.fillColor};  align-items: flex-start;"></i>&nbsp;${layerinfo.title}</label></div>`);
+        const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"><label class="form-check-label" style="align-self: flex-start;" for="layercheckbox-${layerinfo.id}"><i class="fa fa-circle" aria-hidden="true" style="color: ${layerinfo.circle.fillColor};  align-items: flex-start;"></i>&nbsp;${layerinfo.title}</label></div>`);
         $section_poi.append($cb);
 
         // only include button if file exists or has data

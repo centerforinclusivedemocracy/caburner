@@ -1,67 +1,15 @@
 provider,lat,lon,num_stops_per_week,score
-Tuolumne County Transit,37.98287,-120.38465,15,2
-Tuolumne County Transit,37.97497,-120.36584,15,2
-Tuolumne County Transit,37.97516,-120.34105,38,3
-Tuolumne County Transit,38.04011,-120.2247,14,2
-Tuolumne County Transit,38.07433,-120.17348,12,1
-Tuolumne County Transit,37.97419,-120.23954,12,1
-Tuolumne County Transit,37.99522,-120.26288,12,1
-Tuolumne County Transit,37.97521,-120.37931,13,1
-Tuolumne County Transit,37.98364,-120.39138,13,1
-Tuolumne County Transit,37.98527,-120.38352,29,2
-Tuolumne County Transit,37.9872,-120.36942,13,1
-Tuolumne County Transit,37.98713,-120.36623,13,1
-Tuolumne County Transit,37.98225,-120.36883,13,1
-Tuolumne County Transit,37.97822,-120.36992,13,1
-Tuolumne County Transit,37.97209,-120.36604,29,2
-Tuolumne County Transit,37.9707,-120.36297,72,4
-Tuolumne County Transit,37.9749,-120.34515,23,2
-Tuolumne County Transit,38.06747,-120.18814,12,1
-Tuolumne County Transit,38.06089,-120.19994,6,1
-Tuolumne County Transit,38.03837,-120.22983,12,1
-Tuolumne County Transit,38.00292,-120.26376,6,1
-Tuolumne County Transit,37.97768,-120.32483,6,1
-Tuolumne County Transit,37.97708,-120.34303,6,1
-Tuolumne County Transit,37.97595,-120.36067,16,2
-Tuolumne County Transit,37.97733,-120.34225,6,1
-Tuolumne County Transit,37.97699,-120.32144,6,1
-Tuolumne County Transit,38.06142,-120.19935,6,1
-Tuolumne County Transit,37.95438,-120.41816,8,1
-Tuolumne County Transit,37.95332,-120.42303,4,1
-Tuolumne County Transit,37.94984,-120.42274,8,1
-Tuolumne County Transit,37.92956,-120.45171,4,1
-Tuolumne County Transit,37.95498,-120.42227,8,1
-Tuolumne County Transit,37.9915,-120.38555,8,1
-Tuolumne County Transit,38.00371,-120.40155,8,1
-Tuolumne County Transit,38.03006,-120.389,12,1
-Tuolumne County Transit,38.03833,-120.37781,4,1
-Tuolumne County Transit,38.03716,-120.39206,4,1
-Tuolumne County Transit,38.03362,-120.40214,4,1
-Tuolumne County Transit,38.02402,-120.40161,4,1
-Tuolumne County Transit,38.0208,-120.39796,4,1
-Tuolumne County Transit,37.98021,-120.3887,4,1
-Tuolumne County Transit,37.99172,-120.41076,4,1
-Tuolumne County Transit,38.02559,-120.40392,4,1
-Tuolumne County Transit,38.03384,-120.40196,4,1
-Tuolumne County Transit,38.00234,-120.38438,4,1
-Tuolumne County Transit,37.95736,-120.31241,6,1
-Tuolumne County Transit,37.96318,-120.2363,6,1
-Tuolumne County Transit,37.96074,-120.23747,6,1
-Tuolumne County Transit,37.96489,-120.24023,6,1
-Tuolumne County Transit,37.95753,-120.31244,6,1
-Tuolumne County Transit,37.96804,-120.33376,6,1
-Tuolumne County Transit,38.19011,-119.95587,2,1
-Yosemite Area Regional Transportation System,37.8723,-119.37348,5,1
-Yosemite Area Regional Transportation System,37.87279,-119.64918,5,1
-Yosemite Area Regional Transportation System,37.81345,-119.88005,10,1
-Yosemite Area Regional Transportation System,37.87425,-119.35712,5,1
-Yosemite Area Regional Transportation System,37.97827,-120.33422,5,1
-Yosemite Area Regional Transportation System,37.98041,-120.3818,10,1
-Yosemite Area Regional Transportation System,37.95334,-120.42306,10,1
-Yosemite Area Regional Transportation System,37.83998,-120.22727,10,1
-Yosemite Area Regional Transportation System,37.82487,-120.19584,10,1
-Yosemite Area Regional Transportation System,37.81116,-119.94744,10,1
-Yosemite Area Regional Transportation System,37.9775,-120.33275,5,1
-Yosemite Area Regional Transportation System,37.80022,-119.87492,10,1
-Yosemite Area Regional Transportation System,37.97334,-120.23901,10,1
-Calaveras Transit,38.03006,-120.38905,16,2
+Calaveras Transit,38.03006,-120.38905,5.0,1.0
+Yosemite Area Regional Transportation System,37.8723,-119.37348,4.0,1.0
+Yosemite Area Regional Transportation System,37.87279,-119.64918,0.0,0.0
+Yosemite Area Regional Transportation System,37.81345,-119.88005,6.0,1.0
+Yosemite Area Regional Transportation System,37.87425,-119.35712,4.0,1.0
+Yosemite Area Regional Transportation System,37.97827,-120.33422,3.0,1.0
+Yosemite Area Regional Transportation System,37.98041,-120.3818,6.0,1.0
+Yosemite Area Regional Transportation System,37.95334,-120.42306,6.0,1.0
+Yosemite Area Regional Transportation System,37.83998,-120.22727,6.0,1.0
+Yosemite Area Regional Transportation System,37.82487,-120.19584,6.0,1.0
+Yosemite Area Regional Transportation System,37.81116,-119.94744,6.0,1.0
+Yosemite Area Regional Transportation System,37.9775,-120.33275,3.0,1.0
+Yosemite Area Regional Transportation System,37.80022,-119.87492,6.0,1.0
+Yosemite Area Regional Transportation System,37.97334,-120.23901,6.0,1.0

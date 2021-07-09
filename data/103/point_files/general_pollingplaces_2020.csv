@@ -1,0 +1,32 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+5856,Church Of Jesus Christ Of Latter-day Saints,"545 Berrendos Ave, Red Bluff, CA 96080, USA",40.19277,-122.20733,5857.0,CA,TEHAMA COUNTY,"ANTELOPE 1, ANTELOPE 2 & 4, ANTELOPE 3",False,False,1.0
+5857,Bend Fire Station,"22310 Bend Ferry Rd, Red Bluff, CA 96080, USA",40.26027,-122.20655,5858.0,CA,TEHAMA COUNTY,BEND 1,False,False,1.0
+5858,Bowman Community Church,"18335 Bowman Rd, Cottonwood, CA 96022, USA",40.34434,-122.35412,5859.0,CA,TEHAMA COUNTY,"BOWMAN 1 & 2, BOWMAN 3 & 4",False,False,1.0
+5859,Capay School,"7504 Cutting Ave, Orland, CA 95963, USA",39.79711,-122.08452,5860.0,CA,TEHAMA COUNTY,CAPAY,False,False,1.0
+5860,Corning City Hall,"794 Third St, Corning, CA 96021, USA",39.9282,-122.1797,5861.0,CA,TEHAMA COUNTY,CORNING 1 & 2,False,False,1.0
+5861,First Baptist Church,"506 Colusa St, Corning, CA 96021, USA",39.93148,-122.1719,5862.0,CA,TEHAMA COUNTY,"CORNING 3, 6 & 8",False,False,1.0
+5862,El Camino Methodist Church,"8345 State Hwy 99w, Gerber, CA 96035, USA",40.03917,-122.17152,5863.0,CA,TEHAMA COUNTY,EL CAMINO,False,False,1.0
+5863,Gerber Bible Fellowship,"301 Samson Ave, Gerber, CA 96035, USA",40.05685,-122.14945,5864.0,CA,TEHAMA COUNTY,GERBER/LAS FLORES,False,False,1.0
+5864,Trinity Landmark Missionary Baptist Church,"20910 Hampton Rhodes Dr, Red Bluff, CA 96080, USA",40.16265,-122.26065,5865.0,CA,TEHAMA COUNTY,HOSPITAL,False,False,1.0
+5865,Corning Veterans Hall,"1620 Solano St, Corning, CA 96021, USA",39.9282,-122.18786,5866.0,CA,TEHAMA COUNTY,"LIBERAL/MAYWOOD, CORNING 4,5,7,9,& 10",False,False,1.0
+5866,Los Molinos Veterans Hall,"7980 Sherwood Blvd, Los Molinos, CA 96055, USA",40.02778,-122.09591,5867.0,CA,TEHAMA COUNTY,LOS MOLINOS,False,False,1.0
+5867,Cone Methodist Church,"11220 Hwy 99 E, Red Bluff, CA 96080, USA",40.15494,-122.14486,5868.0,CA,TEHAMA COUNTY,LOS ROBLES,False,False,1.0
+5868,Tehama County Elections Office,"633 Washington St #17, Red Bluff, CA 96080, USA",40.17625,-122.2361,5869.0,CA,TEHAMA COUNTY,Locality wide location,False,False,1.0
+5869,Mt Olive Lutheran Church,"341 Solano St, Corning, CA 96021, USA",39.92747,-122.16993,5870.0,CA,TEHAMA COUNTY,MOON/OLIVE,False,False,1.0
+5870,Mill Creek Baptist Church,"25145 Taft St, Los Molinos, CA 96055, USA",40.04706,-122.09968,5871.0,CA,TEHAMA COUNTY,OAK PARK,False,False,1.0
+5871,El Camino Fire Station,"9580 State Hwy 99w, Gerber, CA 96035, USA",40.07141,-122.16942,5872.0,CA,TEHAMA COUNTY,PROBERTA,False,False,1.0
+5872,Rancho Tehama Recreation Hall,"17605 Park Terrace Rd, Corning, CA 96021, USA",40.01535,-122.38197,5873.0,CA,TEHAMA COUNTY,RANCHO TEHAMA,False,False,1.0
+5873,Moose Lodge,"11745 State Hwy 99w, Red Bluff, CA 96080, USA",40.13421,-122.20746,5874.0,CA,TEHAMA COUNTY,RAWSON,False,False,1.0
+5874,Tehama County Administration - Tuscan Room,"727 Oak St, Red Bluff, CA 96080, USA",40.17416,-122.23853,5875.0,CA,TEHAMA COUNTY,RED BLUFF 1,False,False,1.0
+5875,Sacred Heart Parish Hall,"2355 Monroe St, Red Bluff, CA 96080, USA",40.19045,-122.24701,5876.0,CA,TEHAMA COUNTY,RED BLUFF 2,False,False,1.0
+5876,High Point Assembly Of God,"625 Luther Rd, Red Bluff, CA 96080, USA",40.15974,-122.23357,5877.0,CA,TEHAMA COUNTY,RED BLUFF 3,False,False,1.0
+5877,Red Bluff Community Center,"1500 S Jackson St, Red Bluff, CA 96080, USA",40.15665,-122.23889,5878.0,CA,TEHAMA COUNTY,RED BLUFF 4,False,False,1.0
+5878,United Methodist Church,"525 David Ave, Red Bluff, CA 96080, USA",40.16763,-122.25249,5879.0,CA,TEHAMA COUNTY,RED BLUFF 5,False,False,1.0
+5879,Tehama County Dept. Of Education,"1135 Lincoln St, Red Bluff, CA 96080, USA",40.17855,-122.24558,5880.0,CA,TEHAMA COUNTY,RED BLUFF 6 & 7,False,False,1.0
+5880,Fairgrounds - Tehama Room,"650 Antelope Blvd, Red Bluff, CA 96080, USA",40.19039,-122.20227,5881.0,CA,TEHAMA COUNTY,RED BLUFF 8 & 9,False,False,1.0
+5881,Reeds Creek School,"18335 Johnson Rd, Red Bluff, CA 96080, USA",40.15614,-122.35534,5882.0,CA,TEHAMA COUNTY,REEDS CREEK,False,False,1.0
+5882,Richfield Fire Station,"6115 Grange Rd, Corning, CA 96021, USA",39.97438,-122.1768,5883.0,CA,TEHAMA COUNTY,RICHFIELD,False,False,1.0
+5883,Ridgeway Park,"19725 Ridge Rd, Red Bluff, CA 96080, USA",40.14622,-122.30623,5884.0,CA,TEHAMA COUNTY,RIDGEWAY,False,False,1.0
+5884,Lake California Lake Club,"22431 Rio Alto Dr, Cottonwood, CA 96022, USA",40.34901,-122.2003,5885.0,CA,TEHAMA COUNTY,RIVER LAKES,False,False,1.0
+5885,Christ Community Church Of Vina,"26370 5th St, Vina, CA 96092, USA",39.93302,-122.05254,5886.0,CA,TEHAMA COUNTY,VINA,False,False,1.0
+51289,Dibble Creek Fire Station,"Red Bluff, CA 96080, USA",40.13811,-122.40142,8.0,CA,TEHAMA COUNTY,RIVERVIEW 1 & 2,False,False,1.0

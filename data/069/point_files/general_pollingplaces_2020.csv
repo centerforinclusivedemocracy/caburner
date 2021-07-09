@@ -1,0 +1,5 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+3807,San Juan Bautista Community Center,"10 San Jose St, San Juan Bautista, CA 95045, USA",36.84715,-121.53838,3808.0,CA,SAN BENITO COUNTY,Locality wide location,False,False,1.0
+3808,St. Benedict Catholic Church Hall,"1200 Fairview Rd, Hollister, CA 95023, USA",36.83376,-121.36694,3809.0,CA,SAN BENITO COUNTY,Locality wide location,False,False,1.0
+3809,San Benito County Hall Of Records,"440 5th St Rm 101, Hollister, CA 95023, USA",36.85184,-121.40428,3810.0,CA,SAN BENITO COUNTY,Locality wide location,False,False,1.0
+3810,Veteran's Memorial Hall,"649 San Benito St Rm 224, Hollister, CA 95023, USA",36.84964,-121.40142,3811.0,CA,SAN BENITO COUNTY,Locality wide location,False,False,1.0

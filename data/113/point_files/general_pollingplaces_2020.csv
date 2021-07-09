@@ -1,0 +1,13 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+5962,River City High School,"1 Raider Ln, West Sacramento, CA 95691, USA",38.5451,-121.5404,5963.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
+5963,Pioneer High School,"1400 Pioneer Ave, Woodland, CA 95776, USA",38.65991,-121.74043,5964.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
+5964,Montgomery Elementary School,"1441 Danbury St, Davis, CA 95618, USA",38.54138,-121.7163,5965.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
+5965,Winters Community Center,"201 Railroad Ave, Winters, CA 95694, USA",38.52113,-121.96815,5966.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
+5966,Veterans Memorial Center,"203 E 14th St, Davis, CA 95616, USA",38.55648,-121.74784,5967.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
+5967,Woodland High School,"21 N West St, Woodland, CA 95695, USA",38.68689,-121.78585,5968.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
+5968,Patwin Elementary School,"2222 Shasta Dr, Davis, CA 95616, USA",38.55513,-121.7789,5969.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
+5969,Esparto High School,"26675 Plainfield St, Esparto, CA 95627, USA",38.69195,-122.01639,5970.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
+5970,Yolo County Administration Building,"625 Court St #106, Woodland, CA 95695, USA",38.67918,-121.77217,5971.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
+5971,Bryte CCT,"637 Todhunter Ave, West Sacramento, CA 95605, USA",38.59763,-121.53414,5972.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
+5972,Washington USD Office,"930 Westacre Rd, West Sacramento, CA 95691, USA",38.57762,-121.53135,5973.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
+5973,UC Davis ARC,"Human Resources Administration Bldg, 1050 Orchard Rd, Davis, CA 95616, USA",38.54354,-121.76252,5974.0,CA,YOLO COUNTY,Locality wide location,False,False,1.0
