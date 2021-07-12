@@ -25,12 +25,12 @@
 }
 
 #countymap.map-with-sidebar {
-    width: calc(100% - 460px); /* match to #sidebar width and #sidebar div.sidebar-closer left */
+    width: calc(100% - 461px); /* match to #sidebar width and #sidebar div.sidebar-closer left */
 }
 
 #sidebar {
     height: 100%;
-    width: 460px;  /* match to #countymap.map-with-sidebar width and #sidebar div.sidebar-closer left */
+    width: 461px;  /* match to #countymap.map-with-sidebar width and #sidebar div.sidebar-closer left */
     float: left;
 }
 
@@ -51,7 +51,7 @@
 }
 #sidebar-and-map div.sidebar-closer {
     top: 0;
-    left: 460px;  /* match to #countymap.map-with-sidebar width */
+    left: 461px;  /* match to #countymap.map-with-sidebar width */
 }
 #sidebar-and-map div.sidebar-opener i, #sidebar-and-map div.sidebar-closer i {
     font-size: 28px;
