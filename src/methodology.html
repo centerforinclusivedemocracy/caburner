@@ -42,7 +42,7 @@
         To generate suggested locations based on the number of sites each county has publicly reported, we used a k-means model and a facility location model.
       </p>
       <p>
-        First we conducted a k-means cluster analysis to aggregate populated census block sites into a smaller number of computationally manageable geographic clusters. These clusters were created by clustering on latitude/longitude. Next we estimated travel time from every census block cluster to every potential area for a voting location (defined by the “suitable areas” grid).
+        First we conducted a k-means cluster analysis to aggregate populated census block sites into a smaller number of computationally manageable geographic clusters. Next we estimated travel time from every census block cluster to every potential area for a voting location (defined by the “suitable areas” grid).
       </p>
       <p>
         We then used a facility location model to determine optimal locations. The inputs our facility location model used were: the cost of site creation (which included the area score), the travel time to neighboring sites, and the estimated capacity of the site.
