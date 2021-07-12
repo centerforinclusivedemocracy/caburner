@@ -675,7 +675,7 @@ function refreshMapLegend () {
         $(`<h4>${title}</h4>`).appendTo($legend);
 
         for (let i = 0; i < text.length; i++) {
-            if (text[i] == "0.0%") {
+            if ((text[i] == "0.0%") || (text[i] == "0")) { 
                 $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${colors[i]};"></div> ${text[i]} <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="legend"]'></i></div>`).appendTo($legend);
             } 
             else {
