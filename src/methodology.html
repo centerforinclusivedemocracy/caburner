@@ -85,7 +85,7 @@
       
       <p id="nonregistered"><b>Percent of Eligible Voters Not Registered:</b> The percentage of voting age citizens who are not registered to vote.</p>
       <ul>
-          <li><i>Data sources</i>: Catalist voter registration data (2020 General Election); American Community Survey 5-Year Estimate (2015-2019); Census 2010.</li>
+          <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election); American Community Survey 5-Year Estimate (2015-2019); Census 2010.</li>
           <li><i>Calculation</i>: Convert voter data from the precinct to the tract level and average voter registration totals for 2020. Subtract the average number of registered voters from the citizen voting age population (CVAP). Divide by the total CVAP estimate in the tract. Where the incarcerated population is over 25% of the CVAP, use the 2010 Census estimate for non-institutionalized populations instead of CVAP.</li>
           <li><i>Scale</i>: Census Tract</li>
           <li><i>Rationale</i>: Voting location/drop off should be proximal to communities of eligible voters who aren’t registered to vote.</li>
@@ -122,7 +122,7 @@
       
       <p id="votelocationvoters"><b>2020 Vote Location Voter Percentage:</b> The number of voters who voted at a vote location in a census tract divided by the total number of voters who voted at a vote location in the county.</p>
       <ul>
-        <li><i>Data sources</i>: Catalist (2020 General Election).</li>
+        <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to census block level, calculate the percent of voters in a block who voted at a vote location out of the county total. Divide the number of people who voted at a vote location in the 2020 General Election in the block by the total number of people who voted at a vote location in the 2020 General Election in the county. </li>
         <li><i>Scale</i>: Census Block -  Note that although this variable is displayed on the web map at the census tract level, the model input was at the census block level.</li>
         <li><i>Rationale</i>: Voting location/drop off should be proximal to communities with historically low vote location usage.</li>
@@ -132,7 +132,7 @@
       
       <p id="vbm-asian"><b>2020 Vote by Mail Rate (Asian-American):</b> The percentage of Asian-American voters who voted by mail out of total Asian-American voters.</p>
       <ul>
-        <li><i>Data sources</i>: Catalist (2020 General Election).</li>
+        <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the Asian-American vote by dividing the number of Asian-American voters who voted by mail by the total number of Asian-American voters who voted. The direction of this variable is inverted before it enters the model score, so that areas with a high VBM rate receive lower priority for siting.</li>
         <li><i>Scale</i>: Census Block - Note that although this variable is displayed on the web map at the census tract level, the model input was at the census block level.</li>
         <li><i>Rationale</i>: Voting location/drop off should be proximal to communities with low VBM usage. CID research shows that VBM use varies throughout the Asian-American community.</li>
@@ -142,7 +142,7 @@
       
       <p id="vbm-latino"><b>2020 Vote by Mail Rate (Latino):</b> The percentage of Latino voters who voted by mail out of total Latino voters.</p>
       <ul>
-        <li><i>Data sources</i>: Catalist (2020 General Election).</li>
+        <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the Latino vote by dividing the number of Latino voters who voted by mail by the total number of Latino voters who voted. The direction of this variable is inverted before it enters the model score, so that areas with a high VBM rate receive lower priority for siting.</li>
         <li><i>Scale</i>: Census Block - Note that although this variable is displayed on the web map at the census tract level, the model input was at the census block level.</li>
         <li><i>Rationale</i>: Voting location/drop off should be proximal to communities with low VBM usage. CID research finds Latino voters have lower VBM use.</li>
@@ -152,7 +152,7 @@
       
       <p id="vbm-youth"><b>2020 Vote by Mail Rate (Youth):</b> The percentage of voters between the age of 18 and 24 years old who voted by mail out of total youth voters.</p>
       <ul>
-        <li><i>Data sources</i>: Catalist (2020 General Election).</li>
+        <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the youth vote by dividing the number of youth voters who voted by mail by the total number of youth voters who voted. The direction of this variable is inverted before it enters the model score, so that areas with a high VBM rate receive lower priority for siting.</li>
         <li><i>Scale</i>: Census Block - Note that although this variable is displayed on the web map at the census tract level, the model input was at the census block level.</li>
         <li><i>Rationale</i>: Voting location/drop off should be proximal to communities with low VBM usage. CID research finds youth have lower VBM use.</li>
@@ -162,7 +162,7 @@
       
       <p id="vbm"><b>2020 Vote by Mail Rate (Total):</b> The percentage of voters who voted by mail out of total voters.</p>
       <ul>
-        <li><i>Data sources</i>: Catalist (2020 General Election).</li>
+        <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the total vote by dividing the number of voters who voted by mail by the total number of voters who voted. The direction of this variable is inverted before it enters the model score, so that areas with a high VBM rate receive lower priority for siting.</li>
         <li><i>Scale</i>: Census Block - Note that although this variable is displayed on the web map at the census tract level, the model input was at the census block level.</li>
         <li><i>Rationale</i>: Voting location/drop off should be proximal to communities with low VBM usage. </li>
