@@ -1,1 +1,20 @@
 ,osm_id,code,fclass,name,lon,lat
+0,358824428,2005.0,post_office,Magalia Post Office,-121.57969,39.80655
+1,358824460,2005.0,post_office,Paradise Post Office,-121.6247,39.75488
+2,358824480,2005.0,post_office,Biggs Post Office,-121.71019,39.41307
+3,358824558,2005.0,post_office,Gridley Post Office,-121.69664,39.36489
+4,368169563,2007.0,library,Durham Branch Butte County Library,-121.80967,39.64912
+5,368167715,2002.0,fire_station,Fire Station Number 2,-121.84831,39.74266
+6,368169565,2007.0,library,Paradise Branch Butte County Library,-121.60664,39.75877
+7,368169567,2007.0,library,Chico Branch Butte County Library,-121.83442,39.74349
+8,368169568,2007.0,library,Meriam Library,-121.84609,39.72849
+9,368169569,2007.0,library,Biggs Branch Butte County Library,-121.71029,39.41347
+10,368169570,2007.0,library,Butte County Library,-121.55303,39.50628
+11,368169564,2007.0,library,Gridley Branch Butte County Library,-121.69108,39.36656
+12,368171441,2008.0,town_hall,Biggs City Hall,-121.71067,39.41387
+13,368171442,2008.0,town_hall,Chico City Hall,-121.83802,39.72861
+14,368171459,2008.0,town_hall,Gridley City Hall,-121.69719,39.36544
+15,475875699,2002.0,fire_station,Station Five,-121.80558,39.76182
+16,993415925,2001.0,police,College Police,-121.64972,39.64894
+17,5600856273,2005.0,post_office,,-121.59731,39.77144
+18,5558950412,2001.0,police,Campus Security Office,-121.84375,39.7278

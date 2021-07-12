@@ -1,5 +1,1 @@
-name,address,lat,lon,ElecDayVotes,EarlyVotes,BallotsCast,WaitTimeHr
-Mark Twain Union Elementary School District Office,981 Tuolumne Avenue  Angels Camp  CA 95222,38.07294,-120.55024,,,,
-Government Center Elections Office,981 Tuolumne Avenue Angels Camp CA 95222,38.19086,-120.66708,,,,
-Jenny Lind Veterans Memorial Hall ,300 Daphne Street  Valley Springs  CA 95252,38.18982,-120.83208,,,,
-Mokelumne Hill Town Hall ,8283 Main Street  Mokelumne Hill  CA 95245,38.30094,-120.70619,,,,
+Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
