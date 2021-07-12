@@ -187,7 +187,7 @@ const DATA_LAYERS = {};
 
 DATA_LAYERS.four_day_sites = {
     id: 'four_day_sites',
-    title: "Suggested Areas for 4 Day Vote Centers",
+    title: "Suggested Areas for 4 Day Vote Locations",
     csvfile: 'model_files/four_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
@@ -200,7 +200,7 @@ DATA_LAYERS.four_day_sites = {
 
 DATA_LAYERS.eleven_day_sites = {
     id: 'eleven_day_sites',
-    title: "Suggested Areas for 11 Day Vote Centers",
+    title: "Suggested Areas for 11 Day Vote Locations",
     csvfile: 'model_files/eleven_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
@@ -234,7 +234,7 @@ DATA_LAYERS.all_sites_scored = {
 };
 DATA_LAYERS.additional_sites_model = {
     id: 'additional_sites_model',
-    title: "Additional Vote Center Options Based on Model",
+    title: "Additional Vote Location Options Based on Model",
     csvfile: 'model_files/additional_sites_model.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
@@ -246,7 +246,7 @@ DATA_LAYERS.additional_sites_model = {
 };
 DATA_LAYERS.additional_sites_distance = {
     id: 'additional_sites_distance',
-    title: "Additional Vote Center Options Based on Distance",
+    title: "Additional Vote Location Options Based on Distance",
     csvfile: 'model_files/additional_sites_distance.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
