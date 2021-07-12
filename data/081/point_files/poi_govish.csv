@@ -1,1 +1,117 @@
 ,osm_id,code,fclass,name,lon,lat
+0,358830559,2005.0,post_office,El Granada Post Office,-122.46942,37.50327
+1,358830581,2005.0,post_office,Moss Beach Post Office,-122.51403,37.52873
+2,597505555,2001.0,police,"San Mateo County Sheriff, Moss Beach Substation",-122.51293,37.52773
+3,358830577,2005.0,post_office,Linda Mar Station Pacifica Post Office,-122.49777,37.59872
+4,368170046,2007.0,library,Pacifica Sharp Park Library,-122.49195,37.63218
+5,3380798822,2005.0,post_office,The UPS Store,-122.49528,37.60941
+6,5970698733,2008.0,town_hall,City Hall,-122.49078,37.63509
+7,358830428,2005.0,post_office,Pacifica Post Office,-122.49267,37.64925
+8,358830482,2005.0,post_office,Westlake Station Daly City Post Office,-122.48402,37.6972
+9,368170019,2007.0,library,Westlake Branch Daly City Public Library,-122.48522,37.69714
+10,529895129,2002.0,fire_station,Fire Station 71,-122.49022,37.64618
+11,1747594998,2005.0,post_office,The UPS Store,-122.48235,37.70125
+12,7921325292,2008.0,town_hall,South San Francisco City Hall,-122.41307,37.65616
+13,911315465,2002.0,fire_station,SBFD - Station 51,-122.41393,37.62428
+14,6704967525,2005.0,post_office,Postal Annex,-122.42673,37.62567
+15,7920203759,2008.0,town_hall,San Bruno City Hall,-122.41452,37.62476
+16,262935495,2001.0,police,Burlingame Police Department,-122.38201,37.59514
+17,267292657,2002.0,fire_station,Millbrae Fire Station #38,-122.4154,37.5933
+18,358830667,2005.0,post_office,Millbrae Post Office,-122.39136,37.60021
+19,368170033,2007.0,library,Peninsula Hospital Health Sciences Library,-122.38312,37.59203
+20,368170035,2007.0,library,Millbrae Branch San Mateo County Library,-122.39702,37.60229
+21,368171840,2008.0,town_hall,Millbrae City Hall,-122.39634,37.60285
+22,426312751,2002.0,fire_station,Burlingame No 35,-122.38347,37.57934
+23,1050139899,2002.0,fire_station,,-122.39551,37.60251
+24,1050139911,2001.0,police,,-122.39587,37.60268
+25,1050139915,2005.0,post_office,US Post Office - Millbrae Branch,-122.3942,37.60258
+26,4297322589,2005.0,post_office,,-122.39321,37.60186
+27,341582773,2008.0,town_hall,Hillsborough City Hall,-122.35621,37.57758
+28,341591388,2001.0,police,,-122.35601,37.57811
+29,368167664,2002.0,fire_station,Burlingame Number 34,-122.35387,37.58327
+30,368167665,2002.0,fire_station,Burlingame No 36,-122.3673,37.5909
+31,368169971,2007.0,library,Easton Drive Branch Burlingame Public Library,-122.37164,37.58382
+32,2854365403,2009.0,courthouse,San Mateo County Court,-122.32845,37.58163
+33,3543085958,2005.0,post_office,Burlingame Post Office,-122.34872,37.57815
+34,271265675,2002.0,fire_station,Central County Fire Station 33,-122.37815,37.55492
+35,358831222,2005.0,post_office,Loma Mar Post Office,-122.30886,37.26939
+36,358831226,2005.0,post_office,San Gregorio Post Office,-122.38675,37.32692
+37,3106233092,2002.0,fire_station,Kings Mountain Fire Station,-122.32084,37.43581
+38,368167653,2002.0,fire_station,Fire Station Number 7,-122.33315,37.52239
+39,480664465,2002.0,fire_station,Fire Station 15,-122.30374,37.51257
+40,2975392797,2005.0,post_office,,-122.33742,37.52147
+41,8340090911,2009.0,courthouse,San Mateo County Juvenile Court,-122.33612,37.51266
+42,368170027,2007.0,library,Marina Branch San Mateo Public Library,-122.2931,37.55644
+43,8468035647,2007.0,library,Bowditch Middle School Library,-122.24853,37.55976
+44,2648526029,2001.0,police,South Fair Oaks Substation,-122.20549,37.47294
+45,358830736,2005.0,post_office,Belmont Post Office,-122.27549,37.52262
+46,368171850,2008.0,town_hall,Belmont City Hall,-122.2733,37.51744
+47,1153392632,2005.0,post_office,PostalAnnex,-122.25199,37.52351
+48,2975364110,2005.0,post_office,The UPS Store,-122.25657,37.5534
+49,358816532,2005.0,post_office,Oak Grove Station Menlo Park Post Office,-122.1847,37.45353
+50,368168624,2002.0,fire_station,Menlo Park Fire District Station 3,-122.20667,37.4625
+51,2776428890,2001.0,police,Atherton Police Station,-122.19765,37.46363
+52,2776429225,2005.0,post_office,,-122.19753,37.46361
+53,7920861864,2008.0,town_hall,Menlo Park City Hall,-122.1774,37.45381
+54,368170001,2007.0,library,McKeon Memorial Library,-122.16813,37.4593
+55,368169992,2007.0,library,Atherton Branch San Mateo County Library,-122.19663,37.46299
+56,368171834,2008.0,town_hall,Atherton City Hall,-122.19717,37.46356
+57,2648526025,2001.0,police,San Mateo County Sheriff,-122.20554,37.47298
+58,6493006057,2007.0,library,Christian Science Reading Room,-122.38427,37.61571
+59,8864846629,2008.0,town_hall,Brisbane City Hall,-122.40246,37.68679
+60,8864846630,2001.0,police,Brisbane Police Department,-122.40279,37.68692
+61,8891003934,2005.0,post_office,,-122.27466,37.32004
+62,368167655,2002.0,fire_station,Fire Station Number 6,-122.28773,37.5496
+63,368170021,2007.0,library,San Carlos Branch San Mateo County Library,-122.26233,37.50362
+64,368170032,2007.0,library,Belmont Branch San Mateo County Library,-122.29318,37.50883
+65,368171843,2008.0,town_hall,San Carlos City Hall,-122.26269,37.50434
+66,413305480,2001.0,police,,-122.29185,37.54209
+67,1211004418,2005.0,post_office,The UPS Store,-122.27573,37.52163
+68,1312469122,2008.0,town_hall,Belmont City Hall,-122.27667,37.51814
+69,1260283177,2007.0,library,USGS Library,-122.17046,37.45688
+70,368168629,2002.0,fire_station,Fire Station 10,-122.25417,37.46528
+71,368168631,2002.0,fire_station,Fire Station 12,-122.23944,37.475
+72,368170012,2007.0,library,Schaberg Branch Redwood City Public Library,-122.24311,37.4665
+73,640501219,2002.0,fire_station,Fire Station 16,-122.26357,37.48916
+74,1251634957,2005.0,post_office,San Carlos Post Office,-122.25761,37.50372
+75,4128740359,2001.0,police,San Carlos Police Station,-122.26239,37.50409
+76,368168625,2002.0,fire_station,Menlo Park Fire District Station 2,-122.14107,37.46826
+77,368169991,2007.0,library,East Palo Alto Branch San Mateo County Library,-122.13989,37.47234
+78,8246386479,2005.0,post_office,United States Post Office,-122.47267,37.69226
+79,8258390372,2002.0,fire_station,,-122.46677,37.68757
+80,906945694,2002.0,fire_station,SBFD - Station 52,-122.44623,37.62447
+81,368171839,2008.0,town_hall,East Palo Alto City Hall,-122.14012,37.47239
+82,2296368402,2005.0,post_office,US Postal Office,-122.18409,37.47873
+83,358831205,2005.0,post_office,Station A Redwood City Post Office,-122.22774,37.45772
+84,1935789113,2002.0,fire_station,,-122.26702,37.45725
+85,4236834411,2005.0,post_office,FedEx,-122.24019,37.49047
+86,4703925820,2005.0,post_office,United States Post Office,-122.22889,37.45579
+87,6408085533,2005.0,post_office,The UPS Store,-122.23879,37.48894
+88,8474021916,2001.0,police,police speed trap,-122.24009,37.43816
+89,358831179,2005.0,post_office,Woodside Post Office,-122.25296,37.42907
+90,368169993,2007.0,library,Woodside Branch San Mateo County Library,-122.25802,37.42911
+91,368171836,2008.0,town_hall,Woodside City Hall,-122.25103,37.42802
+92,1935789114,2002.0,fire_station,,-122.25647,37.42868
+93,358830381,2005.0,post_office,Chestnut Station South San Francisco Post Office,-122.43146,37.65528
+94,358830616,2005.0,post_office,Vista Grande Station Daly City Post Office,-122.45525,37.70771
+95,368167652,2002.0,fire_station,Fire Station 63,-122.43682,37.6552
+96,368170015,2007.0,library,John D Daly Branch Daly City Public Library,-122.46278,37.7019
+97,1573607155,2007.0,library,Serramonte Main Library,-122.47043,37.66306
+98,1573722768,2002.0,fire_station,,-122.4697,37.66306
+99,7827733257,2005.0,post_office,U.S. Post Office Colma Station,-122.46558,37.69022
+100,8245534233,2005.0,post_office,The UPS Store,-122.46391,37.70037
+101,358830895,2005.0,post_office,San Mateo Post Office,-122.30891,37.55599
+102,358830899,2005.0,post_office,Station A San Mateo Post Office,-122.30788,37.54344
+103,368167173,2099.0,public_building,San Mateo County Community College District Office,-122.33737,37.53042
+104,368171844,2008.0,town_hall,San Mateo City Hall,-122.32553,37.56632
+105,552479326,2002.0,fire_station,Hillsborough No 32,-122.34593,37.56034
+106,2452235992,2001.0,police,,-122.32346,37.56726
+107,2975197133,2005.0,post_office,The UPS Store,-122.32841,37.53347
+108,5391230842,2001.0,police,South San Francisco Police Department,-122.43667,37.65568
+109,7921646205,2008.0,town_hall,Colma Town Hall,-122.4588,37.67664
+110,358831210,2005.0,post_office,West Menlo Park Branch Menlo Park Post Office,-122.20206,37.43165
+111,368168627,2002.0,fire_station,Menlo Park Fire District Station 4,-122.20639,37.43389
+112,482787510,2005.0,post_office,The UPS Store,-122.19744,37.42329
+113,1744846254,2005.0,post_office,The UPS Store,-122.19328,37.40179
+114,368169996,2007.0,library,Portola Valley Branch San Mateo County Library,-122.2299,37.38193
+115,368171837,2008.0,town_hall,Portola Valley Town Hall,-122.22879,37.38202

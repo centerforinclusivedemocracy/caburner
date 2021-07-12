@@ -1,1 +1,35 @@
 ,osm_id,code,fclass,name,lon,lat
+0,4216517006,2002.0,fire_station,Cal Fire Murphys Forest Fire Station,-120.4513,38.1443
+1,358832929,2005.0,post_office,Burson Post Office,-120.89022,38.18325
+2,358832932,2005.0,post_office,Campo Seco Post Office,-120.85327,38.22797
+3,358832946,2005.0,post_office,San Andreas Post Office,-120.68677,38.19781
+4,358832949,2005.0,post_office,Valley Springs Post Office,-120.82994,38.19159
+5,358832971,2005.0,post_office,Murphys Post Office,-120.45792,38.13797
+6,368167618,2009.0,courthouse,Calaveras County Courthouse,-120.68132,38.19603
+7,368169906,2007.0,library,Murphys Branch Calaveras County Library,-120.46341,38.13636
+8,368169908,2007.0,library,Calaveras County Law Library,-120.66604,38.19103
+9,368169917,2007.0,library,Calaveras County Library,-120.68049,38.19714
+10,368171036,2099.0,public_building,Calaveras County Government Center,-120.66604,38.19103
+11,368171906,2008.0,town_hall,San Andreas Town Hall,-120.68132,38.19575
+12,2085378874,2002.0,fire_station,,-120.54229,38.22766
+13,358832977,2005.0,post_office,Altaville Post Office,-120.55282,38.07833
+14,358833035,2005.0,post_office,Copperopolis Post Office,-120.6402,37.97992
+15,368169907,2007.0,library,Angels Camp Branch Calaveras County Library,-120.54187,38.07131
+16,368171902,2008.0,town_hall,Angels Camp City Hall,-120.54937,38.07659
+17,2085378876,2005.0,post_office,,-120.54178,38.22755
+18,2085378877,2002.0,fire_station,California Department of Forestry Esparanza Forest Fire Station,-120.51581,38.24295
+19,2085379787,2008.0,town_hall,,-120.54219,38.22785
+20,3487013445,2005.0,post_office,,-120.54031,38.0694
+21,3487013446,2002.0,fire_station,"Fire Station, Volunteer",-120.53735,38.06897
+22,3487013447,2002.0,fire_station,Alta Melones Fire District,-120.55735,38.08061
+23,7027466154,2007.0,library,Angels Camp Branch Library,-120.56647,38.08606
+24,8335343010,2007.0,library,Calaveras County Library,-120.60381,37.93818
+25,358832904,2005.0,post_office,Mokelumne Hill Post Office,-120.70602,38.30159
+26,358832919,2005.0,post_office,West Point Post Office,-120.52882,38.40186
+27,368169904,2007.0,library,West Point Branch Calaveras County Library,-120.52965,38.40075
+28,2085378879,2002.0,fire_station,Central Calaveras Fire Station 1,-120.51167,38.28423
+29,358832894,2005.0,post_office,Camp Connell Post Office,-120.27714,38.31019
+30,358832926,2005.0,post_office,Arnold Post Office,-120.34909,38.25714
+31,358832956,2005.0,post_office,Avery Post Office,-120.36909,38.20436
+32,368169905,2007.0,library,Arnold Branch Calaveras County Library,-120.35464,38.25492
+33,3608363593,2002.0,fire_station,Dorrington Station 22,-120.26104,38.31878

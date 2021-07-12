@@ -1,1 +1,62 @@
 ,osm_id,code,fclass,name,lon,lat
+0,368167717,2002.0,fire_station,Station 20,-121.12437,38.82454
+1,368167720,2002.0,fire_station,Loomis Fire Station Number 2,-121.14113,38.81028
+2,3143049779,2002.0,fire_station,,-120.51786,39.30681
+3,358823778,2005.0,post_office,Lincoln Post Office,-121.29162,38.89156
+4,368169554,2007.0,library,Lincoln Public Library,-121.29135,38.89203
+5,368171447,2008.0,town_hall,Lincoln City Hall,-121.29051,38.89156
+6,2366463240,2005.0,post_office,United States Post Office,-121.29094,38.88487
+7,2366463342,2001.0,police,,-121.29379,38.89488
+8,4521168200,2005.0,post_office,The UPS Store,-121.29419,38.87861
+9,792205678,2005.0,post_office,The UPS Store,-121.31079,38.76087
+10,1099552944,2005.0,post_office,PostalAnnex,-121.31112,38.75387
+11,358823635,2005.0,post_office,Tahoe City Post Office,-120.13637,39.17395
+12,358823763,2005.0,post_office,Homewood Post Office,-120.15854,39.08152
+13,358823773,2005.0,post_office,Kings Beach Post Office,-120.02092,39.23616
+14,358823827,2005.0,post_office,Tahoe Vista Post Office,-120.0484,39.23973
+15,360988514,2005.0,post_office,,-120.22849,39.19958
+16,360988559,2005.0,post_office,Olympic Valley,-120.22849,39.19958
+17,368169551,2007.0,library,Kings Beach Branch Auburn-Placer County Library,-120.03006,39.23857
+18,368169553,2007.0,library,Tahoe City Branch Auburn-Placer County Library,-120.13858,39.17259
+19,2414331620,2002.0,fire_station,Station 51,-120.14786,39.16752
+20,7566849099,2005.0,post_office,Olympic Valley Post Office,-120.22872,39.1996
+21,8423821015,2001.0,police,Ski patrol,-120.12656,39.26381
+22,368169548,2007.0,library,Loomis Branch Auburn-Placer County Library,-121.19059,38.81998
+23,626997524,2002.0,fire_station,South Placer FPD Station 19,-121.16379,38.76601
+24,5402931080,2001.0,police,Placer County Sheriff - South Placer Substation,-121.19098,38.81753
+25,5402931094,2005.0,post_office,Mail Biz Etc.,-121.19081,38.81822
+26,358823869,2005.0,post_office,Rocklin Post Office,-121.23961,38.78491
+27,1342066313,2001.0,police,,-121.23287,38.78819
+28,3184251802,2005.0,post_office,,-121.22232,38.79856
+29,5379572660,2005.0,post_office,The UPS Store,-121.20459,38.80021
+30,1416733993,2002.0,fire_station,,-121.25498,38.80711
+31,358809699,2005.0,post_office,Blue Canyon Post Office,-120.70966,39.2549
+32,358823618,2005.0,post_office,Colfax Post Office,-120.95511,39.09929
+33,358823626,2005.0,post_office,Foresthill Post Office,-120.82637,39.01959
+34,358823648,2005.0,post_office,Weimar Post Office,-120.97283,39.04355
+35,368168990,2007.0,library,Colfax Branch Auburn-Placer County Library,-120.95482,39.09934
+36,1834843123,2005.0,post_office,U.S. Post Office,-120.85516,39.18059
+37,1867002308,2001.0,police,California Highway Patrol Gold Run,-120.8345,39.18824
+38,1982624653,2002.0,fire_station,Foresthill Fire Station,-120.80638,39.02389
+39,2020521805,2002.0,fire_station,Iowa Hill Volunteer Fire Department,-120.85763,39.10982
+40,2020521894,2005.0,post_office,,-120.86026,39.10714
+41,2503344036,2002.0,fire_station,Placer Hills Fire Station,-120.97534,39.04454
+42,2533270445,2002.0,fire_station,,-120.94988,39.09838
+43,2533270447,2002.0,fire_station,,-120.9549,39.09984
+44,6075806993,2001.0,police,,-120.81657,39.02013
+45,358823720,2005.0,post_office,Applegate Post Office,-120.99467,38.99767
+46,358823850,2005.0,post_office,Newcastle Post Office,-121.13328,38.87351
+47,358823861,2005.0,post_office,Penryn Post Office,-121.16884,38.85184
+48,368168989,2007.0,library,Applegate Branch Auburn-Placer County Library,-120.99467,38.99767
+49,368171448,2008.0,town_hall,Auburn City Hall,-121.07411,38.89768
+50,2418620168,2002.0,fire_station,,-121.08042,38.8766
+51,2419576955,2002.0,fire_station,,-121.13032,38.90363
+52,2483251324,2009.0,courthouse,,-121.07686,38.89657
+53,5338304559,2005.0,post_office,,-121.08303,38.90746
+54,6075807004,2007.0,library,Foresthill Library,-120.81662,39.02007
+55,6353563129,2005.0,post_office,Mail 'N More,-121.09195,38.93546
+56,1014240664,2005.0,post_office,,-121.26266,38.74814
+57,1340871803,2005.0,post_office,FedEx Office,-121.25366,38.74463
+58,358823875,2005.0,post_office,United States Post Office,-121.28457,38.74732
+59,638798261,2001.0,police,Roseville Police,-121.29586,38.75982
+60,944918373,2002.0,fire_station,Vincent L. Kelley Jr. Memorial Fire Station,-121.28424,38.78297

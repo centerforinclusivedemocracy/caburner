@@ -1,1 +1,53 @@
 ,osm_id,code,fclass,name,lon,lat
+0,358835386,2005.0,post_office,La Grange Post Office,-120.4627,37.66382
+1,2267830591,2005.0,post_office,La Grange Post Office,-120.4612,37.66165
+2,368170356,2007.0,library,Oakdale Branch Stanislaus County Free Library,-120.84882,37.76465
+3,368171734,2008.0,town_hall,Oakdale City Hall,-120.84965,37.76826
+4,4659391330,2002.0,fire_station,,-120.84664,37.76507
+5,7434921738,2008.0,town_hall,,-120.93601,37.73577
+6,358835189,2005.0,post_office,Hughson Post Office,-120.86559,37.59693
+7,358835191,2005.0,post_office,Hickman Post Office,-120.75521,37.62354
+8,358835410,2005.0,post_office,Waterford Post Office,-120.75965,37.63993
+9,368167858,2002.0,fire_station,Fire Station Number 2,-120.85271,37.49438
+10,368167863,2002.0,fire_station,Fire Station Number 1,-120.84042,37.49538
+11,368170358,2007.0,library,Waterford Branch Stanislaus County Free Library,-120.76048,37.64243
+12,368170388,2007.0,library,Denair Branch Stanislaus County Free Library,-120.79354,37.52743
+13,368170392,2007.0,library,Turlock Branch Stanislaus County Free Library,-120.83944,37.49786
+14,368170393,2007.0,library,Emanuel Medical Center Library,-120.83882,37.51132
+15,368170394,2007.0,library,Hughson Branch Stanislaus County Free Library,-120.86604,37.59688
+16,368171761,2008.0,town_hall,Hughson City Hall,-120.86549,37.59743
+17,1693473943,2005.0,post_office,Denair Post Office,-120.7949,37.52753
+18,1693473948,2002.0,fire_station,Denair Fire Department,-120.79357,37.52861
+19,2104956339,2002.0,fire_station,,-120.84297,37.52216
+20,5244557099,2001.0,police,Turlock Police Department,-120.84856,37.4947
+21,5271583232,2005.0,post_office,The UPS Store,-120.88386,37.52145
+22,358835463,2005.0,post_office,Patterson Office,-121.13049,37.47104
+23,368170351,2007.0,library,Keyes Branch Stanislaus County Free Library,-120.90965,37.55207
+24,368170355,2007.0,library,Patterson Branch Stanislaus County Free Library,-121.1316,37.47178
+25,368171735,2008.0,town_hall,Patterson City Hall,-121.13132,37.47077
+26,1361032795,2002.0,fire_station,Patterson Fire Department,-121.13163,37.47059
+27,1419590305,2001.0,police,Sheriff Department,-121.1423,37.56297
+28,4553415347,2005.0,post_office,United States Post Office,-121.1319,37.47185
+29,358835479,2005.0,post_office,Valley Home Post Office,-120.91327,37.82937
+30,368171733,2008.0,town_hall,Riverbank City Hall,-120.93632,37.73632
+31,5041301651,2005.0,post_office,Riverbank post office,-120.93603,37.73428
+32,7434921739,2008.0,town_hall,,-120.936,37.73633
+33,7434921747,2007.0,library,,-120.93275,37.73566
+34,358835294,2005.0,post_office,Empire Post Office,-120.90104,37.63799
+35,358835374,2005.0,post_office,Ceres Post Office,-120.95493,37.59299
+36,368167144,2099.0,public_building,Yosemite Community College District Office,-121.03858,37.66091
+37,368167608,2009.0,courthouse,Stanislaus County Courthouse,-120.99738,37.63989
+38,368167859,2002.0,fire_station,Fire Station Number 2,-121.00493,37.6316
+39,368167866,2002.0,fire_station,Fire Station Number 4,-121.00271,37.65271
+40,368170347,2007.0,library,Modesto Junior College Library,-121.00994,37.65177
+41,368170349,2007.0,library,Empire Branch Stanislaus County Free Library,-120.90132,37.63826
+42,368170352,2007.0,library,Ceres Branch Stanislaus County Free Library,-120.95549,37.59292
+43,368170353,2007.0,library,Stanislaus County Law Library,-120.99746,37.63996
+44,368170354,2007.0,library,Modesto Branch Stanislaus County Free Library,-120.99355,37.64316
+45,368171732,2008.0,town_hall,Ceres City Hall,-120.95549,37.59299
+46,368171763,2008.0,town_hall,Modesto City Hall,-120.99771,37.63937
+47,1894053079,2002.0,fire_station,City of Modesto Fire Station # 11,-121.02309,37.70007
+48,2315852782,2002.0,fire_station,Fire Station,-120.95358,37.62806
+49,6042956059,2007.0,library,Rose Avenue Elementary School Library,-120.96598,37.65829
+50,368170350,2007.0,library,Salida Branch Stanislaus County Free Library,-121.07831,37.70842
+51,4217840445,2005.0,post_office,PostalAnnex,-121.06762,37.69854

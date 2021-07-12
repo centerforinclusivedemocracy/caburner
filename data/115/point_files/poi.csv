@@ -1,1 +1,50 @@
 osm_id,code,fclass,name,lon,lat
+358762503,2082.0,school,Brophy School,-121.48746,39.15073
+358762515,2082.0,school,Browns Valley Elementary School,-121.4083,39.23545
+358772123,2082.0,school,Oregon House School,-121.26996,39.34489
+358772566,2082.0,school,Peoria School,-121.37052,39.29684
+358776430,2082.0,school,Spring Valley School,-121.41857,39.26128
+358798055,2082.0,school,Hansonville School,-121.32607,39.43656
+358799618,2082.0,school,Sharon Valley School,-121.27163,39.47128
+358823158,2082.0,school,Dobbins Elementary School,-121.21051,39.37017
+358823162,2082.0,school,Foothill Elementary School,-121.41441,39.30378
+358823167,2082.0,school,Loma Rica Elementary School,-121.41719,39.311
+358823177,2082.0,school,Rose Bar School,-121.30413,39.20934
+358823186,2082.0,school,Yuba Feather Elementary School,-121.22163,39.48267
+6819313200,2501.0,supermarket,Smartsville Grocery,-121.29768,39.20711
+358823228,2082.0,school,Far West Elementary School,-121.3344,39.10406
+358823258,2082.0,school,Lone Tree Elementary School,-121.3344,39.10239
+7985642506,2303.0,cafe,Cuppy's Coffee & More,-121.43294,39.01518
+358760762,2082.0,school,Alicia Intermediate School,-121.57108,39.11156
+358764109,2082.0,school,Cordua Elementary School,-121.51571,39.20465
+358772893,2082.0,school,Plumas Elementary School,-121.51577,39.02737
+358777775,2082.0,school,Marysville High School,-121.58691,39.15684
+358778284,2082.0,school,Kynoch Elementary School,-121.57608,39.15823
+358823195,2082.0,school,Arboga Elementary School,-121.55524,39.05073
+358823213,2082.0,school,Covillaud Elementary School,-121.59274,39.14267
+358823265,2082.0,school,McKenney Intermediate School,-121.57219,39.15823
+2372329835,2082.0,school,Rio Del Oro Elementary School,-121.55317,39.01099
+2630561850,2082.0,school,Cobblestone Elementary,-121.54972,39.00263
+6601593410,2501.0,supermarket,FoodMaxx,-121.56981,39.12236
+8743238679,2303.0,cafe,Constant Grind,-121.51191,39.05032
+358823141,2005.0,post_office,Browns Valley Post Office,-121.40969,39.23961
+358823142,2005.0,post_office,Brownsville Post Office,-121.28246,39.45156
+358823149,2005.0,post_office,Camptonville Post Office,-121.05051,39.45184
+358823152,2005.0,post_office,Challenge Post Office,-121.22088,39.48407
+358823159,2005.0,post_office,Dobbins Post Office,-121.2069,39.37156
+358823170,2005.0,post_office,Oregon House Post Office,-121.27607,39.35711
+358823175,2005.0,post_office,Rackerby Post Office,-121.33135,39.43767
+6819313197,2002.0,fire_station,,-121.28929,39.20233
+6819313202,2002.0,fire_station,,-121.29586,39.20704
+6819313203,2005.0,post_office,,-121.29655,39.2062
+358823313,2005.0,post_office,Wheatland Post Office,-121.42301,39.01128
+368171446,2008.0,town_hall,Wheatland City Hall,-121.42692,39.01353
+358823264,2005.0,post_office,Marysville Post Office,-121.58691,39.13961
+368167576,2009.0,courthouse,Yuba County Courthouse,-121.58663,39.141
+368168985,2007.0,library,Library Learning Center Yuba Community College,-121.53961,39.12523
+368168991,2007.0,library,Yuba County Library,-121.58761,39.1377
+368168992,2007.0,library,Packard Library,-121.58747,39.13961
+368171443,2008.0,town_hall,Marysville City Hall,-121.58802,39.14128
+2390224623,2002.0,fire_station,,-121.5439,39.09119
+4705338396,2002.0,fire_station,Marysville Fire Department,-121.5855,39.14544
+6601600413,2005.0,post_office,United States Post Office,-121.55181,39.09837
