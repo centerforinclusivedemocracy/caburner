@@ -183,7 +183,7 @@ const DATA_LAYERS = {};
 
 DATA_LAYERS.four_day_sites = {
     id: 'four_day_sites',
-    title: "Suggested Areas for 4 Day Vote Locations",
+    title: "Suggested Areas for 4 Day Voting Locations",
     csvfile: 'model_files/four_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
@@ -196,7 +196,7 @@ DATA_LAYERS.four_day_sites = {
 
 DATA_LAYERS.eleven_day_sites = {
     id: 'eleven_day_sites',
-    title: "Suggested Areas for 11 Day Vote Locations",
+    title: "Suggested Areas for 11 Day Voting Locations",
     csvfile: 'model_files/eleven_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
@@ -230,7 +230,7 @@ DATA_LAYERS.all_sites_scored = {
 };
 DATA_LAYERS.additional_sites_model = {
     id: 'additional_sites_model',
-    title: "Additional Vote Location Options Based on Model",
+    title: "Additional Voting Location Options Based on Model",
     csvfile: 'model_files/additional_sites_model.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
@@ -242,7 +242,7 @@ DATA_LAYERS.additional_sites_model = {
 };
 DATA_LAYERS.additional_sites_distance = {
     id: 'additional_sites_distance',
-    title: "Additional Vote Location Options Based on Distance",
+    title: "Additional Voting Location Options Based on Distance",
     csvfile: 'model_files/additional_sites_distance.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
@@ -427,11 +427,11 @@ DATA_LAYERS.gen2020 = {
 };
 DATA_LAYERS.pripoll2020 = {
     id: 'pripoll2020',
-    title: "2020 Primary Vote Locations",
+    title: "2020 Primary Voting Locations",
     csvfile: 'point_files/primary_pollingplaces_2020.csv',
     circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 2, },
     popupnamefield: 'name',
-    popuptypetext: '2020 Primary Vote Location',
+    popuptypetext: '2020 Primary Voting Location',
     downloadfile: 'point_files/primaryvote_2020.csv',
     mapzindex: 'highest',
     layertype: 'pois'
