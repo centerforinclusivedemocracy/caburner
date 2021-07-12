@@ -11,13 +11,13 @@
 // exceptlayers = skip these layers when loading the data profile, for counties to opt-out from individual layers
 const PARTICIPATING_COUNTIES = [
     //SSS// We have 3 classes for CA: lite for the 4 VBM counties, fullmodel for polling places, and fullmodel for vote centers
-    { countyfp: "001", name: "Alameda", profile: 'fullmodel', },
+    { countyfp: "001", name: "Alameda", profile: 'inprogress', },
     { countyfp: "003", name: "Alpine", profile: 'lite', },
     { countyfp: "005", name: "Amador", profile: 'fullmodel', },
     { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing vote location suggestions for this county.", },
     { countyfp: "009", name: "Calaveras", profile: 'fullmodel', },
     { countyfp: "011", name: "Colusa", profile: 'fullmodel', },
-    { countyfp: "013", name: "Contra Costa", profile: 'fullmodel', },
+    { countyfp: "013", name: "Contra Costa", profile: 'inprogress', },
     { countyfp: "015", name: "Del Norte", profile: 'fullmodel', },
     { countyfp: "017", name: "El Dorado", profile: 'fullmodel', },
     { countyfp: "019", name: "Fresno", profile: 'fullmodel', },
@@ -25,11 +25,11 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "023", name: "Humboldt", profile: 'fullmodel', },
     { countyfp: "025", name: "Imperial", profile: 'fullmodel', },
     { countyfp: "027", name: "Inyo", profile: 'fullmodel', },
-    { countyfp: "029", name: "Kern", profile: 'fullmodel', },
+    { countyfp: "029", name: "Kern", profile: 'inprogress', },
     { countyfp: "031", name: "Kings", profile: 'fullmodel', },
     { countyfp: "033", name: "Lake", profile: 'fullmodel', },
     { countyfp: "035", name: "Lassen", profile: 'fullmodel', outoforder:"Vote-by-mail data update in progress." },
-    { countyfp: "037", name: "Los Angeles", profile: 'fullmodel', },
+    { countyfp: "037", name: "Los Angeles", profile: 'inprogress', },
     { countyfp: "039", name: "Madera", profile: 'fullmodel', },
     { countyfp: "041", name: "Marin", profile: 'fullmodel', },
     { countyfp: "043", name: "Mariposa", profile: 'fullmodel', },
@@ -40,23 +40,23 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "053", name: "Monterey", profile: 'fullmodel', },
     { countyfp: "055", name: "Napa", profile: 'fullmodel', },
     { countyfp: "057", name: "Nevada", profile: 'fullmodel', },
-    { countyfp: "059", name: "Orange", profile: 'fullmodel', },
+    { countyfp: "059", name: "Orange", profile: 'inprogress', },
     { countyfp: "061", name: "Placer", profile: 'fullmodel', },
     { countyfp: "063", name: "Plumas", profile: 'lite', },
-    { countyfp: "065", name: "Riverside", profile: 'fullmodel', },
+    { countyfp: "065", name: "Riverside", profile: 'inprogress', },
     { countyfp: "067", name: "Sacramento", profile: 'fullmodel', },
     { countyfp: "069", name: "San Benito", profile: 'fullmodel', },
-    { countyfp: "071", name: "San Bernardino", profile: 'fullmodel', },
-    { countyfp: "073", name: "San Diego", profile: 'fullmodel', },
+    { countyfp: "071", name: "San Bernardino", profile: 'inprogress', },
+    { countyfp: "073", name: "San Diego", profile: 'inprogress', },
     { countyfp: "075", name: "San Francisco", profile: 'fullmodel', },
     { countyfp: "077", name: "San Joaquin", profile: 'fullmodel', },
     { countyfp: "079", name: "San Luis Obispo", profile: 'fullmodel', },
     { countyfp: "081", name: "San Mateo", profile: 'fullmodel', },
     { countyfp: "083", name: "Santa Barbara", profile: 'fullmodel', },
-    { countyfp: "085", name: "Santa Clara", profile: 'fullmodel', },
+    { countyfp: "085", name: "Santa Clara", profile: 'inprogress', },
     { countyfp: "087", name: "Santa Cruz", profile: 'fullmodel', },
     { countyfp: "089", name: "Shasta", profile: 'fullmodel', },
-    { countyfp: "091", name: "Sierra", profile: 'lite', },
+    { countyfp: "091", name: "Sierra", profile: 'inprogress', },
     { countyfp: "093", name: "Siskiyou", profile: 'fullmodel', },
     { countyfp: "095", name: "Solano", profile: 'fullmodel', },
     { countyfp: "097", name: "Sonoma", profile: 'fullmodel', },
@@ -549,6 +549,8 @@ DATA_PROFILES.lite.pointsofinterest = [
 DATA_PROFILES.fullexceptsuggested = Object.assign({}, DATA_PROFILES.fullmodel);  // a specific one that's full but we hide the Suggested Areas, but keep others
 DATA_PROFILES.fullexceptsuggested.suggestedareas = [];
 DATA_PROFILES.fullexceptsuggested.additionalareas = [];
+
+DATA_PROFILES.inprogress = Object.assign({}, DATA_PROFILES.fullmodel);
 
 
 // popup hacks: some counties need random hacks to their popup content, e.g. Los Angeles 2020 Primary Vote Center Locations has a bunch of extra fields
