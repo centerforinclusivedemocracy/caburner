@@ -13,18 +13,18 @@ L.Control.SuggestedAreaDetails = L.Control.extend({
         this.container.innerHTML = '<h4>Characteristics of Suggested Area (0.5 mi. Square)</h4>';
 
         this.detailsarea = L.DomUtil.create('div', 'leaflet-suggestedarea-details', this.container);
-        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="vage"></span> County Percentage of Voting Age Citizens<br/>';
-        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="cowo"></span> County Worker Percentage<br/>';
+        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="vage"></span> Percent of County Voting Age Citizens<br/>';
+        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="cowo"></span> Percent of County Workers<br/>';
         this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="popd"></span> Population Density<br/>';
         this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="pcar"></span> Percent of Population with Vehicle Access<br/>';
-        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="nonv"></span> Eligible Non-Registered Voter Rate<br/>';
-        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="disb"></span> Percent Disabled Population<br/>';
-        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="latn"></span> Percent Latino Population<br/>';
-        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="noen"></span> Percent Limited English Proficient Population<br/>';
+        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="nonv"></span> Percent of Eligible Voters Not Registered<br/>';
+        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="disb"></span> Disabilites Percent of Population<br/>';
+        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="latn"></span> Latino Percent of Population<br/>';
+        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="noen"></span> Limited English Proficient Percent of Population<br/>';
         this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="povr"></span> Percent of the Population in Poverty<br/>';
-        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="yout"></span> Percent of Population Youth<br/>';
+        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="yout"></span> Youth Percent of Population<br/>';
         this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="vbmr"></span> Vote by Mail Rate (Total)<br/>';
-        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="poll"></span> Polling Place Voter Percentage<br/>';
+        this.detailsarea.innerHTML += '<span class="leaflet-suggestedarea-swatch" data-swatch="poll"></span> Voting Location Voter Percentage<br/>';
 
         this.closebutton = L.DomUtil.create('a', 'leaflet-suggestedarea-closebutton', this.container);
         this.closebutton.setAttribute('href', 'javascript:void(0);');
