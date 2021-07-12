@@ -1,0 +1,590 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+4701,Bill Graham Civic Auditorium,"Civic Center Auditorium, 99 Grove St, San Francisco, CA 94102, USA",37.77814,-122.41744,4702.0,CA,SAN FRANCISCO COUNTY,Locality wide location,False,False,1.0
+4702,Ingleside Police Station - Community Room,"1 Sgt John V Young Ln, San Francisco, CA 94112, USA",37.72474,-122.44628,4703.0,CA,SAN FRANCISCO COUNTY,Pct 1101,False,False,1.0
+4703,Garage,"430 Capistrano Ave, San Francisco, CA 94112, USA",37.72519,-122.43921,4704.0,CA,SAN FRANCISCO COUNTY,Pct 1102,False,False,1.0
+4704,Garage,"2 San Gabriel Ave, San Francisco, CA 94112, USA",37.72935,-122.438,4705.0,CA,SAN FRANCISCO COUNTY,Pct 1103,False,False,1.0
+4705,Church - Corpus Christi,"62 Santa Rosa Ave, San Francisco, CA 94112, USA",37.72648,-122.43525,4706.0,CA,SAN FRANCISCO COUNTY,Pct 1104/1105,False,False,1.0
+4706,Temple United Methodist Church,"65 Beverly St, San Francisco, CA 94132, USA",37.71739,-122.47182,4707.0,CA,SAN FRANCISCO COUNTY,Pct 1106,False,False,1.0
+4707,Jose Ortega Elementary School - Lobby,"400 Sargent St, San Francisco, CA 94132, USA",37.7164,-122.4663,4708.0,CA,SAN FRANCISCO COUNTY,Pct 1107,False,False,1.0
+4708,Garage,"583 Victoria St, San Francisco, CA 94132, USA",37.72125,-122.46568,4709.0,CA,SAN FRANCISCO COUNTY,Pct 1108,False,False,1.0
+4709,Holloway Terrace,"1099 Capitol Ave, San Francisco, CA 94112, USA",37.72184,-122.45923,4710.0,CA,SAN FRANCISCO COUNTY,Pct 1109,False,False,1.0
+4710,Garage,"315 Holloway Ave, San Francisco, CA 94112, USA",37.7217,-122.45648,4711.0,CA,SAN FRANCISCO COUNTY,Pct 1111,False,False,1.0
+4711,Firehouse #15,"1000 Ocean Ave, San Francisco, CA 94112, USA",37.72349,-122.45288,4712.0,CA,SAN FRANCISCO COUNTY,Pct 1112,False,False,1.0
+4712,James Denman School - Front Lobby,"241 Oneida Ave, San Francisco, CA 94112, USA",37.72163,-122.44295,4713.0,CA,SAN FRANCISCO COUNTY,Pct 1113,False,False,1.0
+4713,Balboa Baptist Church,"200 Onondaga Ave, San Francisco, CA 94112, USA",37.72294,-122.44147,4714.0,CA,SAN FRANCISCO COUNTY,Pct 1114,False,False,1.0
+4714,I. T. Bookman Comm Ctr - Mult Purpose Rm,"446 Randolph St, San Francisco, CA 94132, USA",37.7145,-122.46685,4715.0,CA,SAN FRANCISCO COUNTY,Pct 1115,False,False,1.0
+4715,Ocean View Library,"345 Randolph St, San Francisco, CA 94132, USA",37.71415,-122.46599,4716.0,CA,SAN FRANCISCO COUNTY,Pct 1116,False,False,1.0
+4716,Garage,"265 Minerva St, San Francisco, CA 94112, USA",37.71559,-122.46122,4717.0,CA,SAN FRANCISCO COUNTY,Pct 1117,False,False,1.0
+4717,Minnie & Lovie Rec Center - Gymnasium,"650 Capitol Ave, San Francisco, CA 94112, USA",37.71575,-122.45735,4718.0,CA,SAN FRANCISCO COUNTY,Pct 1118,False,False,1.0
+4718,Garage,"2584 San Jose Avenue, San Francisco, CA 94112, USA",37.71674,-122.45023,4719.0,CA,SAN FRANCISCO COUNTY,Pct 1119,False,False,1.0
+4719,Cayuga Playground Clubhouse,"301 Naglee Ave, San Francisco, CA 94112, USA",37.71385,-122.45044,4720.0,CA,SAN FRANCISCO COUNTY,Pct 1121,False,False,1.0
+4720,Geneva Powerhouse,"2301 San Jose Avenue, San Francisco, CA 94112, USA",37.72023,-122.44677,4721.0,CA,SAN FRANCISCO COUNTY,Pct 1122,False,False,1.0
+4721,Sheridan School - Auditorium Lobby,"431 Capitol Ave, San Francisco, CA 94112, USA",37.7146,-122.45964,4722.0,CA,SAN FRANCISCO COUNTY,Pct 1123,False,False,1.0
+4722,Garage,"155 Sadowa St, San Francisco, CA 94112, USA",37.71213,-122.45767,4723.0,CA,SAN FRANCISCO COUNTY,Pct 1124,False,False,1.0
+4723,Firehouse #33,"8 Capitol Ave, San Francisco, CA 94112, USA",37.71088,-122.45863,4724.0,CA,SAN FRANCISCO COUNTY,Pct 1125,False,False,1.0
+4724,S F Christian Center,"5833 Mission St, San Francisco, CA 94112, USA",37.7091,-122.45109,4725.0,CA,SAN FRANCISCO COUNTY,Pct 1126,False,False,1.0
+4725,Garage,"483 Ellington Ave, San Francisco, CA 94112, USA",37.71116,-122.44789,4726.0,CA,SAN FRANCISCO COUNTY,Pct 1127,False,False,1.0
+4726,Garage,"55 Mt Vernon Ave, San Francisco, CA 94112, USA",37.71528,-122.44388,4727.0,CA,SAN FRANCISCO COUNTY,Pct 1128,False,False,1.0
+4727,Longfellow School - Front Lobby,"755 Morse St, San Francisco, CA 94112, USA",37.71033,-122.44664,4728.0,CA,SAN FRANCISCO COUNTY,Pct 1129,False,False,1.0
+4728,Garage,"666 Morse St, San Francisco, CA 94112, USA",37.71138,-122.44563,4729.0,CA,SAN FRANCISCO COUNTY,Pct 1131,False,False,1.0
+4729,Garage,"143 Pope St, San Francisco, CA 94112, USA",37.71345,-122.44075,4730.0,CA,SAN FRANCISCO COUNTY,Pct 1132,False,False,1.0
+4730,Garage,"494 Pope St, San Francisco, CA 94112, USA",37.70841,-122.44063,4731.0,CA,SAN FRANCISCO COUNTY,Pct 1133,False,False,1.0
+4731,Garage,"39 Naylor St, San Francisco, CA 94112, USA",37.71107,-122.43355,4732.0,CA,SAN FRANCISCO COUNTY,Pct 1134,False,False,1.0
+4732,Guadalupe Elementary School - Hallway,"859 Prague St, San Francisco, CA 94112, USA",37.71036,-122.43417,4733.0,CA,SAN FRANCISCO COUNTY,Pct 1135,False,False,1.0
+4733,Garage,"8 Chicago Way, San Francisco, CA 94112, USA",37.71007,-122.42811,4734.0,CA,SAN FRANCISCO COUNTY,Pct 1136,False,False,1.0
+4734,Garage,"263 Maynard St, San Francisco, CA 94112, USA",37.72969,-122.42462,4735.0,CA,SAN FRANCISCO COUNTY,Pct 1141,False,False,1.0
+4735,Garage,"101 Madrid St, San Francisco, CA 94112, USA",37.72762,-122.42807,4736.0,CA,SAN FRANCISCO COUNTY,Pct 1142,False,False,1.0
+4736,Boys & Girls Club - Excelsior Clubhouse - Game Room,"163 London St, San Francisco, CA 94112, USA",37.72639,-122.43208,4737.0,CA,SAN FRANCISCO COUNTY,Pct 1143,False,False,1.0
+4737,Monroe School - Multipurpose Room,"260 Madrid St, San Francisco, CA 94112, USA",37.72557,-122.4304,4738.0,CA,SAN FRANCISCO COUNTY,Pct 1144,False,False,1.0
+4738,Garage,"250 Athens St, San Francisco, CA 94112, USA",37.72403,-122.42688,4739.0,CA,SAN FRANCISCO COUNTY,Pct 1145,False,False,1.0
+4739,Sons Of Italy - Hall Of Mirrors,"5051 Mission St, San Francisco, CA 94112, USA",37.71771,-122.43981,4740.0,CA,SAN FRANCISCO COUNTY,Pct 1146,False,False,1.0
+4740,Garage,"437 Lisbon St, San Francisco, CA 94112, USA",37.72133,-122.43384,4741.0,CA,SAN FRANCISCO COUNTY,Pct 1147,False,False,1.0
+4741,Garage,"542 Moscow St, San Francisco, CA 94112, USA",37.7191,-122.42951,4742.0,CA,SAN FRANCISCO COUNTY,Pct 1148,False,False,1.0
+4742,City Arts & Tech High School - Hallway,"325 La Grande Ave, San Francisco, CA 94112, USA",37.71949,-122.42528,4743.0,CA,SAN FRANCISCO COUNTY,Pct 1149,False,False,1.0
+4743,Geneva Ave United Methodist Church - Fellowship Hall,"1261 Geneva Ave, San Francisco, CA 94112, USA",37.71401,-122.43502,4744.0,CA,SAN FRANCISCO COUNTY,Pct 1152,False,False,1.0
+4744,Firehouse #43,"720 Moscow St, San Francisco, CA 94112, USA",37.71634,-122.43169,4745.0,CA,SAN FRANCISCO COUNTY,Pct 1153,False,False,1.0
+4745,Mc Calls Catering & Events - Lobby,"1798 Bryant St, San Francisco, CA 94110, USA",37.76455,-122.41067,4746.0,CA,SAN FRANCISCO COUNTY,Pct 7001,False,False,1.0
+4746,Firehouse #29,"299 Vermont St, San Francisco, CA 94103, USA",37.76619,-122.40438,4747.0,CA,SAN FRANCISCO COUNTY,Pct 7002,False,False,1.0
+4747,St Gregory Church - Rotunda,"500 De Haro St, San Francisco, CA 94107, USA",37.76328,-122.40173,4748.0,CA,SAN FRANCISCO COUNTY,Pct 7003,False,False,1.0
+4748,S F International High School - Lobby,"655 De Haro St, San Francisco, CA 94107, USA",37.76172,-122.40062,4749.0,CA,SAN FRANCISCO COUNTY,Pct 7004,False,False,1.0
+4749,St Teresa Of Avila Church - Sammon Hall,"1490 19th St, San Francisco, CA 94107, USA",37.76149,-122.39713,4750.0,CA,SAN FRANCISCO COUNTY,Pct 7005,False,False,1.0
+4750,Bryant Elementary School - Multi Purpose Room,"2641 25th St, San Francisco, CA 94110, USA",37.75143,-122.40478,4751.0,CA,SAN FRANCISCO COUNTY,Pct 7006,False,False,1.0
+4751,Potrero Hill Neighborhood House,"953 De Haro St, San Francisco, CA 94107, USA",37.75832,-122.40067,4752.0,CA,SAN FRANCISCO COUNTY,Pct 7007,False,False,1.0
+4752,Daniel Webster Elementary School - Lobby,"465 Missouri St, San Francisco, CA 94107, USA",37.76025,-122.39612,4753.0,CA,SAN FRANCISCO COUNTY,Pct 7008,False,False,1.0
+4753,Starr King Elementary School - Library,"1215 Carolina St, San Francisco, CA 94107, USA",37.75347,-122.39912,4754.0,CA,SAN FRANCISCO COUNTY,Pct 7009,False,False,1.0
+4754,Garage,"524 Connecticut St, San Francisco, CA 94107, USA",37.759,-122.39741,4755.0,CA,SAN FRANCISCO COUNTY,Pct 7011,False,False,1.0
+4755,Muni Barn - Room D106,"700 Pennsylvania Ave, San Francisco, CA 94107, USA",37.757,-122.39345,4756.0,CA,SAN FRANCISCO COUNTY,Pct 7012,False,False,1.0
+4756,U C S F - Lobby,"654 Minnesota St, San Francisco, CA 94107, USA",37.76198,-122.39106,4757.0,CA,SAN FRANCISCO COUNTY,Pct 7013,False,False,1.0
+4757,Rickshaw Bagworks,"904 22nd St, San Francisco, CA 94107, USA",37.75807,-122.39058,4758.0,CA,SAN FRANCISCO COUNTY,Pct 7014,False,False,1.0
+4758,C C S F - Southeast Campus,"1800 Oakdale Ave, San Francisco, CA 94124, USA",37.73695,-122.39406,4759.0,CA,SAN FRANCISCO COUNTY,Pct 7016,False,False,1.0
+4759,S F Firefighters Union Hall,"325 Newhall St, San Francisco, CA 94124, USA",37.74227,-122.38527,4760.0,CA,SAN FRANCISCO COUNTY,Pct 7017,False,False,1.0
+4760,Thurgood Marshall High School - Cafeteria,"45 Conkling St, San Francisco, CA 94124, USA",37.73614,-122.40182,4761.0,CA,SAN FRANCISCO COUNTY,Pct 7018,False,False,1.0
+4761,Garage,"1887 Palou Ave, San Francisco, CA 94124, USA",37.73683,-122.39645,4762.0,CA,SAN FRANCISCO COUNTY,Pct 7019,False,False,1.0
+4762,Providence Baptist Church - Gym,"1601 McKinnon Ave, San Francisco, CA 94124, USA",37.73587,-122.3896,4763.0,CA,SAN FRANCISCO COUNTY,Pct 7021,False,False,1.0
+4763,Joseph Lee Rec Center - Gymnasium,"1598 Oakdale Ave, San Francisco, CA 94124, USA",37.73487,-122.38969,4764.0,CA,SAN FRANCISCO COUNTY,Pct 7022,False,False,1.0
+4764,Garage,"3 Carpenter Ct, San Francisco, CA 94124, USA",37.73459,-122.38537,4765.0,CA,SAN FRANCISCO COUNTY,Pct 7023,False,False,1.0
+4765,Hunters View - Community Rm,"1101 Fairfax Ave, San Francisco, CA 94124, USA",37.73695,-122.38133,4766.0,CA,SAN FRANCISCO COUNTY,Pct 7024,False,False,1.0
+4766,Our Lady Of Lourdes Church,"410 Hawes St, San Francisco, CA 94124, USA",37.73342,-122.37772,4767.0,CA,SAN FRANCISCO COUNTY,Pct 7025,False,False,1.0
+4767,Allen Chapel - A M E Church,"195 Scotia Ave, San Francisco, CA 94124, USA",37.73205,-122.3996,4768.0,CA,SAN FRANCISCO COUNTY,Pct 7026,False,False,1.0
+4768,Charles Drew Elementary School - Cafeteria,"50 Pomona St, San Francisco, CA 94124, USA",37.73176,-122.3939,4769.0,CA,SAN FRANCISCO COUNTY,Pct 7027,False,False,1.0
+4769,Bayview Y M C A - Gymnasium,"1601 Lane St, San Francisco, CA 94124, USA",37.73181,-122.38979,4770.0,CA,SAN FRANCISCO COUNTY,Pct 7028,False,False,1.0
+4770,Bayview Apartments - Community Rm,"5 Commer Ct, San Francisco, CA 94124, USA",37.73227,-122.38482,4771.0,CA,SAN FRANCISCO COUNTY,Pct 7029,False,False,1.0
+4771,Bayview Police Station - Lobby,"201 Williams Ave, San Francisco, CA 94124, USA",37.72976,-122.39797,4772.0,CA,SAN FRANCISCO COUNTY,Pct 7030,False,False,1.0
+4772,Armstrong Place Senior Housing - Comm Rm,"5600 3rd St, San Francisco, CA 94124, USA",37.72692,-122.39398,4773.0,CA,SAN FRANCISCO COUNTY,Pct 7031,False,False,1.0
+4773,United Council Of Human Services - Serenity Rm,"2111 Jennings St, San Francisco, CA 94124, USA",37.72681,-122.38863,4774.0,CA,SAN FRANCISCO COUNTY,Pct 7032,False,False,1.0
+4774,Firehouse #17,"1295 Shafter Ave, San Francisco, CA 94124, USA",37.72752,-122.385,4775.0,CA,SAN FRANCISCO COUNTY,Pct 7033,False,False,1.0
+4775,Willie Mays Boys And Girls Clubhouse,"195 Kiska Rd, San Francisco, CA 94124, USA",37.72964,-122.37628,4776.0,CA,SAN FRANCISCO COUNTY,Pct 7034,False,False,1.0
+4776,Wu Yee Children's Services,"729 Kirkwood Ave, San Francisco, CA 94124, USA",37.72888,-122.37402,4777.0,CA,SAN FRANCISCO COUNTY,Pct 7035,False,False,1.0
+4777,Saint Phillips Missionary Baptist Church,"745 Velasco Ave, San Francisco, CA 94134, USA",37.70975,-122.41914,4778.0,CA,SAN FRANCISCO COUNTY,Pct 7036,False,False,1.0
+4778,Sunnydale Development Community Rm,"1654 Sunnydale Ave, San Francisco, CA 94134, USA",37.71266,-122.41826,4779.0,CA,SAN FRANCISCO COUNTY,Pct 7037,False,False,1.0
+4779,Coffman Pool - Lobby,"1701 Visitacion Ave, San Francisco, CA 94134, USA",37.71324,-122.41584,4780.0,CA,SAN FRANCISCO COUNTY,Pct 7038,False,False,1.0
+4780,School - El Dorado - Cafeteria,"70 Delta St, San Francisco, CA 94134, USA",37.71853,-122.40735,4781.0,CA,SAN FRANCISCO COUNTY,Pct 7039,False,False,1.0
+4781,New Greater Prosperity Church - Sanctuary,"3560 San Bruno Ave, San Francisco, CA 94134, USA",37.71706,-122.40007,4782.0,CA,SAN FRANCISCO COUNTY,Pct 7042,False,False,1.0
+4782,United House Of Prayer Church - Hall,"1249 Jamestown Ave, San Francisco, CA 94124, USA",37.72089,-122.39828,4783.0,CA,SAN FRANCISCO COUNTY,Pct 7043,False,False,1.0
+4783,Alice Griffith Apartments - Multipurpose Rm,"2600 Arelious Walker Dr, San Francisco, CA 94124, USA",37.71885,-122.38523,4784.0,CA,SAN FRANCISCO COUNTY,Pct 7044,False,False,1.0
+4784,Visitacion Valley Elementary School,"55 Schwerin St, San Francisco, CA 94134, USA",37.71255,-122.41023,4785.0,CA,SAN FRANCISCO COUNTY,Pct 7045,False,False,1.0
+4785,Fire Station #44,"1298 Girard St, San Francisco, CA 94134, USA",37.71663,-122.4005,4786.0,CA,SAN FRANCISCO COUNTY,Pct 7046,False,False,1.0
+4786,Pure Skinz Aesthetics,"2189 Bayshore Blvd APT 101, San Francisco, CA 94134, USA",37.71229,-122.40117,4787.0,CA,SAN FRANCISCO COUNTY,Pct 7047,False,False,1.0
+4787,Heritage Homes Child & Family - Community Rm,"243 Rey St, San Francisco, CA 94134, USA",37.71021,-122.41248,4788.0,CA,SAN FRANCISCO COUNTY,Pct 7048,False,False,1.0
+4788,Church Of The Visitacion,"701 Sunnydale Ave, San Francisco, CA 94134, USA",37.70944,-122.4095,4789.0,CA,SAN FRANCISCO COUNTY,Pct 7049,False,False,1.0
+4789,Visitacion Valley Branch Library,"201 Leland Ave, San Francisco, CA 94134, USA",37.71243,-122.40792,4790.0,CA,SAN FRANCISCO COUNTY,Pct 7051,False,False,1.0
+4790,Garage,"27 Blanken Ave, San Francisco, CA 94134, USA",37.71222,-122.40097,4791.0,CA,SAN FRANCISCO COUNTY,Pct 7052,False,False,1.0
+4791,Office Building - 1st Floor Conf Room,"150 Executive Park Blvd # 4000, San Francisco, CA 94134, USA",37.71106,-122.39335,4792.0,CA,SAN FRANCISCO COUNTY,Pct 7053,False,False,1.0
+4792,Bret Harte Elementary School - Auditorium,"1035 Gilman Ave, San Francisco, CA 94124, USA",37.71838,-122.38903,4793.0,CA,SAN FRANCISCO COUNTY,Pct 7054,False,False,1.0
+4793,California College Of The Arts - Student Lounge,"1111 8th St, San Francisco, CA 94107, USA",37.76738,-122.39949,4794.0,CA,SAN FRANCISCO COUNTY,Pct 7055,False,False,1.0
+4794,Minnesota Street Project - Lounge,"1275 Minnesota St, San Francisco, CA 94107, USA",37.75425,-122.38939,4795.0,CA,SAN FRANCISCO COUNTY,Pct 7056,False,False,1.0
+4795,Galileo High School - Room 212,"1150 Francisco St, San Francisco, CA 94109, USA",37.80355,-122.42409,4796.0,CA,SAN FRANCISCO COUNTY,Pct 7201,False,False,1.0
+4796,Norwegian Seaman's Church - Garage,"2454 Hyde St, San Francisco, CA 94109, USA",37.80366,-122.41978,4797.0,CA,SAN FRANCISCO COUNTY,Pct 7202,False,False,1.0
+4797,Garage,"2412 Polk St, San Francisco, CA 94109, USA",37.79906,-122.4221,4798.0,CA,SAN FRANCISCO COUNTY,Pct 7203,False,False,1.0
+4798,Garage,"2424 Larkin St, San Francisco, CA 94109, USA",37.80033,-122.42067,4799.0,CA,SAN FRANCISCO COUNTY,Pct 7204,False,False,1.0
+4799,Garage,"1166 Filbert St, San Francisco, CA 94109, USA",37.80042,-122.41876,4800.0,CA,SAN FRANCISCO COUNTY,Pct 7205,False,False,1.0
+4800,Garage,"1928 Webster St, San Francisco, CA 94115, USA",37.78864,-122.43179,4801.0,CA,SAN FRANCISCO COUNTY,Pct 7206,False,False,1.0
+4801,Garage,"1848 Pine St, San Francisco, CA 94109, USA",37.78917,-122.42637,4802.0,CA,SAN FRANCISCO COUNTY,Pct 7207,False,False,1.0
+4802,Church - First Unitarian Universalist,"1187 Franklin St, San Francisco, CA 94109, USA",37.7852,-122.42341,4803.0,CA,SAN FRANCISCO COUNTY,Pct 7208,False,False,1.0
+4803,Lighthouse Church - Main Lobby,"1337 Sutter St, San Francisco, CA 94109, USA",37.78723,-122.42246,4804.0,CA,SAN FRANCISCO COUNTY,Pct 7209,False,False,1.0
+4804,Northbeach Place - Community Rm,"455 Bay St, San Francisco, CA 94133, USA",37.8054,-122.41439,4805.0,CA,SAN FRANCISCO COUNTY,Pct 7301,False,False,1.0
+4805,North Pt Wet Weather Facility - Lobby,"111 Bay St, San Francisco, CA 94133, USA",37.80602,-122.40915,4806.0,CA,SAN FRANCISCO COUNTY,Pct 7302,False,False,1.0
+4806,North Beach Library - Community Rm,"850 Columbus Ave, San Francisco, CA 94133, USA",37.80258,-122.41327,4807.0,CA,SAN FRANCISCO COUNTY,Pct 7303,False,False,1.0
+4807,Francisco Middle School - Auditorium,"2190 Powell St, San Francisco, CA 94133, USA",37.80446,-122.41138,4808.0,CA,SAN FRANCISCO COUNTY,Pct 7304,False,False,1.0
+4808,Firehouse #28,"1814 Stockton St, San Francisco, CA 94133, USA",37.80256,-122.40934,4809.0,CA,SAN FRANCISCO COUNTY,Pct 7305,False,False,1.0
+4809,San Francisco Evangelical Free Church,"756 Union St, San Francisco, CA 94133, USA",37.80033,-122.4118,4810.0,CA,SAN FRANCISCO COUNTY,Pct 7306,False,False,1.0
+4810,Joe Dimaggio North Beach Playground,"651 Lombard St, San Francisco, CA 94133, USA",37.80275,-122.41235,4811.0,CA,SAN FRANCISCO COUNTY,Pct 7307,False,False,1.0
+4811,Garage,"1227 Montgomery St, San Francisco, CA 94133, USA",37.80048,-122.40454,4812.0,CA,SAN FRANCISCO COUNTY,Pct 7308,False,False,1.0
+4812,Garage,"1429 Green St, San Francisco, CA 94123, USA",37.7976,-122.42269,4813.0,CA,SAN FRANCISCO COUNTY,Pct 7309,False,False,1.0
+4813,Garage,"2200 Larkin St, San Francisco, CA 94109, USA",37.79825,-122.42043,4814.0,CA,SAN FRANCISCO COUNTY,Pct 7311,False,False,1.0
+4814,St. Andrew's Society Of San Francisco,"1088 Green St, San Francisco, CA 94133, USA",37.79867,-122.41697,4815.0,CA,SAN FRANCISCO COUNTY,Pct 7312,False,False,1.0
+4815,Jean Parker Elementary School - Multi Purpose Room,"840 Broadway, San Francisco, CA 94133, USA",37.79747,-122.41131,4816.0,CA,SAN FRANCISCO COUNTY,Pct 7313,False,False,1.0
+4816,Salvation Army - Lobby,"1450 Powell St, San Francisco, CA 94133, USA",37.79802,-122.41005,4817.0,CA,SAN FRANCISCO COUNTY,Pct 7314,False,False,1.0
+4817,S F Italian Athletic Club - Upstairs Function Room,"1630 Stockton St, San Francisco, CA 94133, USA",37.80088,-122.40899,4818.0,CA,SAN FRANCISCO COUNTY,Pct 7315,False,False,1.0
+4818,Osmanthus Dim Sum,"504 Broadway, San Francisco, CA 94133, USA",37.79817,-122.40565,4819.0,CA,SAN FRANCISCO COUNTY,Pct 7316,False,False,1.0
+4819,John Yehall Chin Elementary School - Library,"350 Broadway, San Francisco, CA 94133, USA",37.79858,-122.40315,4820.0,CA,SAN FRANCISCO COUNTY,Pct 7317,False,False,1.0
+4820,The Church For The Fellowship Of All Peoples,"2041 Larkin St, San Francisco, CA 94109, USA",37.79679,-122.42058,4821.0,CA,SAN FRANCISCO COUNTY,Pct 7318,False,False,1.0
+4821,Helen Wills Park - Garden Room,"1965 Larkin St, San Francisco, CA 94109, USA",37.79578,-122.42019,4822.0,CA,SAN FRANCISCO COUNTY,Pct 7319,False,False,1.0
+4822,True Sunshine Episcopal Church - Garage,"1430 Mason St, San Francisco, CA 94133, USA",37.79674,-122.41162,4823.0,CA,SAN FRANCISCO COUNTY,Pct 7321,False,False,1.0
+4823,Firehouse #2,"1340 Powell St, San Francisco, CA 94133, USA",37.79704,-122.41003,4824.0,CA,SAN FRANCISCO COUNTY,Pct 7322,False,False,1.0
+4824,Store Front,"1801 Polk St, San Francisco, CA 94109, USA",37.7934,-122.42153,4825.0,CA,SAN FRANCISCO COUNTY,Pct 7323,False,False,1.0
+4825,Spring Valley Elementary School - Lobby,"1451 Jackson St, San Francisco, CA 94109, USA",37.79391,-122.41881,4826.0,CA,SAN FRANCISCO COUNTY,Pct 7324,False,False,1.0
+4826,Garage,"1145 Pacific Ave, San Francisco, CA 94133, USA",37.79584,-122.41405,4827.0,CA,SAN FRANCISCO COUNTY,Pct 7325,False,False,1.0
+4827,Chinatown Branch Library - Comm Rm,"1135 Powell St, San Francisco, CA 94108, USA",37.79521,-122.41023,4828.0,CA,SAN FRANCISCO COUNTY,Pct 7326,False,False,1.0
+4828,Gordon J. Lau Elementary School - Auditorium Lobby,"950 Clay St, San Francisco, CA 94108, USA",37.79457,-122.40889,4829.0,CA,SAN FRANCISCO COUNTY,Pct 7327,False,False,1.0
+4829,C C S F - Chinatown North Beach Campus - Lobby,"City College of San Francisco, Chinatown / North Beach Campus, 808 Kearny St, San Francisco, CA 94108, USA",37.7956,-122.40472,4830.0,CA,SAN FRANCISCO COUNTY,Pct 7328,False,False,1.0
+4830,Firehouse #13,"530 Sansome St, San Francisco, CA 94111, USA",37.79555,-122.40141,4831.0,CA,SAN FRANCISCO COUNTY,Pct 7329,False,False,1.0
+4831,The Gateway - Vista West Lobby,"550 Battery St, San Francisco, CA 94111, USA",37.79634,-122.40018,4832.0,CA,SAN FRANCISCO COUNTY,Pct 7331,False,False,1.0
+4832,Old First Presbyterian Church - Fellowship Hall,"1751 Sacramento St, San Francisco, CA 94109, USA",37.79119,-122.42208,4833.0,CA,SAN FRANCISCO COUNTY,Pct 7332,False,False,1.0
+4833,Firehouse #41,"1325 Leavenworth St, San Francisco, CA 94109, USA",37.7934,-122.41653,4834.0,CA,SAN FRANCISCO COUNTY,Pct 7333,False,False,1.0
+4834,Garage,"1150 Hyde St, San Francisco, CA 94109, USA",37.79179,-122.41733,4835.0,CA,SAN FRANCISCO COUNTY,Pct 7334,False,False,1.0
+4835,Garage,"1124 Leavenworth St, San Francisco, CA 94109, USA",37.79163,-122.41565,4836.0,CA,SAN FRANCISCO COUNTY,Pct 7335,False,False,1.0
+4836,Grace Cathedral Church - Conference Rm.,"1051 Taylor St, San Francisco, CA 94108, USA",37.79224,-122.41276,4837.0,CA,SAN FRANCISCO COUNTY,Pct 7336,False,False,1.0
+4837,Betty Ong Rec Center - Lobby,"1199 Mason St, San Francisco, CA 94108, USA",37.79414,-122.41155,4838.0,CA,SAN FRANCISCO COUNTY,Pct 7337,False,False,1.0
+4838,Gun Mun Center - Conference Room,"777 Stockton St, San Francisco, CA 94108, USA",37.79282,-122.40784,4839.0,CA,SAN FRANCISCO COUNTY,Pct 7338,False,False,1.0
+4839,First Congregational Church Of S F,"1300 Polk St, San Francisco, CA 94109, USA",37.78889,-122.42014,4840.0,CA,SAN FRANCISCO COUNTY,Pct 7339,False,False,1.0
+4840,Redding Elementary School - Music Room,"1421 Pine St, San Francisco, CA 94109, USA",37.78954,-122.41899,4841.0,CA,SAN FRANCISCO COUNTY,Pct 7341,False,False,1.0
+4841,Mary Elizabeth Inn - Dining Hall,"1040 Bush St, San Francisco, CA 94109, USA",37.78974,-122.41454,4842.0,CA,SAN FRANCISCO COUNTY,Pct 7342,False,False,1.0
+4842,Saint Francis Medical - Lower Level Conf Room,"1199 Bush St, San Francisco, CA 94109, USA",37.78893,-122.41673,4843.0,CA,SAN FRANCISCO COUNTY,Pct 7343,False,False,1.0
+4843,1001 Pine Street Apartments,"1001 Pine St, San Francisco, CA 94109, USA",37.79035,-122.41257,4844.0,CA,SAN FRANCISCO COUNTY,Pct 7344,False,False,1.0
+4844,Cartwright Hotel - Conference Room,"524 Sutter St, San Francisco, CA 94102, USA",37.78945,-122.40921,4845.0,CA,SAN FRANCISCO COUNTY,Pct 7345,False,False,1.0
+4845,Hero Shop,"982 Post St, San Francisco, CA 94109, USA",37.78719,-122.41803,4846.0,CA,SAN FRANCISCO COUNTY,Pct 7346,False,False,1.0
+4846,Warwick San Francisco,"490 Geary St, San Francisco, CA 94102, USA",37.78712,-122.4114,4847.0,CA,SAN FRANCISCO COUNTY,Pct 7347,False,False,1.0
+4847,The Museum Of Ice Cream,"1 Grant Ave, San Francisco, CA 94108, USA",37.78701,-122.40518,4848.0,CA,SAN FRANCISCO COUNTY,Pct 7348,False,False,1.0
+4848,333 Bush Street - Lobby,"333 Bush Street, 333 Bush St, San Francisco, CA 94104, USA",37.79064,-122.40306,4849.0,CA,SAN FRANCISCO COUNTY,Pct 7349,False,False,1.0
+4849,Garage,"80 Wilmot St, San Francisco, CA 94115, USA",37.78764,-122.43316,4850.0,CA,SAN FRANCISCO COUNTY,Pct 7501,False,False,1.0
+4850,Japanese Cultural And Community Center,"1840 Sutter St, San Francisco, CA 94115, USA",37.78666,-122.43089,4851.0,CA,SAN FRANCISCO COUNTY,Pct 7502,False,False,1.0
+4851,1760 Bush Street Apartments - Community Rm,"1760 Bush St, San Francisco, CA 94109, USA",37.78823,-122.42629,4852.0,CA,SAN FRANCISCO COUNTY,Pct 7503,False,False,1.0
+4852,Jones Memorial Methodist Church - Multi Purpose Rm,"1975 Post St, San Francisco, CA 94115, USA",37.78485,-122.43436,4853.0,CA,SAN FRANCISCO COUNTY,Pct 7504,False,False,1.0
+4853,Soto Mission Of San Francisco Temple,"1691 Laguna St, San Francisco, CA 94115, USA",37.78653,-122.42854,4854.0,CA,SAN FRANCISCO COUNTY,Pct 7505,False,False,1.0
+4854,Boba Guys,"1522 Fillmore St, San Francisco, CA 94115, USA",37.78369,-122.43249,4855.0,CA,SAN FRANCISCO COUNTY,Pct 7506,False,False,1.0
+4855,Rosa Parks Elementary School - Auditorium,"1501 O'Farrell St, San Francisco, CA 94115, USA",37.78331,-122.42996,4856.0,CA,SAN FRANCISCO COUNTY,Pct 7507,False,False,1.0
+4856,Western Park Apartments - Community Room,"1280 Laguna St, San Francisco, CA 94115, USA",37.78272,-122.42724,4857.0,CA,SAN FRANCISCO COUNTY,Pct 7508,False,False,1.0
+4857,Urban Life Center,"1031 Franklin St, San Francisco, CA 94109, USA",37.78427,-122.42302,4858.0,CA,SAN FRANCISCO COUNTY,Pct 7509/7511,False,False,1.0
+4858,Eritrean Community Center,"1055 Fillmore St, San Francisco, CA 94115, USA",37.77915,-122.43209,4859.0,CA,SAN FRANCISCO COUNTY,Pct 7512,False,False,1.0
+4859,Royal Apartments - Community Rm,"1390 1/2 Turk St, San Francisco, CA 94115, USA",37.78066,-122.43174,4860.0,CA,SAN FRANCISCO COUNTY,Pct 7513,False,False,1.0
+4860,Ella Hill Hutch Center - Conference Rm,"1050 McAllister St, San Francisco, CA 94115, USA",37.77921,-122.42947,4861.0,CA,SAN FRANCISCO COUNTY,Pct 7514,False,False,1.0
+4861,Neighborhood Network Center,"460 Fulton St, San Francisco, CA 94102, USA",37.77873,-122.42478,4862.0,CA,SAN FRANCISCO COUNTY,Pct 7515,False,False,1.0
+4862,Opera Plaza - 2nd Fl Mezzanine - Community Rm,"601 Van Ness Ave, San Francisco, CA 94102, USA",37.78137,-122.42153,4863.0,CA,SAN FRANCISCO COUNTY,Pct 7516,False,False,1.0
+4863,New Traditions Elementary School - Auditorium,"2049 Grove St, San Francisco, CA 94117, USA",37.77402,-122.45044,4864.0,CA,SAN FRANCISCO COUNTY,Pct 7517,False,False,1.0
+4864,John Adams Campus - Cafeteria,"1860 Hayes St, San Francisco, CA 94117, USA",37.77407,-122.44712,4865.0,CA,SAN FRANCISCO COUNTY,Pct 7518,False,False,1.0
+4865,Garage,"1854 Grove St, San Francisco, CA 94117, USA",37.77503,-122.44729,4866.0,CA,SAN FRANCISCO COUNTY,Pct 7519,False,False,1.0
+4866,Garage,"710 Masonic Ave, San Francisco, CA 94117, USA",37.77472,-122.44591,4867.0,CA,SAN FRANCISCO COUNTY,Pct 7521,False,False,1.0
+4867,Garage,"715 Scott St, San Francisco, CA 94117, USA",37.77661,-122.43672,4868.0,CA,SAN FRANCISCO COUNTY,Pct 7522,False,False,1.0
+4868,Firehouse #21,"1443 Grove St, San Francisco, CA 94117, USA",37.77546,-122.44031,4869.0,CA,SAN FRANCISCO COUNTY,Pct 7523,False,False,1.0
+4869,Junipero Serra House - Parking Garage,"926 Fillmore St, San Francisco, CA 94117, USA",37.77806,-122.43142,4870.0,CA,SAN FRANCISCO COUNTY,Pct 7524,False,False,1.0
+4870,Neighborhood Baptist Church - Confer Rm,"608 Hayes St, San Francisco, CA 94102, USA",37.77661,-122.42662,4871.0,CA,SAN FRANCISCO COUNTY,Pct 7525,False,False,1.0
+4871,Miette Patisserie,"449 Octavia St, San Francisco, CA 94102, USA",37.77632,-122.42476,4872.0,CA,SAN FRANCISCO COUNTY,Pct 7526,False,False,1.0
+4872,Mercy Terrace - Rec Room,"1555 Hayes St, San Francisco, CA 94117, USA",37.77442,-122.44166,4873.0,CA,SAN FRANCISCO COUNTY,Pct 7527/7528,False,False,1.0
+4873,Garage,"1035 Hayes St, San Francisco, CA 94117, USA",37.77533,-122.43343,4874.0,CA,SAN FRANCISCO COUNTY,Pct 7529,False,False,1.0
+4874,Garage,"634 Oak St, San Francisco, CA 94117, USA",37.77424,-122.4299,4875.0,CA,SAN FRANCISCO COUNTY,Pct 7531,False,False,1.0
+4875,S F Jazz Center,"201 Franklin St, San Francisco, CA 94102, USA",37.77645,-122.42151,4876.0,CA,SAN FRANCISCO COUNTY,Pct 7532,False,False,1.0
+4876,Park Branch Library,"1833 Page St, San Francisco, CA 94117, USA",37.77016,-122.45101,4877.0,CA,SAN FRANCISCO COUNTY,Pct 7533,False,False,1.0
+4877,Urban School Of S. F. - Gym,"1530 Page St, San Francisco, CA 94117, USA",37.77125,-122.4465,4878.0,CA,SAN FRANCISCO COUNTY,Pct 7534,False,False,1.0
+4878,Garage,"1260 Haight St, San Francisco, CA 94117, USA",37.77085,-122.44308,4879.0,CA,SAN FRANCISCO COUNTY,Pct 7535,False,False,1.0
+4879,Garage,"1168 Page St, San Francisco, CA 94117, USA",37.77213,-122.44006,4880.0,CA,SAN FRANCISCO COUNTY,Pct 7536,False,False,1.0
+4880,Garage,"305 Scott St, San Francisco, CA 94117, USA",37.77259,-122.43588,4881.0,CA,SAN FRANCISCO COUNTY,Pct 7537,False,False,1.0
+4881,Garage,"141 Scott St, San Francisco, CA 94117, USA",37.77107,-122.43552,4882.0,CA,SAN FRANCISCO COUNTY,Pct 7538,False,False,1.0
+4882,Garage,"628 Haight St, San Francisco, CA 94117, USA",37.77206,-122.43303,4883.0,CA,SAN FRANCISCO COUNTY,Pct 7539,False,False,1.0
+4883,Cafe International,"508 Haight St, San Francisco, CA 94117, USA",37.7722,-122.43067,4884.0,CA,SAN FRANCISCO COUNTY,Pct 7541,False,False,1.0
+4884,John Muir School - Auditorium,"380 Webster St, San Francisco, CA 94102, USA",37.77379,-122.42881,4885.0,CA,SAN FRANCISCO COUNTY,Pct 7542,False,False,1.0
+4885,Garage,"225 Waller St, San Francisco, CA 94102, USA",37.77137,-122.4274,4886.0,CA,SAN FRANCISCO COUNTY,Pct 7543,False,False,1.0
+4886,First Baptist Church Of San Francisco,"7 Octavia St, San Francisco, CA 94102, USA",37.77214,-122.42385,4887.0,CA,SAN FRANCISCO COUNTY,Pct 7544,False,False,1.0
+4887,Firehouse #36 - Chief's Bay,"109 Oak St, San Francisco, CA 94102, USA",37.77494,-122.4212,4888.0,CA,SAN FRANCISCO COUNTY,Pct 7545,False,False,1.0
+4888,Eco-home - Garage,"728 Cole St, San Francisco, CA 94117, USA",37.76775,-122.45013,4889.0,CA,SAN FRANCISCO COUNTY,Pct 7546,False,False,1.0
+4889,Waller Center,"1525 Waller St, San Francisco, CA 94117, USA",37.76853,-122.44907,4890.0,CA,SAN FRANCISCO COUNTY,Pct 7547,False,False,1.0
+4890,Chinese Immersion School - Room 200,"1250 Waller St, San Francisco, CA 94117, USA",37.76987,-122.44434,4891.0,CA,SAN FRANCISCO COUNTY,Pct 7548,False,False,1.0
+4891,Carl Street Free Library - Garage,"321 Carl St, San Francisco, CA 94117, USA",37.765,-122.45488,4892.0,CA,SAN FRANCISCO COUNTY,Pct 7549,False,False,1.0
+4892,Grattan Elementary School - Room 215,"165 Grattan St, San Francisco, CA 94117, USA",37.76359,-122.4507,4893.0,CA,SAN FRANCISCO COUNTY,Pct 7551,False,False,1.0
+4893,Garage,"1057 Ashbury St, San Francisco, CA 94117, USA",37.76363,-122.44673,4894.0,CA,SAN FRANCISCO COUNTY,Pct 7552,False,False,1.0
+4894,Firehouse #12,"1145 Stanyan St, San Francisco, CA 94117, USA",37.76349,-122.45261,4895.0,CA,SAN FRANCISCO COUNTY,Pct 7554,False,False,1.0
+4895,Grattan Elementary School - Auditorium,"165 Grattan St, San Francisco, CA 94117, USA",37.76359,-122.4507,4896.0,CA,SAN FRANCISCO COUNTY,Pct 7555,False,False,1.0
+4896,Garage,"130 Carmel St, San Francisco, CA 94117, USA",37.76094,-122.4496,4897.0,CA,SAN FRANCISCO COUNTY,Pct 7556/7557,False,False,1.0
+4897,Firehouse #3,"1067 Post St, San Francisco, CA 94109, USA",37.78663,-122.41932,4898.0,CA,SAN FRANCISCO COUNTY,Pct 7601,False,False,1.0
+4898,Ellis Gardens - Social Room,"666 Ellis St, San Francisco, CA 94109, USA",37.78452,-122.41728,4899.0,CA,SAN FRANCISCO COUNTY,Pct 7602,False,False,1.0
+4899,Book & Job Gallery,"838 Geary St, San Francisco, CA 94109, USA",37.78645,-122.41722,4900.0,CA,SAN FRANCISCO COUNTY,Pct 7603,False,False,1.0
+4900,Crosby Hotel - Activity Room,"516 O'Farrell St, San Francisco, CA 94102, USA",37.7859,-122.41338,4901.0,CA,SAN FRANCISCO COUNTY,Pct 7604,False,False,1.0
+4901,Glide Memorial United Church - Freedom Hall,"330 Ellis St, San Francisco, CA 94102, USA",37.78523,-122.41146,4902.0,CA,SAN FRANCISCO COUNTY,Pct 7605,False,False,1.0
+4902,Arnet Watson Apartments - Lobby,"650 Eddy St, San Francisco, CA 94109, USA",37.78347,-122.41863,4903.0,CA,SAN FRANCISCO COUNTY,Pct 7606,False,False,1.0
+4903,555 Ellis St Apartments - Community Rm,"555 Ellis St, San Francisco, CA 94109, USA",37.78428,-122.41549,4904.0,CA,SAN FRANCISCO COUNTY,Pct 7607,False,False,1.0
+4904,Cadillac Hotel,"380 Eddy St, San Francisco, CA 94102, USA",37.78391,-122.41399,4905.0,CA,SAN FRANCISCO COUNTY,Pct 7608,False,False,1.0
+4905,Boeddeker Park & Clubhouse - Meeting Room,"246 Eddy St, San Francisco, CA 94102, USA",37.78431,-122.41184,4906.0,CA,SAN FRANCISCO COUNTY,Pct 7609,False,False,1.0
+4906,The Maria Manors,"174 Ellis St, San Francisco, CA 94102, USA",37.78552,-122.4091,4907.0,CA,SAN FRANCISCO COUNTY,Pct 7611,False,False,1.0
+4907,Tenderloin Community School - Lobby,"627 Turk St, San Francisco, CA 94102, USA",37.78178,-122.41974,4908.0,CA,SAN FRANCISCO COUNTY,Pct 7612,False,False,1.0
+4908,Hampton Court,"378 Golden Gate Ave, San Francisco, CA 94102, USA",37.78179,-122.41689,4909.0,CA,SAN FRANCISCO COUNTY,Pct 7613,False,False,1.0
+4909,Faithful Fools,"234 Hyde St, San Francisco, CA 94102, USA",37.78306,-122.41552,4910.0,CA,SAN FRANCISCO COUNTY,Pct 7614,False,False,1.0
+4910,Hospitality House,"290 Turk St, San Francisco, CA 94102, USA",37.78299,-122.41382,4911.0,CA,SAN FRANCISCO COUNTY,Pct 7615,False,False,1.0
+4911,150 Van Ness Apartments - Basketball Gym,"150 Van Ness Ave, San Francisco, CA 94102, USA",37.77709,-122.41934,4912.0,CA,SAN FRANCISCO COUNTY,Pct 7616,False,False,1.0
+4912,Civic Center Residence - Front Lobby,"44 McAllister St, San Francisco, CA 94102, USA",37.78123,-122.41295,4913.0,CA,SAN FRANCISCO COUNTY,Pct 7617,False,False,1.0
+4913,Human Services Agency - Born Auditorium,"170 Otis St, San Francisco, CA 94103, USA",37.77077,-122.4209,4914.0,CA,SAN FRANCISCO COUNTY,Pct 7618,False,False,1.0
+4914,The Arc San Francisco,"1500 Howard St, San Francisco, CA 94103, USA",37.77307,-122.41599,4915.0,CA,SAN FRANCISCO COUNTY,Pct 7619,False,False,1.0
+4915,Odd Fellows Building - Lobby,"26 7th St, San Francisco, CA 94103, USA",37.78001,-122.41228,4916.0,CA,SAN FRANCISCO COUNTY,Pct 7621,False,False,1.0
+4916,Bayanihan Community Center - Hall,"1010 Mission St, San Francisco, CA 94103, USA",37.78083,-122.40925,4917.0,CA,SAN FRANCISCO COUNTY,Pct 7622,False,False,1.0
+4917,West Bay Pilipino Multi Service Center,"175 7th St, San Francisco, CA 94103, USA",37.77849,-122.40966,4918.0,CA,SAN FRANCISCO COUNTY,Pct 7623,False,False,1.0
+4918,Shiekh Shoes,"929 Market St, San Francisco, CA 94103, USA",37.78325,-122.40852,4919.0,CA,SAN FRANCISCO COUNTY,Pct 7624,False,False,1.0
+4919,Yerba Buena Center For The Arts - Grand Lobby,"701 Mission St, San Francisco, CA 94103, USA",37.78564,-122.40219,4920.0,CA,SAN FRANCISCO COUNTY,Pct 7625,False,False,1.0
+4920,Contemporary Jewish Museum,"736 Mission St, San Francisco, CA 94103, USA",37.78586,-122.40385,4921.0,CA,SAN FRANCISCO COUNTY,Pct 7626,False,False,1.0
+4921,The Commonwealth Club,"115 Steuart St, San Francisco, CA 94105, USA",37.79309,-122.39281,4922.0,CA,SAN FRANCISCO COUNTY,Pct 7627,False,False,1.0
+4922,S F Eagle,"398 12th St, San Francisco, CA 94103, USA",37.76999,-122.4134,4923.0,CA,SAN FRANCISCO COUNTY,Pct 7628,False,False,1.0
+4923,Mercy Housing - Community Room,"1028 Howard St, San Francisco, CA 94103, USA",37.77947,-122.40792,4924.0,CA,SAN FRANCISCO COUNTY,Pct 7629,False,False,1.0
+4924,Firehouse #1,"935 Folsom St, San Francisco, CA 94107, USA",37.77945,-122.40412,4925.0,CA,SAN FRANCISCO COUNTY,Pct 7631,False,False,1.0
+4925,Soma Arts Cultural Center,"934 Brannan St, San Francisco, CA 94103, USA",37.77118,-122.40663,4926.0,CA,SAN FRANCISCO COUNTY,Pct 7632,False,False,1.0
+4926,Columbia Park Apartments,"1035 Folsom St, San Francisco, CA 94103, USA",37.778,-122.40598,4927.0,CA,SAN FRANCISCO COUNTY,Pct 7633,False,False,1.0
+4927,Mendelsohn House - Activities Room,"747 Folsom St, San Francisco, CA 94107, USA",37.78273,-122.40009,4928.0,CA,SAN FRANCISCO COUNTY,Pct 7634,False,False,1.0
+4928,Hoogasian Flowers - Display Area,"615 7th St, San Francisco, CA 94103, USA",37.77301,-122.40253,4929.0,CA,SAN FRANCISCO COUNTY,Pct 7635,False,False,1.0
+4929,Firehouse #8 - Chief's Bay,"36 Bluxome St, San Francisco, CA 94107, USA",37.77729,-122.39679,4930.0,CA,SAN FRANCISCO COUNTY,Pct 7636,False,False,1.0
+4930,Rincon Green Apartments,"333 Harrison St, San Francisco, CA 94105, USA",37.78665,-122.39137,4931.0,CA,SAN FRANCISCO COUNTY,Pct 7637,False,False,1.0
+4931,Metropolitan Transportation Commission - Temazcal Rm 102,"375 Beale St, San Francisco, CA 94105, USA",37.78793,-122.39153,4932.0,CA,SAN FRANCISCO COUNTY,Pct 7638,False,False,1.0
+4932,S F F D Headquarters,"698 2nd St, San Francisco, CA 94107, USA",37.78051,-122.3912,4933.0,CA,SAN FRANCISCO COUNTY,Pct 7639,False,False,1.0
+4933,Gallery 16,"501 3rd St, San Francisco, CA 94107, USA",37.78129,-122.39544,4934.0,CA,SAN FRANCISCO COUNTY,Pct 7641,False,False,1.0
+4934,Delancey Street - Store Space,"600 The Embarcadero, San Francisco, CA 94107, USA",37.78431,-122.38854,4935.0,CA,SAN FRANCISCO COUNTY,Pct 7642,False,False,1.0
+4935,Mission Creek Senior - Community Room,"225 Berry St, San Francisco, CA 94158, USA",37.77516,-122.39349,4936.0,CA,SAN FRANCISCO COUNTY,Pct 7643,False,False,1.0
+4936,Rich Sorro Commons - Lobby,"225 King St, San Francisco, CA 94107, USA",37.77712,-122.39247,4937.0,CA,SAN FRANCISCO COUNTY,Pct 7644,False,False,1.0
+4937,South Beach Harbor Pier 40 A - Comm Rm,"89 King St, San Francisco, CA 94107, USA",37.77999,-122.38855,4938.0,CA,SAN FRANCISCO COUNTY,Pct 7645,False,False,1.0
+4938,U C S F Housing - Comm Room,"1505 4th St, San Francisco, CA 94158, USA",37.76938,-122.39085,4939.0,CA,SAN FRANCISCO COUNTY,Pct 7646,False,False,1.0
+4939,Ship Shape Community Center,"850 Avenue I, San Francisco, CA 94130, USA",37.82732,-122.36871,4940.0,CA,SAN FRANCISCO COUNTY,Pct 7647,False,False,1.0
+4940,Hostwell Warehouse,"758 Natoma St, San Francisco, CA 94103, USA",37.776,-122.41321,4941.0,CA,SAN FRANCISCO COUNTY,Pct 7649,False,False,1.0
+4941,Galvanize,"44 Tehama St, San Francisco, CA 94105, USA",37.78764,-122.39673,4942.0,CA,SAN FRANCISCO COUNTY,Pct 7651,False,False,1.0
+4942,Rene Cazenave Apartments - Program Rm,"25 Essex St, San Francisco, CA 94105, USA",37.78633,-122.39529,4943.0,CA,SAN FRANCISCO COUNTY,Pct 7652,False,False,1.0
+4943,1180 Fourth St Apartments - Comm Rm,"1180 4th St, San Francisco, CA 94158, USA",37.77382,-122.39177,4944.0,CA,SAN FRANCISCO COUNTY,Pct 7653,False,False,1.0
+4944,Fox Plaza - Fitness Center,"1390 Market St, San Francisco, CA 94102, USA",37.77693,-122.41774,4945.0,CA,SAN FRANCISCO COUNTY,Pct 7654,False,False,1.0
+4945,Joe & The Juice,"301 Howard St, San Francisco, CA 94105, USA",37.7897,-122.3943,4946.0,CA,SAN FRANCISCO COUNTY,Pct 7655,False,False,1.0
+4946,I D E O,"501 The Embarcadero, San Francisco, CA 94105, USA",37.78812,-122.38636,4947.0,CA,SAN FRANCISCO COUNTY,Pct 7656,False,False,1.0
+4947,Mission Creek Park Pavilion,"290 Channel St, San Francisco, CA 94158, USA",37.77311,-122.39371,4948.0,CA,SAN FRANCISCO COUNTY,Pct 7657,False,False,1.0
+4948,Garage,"1 Crestmont Dr, San Francisco, CA 94131, USA",37.75561,-122.45758,4949.0,CA,SAN FRANCISCO COUNTY,Pct 7701,False,False,1.0
+4949,Midtown Terrace Clubhouse,"280 Olympia Way, San Francisco, CA 94131, USA",37.7516,-122.45586,4950.0,CA,SAN FRANCISCO COUNTY,Pct 7702,False,False,1.0
+4950,Firehouse #20,"285 Olympia Way, San Francisco, CA 94131, USA",37.75117,-122.45622,4951.0,CA,SAN FRANCISCO COUNTY,Pct 7704,False,False,1.0
+4951,Garage,"99 St Germain Ave, San Francisco, CA 94114, USA",37.7573,-122.45015,4952.0,CA,SAN FRANCISCO COUNTY,Pct 7705,False,False,1.0
+4952,Miraloma Elementary School - Gym,"175 Omar Way, San Francisco, CA 94127, USA",37.73884,-122.45022,4953.0,CA,SAN FRANCISCO COUNTY,Pct 7706,False,False,1.0
+4953,Garage,"2 El Sereno Ct, San Francisco, CA 94127, USA",37.73875,-122.44422,4954.0,CA,SAN FRANCISCO COUNTY,Pct 7707,False,False,1.0
+4954,Garage,"33 Bella Vista Way, San Francisco, CA 94127, USA",37.73773,-122.44739,4955.0,CA,SAN FRANCISCO COUNTY,Pct 7708,False,False,1.0
+4955,Garage,"682 Monterey Blvd, San Francisco, CA 94127, USA",37.73173,-122.45073,4956.0,CA,SAN FRANCISCO COUNTY,Pct 7709,False,False,1.0
+4956,Friends Bar,"588 Monterey Blvd, San Francisco, CA 94127, USA",37.73181,-122.44856,4957.0,CA,SAN FRANCISCO COUNTY,Pct 7711,False,False,1.0
+4957,Sunnyside Conservatory,"236 Monterey Blvd, San Francisco, CA 94131, USA",37.73192,-122.44082,4958.0,CA,SAN FRANCISCO COUNTY,Pct 7712,False,False,1.0
+4958,Garage,"245 Upper Terrace, San Francisco, CA 94117, USA",37.76278,-122.4451,4959.0,CA,SAN FRANCISCO COUNTY,Pct 7801,False,False,1.0
+4959,Randall Museum - Buckley Redwood Room,"199 Museum Way, San Francisco, CA 94114, USA",37.76443,-122.43832,4960.0,CA,SAN FRANCISCO COUNTY,Pct 7802,False,False,1.0
+4960,Garage,"38 Ord St, San Francisco, CA 94114, USA",37.76308,-122.44051,4961.0,CA,SAN FRANCISCO COUNTY,Pct 7803,False,False,1.0
+4961,Mckinley Elementary School - Front Lobby,"1025 14th St, San Francisco, CA 94114, USA",37.76696,-122.43637,4962.0,CA,SAN FRANCISCO COUNTY,Pct 7804,False,False,1.0
+4962,Garage,"46 Beaver St, San Francisco, CA 94114, USA",37.76524,-122.43428,4963.0,CA,SAN FRANCISCO COUNTY,Pct 7805,False,False,1.0
+4963,Harvey Milk Recreation Center,"50 Scott St, San Francisco, CA 94117, USA",37.76961,-122.43468,4964.0,CA,SAN FRANCISCO COUNTY,Pct 7806,False,False,1.0
+4964,Firehouse #6,"135 Sanchez St, San Francisco, CA 94114, USA",37.76709,-122.43075,4965.0,CA,SAN FRANCISCO COUNTY,Pct 7807,False,False,1.0
+4965,Community Room,"25 Sanchez St, San Francisco, CA 94114, USA",37.76894,-122.43102,4966.0,CA,SAN FRANCISCO COUNTY,Pct 7808,False,False,1.0
+4966,Community Room,"462 Duboce Ave, San Francisco, CA 94117, USA",37.7695,-122.43072,4967.0,CA,SAN FRANCISCO COUNTY,Pct 7809,False,False,1.0
+4967,S F Gay Men's Chorus - Lobby,"170 Valencia St, San Francisco, CA 94103, USA",37.77043,-122.42279,4968.0,CA,SAN FRANCISCO COUNTY,Pct 7811,False,False,1.0
+4968,St. Francis Of Assisi - Garage,"145 Guerrero St, San Francisco, CA 94103, USA",37.76902,-122.42376,4969.0,CA,SAN FRANCISCO COUNTY,Pct 7812,False,False,1.0
+4969,Garage,"71 Landers St, San Francisco, CA 94114, USA",37.76669,-122.42754,4970.0,CA,SAN FRANCISCO COUNTY,Pct 7813,False,False,1.0
+4970,Valencia Gardens - Community Room,"390 Valencia St, San Francisco, CA 94103, USA",37.76667,-122.42226,4971.0,CA,SAN FRANCISCO COUNTY,Pct 7814,False,False,1.0
+4971,Garage,"40 Danvers St, San Francisco, CA 94114, USA",37.7608,-122.44387,4972.0,CA,SAN FRANCISCO COUNTY,Pct 7815,False,False,1.0
+4972,Garage,"130 Douglass St, San Francisco, CA 94114, USA",37.76166,-122.43978,4973.0,CA,SAN FRANCISCO COUNTY,Pct 7816,False,False,1.0
+4973,Harvey Milk Memorial Branch Library,"1 Jose Sarria Ct, San Francisco, CA 94114, USA",37.76408,-122.43182,4974.0,CA,SAN FRANCISCO COUNTY,Pct 7817,False,False,1.0
+4974,Everett Middle School - Hallway,"450 Church St, San Francisco, CA 94114, USA",37.76366,-122.42907,4975.0,CA,SAN FRANCISCO COUNTY,Pct 7818,False,False,1.0
+4975,Boys & Girls Club - Dance Studio,"450 Guerrero St, San Francisco, CA 94110, USA",37.76384,-122.42429,4976.0,CA,SAN FRANCISCO COUNTY,Pct 7819,False,False,1.0
+4976,Garage,"128 Eureka St, San Francisco, CA 94114, USA",37.76015,-122.43844,4977.0,CA,SAN FRANCISCO COUNTY,Pct 7821,False,False,1.0
+4977,Eureka Valley Rec Ctr - Tot Room,"100 Collingwood St, San Francisco, CA 94114, USA",37.76028,-122.43642,4978.0,CA,SAN FRANCISCO COUNTY,Pct 7822,False,False,1.0
+4978,Garage,"3887 17th St, San Francisco, CA 94114, USA",37.76254,-122.43261,4979.0,CA,SAN FRANCISCO COUNTY,Pct 7823,False,False,1.0
+4979,Garage,"177 Hancock St, San Francisco, CA 94114, USA",37.76013,-122.43225,4980.0,CA,SAN FRANCISCO COUNTY,Pct 7824,False,False,1.0
+4980,Mission High School - Cafeteria,"3750 18th St, San Francisco, CA 94114, USA",37.76175,-122.42717,4981.0,CA,SAN FRANCISCO COUNTY,Pct 7825,False,False,1.0
+4981,Dolores Park Church,"95 Dorland St, San Francisco, CA 94110, USA",37.76216,-122.42583,4982.0,CA,SAN FRANCISCO COUNTY,Pct 7826,False,False,1.0
+4982,Mission Police Station - Community Room,"630 Valencia St, San Francisco, CA 94110, USA",37.76285,-122.422,4983.0,CA,SAN FRANCISCO COUNTY,Pct 7827,False,False,1.0
+4983,Rooftop Mayeda Campus - Gym,"500 Corbett Ave, San Francisco, CA 94114, USA",37.75758,-122.44473,4984.0,CA,SAN FRANCISCO COUNTY,Pct 7828,False,False,1.0
+4984,Garage,"65 Grand View Ave, San Francisco, CA 94114, USA",37.75693,-122.44044,4985.0,CA,SAN FRANCISCO COUNTY,Pct 7829,False,False,1.0
+4985,Harvey Milk Elementary School - Auditorium,"4235 19th St, San Francisco, CA 94114, USA",37.75902,-122.43642,4986.0,CA,SAN FRANCISCO COUNTY,Pct 7831,False,False,1.0
+4986,Garage,"4046 20th St, San Francisco, CA 94114, USA",37.75811,-122.43139,4987.0,CA,SAN FRANCISCO COUNTY,Pct 7832,False,False,1.0
+4987,Garage,"708 Guerrero St, San Francisco, CA 94110, USA",37.75974,-122.42392,4988.0,CA,SAN FRANCISCO COUNTY,Pct 7833,False,False,1.0
+4988,Apartamentos De La Esperanza - Garage,"3590 19th St, San Francisco, CA 94110, USA",37.76021,-122.42345,4989.0,CA,SAN FRANCISCO COUNTY,Pct 7834,False,False,1.0
+4989,Garage,"264 Glenview Dr, San Francisco, CA 94131, USA",37.74816,-122.44564,4990.0,CA,SAN FRANCISCO COUNTY,Pct 7835,False,False,1.0
+4990,Garage - Enter Through Glass Door,"885 Corbett Ave, San Francisco, CA 94131, USA",37.75267,-122.44356,4991.0,CA,SAN FRANCISCO COUNTY,Pct 7836,False,False,1.0
+4991,Firehouse #24,"100 Hoffman, San Francisco, CA 94114, USA",37.75317,-122.44108,4992.0,CA,SAN FRANCISCO COUNTY,Pct 7837,False,False,1.0
+4992,Alvarado Elementary School - Motor Skills Rm,"625 Douglass St, San Francisco, CA 94114, USA",37.7535,-122.4385,4993.0,CA,SAN FRANCISCO COUNTY,Pct 7838,False,False,1.0
+4993,Garage,"3753 21st St, San Francisco, CA 94114, USA",37.75607,-122.43134,4994.0,CA,SAN FRANCISCO COUNTY,Pct 7839,False,False,1.0
+4994,School - Edison Charter- Auditorium,"3531 22nd St, San Francisco, CA 94114, USA",37.75443,-122.42602,4995.0,CA,SAN FRANCISCO COUNTY,Pct 7841,False,False,1.0
+4995,St James Catholic Church,"1086 Guerrero St, San Francisco, CA 94110, USA",37.75394,-122.42334,4996.0,CA,SAN FRANCISCO COUNTY,Pct 7842,False,False,1.0
+4996,Marsh Theatre - Cafe,"1070 Valencia St, San Francisco, CA 94110, USA",37.75575,-122.42131,4997.0,CA,SAN FRANCISCO COUNTY,Pct 7843,False,False,1.0
+4997,Garage,"3549 23rd St, San Francisco, CA 94110, USA",37.7534,-122.42242,4998.0,CA,SAN FRANCISCO COUNTY,Pct 7844,False,False,1.0
+4998,Garage,"4323 23rd St, San Francisco, CA 94114, USA",37.75242,-122.43947,4999.0,CA,SAN FRANCISCO COUNTY,Pct 7845,False,False,1.0
+4999,Noe Valley Branch Library - Program Room,"451 Jersey St, San Francisco, CA 94114, USA",37.75027,-122.43509,5000.0,CA,SAN FRANCISCO COUNTY,Pct 7846,False,False,1.0
+5000,Garage,"358 Jersey St, San Francisco, CA 94114, USA",37.75072,-122.43314,5001.0,CA,SAN FRANCISCO COUNTY,Pct 7847,False,False,1.0
+5001,Theresa S. Mahler School - Room 4,"990 Church St, San Francisco, CA 94114, USA",37.75527,-122.42805,5002.0,CA,SAN FRANCISCO COUNTY,Pct 7848,False,False,1.0
+5002,Garage,"21 Jersey St, San Francisco, CA 94114, USA",37.75074,-122.42571,5003.0,CA,SAN FRANCISCO COUNTY,Pct 7849,False,False,1.0
+5003,Garage,"96 Turquoise Way, San Francisco, CA 94131, USA",37.74326,-122.44462,5004.0,CA,SAN FRANCISCO COUNTY,Pct 7851,False,False,1.0
+5004,Casa De Vida Apartments - Garage,"5157 Diamond Heights Blvd, San Francisco, CA 94131, USA",37.74698,-122.43996,5005.0,CA,SAN FRANCISCO COUNTY,Pct 7852,False,False,1.0
+5005,Garage,"829 Duncan St, San Francisco, CA 94131, USA",37.7453,-122.43866,5006.0,CA,SAN FRANCISCO COUNTY,Pct 7853,False,False,1.0
+5006,Garage,"4132 26th St, San Francisco, CA 94131, USA",37.7484,-122.43239,5007.0,CA,SAN FRANCISCO COUNTY,Pct 7854,False,False,1.0
+5007,Bethany United Methodist Church - Chapel,"1270 Sanchez St, San Francisco, CA 94114, USA",37.74879,-122.42967,5008.0,CA,SAN FRANCISCO COUNTY,Pct 7855,False,False,1.0
+5008,Firehouse #11,"3880 26th St, San Francisco, CA 94131, USA",37.74881,-122.42651,5009.0,CA,SAN FRANCISCO COUNTY,Pct 7856,False,False,1.0
+5009,Garage,"1165 Dolores St, San Francisco, CA 94110, USA",37.75081,-122.42482,5010.0,CA,SAN FRANCISCO COUNTY,Pct 7857,False,False,1.0
+5010,Templo Da La Fe - Church Lobby,"1220 Valencia St, San Francisco, CA 94110, USA",37.75323,-122.42111,5011.0,CA,SAN FRANCISCO COUNTY,Pct 7858,False,False,1.0
+5011,Garage,"541 Duncan St, San Francisco, CA 94131, USA",37.74562,-122.43225,5012.0,CA,SAN FRANCISCO COUNTY,Pct 7859,False,False,1.0
+5012,Garage,"422 Day St, San Francisco, CA 94131, USA",37.74283,-122.43171,5013.0,CA,SAN FRANCISCO COUNTY,Pct 7861,False,False,1.0
+5013,Garage,"1532 Church St, San Francisco, CA 94131, USA",37.74636,-122.42717,5014.0,CA,SAN FRANCISCO COUNTY,Pct 7862,False,False,1.0
+5014,Garage,"59 28th St, San Francisco, CA 94110, USA",37.74536,-122.42347,5015.0,CA,SAN FRANCISCO COUNTY,Pct 7863,False,False,1.0
+5015,Upper Noe Recreation Center,"295 Day St, San Francisco, CA 94131, USA",37.74257,-122.42853,5016.0,CA,SAN FRANCISCO COUNTY,Pct 7864,False,False,1.0
+5016,Dolores Huerta Elementary School - Cafeteria,"65 Chenery St, San Francisco, CA 94131, USA",37.74026,-122.42527,5017.0,CA,SAN FRANCISCO COUNTY,Pct 7865,False,False,1.0
+5017,Goldmine Hill Homeowners Assoc - Rec Rm,"43 Ora Way, San Francisco, CA 94131, USA",37.74146,-122.43763,5018.0,CA,SAN FRANCISCO COUNTY,Pct 7866,False,False,1.0
+5018,Garage,"291 Sussex St, San Francisco, CA 94131, USA",37.73651,-122.43795,5019.0,CA,SAN FRANCISCO COUNTY,Pct 7867,False,False,1.0
+5019,Firehouse #26,"80 Digby St, San Francisco, CA 94131, USA",37.74028,-122.43337,5020.0,CA,SAN FRANCISCO COUNTY,Pct 7868,False,False,1.0
+5020,Garage,"209 Randall St, San Francisco, CA 94131, USA",37.73966,-122.42808,5021.0,CA,SAN FRANCISCO COUNTY,Pct 7869,False,False,1.0
+5021,Glen Park School - Auditorium,"151 Lippard Ave, San Francisco, CA 94131, USA",37.73313,-122.43549,5022.0,CA,SAN FRANCISCO COUNTY,Pct 7871,False,False,1.0
+5022,Glen Park Library - Program Room,"2825 Diamond St, San Francisco, CA 94131, USA",37.73396,-122.43369,5023.0,CA,SAN FRANCISCO COUNTY,Pct 7872,False,False,1.0
+5023,Garage,"126 Chenery St, San Francisco, CA 94131, USA",37.73941,-122.42584,5024.0,CA,SAN FRANCISCO COUNTY,Pct 7873,False,False,1.0
+5024,Garage,"99 Bosworth St, San Francisco, CA 94112, USA",37.73341,-122.42759,5025.0,CA,SAN FRANCISCO COUNTY,Pct 7874,False,False,1.0
+5025,Garage,"68 Park St, San Francisco, CA 94110, USA",37.73653,-122.42499,5026.0,CA,SAN FRANCISCO COUNTY,Pct 7875,False,False,1.0
+5026,The S F L G B T Center,"1800 Market St, San Francisco, CA 94102, USA",37.77169,-122.42403,5027.0,CA,SAN FRANCISCO COUNTY,Pct 7876,False,False,1.0
+5027,Marshall Elementary School - Cafeteria,"1575 15th St, San Francisco, CA 94103, USA",37.76644,-122.41894,5028.0,CA,SAN FRANCISCO COUNTY,Pct 7901,False,False,1.0
+5028,U C S F Mission Center - Confer Rm #126,"1855 Folsom St, San Francisco, CA 94103, USA",37.76734,-122.41505,5029.0,CA,SAN FRANCISCO COUNTY,Pct 7902,False,False,1.0
+5029,Altamont Hotel - Storefront,"3042 16th St, San Francisco, CA 94103, USA",37.76525,-122.42071,5030.0,CA,SAN FRANCISCO COUNTY,Pct 7903,False,False,1.0
+5030,O D C Dance Commons,"351 Shotwell St, San Francisco, CA 94110, USA",37.76277,-122.41595,5031.0,CA,SAN FRANCISCO COUNTY,Pct 7904,False,False,1.0
+5031,Mission Language And Vocational School,"701 Alabama St, San Francisco, CA 94110, USA",37.76014,-122.4115,5032.0,CA,SAN FRANCISCO COUNTY,Pct 7905,False,False,1.0
+5032,Bella Salon,"2248 Mission St, San Francisco, CA 94110, USA",37.76106,-122.41967,5033.0,CA,SAN FRANCISCO COUNTY,Pct 7906,False,False,1.0
+5033,Firehouse #7,"2300 Folsom St, San Francisco, CA 94110, USA",37.76026,-122.41518,5034.0,CA,SAN FRANCISCO COUNTY,Pct 7907,False,False,1.0
+5034,New Harmony Cafe,"2401 Mission St, San Francisco, CA 94110, USA",37.7585,-122.41879,5035.0,CA,SAN FRANCISCO COUNTY,Pct 7908,False,False,1.0
+5035,Mission Arts Center - Lobby,"745 Treat Ave, San Francisco, CA 94110, USA",37.75821,-122.41298,5036.0,CA,SAN FRANCISCO COUNTY,Pct 7909,False,False,1.0
+5036,Southern Exposure,"3030 20th St, San Francisco, CA 94110, USA",37.75939,-122.41144,5037.0,CA,SAN FRANCISCO COUNTY,Pct 7911,False,False,1.0
+5037,Gray Area - Lobby,"2665 Mission St, San Francisco, CA 94110, USA",37.75441,-122.41835,5038.0,CA,SAN FRANCISCO COUNTY,Pct 7912,False,False,1.0
+5038,School - Cesar Chavez - Cafeteria,"825 Shotwell St, San Francisco, CA 94110, USA",37.75483,-122.41505,5039.0,CA,SAN FRANCISCO COUNTY,Pct 7913,False,False,1.0
+5039,Boys & Girls Of San Francisco,"901 Alabama St, San Francisco, CA 94110, USA",37.75729,-122.41108,5040.0,CA,SAN FRANCISCO COUNTY,Pct 7914,False,False,1.0
+5040,Garage,"2700 22nd St, San Francisco, CA 94110, USA",37.75625,-122.4087,5041.0,CA,SAN FRANCISCO COUNTY,Pct 7915,False,False,1.0
+5041,Synergy School - Lobby,"1387 Valencia St, San Francisco, CA 94110, USA",37.75089,-122.42024,5042.0,CA,SAN FRANCISCO COUNTY,Pct 7916,False,False,1.0
+5042,Mission United Presbyterian Church,"3261 23rd St, San Francisco, CA 94110, USA",37.75366,-122.41775,5043.0,CA,SAN FRANCISCO COUNTY,Pct 7917,False,False,1.0
+5043,Garage,"2774 Folsom St, San Francisco, CA 94110, USA",37.75287,-122.41447,5044.0,CA,SAN FRANCISCO COUNTY,Pct 7918,False,False,1.0
+5044,Endgames Improv â€“ Storefront,"2989 Mission St, San Francisco, CA 94110, USA",37.7494,-122.41791,5045.0,CA,SAN FRANCISCO COUNTY,Pct 7919,False,False,1.0
+5045,Garage,"3232 25th St, San Francisco, CA 94110, USA",37.75097,-122.41466,5046.0,CA,SAN FRANCISCO COUNTY,Pct 7921,False,False,1.0
+5046,Garage,"3059 25th St, San Francisco, CA 94110, USA",37.75085,-122.41111,5047.0,CA,SAN FRANCISCO COUNTY,Pct 7922,False,False,1.0
+5047,School - Sunshine - S F Education Fund,"2730 Bryant St, San Francisco, CA 94110, USA",37.75045,-122.40916,5048.0,CA,SAN FRANCISCO COUNTY,Pct 7923,False,False,1.0
+5048,Brava Theater - Cabaret Room,"2773 24th St, San Francisco, CA 94110, USA",37.7528,-122.40775,5049.0,CA,SAN FRANCISCO COUNTY,Pct 7924,False,False,1.0
+5049,Cleanerific - Storage Room,"3465 Cesar Chavez, San Francisco, CA 94110, USA",37.74788,-122.41957,5050.0,CA,SAN FRANCISCO COUNTY,Pct 7925,False,False,1.0
+5050,Garage,"28 Mirabel Ave, San Francisco, CA 94110, USA",37.74615,-122.41693,5051.0,CA,SAN FRANCISCO COUNTY,Pct 7926,False,False,1.0
+5051,Leonard Flynn School - Auditorium,"3125 Cesar Chavez, San Francisco, CA 94110, USA",37.74776,-122.41188,5052.0,CA,SAN FRANCISCO COUNTY,Pct 7927,False,False,1.0
+5052,Garage,"514 Precita Ave, San Francisco, CA 94110, USA",37.74708,-122.41026,5053.0,CA,SAN FRANCISCO COUNTY,Pct 7928,False,False,1.0
+5053,Mission Workforce Development - Career Link Center,"3125 Mission St, San Francisco, CA 94110, USA",37.74746,-122.41836,5054.0,CA,SAN FRANCISCO COUNTY,Pct 7929,False,False,1.0
+5054,Garage,"514 Peralta Ave, San Francisco, CA 94110, USA",37.74418,-122.40884,5055.0,CA,SAN FRANCISCO COUNTY,Pct 7931,False,False,1.0
+5055,Garage,"210 Holladay Ave, San Francisco, CA 94110, USA",37.74634,-122.40542,5056.0,CA,SAN FRANCISCO COUNTY,Pct 7932,False,False,1.0
+5056,S F Taekwondo Center,"3469 Mission St, San Francisco, CA 94110, USA",37.74134,-122.42249,5057.0,CA,SAN FRANCISCO COUNTY,Pct 7934,False,False,1.0
+5057,Garage,"246 Bocana St, San Francisco, CA 94110, USA",37.73984,-122.41847,5058.0,CA,SAN FRANCISCO COUNTY,Pct 7935,False,False,1.0
+5058,Garage,"267 Anderson St, San Francisco, CA 94110, USA",37.73946,-122.41504,5059.0,CA,SAN FRANCISCO COUNTY,Pct 7936,False,False,1.0
+5059,Garage,"1419 Cortland Ave, San Francisco, CA 94110, USA",37.73992,-122.41015,5060.0,CA,SAN FRANCISCO COUNTY,Pct 7937,False,False,1.0
+5060,Garage,"176 Highland Ave, San Francisco, CA 94110, USA",37.73713,-122.42185,5061.0,CA,SAN FRANCISCO COUNTY,Pct 7938,False,False,1.0
+5061,Bernal Heights Library - Community Room,"500 Cortland Ave, San Francisco, CA 94110, USA",37.73886,-122.41613,5062.0,CA,SAN FRANCISCO COUNTY,Pct 7939,False,False,1.0
+5062,Paul Revere Elementary School - Lobby,"555 Tompkins Ave, San Francisco, CA 94110, USA",37.7373,-122.41319,5063.0,CA,SAN FRANCISCO COUNTY,Pct 7941,False,False,1.0
+5063,Market Heights Apts - Garage,"1000 Tompkins Ave Bldg A, San Francisco, CA 94110, USA",37.7368,-122.41022,5064.0,CA,SAN FRANCISCO COUNTY,Pct 7942,False,False,1.0
+5064,St Mary's Rec Center - Gym,"95 Justin Dr, San Francisco, CA 94112, USA",37.73428,-122.42171,5065.0,CA,SAN FRANCISCO COUNTY,Pct 7943,False,False,1.0
+5065,Firehouse #32,"194 Park St, San Francisco, CA 94110, USA",37.73639,-122.42118,5066.0,CA,SAN FRANCISCO COUNTY,Pct 7944,False,False,1.0
+5066,Alemany Apartments - Community Room,"560 Alemany Blvd, San Francisco, CA 94110, USA",37.7325,-122.41788,5067.0,CA,SAN FRANCISCO COUNTY,Pct 7945,False,False,1.0
+5067,Hillcrest School - Auditorium,"810 Silver Ave, San Francisco, CA 94134, USA",37.72856,-122.41899,5068.0,CA,SAN FRANCISCO COUNTY,Pct 7946,False,False,1.0
+5068,Garage,"311 Gaven St, San Francisco, CA 94134, USA",37.73236,-122.4114,5069.0,CA,SAN FRANCISCO COUNTY,Pct 7947,False,False,1.0
+5069,Portola Baptist Church,"225 Pioche St, San Francisco, CA 94134, USA",37.7283,-122.42085,5070.0,CA,SAN FRANCISCO COUNTY,Pct 7948,False,False,1.0
+5070,Garage,"1315 Silliman St, San Francisco, CA 94134, USA",37.72762,-122.41821,5071.0,CA,SAN FRANCISCO COUNTY,Pct 7949,False,False,1.0
+5071,Palega Rec Center - Lobby,"500 Felton St, San Francisco, CA 94134, USA",37.72913,-122.4097,5072.0,CA,SAN FRANCISCO COUNTY,Pct 7951,False,False,1.0
+5072,Firehouse #42,"2430 San Bruno Ave, San Francisco, CA 94134, USA",37.73158,-122.40556,5073.0,CA,SAN FRANCISCO COUNTY,Pct 7952,False,False,1.0
+5073,Garage,"506 Yale St, San Francisco, CA 94134, USA",37.72287,-122.41604,5074.0,CA,SAN FRANCISCO COUNTY,Pct 7953,False,False,1.0
+5074,Garage,"430 Somerset St, San Francisco, CA 94134, USA",37.72606,-122.40756,5075.0,CA,SAN FRANCISCO COUNTY,Pct 7955,False,False,1.0
+5075,Martin Luther King Jr School - Cafeteria,"350 Girard St, San Francisco, CA 94134, USA",37.72775,-122.40536,5076.0,CA,SAN FRANCISCO COUNTY,Pct 7956,False,False,1.0
+5076,Garage,"801 University St, San Francisco, CA 94134, USA",37.7202,-122.4113,5077.0,CA,SAN FRANCISCO COUNTY,Pct 7957,False,False,1.0
+5077,Arriba Juntos - Computer Lab,"1850 Mission St, San Francisco, CA 94103, USA",37.7674,-122.42031,5078.0,CA,SAN FRANCISCO COUNTY,Pct 7959,False,False,1.0
+5078,Garage,"110 Seal Rock Dr, San Francisco, CA 94121, USA",37.78093,-122.50825,5079.0,CA,SAN FRANCISCO COUNTY,Pct 9101,False,False,1.0
+5079,Legion Of Honor - Cafe,"100 34th Ave, San Francisco, CA 94121, USA",37.78448,-122.50089,5080.0,CA,SAN FRANCISCO COUNTY,Pct 9102,False,False,1.0
+5080,Presidio Middle School - Auditorium Lobby,"450 30th Ave, San Francisco, CA 94121, USA",37.78127,-122.48984,5081.0,CA,SAN FRANCISCO COUNTY,Pct 9103,False,False,1.0
+5081,Garage,"463 28th Ave, San Francisco, CA 94121, USA",37.7807,-122.48822,5082.0,CA,SAN FRANCISCO COUNTY,Pct 9104,False,False,1.0
+5082,Rochambeau Playground - Clubhouse,"250 25th Ave, San Francisco, CA 94121, USA",37.78484,-122.48454,5083.0,CA,SAN FRANCISCO COUNTY,Pct 9105,False,False,1.0
+5083,Garage,"142 20th Ave, San Francisco, CA 94121, USA",37.7852,-122.47955,5084.0,CA,SAN FRANCISCO COUNTY,Pct 9106,False,False,1.0
+5084,Alamo Elementary School - Lobby,"250 23rd Ave, San Francisco, CA 94121, USA",37.7828,-122.48204,5085.0,CA,SAN FRANCISCO COUNTY,Pct 9107,False,False,1.0
+5085,Richmond Rec Center,"251 18th Ave, San Francisco, CA 94121, USA",37.78328,-122.47812,5086.0,CA,SAN FRANCISCO COUNTY,Pct 9108,False,False,1.0
+5086,Garage,"249 17th Ave, San Francisco, CA 94121, USA",37.78332,-122.4766,5087.0,CA,SAN FRANCISCO COUNTY,Pct 9109,False,False,1.0
+5087,Y M C A Richmond District,"360 18th Ave, San Francisco, CA 94121, USA",37.78122,-122.47706,5088.0,CA,SAN FRANCISCO COUNTY,Pct 9111,False,False,1.0
+5088,Sutro Elementary School - Cafeteria,"235 12th Ave, San Francisco, CA 94118, USA",37.78341,-122.4716,5089.0,CA,SAN FRANCISCO COUNTY,Pct 9112,False,False,1.0
+5089,St James Episcopal Church - Parish Hall,"4620 California St, San Francisco, CA 94118, USA",37.78498,-122.46722,5090.0,CA,SAN FRANCISCO COUNTY,Pct 9113,False,False,1.0
+5090,Richmond Branch Library - Program Room,"350 10th Ave, San Francisco, CA 94118, USA",37.7818,-122.46864,5091.0,CA,SAN FRANCISCO COUNTY,Pct 9114,False,False,1.0
+5091,George Peabody School - Library,"251 6th Ave, San Francisco, CA 94118, USA",37.78386,-122.46499,5092.0,CA,SAN FRANCISCO COUNTY,Pct 9115,False,False,1.0
+5092,Senior Housing - Community Room,"345 Arguello Blvd, San Francisco, CA 94118, USA",37.78422,-122.45951,5093.0,CA,SAN FRANCISCO COUNTY,Pct 9116,False,False,1.0
+5093,Firehouse #34,"499 41st Ave, San Francisco, CA 94121, USA",37.77944,-122.50269,5094.0,CA,SAN FRANCISCO COUNTY,Pct 9117,False,False,1.0
+5094,Anza Branch Library - Program Room,"550 37th Ave, San Francisco, CA 94121, USA",37.7786,-122.49727,5095.0,CA,SAN FRANCISCO COUNTY,Pct 9118,False,False,1.0
+5095,Garage,"687 40th Ave, San Francisco, CA 94121, USA",37.77584,-122.50074,5096.0,CA,SAN FRANCISCO COUNTY,Pct 9119,False,False,1.0
+5096,Balboa Theatre,"3630 Balboa St, San Francisco, CA 94121, USA",37.77591,-122.49795,5097.0,CA,SAN FRANCISCO COUNTY,Pct 9121,False,False,1.0
+5097,Washington High School - Audit Lobby,"600 32nd Ave, San Francisco, CA 94121, USA",37.77783,-122.49189,5098.0,CA,SAN FRANCISCO COUNTY,Pct 9122,False,False,1.0
+5098,Firehouse #14,"551 26th Ave, San Francisco, CA 94121, USA",37.77901,-122.48595,5099.0,CA,SAN FRANCISCO COUNTY,Pct 9123,False,False,1.0
+5099,Garage,"479 23rd Ave, San Francisco, CA 94121, USA",37.77867,-122.48275,5100.0,CA,SAN FRANCISCO COUNTY,Pct 9124,False,False,1.0
+5100,Garage,"484 21st Ave, San Francisco, CA 94121, USA",37.77872,-122.48018,5101.0,CA,SAN FRANCISCO COUNTY,Pct 9125,False,False,1.0
+5101,Argonne School - Multi Purpose Rm,"680 18th Ave, San Francisco, CA 94121, USA",37.77525,-122.47652,5102.0,CA,SAN FRANCISCO COUNTY,Pct 9126,False,False,1.0
+5102,Garage,"558 17th Ave, San Francisco, CA 94121, USA",37.77747,-122.47581,5103.0,CA,SAN FRANCISCO COUNTY,Pct 9127,False,False,1.0
+5103,Firehouse #31,"441 12th Ave, San Francisco, CA 94118, USA",37.77988,-122.47092,5104.0,CA,SAN FRANCISCO COUNTY,Pct 9128,False,False,1.0
+5104,Park Presidio United Methodist Church,"4301 Geary Blvd, San Francisco, CA 94118, USA",37.78066,-122.46554,5105.0,CA,SAN FRANCISCO COUNTY,Pct 9129,False,False,1.0
+5105,Richmond Police Station - Community Room,"450 7th Ave, San Francisco, CA 94118, USA",37.77997,-122.4653,5106.0,CA,SAN FRANCISCO COUNTY,Pct 9131,False,False,1.0
+5106,Garage,"560 4th Ave, San Francisco, CA 94118, USA",37.77813,-122.4617,5107.0,CA,SAN FRANCISCO COUNTY,Pct 9132,False,False,1.0
+5107,Columbarium,"1 Loraine Ct, San Francisco, CA 94118, USA",37.78067,-122.45705,5108.0,CA,SAN FRANCISCO COUNTY,Pct 9133,False,False,1.0
+5108,Garage,"740 Anza St, San Francisco, CA 94118, USA",37.78036,-122.45464,5109.0,CA,SAN FRANCISCO COUNTY,Pct 9134,False,False,1.0
+5109,The Butterfly Joint,"4411 Cabrillo St, San Francisco, CA 94121, USA",37.77325,-122.50605,5110.0,CA,SAN FRANCISCO COUNTY,Pct 9135,False,False,1.0
+5110,Garage,"734 46th Ave, San Francisco, CA 94121, USA",37.77458,-122.50662,5111.0,CA,SAN FRANCISCO COUNTY,Pct 9136,False,False,1.0
+5111,Cabrillo Playground - Clubhouse,"853 38th Ave, San Francisco, CA 94121, USA",37.77287,-122.49868,5112.0,CA,SAN FRANCISCO COUNTY,Pct 9137,False,False,1.0
+5112,Golden Gate Park Sr. Center - Lobby,"6101 Fulton St, San Francisco, CA 94121, USA",37.77163,-122.49699,5113.0,CA,SAN FRANCISCO COUNTY,Pct 9138,False,False,1.0
+5113,Garage,"3245 Cabrillo St, San Francisco, CA 94121, USA",37.77387,-122.49369,5114.0,CA,SAN FRANCISCO COUNTY,Pct 9139,False,False,1.0
+5114,Fulton Playground - Fieldhouse,"855 27th Ave, San Francisco, CA 94121, USA",37.77356,-122.4869,5115.0,CA,SAN FRANCISCO COUNTY,Pct 9141,False,False,1.0
+5115,Academic & Professional Dev - Room 118,"735 24th Ave, San Francisco, CA 94121, USA",37.77568,-122.48378,5116.0,CA,SAN FRANCISCO COUNTY,Pct 9142,False,False,1.0
+5116,Garage,"626 20th Ave, San Francisco, CA 94121, USA",37.776,-122.4789,5117.0,CA,SAN FRANCISCO COUNTY,Pct 9143,False,False,1.0
+5117,Garage,"1437 Cabrillo St, San Francisco, CA 94118, USA",37.77465,-122.47424,5118.0,CA,SAN FRANCISCO COUNTY,Pct 9144,False,False,1.0
+5118,Garage,"632 11th Ave, San Francisco, CA 94118, USA",37.7763,-122.46909,5119.0,CA,SAN FRANCISCO COUNTY,Pct 9145,False,False,1.0
+5119,Church Of Christ Church - Community Rm,"701 8th Ave, San Francisco, CA 94118, USA",37.77513,-122.46624,5120.0,CA,SAN FRANCISCO COUNTY,Pct 9146,False,False,1.0
+5120,School - Mccoppin - Cafeteria,"651 6th Ave, San Francisco, CA 94118, USA",37.77617,-122.46432,5121.0,CA,SAN FRANCISCO COUNTY,Pct 9147,False,False,1.0
+5121,Garage,"700 3rd Ave, San Francisco, CA 94118, USA",37.7754,-122.46041,5122.0,CA,SAN FRANCISCO COUNTY,Pct 9148,False,False,1.0
+5122,Garage,"276 Willard N, San Francisco, CA 94118, USA",37.77599,-122.4562,5123.0,CA,SAN FRANCISCO COUNTY,Pct 9149,False,False,1.0
+5123,Leo T Mc Carthy Center - Room 116,"281 Masonic, 281 Masonic Ave, San Francisco, CA 94117, USA",37.77892,-122.44746,5124.0,CA,SAN FRANCISCO COUNTY,Pct 9151,False,False,1.0
+5124,Memorial Gym - North Lobby,"War Memorial Gymnasium, 2335 Golden Gate Ave, San Francisco, CA 94117, USA",37.77687,-122.44951,5125.0,CA,SAN FRANCISCO COUNTY,Pct 9152,False,False,1.0
+5125,Log Cabin,"1299 Storey Ave, San Francisco, CA 94129, USA",37.8038,-122.47331,5126.0,CA,SAN FRANCISCO COUNTY,Pct 9201,False,False,1.0
+5126,Firehouse #51,"218 Lincoln Blvd, San Francisco, CA 94129, USA",37.80163,-122.45543,5127.0,CA,SAN FRANCISCO COUNTY,Pct 9202,False,False,1.0
+5127,Garage,"1867 Jefferson St, San Francisco, CA 94123, USA",37.80452,-122.44315,5128.0,CA,SAN FRANCISCO COUNTY,Pct 9203,False,False,1.0
+5128,Garage,"3760 Webster St, San Francisco, CA 94123, USA",37.80573,-122.43534,5129.0,CA,SAN FRANCISCO COUNTY,Pct 9204,False,False,1.0
+5129,Garage,"1526 Francisco St, San Francisco, CA 94123, USA",37.80272,-122.43051,5130.0,CA,SAN FRANCISCO COUNTY,Pct 9205,False,False,1.0
+5130,Claire Lilienthal School - Scott Campus - Auditorium,"3630 Divisadero St, San Francisco, CA 94123, USA",37.80339,-122.44341,5131.0,CA,SAN FRANCISCO COUNTY,Pct 9206,False,False,1.0
+5131,Garage,"2248 Francisco St, San Francisco, CA 94123, USA",37.80122,-122.44224,5132.0,CA,SAN FRANCISCO COUNTY,Pct 9207,False,False,1.0
+5132,Marina Middle School - Auditorium Lobby,"3500 Fillmore St, San Francisco, CA 94123, USA",37.80235,-122.43602,5133.0,CA,SAN FRANCISCO COUNTY,Pct 9208,False,False,1.0
+5133,Garage,"3632 Fillmore St, San Francisco, CA 94123, USA",37.80333,-122.43644,5134.0,CA,SAN FRANCISCO COUNTY,Pct 9209,False,False,1.0
+5134,Garage,"3201 Baker St, San Francisco, CA 94123, USA",37.80059,-122.44661,5135.0,CA,SAN FRANCISCO COUNTY,Pct 9211,False,False,1.0
+5135,Moscone Rec Ctr - Community Room,"1800 Chestnut St, San Francisco, CA 94123, USA",37.80143,-122.43308,5136.0,CA,SAN FRANCISCO COUNTY,Pct 9212,False,False,1.0
+5136,Garage,"1259 Bay St, San Francisco, CA 94123, USA",37.80352,-122.42775,5137.0,CA,SAN FRANCISCO COUNTY,Pct 9213,False,False,1.0
+5137,Garage,"3002 Baker St, San Francisco, CA 94123, USA",37.79881,-122.44581,5138.0,CA,SAN FRANCISCO COUNTY,Pct 9214,False,False,1.0
+5138,Edward I I Youth Housing - Program Room,"3155 Scott St, San Francisco, CA 94123, USA",37.79901,-122.44115,5139.0,CA,SAN FRANCISCO COUNTY,Pct 9215,False,False,1.0
+5139,Firehouse #16 - West Engine Bay,"2251 Greenwich St, San Francisco, CA 94123, USA",37.79865,-122.43675,5140.0,CA,SAN FRANCISCO COUNTY,Pct 9216,False,False,1.0
+5140,Garage,"3150 Steiner St, San Francisco, CA 94123, USA",37.79858,-122.43729,5141.0,CA,SAN FRANCISCO COUNTY,Pct 9217,False,False,1.0
+5141,Garage,"3020 Laguna St, San Francisco, CA 94123, USA",37.7992,-122.4306,5142.0,CA,SAN FRANCISCO COUNTY,Pct 9218,False,False,1.0
+5142,Garage,"1570 Greenwich St, San Francisco, CA 94123, USA",37.80039,-122.42579,5143.0,CA,SAN FRANCISCO COUNTY,Pct 9219,False,False,1.0
+5143,Garage,"2835 Broadway, San Francisco, CA 94115, USA",37.79283,-122.44385,5144.0,CA,SAN FRANCISCO COUNTY,Pct 9221,False,False,1.0
+5144,St Vincent De Paul School - Gymnasium,"2350 Green St, San Francisco, CA 94123, USA",37.79609,-122.4381,5145.0,CA,SAN FRANCISCO COUNTY,Pct 9222,False,False,1.0
+5145,Garage,"2151 Green St, San Francisco, CA 94123, USA",37.79595,-122.43463,5146.0,CA,SAN FRANCISCO COUNTY,Pct 9223,False,False,1.0
+5146,Golden Gate Valley Library - Program Rm,"1801 Green St, San Francisco, CA 94123, USA",37.79681,-122.42905,5147.0,CA,SAN FRANCISCO COUNTY,Pct 9224,False,False,1.0
+5147,Sherman School - Library,"1651 Union St, San Francisco, CA 94123, USA",37.79781,-122.42611,5148.0,CA,SAN FRANCISCO COUNTY,Pct 9225,False,False,1.0
+5148,Garage,"1745 Vallejo St, San Francisco, CA 94109, USA",37.79616,-122.42593,5149.0,CA,SAN FRANCISCO COUNTY,Pct 9226,False,False,1.0
+5149,Garage (on Left Side),"211 27th Ave, San Francisco, CA 94121, USA",37.78541,-122.48743,5150.0,CA,SAN FRANCISCO COUNTY,Pct 9227,False,False,1.0
+5150,Garage,"90 25th Ave, San Francisco, CA 94121, USA",37.78806,-122.48509,5151.0,CA,SAN FRANCISCO COUNTY,Pct 9228,False,False,1.0
+5151,Garage,"38 20th Ave, San Francisco, CA 94121, USA",37.78664,-122.47961,5152.0,CA,SAN FRANCISCO COUNTY,Pct 9229,False,False,1.0
+5152,Garage,"54 7th Ave, San Francisco, CA 94118, USA",37.78743,-122.46549,5153.0,CA,SAN FRANCISCO COUNTY,Pct 9231,False,False,1.0
+5153,St John's Presbyterian Church - Lobby,"25 Lake St, San Francisco, CA 94118, USA",37.78671,-122.45981,5154.0,CA,SAN FRANCISCO COUNTY,Pct 9232,False,False,1.0
+5154,Garage,"3820 Washington St, San Francisco, CA 94118, USA",37.78896,-122.45634,5155.0,CA,SAN FRANCISCO COUNTY,Pct 9233,False,False,1.0
+5155,Jewish Community Center - Fitness Center,"415 Presidio Ave, San Francisco, CA 94115, USA",37.78748,-122.44699,5156.0,CA,SAN FRANCISCO COUNTY,Pct 9234,False,False,1.0
+5156,S F University High School - Parking Garage,"3220 Sacramento St, San Francisco, CA 94115, USA",37.78853,-122.44597,5157.0,CA,SAN FRANCISCO COUNTY,Pct 9235,False,False,1.0
+5157,S F University High School,"3150 Washington St, San Francisco, CA 94115, USA",37.79032,-122.44543,5158.0,CA,SAN FRANCISCO COUNTY,Pct 9236,False,False,1.0
+5158,Garage,"2929 Clay St, San Francisco, CA 94115, USA",37.78972,-122.44134,5159.0,CA,SAN FRANCISCO COUNTY,Pct 9237,False,False,1.0
+5159,S F Public Montessori School - Auditorium,"2340 Jackson St, San Francisco, CA 94115, USA",37.79294,-122.43359,5160.0,CA,SAN FRANCISCO COUNTY,Pct 9238,False,False,1.0
+5160,Garage,"2019 Pacific Ave, San Francisco, CA 94109, USA",37.79385,-122.42893,5161.0,CA,SAN FRANCISCO COUNTY,Pct 9239,False,False,1.0
+5161,Garage,"1977 Pacific Ave, San Francisco, CA 94109, USA",37.79398,-122.42759,5162.0,CA,SAN FRANCISCO COUNTY,Pct 9241,False,False,1.0
+5162,Golden Gate Church - Garage,"1901 Franklin St, San Francisco, CA 94109, USA",37.79216,-122.42474,5163.0,CA,SAN FRANCISCO COUNTY,Pct 9242,False,False,1.0
+5163,Presidio Library - Program Room,"3150 Sacramento St, San Francisco, CA 94115, USA",37.78889,-122.44487,5164.0,CA,SAN FRANCISCO COUNTY,Pct 9243,False,False,1.0
+5164,Senior Housing - Social Room,"2698 California St, San Francisco, CA 94115, USA",37.78849,-122.43863,5165.0,CA,SAN FRANCISCO COUNTY,Pct 9244,False,False,1.0
+5165,Congregation Sherith Israel - Lobby,"2262 California St, San Francisco, CA 94115, USA",37.78947,-122.43168,5166.0,CA,SAN FRANCISCO COUNTY,Pct 9245,False,False,1.0
+5166,Sf Public Montessori School - Music Room,"2340 Jackson St, San Francisco, CA 94115, USA",37.79294,-122.43359,5167.0,CA,SAN FRANCISCO COUNTY,Pct 9246,False,False,1.0
+5167,Firehouse #38,"2150 California St, San Francisco, CA 94115, USA",37.78966,-122.42991,5168.0,CA,SAN FRANCISCO COUNTY,Pct 9247,False,False,1.0
+5168,Store-Relax The Back,"1765 Van Ness Ave, San Francisco, CA 94109, USA",37.79201,-122.42304,5169.0,CA,SAN FRANCISCO COUNTY,Pct 9248,False,False,1.0
+5169,Roosevelt School - Auditorium,"460 Arguello Blvd, San Francisco, CA 94118, USA",37.78226,-122.45862,5170.0,CA,SAN FRANCISCO COUNTY,Pct 9249,False,False,1.0
+5170,St Gregory Armenian - Youth Hall,"51 Commonwealth Ave, San Francisco, CA 94118, USA",37.78506,-122.45606,5171.0,CA,SAN FRANCISCO COUNTY,Pct 9251,False,False,1.0
+5171,Sfusd Office - Assembly Room,"20 Cook St, San Francisco, CA 94118, USA",37.78342,-122.45225,5172.0,CA,SAN FRANCISCO COUNTY,Pct 9252,False,False,1.0
+5172,Menorah Park- Conference Room,"3365 Sacramento St, San Francisco, CA 94118, USA",37.78789,-122.44797,5173.0,CA,SAN FRANCISCO COUNTY,Pct 9253,False,False,1.0
+5173,William Cobb E. S. - Main Hallway,"2725 California St, San Francisco, CA 94115, USA",37.78786,-122.43969,5174.0,CA,SAN FRANCISCO COUNTY,Pct 9254,False,False,1.0
+5174,Muni Barn Classroom C,"2640 Geary Blvd, San Francisco, CA 94118, USA",37.78276,-122.44665,5175.0,CA,SAN FRANCISCO COUNTY,Pct 9255,False,False,1.0
+5175,7th Day Adventist Church - Imani Center,"2520 Bush St, San Francisco, CA 94115, USA",37.78656,-122.43934,5176.0,CA,SAN FRANCISCO COUNTY,Pct 9256,False,False,1.0
+5176,Wallenberg High School - Cafeteria,"40 Vega St, San Francisco, CA 94115, USA",37.78029,-122.44628,5177.0,CA,SAN FRANCISCO COUNTY,Pct 9258,False,False,1.0
+5177,Garage,"1295 48th Ave, San Francisco, CA 94122, USA",37.76233,-122.50839,5178.0,CA,SAN FRANCISCO COUNTY,Pct 9401,False,False,1.0
+5178,Firehouse #23,"1348 45th Ave, San Francisco, CA 94122, USA",37.76142,-122.50468,5179.0,CA,SAN FRANCISCO COUNTY,Pct 9402,False,False,1.0
+5179,Garage,"1279 41st Ave, San Francisco, CA 94122, USA",37.76296,-122.50098,5180.0,CA,SAN FRANCISCO COUNTY,Pct 9403,False,False,1.0
+5180,S F Korean United Methodist Fellowship,"3030 Judah St, San Francisco, CA 94122, USA",37.76118,-122.49488,5181.0,CA,SAN FRANCISCO COUNTY,Pct 9404,False,False,1.0
+5181,Garage,"1330 29th Ave, San Francisco, CA 94122, USA",37.76248,-122.48751,5182.0,CA,SAN FRANCISCO COUNTY,Pct 9405,False,False,1.0
+5182,Garage,"2625 Lincoln Way, San Francisco, CA 94122, USA",37.76484,-122.48631,5183.0,CA,SAN FRANCISCO COUNTY,Pct 9406,False,False,1.0
+5183,Garage,"1325 23rd Ave, San Francisco, CA 94122, USA",37.76288,-122.4817,5184.0,CA,SAN FRANCISCO COUNTY,Pct 9407,False,False,1.0
+5184,Garage,"1346 20th Ave, San Francisco, CA 94122, USA",37.76266,-122.47793,5185.0,CA,SAN FRANCISCO COUNTY,Pct 9408,False,False,1.0
+5185,Jefferson High School - Auditorium,"1725 Irving St, San Francisco, CA 94122, USA",37.76298,-122.47662,5186.0,CA,SAN FRANCISCO COUNTY,Pct 9409,False,False,1.0
+5186,Garage,"4242 Lawton St, San Francisco, CA 94122, USA",37.75675,-122.5085,5187.0,CA,SAN FRANCISCO COUNTY,Pct 9411,False,False,1.0
+5187,Garage,"1558 47th Ave, San Francisco, CA 94122, USA",37.75742,-122.50659,5188.0,CA,SAN FRANCISCO COUNTY,Pct 9412,False,False,1.0
+5188,Garage,"1342 41st Ave, San Francisco, CA 94122, USA",37.76171,-122.50042,5189.0,CA,SAN FRANCISCO COUNTY,Pct 9413,False,False,1.0
+5189,Lawton School - Cafeteria,"1570 31st Ave, San Francisco, CA 94122, USA",37.75848,-122.48943,5190.0,CA,SAN FRANCISCO COUNTY,Pct 9414,False,False,1.0
+5190,Garage,"1422 23rd Ave, San Francisco, CA 94122, USA",37.76105,-122.48102,5191.0,CA,SAN FRANCISCO COUNTY,Pct 9415,False,False,1.0
+5191,Garage,"3733 Lawton St, San Francisco, CA 94122, USA",37.75661,-122.50305,5192.0,CA,SAN FRANCISCO COUNTY,Pct 9416,False,False,1.0
+5192,Francis Scott Key Elem. - Auditorium Lobby,"1530 43rd Ave, San Francisco, CA 94122, USA",37.75818,-122.50222,5193.0,CA,SAN FRANCISCO COUNTY,Pct 9417,False,False,1.0
+5193,Garage,"3240 Lawton St, San Francisco, CA 94122, USA",37.7572,-122.49789,5194.0,CA,SAN FRANCISCO COUNTY,Pct 9418,False,False,1.0
+5194,Lawton School - Auditorium,"1570 31st Ave, San Francisco, CA 94122, USA",37.75848,-122.48943,5195.0,CA,SAN FRANCISCO COUNTY,Pct 9419,False,False,1.0
+5195,Sunset Rec Center,"2201 Lawton St, San Francisco, CA 94122, USA",37.75755,-122.48651,5196.0,CA,SAN FRANCISCO COUNTY,Pct 9421,False,False,1.0
+5196,Garage,"1700 Lawton St, San Francisco, CA 94122, USA",37.75791,-122.48129,5197.0,CA,SAN FRANCISCO COUNTY,Pct 9422,False,False,1.0
+5197,Sunset Neighborhood Beacon Ctr - Computer Rm,"3925 Noriega St, San Francisco, CA 94122, USA",37.7527,-122.50585,5198.0,CA,SAN FRANCISCO COUNTY,Pct 9423,False,False,1.0
+5198,Hope Evangelical Free Church,"3601 Noriega St, San Francisco, CA 94122, USA",37.75286,-122.50253,5199.0,CA,SAN FRANCISCO COUNTY,Pct 9424,False,False,1.0
+5199,Ortega Branch Library - Program Room,"3223 Ortega St, San Francisco, CA 94116, USA",37.7512,-122.4981,5200.0,CA,SAN FRANCISCO COUNTY,Pct 9425,False,False,1.0
+5200,Garage,"1859 34th Ave, San Francisco, CA 94122, USA",37.75242,-122.49269,5201.0,CA,SAN FRANCISCO COUNTY,Pct 9426,False,False,1.0
+5201,Episcopal Church Of The Incarnation,"1750 29th Ave, San Francisco, CA 94122, USA",37.75453,-122.48695,5202.0,CA,SAN FRANCISCO COUNTY,Pct 9427,False,False,1.0
+5202,Sunset Bible Assembly Of God,"1690 21st Ave, San Francisco, CA 94122, USA",37.75624,-122.47863,5203.0,CA,SAN FRANCISCO COUNTY,Pct 9428,False,False,1.0
+5203,R. L. Stevenson Elementary School - Main Lobby,"2051 34th Ave, San Francisco, CA 94116, USA",37.74871,-122.49285,5204.0,CA,SAN FRANCISCO COUNTY,Pct 9429,False,False,1.0
+5204,Firehouse #18,"1935 32nd Ave, San Francisco, CA 94116, USA",37.75098,-122.49048,5205.0,CA,SAN FRANCISCO COUNTY,Pct 9431,False,False,1.0
+5205,Adath Israel Synagogue,"1851 Noriega St, San Francisco, CA 94122, USA",37.75365,-122.48383,5206.0,CA,SAN FRANCISCO COUNTY,Pct 9432,False,False,1.0
+5206,Lincoln High School - Lobby Of Gym,"2135 22nd Ave, San Francisco, CA 94116, USA",37.74784,-122.47967,5207.0,CA,SAN FRANCISCO COUNTY,Pct 9433,False,False,1.0
+5207,Garage,"3350 Santiago St, San Francisco, CA 94116, USA",37.74386,-122.50348,5208.0,CA,SAN FRANCISCO COUNTY,Pct 9434,False,False,1.0
+5208,S F U S D Special Ed Center - Multi Purpose Rm,"3045 Santiago St, San Francisco, CA 94116, USA",37.74365,-122.49983,5209.0,CA,SAN FRANCISCO COUNTY,Pct 9435,False,False,1.0
+5209,Garage,"2831 Rivera St, San Francisco, CA 94116, USA",37.74565,-122.49689,5210.0,CA,SAN FRANCISCO COUNTY,Pct 9436,False,False,1.0
+5210,Garage,"2271 35th Ave, San Francisco, CA 94116, USA",37.74471,-122.49324,5211.0,CA,SAN FRANCISCO COUNTY,Pct 9437,False,False,1.0
+5211,Lincoln H. S. - Auditorium,"1415 Quintara St, San Francisco, CA 94116, USA",37.74827,-122.48057,5212.0,CA,SAN FRANCISCO COUNTY,Pct 9438,False,False,1.0
+5212,Abraham Lincoln School - Teachers' Lounge,"2162 24th Ave, San Francisco, CA 94116, USA",37.74698,-122.48095,5213.0,CA,SAN FRANCISCO COUNTY,Pct 9439,False,False,1.0
+5213,Garage,"2618 45th Ave, San Francisco, CA 94116, USA",37.7377,-122.50304,5214.0,CA,SAN FRANCISCO COUNTY,Pct 9441,False,False,1.0
+5214,Bnai Emunah Synagogue,"3595 Taraval St, San Francisco, CA 94116, USA",37.74157,-122.5043,5215.0,CA,SAN FRANCISCO COUNTY,Pct 9442,False,False,1.0
+5215,Ulloa School - Gymnasium,"2650 42nd Ave, San Francisco, CA 94116, USA",37.73718,-122.4997,5216.0,CA,SAN FRANCISCO COUNTY,Pct 9443,False,False,1.0
+5216,Ulloa Elementary School - Lobby,"2650 42nd Ave, San Francisco, CA 94116, USA",37.73718,-122.4997,5217.0,CA,SAN FRANCISCO COUNTY,Pct 9444,False,False,1.0
+5217,Church - Living Water Fellowship,"2316 Vicente St, San Francisco, CA 94116, USA",37.7388,-122.49187,5218.0,CA,SAN FRANCISCO COUNTY,Pct 9445,False,False,1.0
+5218,Dianne Feinstein Elementary School - Cafeteria Hallway,"2550 25th Ave, San Francisco, CA 94116, USA",37.73969,-122.48153,5219.0,CA,SAN FRANCISCO COUNTY,Pct 9446,False,False,1.0
+5219,Taraval Police Station,"2345 24th Ave, San Francisco, CA 94116, USA",37.74371,-122.48153,5220.0,CA,SAN FRANCISCO COUNTY,Pct 9447,False,False,1.0
+5220,Garage,"2477 21st Ave, San Francisco, CA 94116, USA",37.74154,-122.47801,5221.0,CA,SAN FRANCISCO COUNTY,Pct 9448,False,False,1.0
+5221,South Sunset Playground- Community Room,"Vicente St & 40th Ave, San Francisco, CA 94116, USA",37.73833,-122.49794,5222.0,CA,SAN FRANCISCO COUNTY,Pct 9449,False,False,1.0
+5222,Garage,"2715 35th Ave, San Francisco, CA 94116, USA",37.7366,-122.49273,5223.0,CA,SAN FRANCISCO COUNTY,Pct 9451,False,False,1.0
+5223,Sava Pool - Multipurpose Room,"2695 19th Ave, San Francisco, CA 94116, USA",37.73777,-122.47587,5224.0,CA,SAN FRANCISCO COUNTY,Pct 9452,False,False,1.0
+5224,Garage,"20 Crestlake Dr, San Francisco, CA 94132, USA",37.73509,-122.48024,5225.0,CA,SAN FRANCISCO COUNTY,Pct 9453,False,False,1.0
+5225,Western Addition Library - Program Rm,"1550 Scott St, San Francisco, CA 94115, USA",37.78408,-122.43748,5226.0,CA,SAN FRANCISCO COUNTY,Pct 9503/9504,False,False,1.0
+5226,M L K - M G Square Apts - Community Room,"1680 Eddy St, San Francisco, CA 94115, USA",37.78129,-122.43518,5227.0,CA,SAN FRANCISCO COUNTY,Pct 9505,False,False,1.0
+5227,Robert B Pitts - Community Room,"1150 Scott St, San Francisco, CA 94115, USA",37.78039,-122.43687,5228.0,CA,SAN FRANCISCO COUNTY,Pct 9506,False,False,1.0
+5228,Garage,"915 Broderick St, San Francisco, CA 94115, USA",37.77878,-122.44055,5229.0,CA,SAN FRANCISCO COUNTY,Pct 9507,False,False,1.0
+5229,Creative Arts Charter School - Library,"1601 Turk St, San Francisco, CA 94115, USA",37.77975,-122.43606,5230.0,CA,SAN FRANCISCO COUNTY,Pct 9508,False,False,1.0
+5230,Pentecostal Temple Church - Dining Room,"1915 McAllister St, San Francisco, CA 94115, USA",37.77702,-122.44361,5231.0,CA,SAN FRANCISCO COUNTY,Pct 9509,False,False,1.0
+5231,Rachel Townsend Apts - Community Rm,"1750 McAllister St, San Francisco, CA 94115, USA",37.77776,-122.4409,5232.0,CA,SAN FRANCISCO COUNTY,Pct 9511,False,False,1.0
+5232,Zygmunt Arendt House - Community Rm,"850 Broderick St, San Francisco, CA 94115, USA",37.77832,-122.44002,5233.0,CA,SAN FRANCISCO COUNTY,Pct 9512,False,False,1.0
+5233,Third Baptist Church,"1399 McAllister St, San Francisco, CA 94115, USA",37.77787,-122.43455,5234.0,CA,SAN FRANCISCO COUNTY,Pct 9513,False,False,1.0
+5234,Lobby At U C S F Parking Garage,"1 Irving St, San Francisco, CA 94122, USA",37.76408,-122.45756,5235.0,CA,SAN FRANCISCO COUNTY,Pct 9514/9522,False,False,1.0
+5235,Firehouse #22,"1290 16th Ave, San Francisco, CA 94122, USA",37.76398,-122.47368,5236.0,CA,SAN FRANCISCO COUNTY,Pct 9515,False,False,1.0
+5236,St Annes Church - 1390 Center,"1390 14th Ave, San Francisco, CA 94122, USA",37.76231,-122.47128,5237.0,CA,SAN FRANCISCO COUNTY,Pct 9516,False,False,1.0
+5237,Garage,"1364 12th Ave, San Francisco, CA 94122, USA",37.76274,-122.46922,5238.0,CA,SAN FRANCISCO COUNTY,Pct 9517,False,False,1.0
+5238,County Fair Building,"1199 9th Ave, San Francisco, CA 94122, USA",37.76742,-122.47038,5239.0,CA,SAN FRANCISCO COUNTY,Pct 9518,False,False,1.0
+5239,Independence High School - Lobby,"1350 7th Ave, San Francisco, CA 94122, USA",37.7633,-122.46382,5240.0,CA,SAN FRANCISCO COUNTY,Pct 9519,False,False,1.0
+5240,St John Of God Catholic Church,"1290 5th Ave, San Francisco, CA 94122, USA",37.76441,-122.46181,5241.0,CA,SAN FRANCISCO COUNTY,Pct 9521,False,False,1.0
+5241,Garage,"1439 18th Ave, San Francisco, CA 94122, USA",37.761,-122.47615,5242.0,CA,SAN FRANCISCO COUNTY,Pct 9701,False,False,1.0
+5242,Garage,"731 Judah St, San Francisco, CA 94122, USA",37.76181,-122.4699,5243.0,CA,SAN FRANCISCO COUNTY,Pct 9702,False,False,1.0
+5243,Garage,"1689 17th Ave, San Francisco, CA 94122, USA",37.75647,-122.47477,5244.0,CA,SAN FRANCISCO COUNTY,Pct 9703,False,False,1.0
+5244,Alice Fong Yu Alternative School - Room 401,"1541 12th Ave, San Francisco, CA 94122, USA",37.75888,-122.4695,5245.0,CA,SAN FRANCISCO COUNTY,Pct 9704,False,False,1.0
+5245,Garage,"1651 9th Ave, San Francisco, CA 94122, USA",37.75747,-122.46609,5246.0,CA,SAN FRANCISCO COUNTY,Pct 9705,False,False,1.0
+5246,Garage,"566 Ortega St, San Francisco, CA 94122, USA",37.75473,-122.46933,5247.0,CA,SAN FRANCISCO COUNTY,Pct 9707,False,False,1.0
+5247,Garage,"421 Moraga St, San Francisco, CA 94122, USA",37.75627,-122.46729,5248.0,CA,SAN FRANCISCO COUNTY,Pct 9708,False,False,1.0
+5248,Garage,"1877 17th Ave, San Francisco, CA 94122, USA",37.75289,-122.47465,5249.0,CA,SAN FRANCISCO COUNTY,Pct 9709,False,False,1.0
+5249,Garage,"1816 Funston Ave, San Francisco, CA 94116, USA",37.75357,-122.47014,5250.0,CA,SAN FRANCISCO COUNTY,Pct 9711,False,False,1.0
+5250,Forest Hills Christian Church - Lobby,"250 Laguna Honda Blvd, San Francisco, CA 94116, USA",37.74979,-122.46083,5251.0,CA,SAN FRANCISCO COUNTY,Pct 9712,False,False,1.0
+5251,Firehouse #40,"2155 18th Ave, San Francisco, CA 94116, USA",37.74764,-122.47533,5252.0,CA,SAN FRANCISCO COUNTY,Pct 9713,False,False,1.0
+5252,Herbert Hoover Middle School - Aud Lobby,"2290 14th Ave, San Francisco, CA 94116, USA",37.74544,-122.47012,5253.0,CA,SAN FRANCISCO COUNTY,Pct 9714,False,False,1.0
+5253,Forest Hill Association - Club House,"381 Magellan Ave, San Francisco, CA 94116, USA",37.74457,-122.46354,5254.0,CA,SAN FRANCISCO COUNTY,Pct 9715,False,False,1.0
+5254,Collins Center,"2560 18th Ave, San Francisco, CA 94116, USA",37.74036,-122.47424,5255.0,CA,SAN FRANCISCO COUNTY,Pct 9716,False,False,1.0
+5255,Garage,"2243 14th Ave, San Francisco, CA 94116, USA",37.74626,-122.47069,5256.0,CA,SAN FRANCISCO COUNTY,Pct 9717,False,False,1.0
+5256,Convent Presbyterian Church - Portalhurst Hall,"321 Taraval St, San Francisco, CA 94116, USA",37.7431,-122.46952,5257.0,CA,SAN FRANCISCO COUNTY,Pct 9718,False,False,1.0
+5257,St Brendan's Parish - Parish Hall,"29 Rockaway Ave, San Francisco, CA 94127, USA",37.74323,-122.45676,5258.0,CA,SAN FRANCISCO COUNTY,Pct 9719,False,False,1.0
+5258,Garage,"44 Vasquez Ave, San Francisco, CA 94127, USA",37.746,-122.45869,5259.0,CA,SAN FRANCISCO COUNTY,Pct 9721,False,False,1.0
+5259,Garage,"261 Wawona St, San Francisco, CA 94127, USA",37.73892,-122.46886,5260.0,CA,SAN FRANCISCO COUNTY,Pct 9722,False,False,1.0
+5260,Garage,"472 Country Club Dr, San Francisco, CA 94132, USA",37.73066,-122.4948,5261.0,CA,SAN FRANCISCO COUNTY,Pct 9723,False,False,1.0
+5261,Garage,"111 Westmoorland Dr, San Francisco, CA 94132, USA",37.73179,-122.49079,5262.0,CA,SAN FRANCISCO COUNTY,Pct 9724,False,False,1.0
+5262,Lakeshore Elementary - Multi Purpose Room,"220 Middlefield Dr, San Francisco, CA 94132, USA",37.73048,-122.48546,5263.0,CA,SAN FRANCISCO COUNTY,Pct 9725,False,False,1.0
+5263,Firehouse #19,"390 Buckingham Way, San Francisco, CA 94132, USA",37.72782,-122.47896,5264.0,CA,SAN FRANCISCO COUNTY,Pct 9726,False,False,1.0
+5264,Unity Spiritual Center,"2690 Ocean Ave, San Francisco, CA 94132, USA",37.73263,-122.47472,5265.0,CA,SAN FRANCISCO COUNTY,Pct 9727,False,False,1.0
+5265,Aptos Middle School - Room 231,"105 Aptos Ave, San Francisco, CA 94127, USA",37.72976,-122.46627,5266.0,CA,SAN FRANCISCO COUNTY,Pct 9728,False,False,1.0
+5266,Garage,"32 San Jacinto Way, San Francisco, CA 94127, USA",37.73484,-122.46351,5267.0,CA,SAN FRANCISCO COUNTY,Pct 9729,False,False,1.0
+5267,Firehouse #39,"1091 Portola Dr, San Francisco, CA 94127, USA",37.74003,-122.45866,5268.0,CA,SAN FRANCISCO COUNTY,Pct 9731,False,False,1.0
+5268,Garage,"19 Maywood Dr, San Francisco, CA 94127, USA",37.73538,-122.46152,5269.0,CA,SAN FRANCISCO COUNTY,Pct 9734,False,False,1.0
+5269,Garage,"256 Casitas Ave, San Francisco, CA 94127, USA",37.73633,-122.46024,5270.0,CA,SAN FRANCISCO COUNTY,Pct 9735,False,False,1.0
+5270,Garage,"32 Burlwood Dr, San Francisco, CA 94127, USA",37.73478,-122.45462,5271.0,CA,SAN FRANCISCO COUNTY,Pct 9736,False,False,1.0
+5271,Garage,"390 Melrose Ave, San Francisco, CA 94127, USA",37.73393,-122.45121,5272.0,CA,SAN FRANCISCO COUNTY,Pct 9737,False,False,1.0
+5272,Saint Thomas More Church - Scanlan Hall,"1300 Junipero Serra Blvd, San Francisco, CA 94132, USA",37.71174,-122.47242,5273.0,CA,SAN FRANCISCO COUNTY,Pct 9738,False,False,1.0
+5273,Villas Park Merced - Lobby,"350 Arballo Dr, San Francisco, CA 94132, USA",37.72024,-122.48356,5274.0,CA,SAN FRANCISCO COUNTY,Pct 9739,False,False,1.0
+5274,Annex 1 - Student Event Center,"1 N State Dr, San Francisco, CA 94132, USA",37.72645,-122.48216,5275.0,CA,SAN FRANCISCO COUNTY,Pct 9741,False,False,1.0
+5275,Merced Branch Library,"155 Winston Dr, San Francisco, CA 94132, USA",37.72671,-122.47448,5276.0,CA,SAN FRANCISCO COUNTY,Pct 9742,False,False,1.0
+5276,Villas Park Merced - Lobby,"50 Chumasero Dr, San Francisco, CA 94132, USA",37.71428,-122.47355,5277.0,CA,SAN FRANCISCO COUNTY,Pct 9743,False,False,1.0
+5277,Villas Park Merced - Lobby,"750 Gonzalez Dr, San Francisco, CA 94132, USA",37.71776,-122.48118,5278.0,CA,SAN FRANCISCO COUNTY,Pct 9744,False,False,1.0
+5278,Villas Park Merced - Lobby,"150 Font Blvd, San Francisco, CA 94132, USA",37.7158,-122.47375,5279.0,CA,SAN FRANCISCO COUNTY,Pct 9745,False,False,1.0
+5279,Aptos Middle School - Auditorium Lobby,"105 Aptos Ave, San Francisco, CA 94127, USA",37.72976,-122.46627,5280.0,CA,SAN FRANCISCO COUNTY,Pct 9746,False,False,1.0
+5280,Garage,"55 Borica St, San Francisco, CA 94127, USA",37.72275,-122.46855,5281.0,CA,SAN FRANCISCO COUNTY,Pct 9747,False,False,1.0
+5281,Garage,"168 Dorado Terrace, San Francisco, CA 94112, USA",37.72695,-122.46192,5282.0,CA,SAN FRANCISCO COUNTY,Pct 9748,False,False,1.0
+5282,New Providence Baptist Church,"218 Granada Ave, San Francisco, CA 94112, USA",37.72248,-122.45695,5283.0,CA,SAN FRANCISCO COUNTY,Pct 9749,False,False,1.0
+5283,Ingleside Branch Library,"1298 Ocean Ave, San Francisco, CA 94112, USA",37.72415,-122.45626,5284.0,CA,SAN FRANCISCO COUNTY,Pct 9751,False,False,1.0
+5284,Garage,"188 Ridgewood Ave, San Francisco, CA 94112, USA",37.73128,-122.45315,5285.0,CA,SAN FRANCISCO COUNTY,Pct 9752,False,False,1.0
+5285,City College - Visual Arts Building - Lobby,"50 Frida Kahlo Way, San Francisco, CA 94112, USA",37.72585,-122.45087,5286.0,CA,SAN FRANCISCO COUNTY,Pct 9753,False,False,1.0
+5286,Sunnyside Elementary - Main Hallway,"250 Foerster St, San Francisco, CA 94112, USA",37.7303,-122.44832,5287.0,CA,SAN FRANCISCO COUNTY,Pct 9754,False,False,1.0
+5287,Garage,"277 Monterey Blvd, San Francisco, CA 94131, USA",37.73145,-122.44154,5288.0,CA,SAN FRANCISCO COUNTY,Pct 9755,False,False,1.0
+5288,Ocean View Shopping Center - Storefront,"3931 Alemany Blvd #2003, San Francisco, CA 94132, USA",37.71046,-122.46738,5289.0,CA,SAN FRANCISCO COUNTY,Pct 9756,False,False,1.0
+5289,Garage,"293 Cayuga Ave, San Francisco, CA 94112, USA",37.72994,-122.43447,5290.0,CA,SAN FRANCISCO COUNTY,Pct 9801,False,False,1.0

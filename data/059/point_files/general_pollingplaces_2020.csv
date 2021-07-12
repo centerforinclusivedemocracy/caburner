@@ -1,0 +1,174 @@
+Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
+3390,3391,CA,ORANGE COUNTY,Locality wide location,Brea Civic and Cultural Center,"1 Civic Center Cir, Brea, CA 92821, USA",33.91707,-117.88892,False,False,1
+3391,3392,CA,ORANGE COUNTY,Locality wide location,Irvine Civic Center,"1 Civic Center Plaza, Irvine, CA 92606, USA",33.68619,-117.82629,False,False,1
+3392,3393,CA,ORANGE COUNTY,Locality wide location,Aliso Viejo Branch Library,"1 Journey, Aliso Viejo, CA 92656, USA",33.57006,-117.7268,False,False,1
+3393,3394,CA,ORANGE COUNTY,Locality wide location,"Soka University of America, Founders Hall","1 University Cir, Aliso Viejo, CA 92656, USA",33.55582,-117.73342,False,False,1
+3394,3395,CA,ORANGE COUNTY,Locality wide location,Las Lomas Community Center,"10 Federation Way, Irvine, CA 92603, USA",33.63008,-117.82897,False,False,1
+3395,3396,CA,ORANGE COUNTY,Locality wide location,Lake Forest Civic Center,"100 Civic Center Dr, Lake Forest, CA 92630, USA",33.65909,-117.67978,False,False,1
+3396,3397,CA,ORANGE COUNTY,Locality wide location,Newport Beach Civic Center,"100 Civic Center Dr, Newport Beach, CA 92660, USA",33.60909,-117.87253,False,False,1
+3397,3398,CA,ORANGE COUNTY,Locality wide location,San Clemente Community Center,"100 N Calle Seville, San Clemente, CA 92672, USA",33.42425,-117.61777,False,False,1
+3398,3399,CA,ORANGE COUNTY,Locality wide location,Anaheim Elementary School District,"1001 S East St, Anaheim, CA 92805, USA",33.82286,-117.89881,False,False,1
+3399,3400,CA,ORANGE COUNTY,Locality wide location,"San Clemente Outlets, Suite 512","101 W Avenida Vista Hermosa #512, San Clemente, CA 92673, USA",33.43986,-117.62895,False,False,1
+3400,3401,CA,ORANGE COUNTY,Locality wide location,La Habra Community Center,"101 W La Habra Blvd, La Habra, CA 90631, USA",33.93251,-117.94715,False,False,1
+3401,3402,CA,ORANGE COUNTY,Locality wide location,Los Alamitos Unified School District,"10293 Bloomfield St, Los Alamitos, CA 90720, USA",33.81628,-118.06408,False,False,1
+3402,3403,CA,ORANGE COUNTY,Locality wide location,Fullerton Joint Union High School District,"1051 W Bastanchury Rd, Fullerton, CA 92833, USA",33.88867,-117.94426,False,False,1
+3403,3404,CA,ORANGE COUNTY,Locality wide location,Stanton Central Park,"10660 Western Ave, Stanton, CA 90680, USA",33.80758,-118.00129,False,False,1
+3404,3405,CA,ORANGE COUNTY,Locality wide location,University Hills Community Center,"1083 California Ave, Irvine, CA 92617, USA",33.63594,-117.83597,False,False,1
+3405,3406,CA,ORANGE COUNTY,Locality wide location,Anaheim Independencia Family Resource Center,"10841 Garza Ave, Anaheim, CA 92804, USA",33.80513,-117.97036,False,False,1
+3406,3407,CA,ORANGE COUNTY,Locality wide location,Assistance League of Garden Grove,"10932 Trask Ave, Garden Grove, CA 92843, USA",33.7667,-117.93877,False,False,1
+3407,3408,CA,ORANGE COUNTY,Locality wide location,The Guest House,"11 Brioso St, San Juan Capistrano, CA 92675, USA",33.52572,-117.62437,False,False,1
+3408,3409,CA,ORANGE COUNTY,Locality wide location,The Volare Resort,"111 Avenida de la Estrella, San Clemente, CA 92672, USA",33.42728,-117.61126,False,False,1
+3409,3410,CA,ORANGE COUNTY,Locality wide location,Hillcrest Community Center,"1155 N Lemon St, Fullerton, CA 92832, USA",33.88143,-117.92074,False,False,1
+3410,3411,CA,ORANGE COUNTY,Locality wide location,Dorothy Visser Senior Center,"117 Avenida Victoria, San Clemente, CA 92672, USA",33.4258,-117.61229,False,False,1
+3411,3412,CA,ORANGE COUNTY,Locality wide location,Chapman-Hettinga Education Center,"11852 Knott St, Garden Grove, CA 92841, USA",33.79107,-118.00993,False,False,1
+3412,3413,CA,ORANGE COUNTY,Locality wide location,Aldersgate United Methodist Church,"1201 Irvine Blvd, Tustin, CA 92780, USA",33.74768,-117.80787,False,False,1
+3413,3414,CA,ORANGE COUNTY,Locality wide location,Islamic Institute of Orange County,"1220 N State College Blvd, Anaheim, CA 92806, USA",33.85171,-117.88876,False,False,1
+3414,3415,CA,ORANGE COUNTY,Locality wide location,West Haven Park,"12252 West St, Garden Grove, CA 92840, USA",33.78434,-117.92244,False,False,1
+3415,3416,CA,ORANGE COUNTY,Locality wide location,Our Redeemer Church,"12301 Magnolia St, Garden Grove, CA 92841, USA",33.78351,-117.97634,False,False,1
+3416,3417,CA,ORANGE COUNTY,Locality wide location,St. Andrew's Episcopal Church,"1231 E Chapman Ave, Fullerton, CA 92831, USA",33.87465,-117.90494,False,False,1
+3417,3418,CA,ORANGE COUNTY,Locality wide location,CTS Cement Manufacturing Corporation,"12442 Knott St, Garden Grove, CA 92841, USA",33.78158,-118.01037,False,False,1
+3418,3419,CA,ORANGE COUNTY,Locality wide location,Courtyard Center,"12732 Main St, Garden Grove, CA 92840, USA",33.77802,-117.94076,False,False,1
+3419,3420,CA,ORANGE COUNTY,Locality wide location,Orange County Registrar of Voters,"1300 S Grand Ave C, Santa Ana, CA 92705, USA",33.73286,-117.85196,False,False,1
+3420,3421,CA,ORANGE COUNTY,Locality wide location,Savanna School District,"1330 S Knott Ave, Anaheim, CA 92804, USA",33.81376,-118.00944,False,False,1
+3421,3422,CA,ORANGE COUNTY,Locality wide location,Taft Avenue Community Church,"1350 E Taft Ave, Orange, CA 92865, USA",33.81543,-117.83989,False,False,1
+3422,3423,CA,ORANGE COUNTY,Locality wide location,Garden Grove Sports and Rec Center,"13641 Deodara Dr, Garden Grove, CA 92844, USA",33.76412,-117.96654,False,False,1
+3423,3424,CA,ORANGE COUNTY,Locality wide location,Coast Community College District,"1370 Adams Ave, Costa Mesa, CA 92626, USA",33.67405,-117.91616,False,False,1
+3424,3425,CA,ORANGE COUNTY,Locality wide location,Orange Unified School District Office,"1401 N Handy St, Orange, CA 92867, USA",33.81022,-117.82662,False,False,1
+3425,3426,CA,ORANGE COUNTY,Locality wide location,Orange County First Assembly Of God,"1440 E Santa Clara Ave, Santa Ana, CA 92705, USA",33.76686,-117.84882,False,False,1
+3426,3427,CA,ORANGE COUNTY,Locality wide location,Miriam Warne Community Building,"14491 Beach Blvd, Westminster, CA 92683, USA",33.75238,-117.99003,False,False,1
+3427,3428,CA,ORANGE COUNTY,Locality wide location,St. Anthony Mary Claret Catholic Church,"1450 E La Palma Ave, Anaheim, CA 92805, USA",33.84628,-117.89822,False,False,1
+3428,3429,CA,ORANGE COUNTY,Locality wide location,Westminster Christian Assembly,"14642 Bushard St, Westminster, CA 92683, USA",33.74964,-117.96326,False,False,1
+3429,3430,CA,ORANGE COUNTY,Locality wide location,Harvard Community Center,"14701 Harvard Ave, Irvine, CA 92606, USA",33.70753,-117.79967,False,False,1
+3430,3431,CA,ORANGE COUNTY,Locality wide location,Tustin Family & Youth Center,"14722 Newport Ave, Tustin, CA 92780, USA",33.72986,-117.82972,False,False,1
+3431,3432,CA,ORANGE COUNTY,Locality wide location,Midway City Community Center,"14900 Park Ln, Midway City, CA 92655, USA",33.74624,-117.97858,False,False,1
+3432,3433,CA,ORANGE COUNTY,Locality wide location,Coastline College,"1515 Monrovia Ave, Newport Beach, CA 92663, USA",33.62956,-117.93684,False,False,1
+3433,3434,CA,ORANGE COUNTY,Locality wide location,Santa Ana College - Gymnasium,"1530 W 17th St, Santa Ana, CA 92706, USA",33.75847,-117.88595,False,False,1
+3434,3435,CA,ORANGE COUNTY,Locality wide location,Golden West College,"15744 Goldenwest St, Huntington Beach, CA 92647, USA",33.73256,-118.00464,False,False,1
+3435,3436,CA,ORANGE COUNTY,Locality wide location,Public Works Maintenance Yard,"1580 W Commonwealth Ave, Fullerton, CA 92833, USA",33.86965,-117.94975,False,False,1
+3436,3437,CA,ORANGE COUNTY,Locality wide location,City Gym and Pool,"1600 Palm Ave, Huntington Beach, CA 92648, USA",33.66959,-118.00603,False,False,1
+3437,3438,CA,ORANGE COUNTY,Locality wide location,Marina Park Community Center,"1600 W Balboa Blvd, Newport Beach, CA 92663, USA",33.60818,-117.92327,False,False,1
+3438,3439,CA,ORANGE COUNTY,Locality wide location,Freedom Hall at Mile Square Park,"16801 Euclid St, Fountain Valley, CA 92708, USA",33.72749,-117.93858,False,False,1
+3439,3440,CA,ORANGE COUNTY,Locality wide location,Danish Lutheran Church & Cultural Center,"16881 Bastanchury Rd, Yorba Linda, CA 92886, USA",33.89958,-117.83932,False,False,1
+3440,3441,CA,ORANGE COUNTY,Locality wide location,Michael E. Rodgers Senior Center,"1706 Orange Ave, Huntington Beach, CA 92648, USA",33.66782,-118.00996,False,False,1
+3441,3442,CA,ORANGE COUNTY,Locality wide location,Yorba Linda Water District,"1717 E Miraloma Ave, Placentia, CA 92870, USA",33.86265,-117.82673,False,False,1
+3442,3443,CA,ORANGE COUNTY,Locality wide location,West Coast Islamic Society,"1717 S Brookhurst St, Anaheim, CA 92804, USA",33.8056,-117.95954,False,False,1
+3443,3444,CA,ORANGE COUNTY,Locality wide location,"Ocean View District Office, Bldg E-PDC","17200 Pinehurst Ln Bldg E, Huntington Beach, CA 92647, USA",33.71329,-118.02103,False,False,1
+3444,3445,CA,ORANGE COUNTY,Locality wide location,Evangelical Formosan Church Of Irvine,"17422 Armstrong Ave, Irvine, CA 92614, USA",33.69133,-117.84754,False,False,1
+3445,3446,CA,ORANGE COUNTY,Locality wide location,Columbus Tustin Activity Center,"17522 Beneta Way, Tustin, CA 92780, USA",33.75074,-117.82116,False,False,1
+3446,3447,CA,ORANGE COUNTY,Locality wide location,The Center at Founders Village,"17967 Bushard St, Fountain Valley, CA 92708, USA",33.70212,-117.96343,False,False,1
+3447,3448,CA,ORANGE COUNTY,Locality wide location,El Salvador Community Center,"1825 W Civic Center Dr, Santa Ana, CA 92703, USA",33.7518,-117.89446,False,False,1
+3448,3449,CA,ORANGE COUNTY,Locality wide location,Costa Mesa Downtown Recreation Center,"1860 Anaheim Ave, Costa Mesa, CA 92627, USA",33.64138,-117.92279,False,False,1
+3449,3450,CA,ORANGE COUNTY,Locality wide location,Orange County Water District,"18700 Ward St, Fountain Valley, CA 92708, USA",33.69327,-117.94471,False,False,1
+3450,3451,CA,ORANGE COUNTY,Locality wide location,Balearic Community Center,"1975 Balearic Dr, Costa Mesa, CA 92626, USA",33.67473,-117.93904,False,False,1
+3451,3452,CA,ORANGE COUNTY,Locality wide location,Mission Viejo City Hall,"200 Civic Center, Mission Viejo, CA 92691, USA",33.59632,-117.6599,False,False,1
+3452,3453,CA,ORANGE COUNTY,Locality wide location,Huntington Beach Civic Center,"2000 Main St, Huntington Beach, CA 92648, USA",33.6943,-118.01461,False,False,1
+3453,3454,CA,ORANGE COUNTY,Locality wide location,Backs Community Building,"201 Bradford Ave, Placentia, CA 92870, USA",33.87359,-117.87049,False,False,1
+3454,3455,CA,ORANGE COUNTY,Locality wide location,Tynes Gym,"2101 Tuffree Blvd, Placentia, CA 92870, USA",33.90038,-117.86864,False,False,1
+3455,3456,CA,ORANGE COUNTY,Locality wide location,Gilbert Community Center,"2120 W Orangethorpe Ave, Fullerton, CA 92833, USA",33.85885,-117.96625,False,False,1
+3456,3457,CA,ORANGE COUNTY,Locality wide location,Edison Community Center,"21377 Magnolia St, Huntington Beach, CA 92646, USA",33.65223,-117.97183,False,False,1
+3457,3458,CA,ORANGE COUNTY,Locality wide location,Lang Park,"21540 Wesley Dr, Laguna Beach, CA 92651, USA",33.51366,-117.75383,False,False,1
+3458,3459,CA,ORANGE COUNTY,Locality wide location,Southwest Senior Center,"2201 W McFadden Ave, Santa Ana, CA 92704, USA",33.73505,-117.89863,False,False,1
+3459,3460,CA,ORANGE COUNTY,Locality wide location,Zion Lutheran Church,"222 N East St, Anaheim, CA 92805, USA",33.84021,-117.90183,False,False,1
+3460,3461,CA,ORANGE COUNTY,Locality wide location,Downtown Anaheim Youth Center,"225 S Philadelphia St, Anaheim, CA 92805, USA",33.83472,-117.91137,False,False,1
+3461,3462,CA,ORANGE COUNTY,Locality wide location,Church of Grace,"22653 Old Canal Rd, Yorba Linda, CA 92887, USA",33.87377,-117.74092,False,False,1
+3462,3463,CA,ORANGE COUNTY,Locality wide location,Brookhurst Community Center,"2271 W Crescent Ave, Anaheim, CA 92801, USA",33.84028,-117.96218,False,False,1
+3463,3464,CA,ORANGE COUNTY,Locality wide location,"Valtek Precision, Inc. (Warehouse)","23211 La Palma Ave, Yorba Linda, CA 92887, USA",33.87679,-117.73049,False,False,1
+3464,3465,CA,ORANGE COUNTY,Locality wide location,Orange County Islamic Foundation (OCIF),"23581 Madero, Mission Viejo, CA 92691, USA",33.62057,-117.67587,False,False,1
+3465,3466,CA,ORANGE COUNTY,Locality wide location,Laguna Woods City Hall,"24264 El Toro Rd, Laguna Woods, CA 92637, USA",33.61047,-117.72336,False,False,1
+3466,3467,CA,ORANGE COUNTY,Locality wide location,Mission Lutheran Church,"24360 Yosemite Rd, Laguna Niguel, CA 92677, USA",33.55006,-117.70417,False,False,1
+3467,3468,CA,ORANGE COUNTY,Locality wide location,Sea Country Senior and Community Center,"24602 Aliso Creek Rd, Laguna Niguel, CA 92677, USA",33.55633,-117.70008,False,False,1
+3468,3469,CA,ORANGE COUNTY,Locality wide location,Iglesia Park Community Center,"24671 Via Iglesia, Aliso Viejo, CA 92656, USA",33.60389,-117.72293,False,False,1
+3469,3470,CA,ORANGE COUNTY,Locality wide location,El Toro Branch Library,"24672 Raymond Way, Lake Forest, CA 92630, USA",33.61948,-117.69981,False,False,1
+3470,3471,CA,ORANGE COUNTY,Locality wide location,Norman P. Murray Community & Senior Center,"24932 Veterans Way, Mission Viejo, CA 92692, USA",33.6015,-117.65169,False,False,1
+3471,3472,CA,ORANGE COUNTY,Locality wide location,Discovery Cube,"2500 N Main St, Santa Ana, CA 92705, USA",33.77025,-117.86786,False,False,1
+3472,3473,CA,ORANGE COUNTY,Locality wide location,Sikh Center of Orange County,"2514 W Warner Ave, Santa Ana, CA 92704, USA",33.71466,-117.90353,False,False,1
+3473,3474,CA,ORANGE COUNTY,Locality wide location,Sway Ballroom Dance,"25260 La Paz Rd, Laguna Hills, CA 92653, USA",33.59465,-117.68011,False,False,1
+3474,3475,CA,ORANGE COUNTY,Locality wide location,Laguna Hills Community Center,"25555 Alicia Pkwy, Laguna Hills, CA 92653, USA",33.59187,-117.70027,False,False,1
+3475,3476,CA,ORANGE COUNTY,Locality wide location,San Juan Capistrano Community Center,"25925 Camino Del Avion, San Juan Capistrano, CA 92675, USA",33.48772,-117.67737,False,False,1
+3476,3477,CA,ORANGE COUNTY,Locality wide location,Shepherd of the Hills,"26001 Muirlands Blvd, Mission Viejo, CA 92691, USA",33.60065,-117.6755,False,False,1
+3477,3478,CA,ORANGE COUNTY,Locality wide location,Haskett Branch Library,"2650 W Broadway, Anaheim, CA 92804, USA",33.8282,-117.97862,False,False,1
+3478,3479,CA,ORANGE COUNTY,Locality wide location,Mission Viejo Church Of Christ,"26558 Marguerite Pkwy, Mission Viejo, CA 92692, USA",33.57399,-117.65728,False,False,1
+3479,3480,CA,ORANGE COUNTY,Locality wide location,Honda Center,"2695 E Katella Ave, Anaheim, CA 92806, USA",33.80791,-117.87675,False,False,1
+3480,3481,CA,ORANGE COUNTY,Locality wide location,Foothill Ranch Library,"27002 Cabriole, Foothill Ranch, CA 92610, USA",33.68067,-117.65944,False,False,1
+3481,3482,CA,ORANGE COUNTY,Locality wide location,Surf City Church,"2721 Delaware St, Huntington Beach, CA 92648, USA",33.68202,-117.99391,False,False,1
+3482,3483,CA,ORANGE COUNTY,Locality wide location,Saddleback College - PE 200 Gymnasium,"28000 Marguerite Pkwy, Mission Viejo, CA 92692, USA",33.55403,-117.66411,False,False,1
+3483,3484,CA,ORANGE COUNTY,Locality wide location,Lake Forest Sports Park,"28000 Rancho Pkwy, Lake Forest, CA 92610, USA",33.66358,-117.65742,False,False,1
+3484,3485,CA,ORANGE COUNTY,Locality wide location,Reata Park & Event Center,"28632 Ortega Hwy, San Juan Capistrano, CA 92675, USA",33.51668,-117.62904,False,False,1
+3485,3486,CA,ORANGE COUNTY,Locality wide location,Community Center at The Market Place,"2961 El Camino Real, Tustin, CA 92782, USA",33.72436,-117.79133,False,False,1
+3486,3487,CA,ORANGE COUNTY,Locality wide location,CSUF Irvine Center,"3 Banting, Irvine, CA 92618, USA",33.65905,-117.76047,False,False,1
+3487,3488,CA,ORANGE COUNTY,Locality wide location,Clifton C. Miller Community Center,"300 Centennial Way, Tustin, CA 92780, USA",33.74326,-117.81951,False,False,1
+3488,3489,CA,ORANGE COUNTY,Locality wide location,Calvary Chapel Costa Mesa Ministerio Hispano,"3000 W MacArthur Blvd, Santa Ana, CA 92704, USA",33.69982,-117.9111,False,False,1
+3489,3490,CA,ORANGE COUNTY,Locality wide location,Laguna Niguel City Hall,"30111 Crown Valley Pkwy, Laguna Niguel, CA 92677, USA",33.52352,-117.71562,False,False,1
+3490,3491,CA,ORANGE COUNTY,Locality wide location,Rush Park,"3021 Blume Dr, Rossmoor, CA 90720, USA",33.7834,-118.08113,False,False,1
+3491,3492,CA,ORANGE COUNTY,Locality wide location,Laguna Beach Volleyball Club,"30282 Esperanza, Rancho Santa Margarita, CA 92688, USA",33.62969,-117.60158,False,False,1
+3492,3493,CA,ORANGE COUNTY,Locality wide location,Shepherd of the Hills RSM,"30605 Av. de Las Flores, Rancho Santa Margarita, CA 92688, USA",33.63823,-117.60041,False,False,1
+3493,3494,CA,ORANGE COUNTY,Locality wide location,Rancho Santa Margarita Branch Library,"30902 La Promesa, Rancho Santa Margarita, CA 92688, USA",33.64062,-117.59241,False,False,1
+3494,3495,CA,ORANGE COUNTY,Locality wide location,City of Seal Beach Fire Station 48,"3131 N Gate Rd, Seal Beach, CA 90740, USA",33.77288,-118.0772,False,False,1
+3495,3496,CA,ORANGE COUNTY,Locality wide location,La Sala Auditorium,"31495 El Camino Real, San Juan Capistrano, CA 92675, USA",33.50526,-117.66333,False,False,1
+3496,3497,CA,ORANGE COUNTY,Locality wide location,John Wayne Airport - Administration Office,"3160 Airway Ave, Costa Mesa, CA 92626, USA",33.6785,-117.87107,False,False,1
+3497,3498,CA,ORANGE COUNTY,Locality wide location,Ponderosa Family Resource Center,"320 E Orangewood Ave, Anaheim, CA 92802, USA",33.79582,-117.90399,False,False,1
+3498,3499,CA,ORANGE COUNTY,Locality wide location,West Anaheim Youth Center,"320 S Beach Blvd, Anaheim, CA 92804, USA",33.82895,-117.99276,False,False,1
+3499,3500,CA,ORANGE COUNTY,Locality wide location,Trabuco Canyon Water District,"32003 Dove Canyon Dr, Trabuco Canyon, CA 92679, USA",33.64115,-117.57329,False,False,1
+3500,3501,CA,ORANGE COUNTY,Locality wide location,Sofia University,"3333 Harbor Blvd, Costa Mesa, CA 92626, USA",33.69351,-117.92212,False,False,1
+3501,3502,CA,ORANGE COUNTY,Locality wide location,Dana Point Branch Library,"33841 Niguel Rd, Dana Point, CA 92629, USA",33.47694,-117.71603,False,False,1
+3502,3503,CA,ORANGE COUNTY,Locality wide location,Dana Point Community Center,"34052 Del Obispo St, Dana Point, CA 92629, USA",33.46794,-117.68405,False,False,1
+3503,3504,CA,ORANGE COUNTY,Locality wide location,Fullerton Public Library,"353 W Commonwealth Ave, Fullerton, CA 92832, USA",33.87072,-117.93048,False,False,1
+3504,3505,CA,ORANGE COUNTY,Locality wide location,Sports Center at Grijalva Park,"368 N Prospect St, Orange, CA 92869, USA",33.79395,-117.82171,False,False,1
+3505,3506,CA,ORANGE COUNTY,Locality wide location,Laguna Beach Community Center & Susi Q Center,"380 3rd St, Laguna Beach, CA 92651, USA",33.54364,-117.78035,False,False,1
+3506,3507,CA,ORANGE COUNTY,Locality wide location,El Modena Branch Library,"380 S Hewes St, Orange, CA 92869, USA",33.78236,-117.80613,False,False,1
+3507,3508,CA,ORANGE COUNTY,Locality wide location,Quail Hill Community Center,"39 Shady Canyon Dr, Irvine, CA 92603, USA",33.65051,-117.78358,False,False,1
+3508,3509,CA,ORANGE COUNTY,Locality wide location,Canyon Hills Branch Library,"400 S Scout Trail, Anaheim, CA 92807, USA",33.84508,-117.78544,False,False,1
+3509,3510,CA,ORANGE COUNTY,Locality wide location,Orange Public Library,"407 E Chapman Ave, Orange, CA 92866, USA",33.78825,-117.84955,False,False,1
+3510,3511,CA,ORANGE COUNTY,Locality wide location,Christ Our Redeemer A.M.E. Church,"45 Tesla, Irvine, CA 92618, USA",33.63346,-117.73816,False,False,1
+3511,3512,CA,ORANGE COUNTY,Locality wide location,Northwood Community Center,"4531 Bryan Ave, Irvine, CA 92620, USA",33.71155,-117.76851,False,False,1
+3512,3513,CA,ORANGE COUNTY,Locality wide location,Thomas Lasorda Jr Field House,"4701 Casa Loma Ave, Yorba Linda, CA 92886, USA",33.89354,-117.8251,False,False,1
+3513,3514,CA,ORANGE COUNTY,Locality wide location,La Habra City School District,"500 N Walnut St, La Habra, CA 90631, USA",33.93586,-117.95033,False,False,1
+3514,3515,CA,ORANGE COUNTY,Locality wide location,Brea Senior Center,"500 Sievers Ave, Brea, CA 92821, USA",33.91396,-117.90536,False,False,1
+3515,3516,CA,ORANGE COUNTY,Locality wide location,Anaheim Union High School District Office,"501 N Crescent Way, Anaheim, CA 92801, USA",33.83772,-117.9487,False,False,1
+3516,3517,CA,ORANGE COUNTY,Locality wide location,Delhi Center,"505 E Central Ave, Santa Ana, CA 92707, USA",33.71434,-117.86124,False,False,1
+3517,3518,CA,ORANGE COUNTY,Locality wide location,Main Street Branch Library,"525 Main St, Huntington Beach, CA 92648, USA",33.66201,-117.99917,False,False,1
+3518,3519,CA,ORANGE COUNTY,Locality wide location,Deerfield Community Center,"55 Deerwood W, Irvine, CA 92604, USA",33.69066,-117.79254,False,False,1
+3519,3520,CA,ORANGE COUNTY,Locality wide location,Irvine Valley College - Gym,"5500 Irvine Center Dr, Irvine, CA 92618, USA",33.67446,-117.77844,False,False,1
+3520,3521,CA,ORANGE COUNTY,Locality wide location,Cypress Community Center,"5700 Orange Ave, Cypress, CA 90630, USA",33.82354,-118.03381,False,False,1
+3521,3522,CA,ORANGE COUNTY,Locality wide location,Steve Ambriz Memorial Park,"611 Riverbend Pkwy, Orange, CA 92865, USA",33.83651,-117.85729,False,False,1
+3522,3523,CA,ORANGE COUNTY,Locality wide location,Edgar Park Meeting Room,"6202 Cerulean Ave, Garden Grove, CA 92845, USA",33.7773,-118.02639,False,False,1
+3523,3524,CA,ORANGE COUNTY,Locality wide location,La Habra United Methodist Church,"631 N Euclid St, La Habra, CA 90631, USA",33.93796,-117.94639,False,False,1
+3524,3525,CA,ORANGE COUNTY,Locality wide location,Newport Coast Community Center,"6401 San Joaquin Hills Rd, Newport Beach, CA 92657, USA",33.60932,-117.82647,False,False,1
+3525,3526,CA,ORANGE COUNTY,Locality wide location,Grace Evangelical Lutheran Church,"6550 Fairmont Blvd, Yorba Linda, CA 92887, USA",33.86684,-117.77762,False,False,1
+3526,3527,CA,ORANGE COUNTY,Locality wide location,Messiah Lutheran Church,"6625 Dale St, Buena Park, CA 90621, USA",33.86471,-117.98553,False,False,1
+3527,3528,CA,ORANGE COUNTY,Locality wide location,Buena Park Community Center,"6688 Beach Blvd, Buena Park, CA 90621, USA",33.8638,-117.99562,False,False,1
+3528,3529,CA,ORANGE COUNTY,Locality wide location,Brea Community Center,"695 Madison Way, Brea, CA 92821, USA",33.9163,-117.89075,False,False,1
+3529,3530,CA,ORANGE COUNTY,Locality wide location,Brea Community Center,"695 Madison Way, Brea, CA 92821, USA",33.9163,-117.89075,True,False,1
+3530,3531,CA,ORANGE COUNTY,Locality wide location,Costa Mesa Senior Center,"695 W 19th St, Costa Mesa, CA 92627, USA",33.64304,-117.92719,False,False,1
+3531,3532,CA,ORANGE COUNTY,Locality wide location,Murdy Community Center,"7000 Norma Dr, Huntington Beach, CA 92647, USA",33.71874,-118.00475,False,False,1
+3532,3533,CA,ORANGE COUNTY,Locality wide location,Albert D. Salgado Community Center,"706 N Newhope St, Santa Ana, CA 92703, USA",33.75116,-117.92998,False,False,1
+3533,3534,CA,ORANGE COUNTY,Locality wide location,Seal Beach Senior Center,"707 Electric Ave, Seal Beach, CA 90740, USA",33.74365,-118.10483,False,False,1
+3534,3535,CA,ORANGE COUNTY,Locality wide location,Huntington Beach Central Library,"7111 Talbert Ave, Huntington Beach, CA 92648, USA",33.70194,-118.00452,False,False,1
+3535,3536,CA,ORANGE COUNTY,Locality wide location,Walter Knott Education Center,"7300 La Palma Ave, Buena Park, CA 90620, USA",33.84625,-118.00539,False,False,1
+3536,3537,CA,ORANGE COUNTY,Locality wide location,Boisseranc Park,"7520 Dale St, Buena Park, CA 90620, USA",33.85311,-117.98306,False,False,1
+3537,3538,CA,ORANGE COUNTY,Locality wide location,Saddleback Gateway-Library of the Canyons,"7531 E Santiago Canyon Rd, Silverado, CA 92676, USA",33.74346,-117.66764,False,False,1
+3538,3539,CA,ORANGE COUNTY,Locality wide location,Costa Mesa City Hall,"77 Fair Dr, Costa Mesa, CA 92626, USA",33.66321,-117.90266,False,False,1
+3539,3540,CA,ORANGE COUNTY,Locality wide location,Stanton Community Center at City Hall,"7800 Katella Ave, Stanton, CA 90680, USA",33.80182,-117.99638,False,False,1
+3540,3541,CA,ORANGE COUNTY,Locality wide location,La Palma Community Center,"7821 Walker St, La Palma, CA 90623, USA",33.84899,-118.03766,False,False,1
+3541,3542,CA,ORANGE COUNTY,Locality wide location,Newport Harbor Lutheran Church,"798 Dover Dr, Newport Beach, CA 92663, USA",33.62144,-117.90598,False,False,1
+3542,3543,CA,ORANGE COUNTY,Locality wide location,CSUF Titan Student Union,"800 N State College Blvd, Fullerton, CA 92831, USA",33.88206,-117.88927,False,False,1
+3543,3544,CA,ORANGE COUNTY,Locality wide location,Great Park,"8000 Great Park Blvd, Irvine, CA 92618, USA",33.67607,-117.73461,True,False,1
+3544,3545,CA,ORANGE COUNTY,Locality wide location,OASIS Senior Center,"801 Narcissus Ave, Corona Del Mar, CA 92625, USA",33.59953,-117.86612,False,False,1
+3545,3546,CA,ORANGE COUNTY,Locality wide location,Independence Park,"801 W Valencia Dr, Fullerton, CA 92832, USA",33.86744,-117.93922,False,False,1
+3546,3547,CA,ORANGE COUNTY,Locality wide location,Santiago Canyon College - Gym,"8045 E Chapman Ave, Orange, CA 92869, USA",33.79542,-117.76679,False,False,1
+3547,3548,CA,ORANGE COUNTY,Locality wide location,Roosevelt-Walker Community Center,"816 E Chestnut Ave, Santa Ana, CA 92701, USA",33.74231,-117.8573,False,False,1
+3548,3549,CA,ORANGE COUNTY,Locality wide location,Influence Church,"8163 E Kaiser Blvd, Anaheim, CA 92808, USA",33.86628,-117.74397,True,False,1
+3549,3550,CA,ORANGE COUNTY,Locality wide location,Westminster Branch Library,"8180 13th St, Westminster, CA 92683, USA",33.7552,-117.98649,False,False,1
+3550,3551,CA,ORANGE COUNTY,Locality wide location,Westminster Community Services Building,"8200 Westminster Blvd., Westminster, CA 92683, USA",33.75702,-117.98581,False,False,1
+3551,3552,CA,ORANGE COUNTY,Locality wide location,East Anaheim Community Center,"8201 E Santa Ana Canyon Rd, Anaheim, CA 92808, USA",33.8688,-117.74636,False,False,1
+3552,3553,CA,ORANGE COUNTY,Locality wide location,Huntington Beach City School District,"8750 Dorsett Dr, Huntington Beach, CA 92646, USA",33.65531,-117.97485,False,False,1
+3553,3554,CA,ORANGE COUNTY,Locality wide location,South Coast Chinese Cultural Center,"9 Truman St, Irvine, CA 92620, USA",33.69636,-117.76686,False,False,1
+3554,3555,CA,ORANGE COUNTY,Locality wide location,Sunkist Branch Library,"901 S Sunkist St, Anaheim, CA 92806, USA",33.82814,-117.881,False,False,1
+3555,3556,CA,ORANGE COUNTY,Locality wide location,Cypress Senior Center,"9031 Grindlay St, Cypress, CA 90630, USA",33.8304,-118.04171,False,False,1
+3556,3557,CA,ORANGE COUNTY,Locality wide location,"Cypress College, Theater Arts","9200 Valley View St, Cypress, CA 90630, USA",33.82796,-118.02373,False,False,1
+3557,3558,CA,ORANGE COUNTY,Locality wide location,Church of Jesus Christ of Latter-day Saints,"9801 Newport Ave, Santa Ana, CA 92705, USA",33.78333,-117.77256,True,False,1
+3558,3559,CA,ORANGE COUNTY,Locality wide location,Resurrection Lutheran Church,"9812 Hamilton Ave, Huntington Beach, CA 92646, USA",33.64999,-117.95625,False,False,1
+3559,3560,CA,ORANGE COUNTY,Locality wide location,Chapman University - Argyros Forum,"Argyros Forum, 386 N Center St, Orange, CA 92866, USA",33.79301,-117.85047,False,False,1
+3560,3561,CA,ORANGE COUNTY,Locality wide location,Ladera Ranch Farmers Market,"Founders Park, 28275 Avendale Blvd, Ladera Ranch, CA 92694, USA",33.55243,-117.63505,True,False,1
+3561,3562,CA,ORANGE COUNTY,Locality wide location,Los Olivos Community Center,"Los Olivos Community Park, 101 Alfonso Dr, Irvine, CA 92618, USA",33.63585,-117.74585,False,False,1
+3562,3563,CA,ORANGE COUNTY,Locality wide location,UCI Student Center,"Student Center, 311 W Peltason Dr, Irvine, CA 92697, USA",33.64887,-117.8421,False,False,1

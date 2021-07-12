@@ -1,1 +1,10 @@
-Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
+name,address,lat,lon,ElecDayVotes,EarlyVotes,BallotsCast,WaitTimeHr
+American Canyon Holiday Inn Express & Suites,5001 Main St. American Canyon CA 94503,38.17985,-122.25381,,,,
+Napa County Election Division,1127 1st St Ste E Napa CA 94559,38.29864,-122.28644,,,,
+Boys and Girls Club,60 Benton Way American Canyon CA 94503,38.17052,-122.26322,,,,
+Angwin Fire House,275 College Ave. Angwin CA 94508,38.57568,-122.44482,,,,
+Calistoga Community Center,1307 Washington St. Calistoga CA 94515,38.57884,-122.58066,,,,
+Crosswalk Community Church,2590 1st St. Napa CA 94558,38.30067,-122.30468,,,,
+Las Flores Community Center,4300 Linda Vista Ave. Napa CA 94558,38.33128,-122.32798,,,,
+Napa Valley College - Upper Valley Campus,1088 College Ave. Saint Helena CA 94574,38.50988,-122.45628,,,,
+Yountville Veterans Home,260 California Dr. Yountville CA 94599,38.39129,-122.3665,,,,
