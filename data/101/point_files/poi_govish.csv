@@ -1,1 +1,19 @@
 ,osm_id,code,fclass,name,lon,lat
+0,368168986,2007.0,library,Sutter County Law Library,-121.60635,39.13572
+1,358823004,2005.0,post_office,East Nicolaus Post Office,-121.54413,38.91156
+2,358823051,2005.0,post_office,Live Oak Post Office,-121.66275,39.27461
+3,358823065,2005.0,post_office,Meridian Post Office,-121.91442,39.1435
+4,358823083,2005.0,post_office,Rio Oso Post Office,-121.53524,38.96156
+5,358823088,2005.0,post_office,Robbins Post Office,-121.70524,38.87045
+6,358823116,2005.0,post_office,Sutter Post Office,-121.74886,39.16045
+7,358823134,2005.0,post_office,Yuba City Post Office,-121.61663,39.13934
+8,368167577,2009.0,courthouse,Sutter County Courthouse,-121.60635,39.13573
+9,368168988,2007.0,library,Sutter Branch Sutter County Free Library,-121.74858,39.15906
+10,368169004,2007.0,library,Barber Branch Sutter County Free Library,-121.66108,39.28072
+11,368171444,2008.0,town_hall,Yuba City City Hall,-121.61691,39.14128
+12,1249320813,2002.0,fire_station,Pleasant Grove Fire Dept,-121.50341,38.82424
+13,1249320827,2005.0,post_office,,-121.50253,38.82415
+14,4705338400,2001.0,police,Yuba City Police Department,-121.64238,39.14531
+15,6983766372,2008.0,town_hall,,-121.66036,39.27548
+16,7322098584,2002.0,fire_station,Live Oak Fire Station,-121.66455,39.27424
+17,7322102285,2001.0,police,Sutter County Sheriff,-121.66475,39.27424
