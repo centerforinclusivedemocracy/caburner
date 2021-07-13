@@ -694,8 +694,8 @@ function refreshMapLegend () {
         $(`<div class="legend-entry"><div class="legend-swatch legend-swatch-nodata"></div> Estimates that have a high degree of uncertainty</div>`).appendTo($legend);
 
         // do we have a caveat footnote?
-        if (COUNTYINFO.censusfootnote) {
-            $(`<div class="legend-entry">${COUNTYINFO.censusfootnote}</div>`).appendTo($legend);
+        if (COUNTYINFO.datafootnote) {
+            $(`<div class="legend-entry">${COUNTYINFO.datafootnote}</div>`).appendTo($legend);
         }
 
         // done, add to the list

@@ -1,15 +1,15 @@
 ,osm_id,code,fclass,name,lon,lat
 0,358834827,2005.0,post_office,Delhi Post Office,-120.77636,37.43085
-1,358834886,2005.0,post_office,Gustine Post Office,-120.99993,37.25716
-2,358835042,2005.0,post_office,Merced Post Office,-120.48158,37.30216
+1,358835042,2005.0,post_office,Merced Post Office,-120.48158,37.30216
+2,368170389,2007.0,library,Merced County Law Library,-120.48306,37.307
 3,358835094,2005.0,post_office,Dos Palos Post Office,-120.62741,36.98634
 4,368170364,2007.0,library,Atwater Branch Merced County Library,-120.60631,37.35077
-5,368170365,2007.0,library,Gustine Branch Merced County Library,-121.00215,37.25772
-6,368170387,2007.0,library,Los Banos Branch Merced County Library,-120.84742,37.05661
-7,368170389,2007.0,library,Merced County Law Library,-120.48306,37.307
-8,368170390,2007.0,library,Dos Palos Branch Merced County Library,-120.62796,36.98636
-9,368171756,2008.0,town_hall,Atwater City Hall,-120.60853,37.34744
-10,368171757,2008.0,town_hall,Livingston City Hall,-120.723,37.38478
-11,368171758,2008.0,town_hall,Dos Palos City Hall,-120.62796,36.98634
-12,769526877,2001.0,police,Livingston Police,-120.722,37.38495
-13,3172099580,2007.0,library,Winton Branch Library,-120.61456,37.38931
+5,368170390,2007.0,library,Dos Palos Branch Merced County Library,-120.62796,36.98636
+6,368171756,2008.0,town_hall,Atwater City Hall,-120.60853,37.34744
+7,368171758,2008.0,town_hall,Dos Palos City Hall,-120.62796,36.98634
+8,3172099580,2007.0,library,Winton Branch Library,-120.61456,37.38931
+9,358834886,2005.0,post_office,Gustine Post Office,-120.99993,37.25716
+10,368170365,2007.0,library,Gustine Branch Merced County Library,-121.00215,37.25772
+11,368170387,2007.0,library,Los Banos Branch Merced County Library,-120.84742,37.05661
+12,368171757,2008.0,town_hall,Livingston City Hall,-120.723,37.38478
+13,769526877,2001.0,police,Livingston Police,-120.722,37.38495

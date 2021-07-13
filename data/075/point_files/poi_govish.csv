@@ -1,97 +1,97 @@
 ,osm_id,code,fclass,name,lon,lat
-0,61690511,2005.0,post_office,United States Post Office - Gateway Station,-122.39944,37.79494
-1,317124778,2007.0,library,Mission Bay Branch Library,-122.3932,37.77539
-2,358803323,2007.0,library,Mechanics Institute,-122.40246,37.78925
-3,358804965,2005.0,post_office,The UPS Store,-122.39866,37.79803
-4,358855383,2005.0,post_office,Rincon Finance Center,-122.392,37.79199
-5,358855386,2005.0,post_office,Steiner Street Station,-122.43358,37.78393
-6,358855392,2005.0,post_office,Visitacion Station,-122.40583,37.71222
-7,358855395,2005.0,post_office,West Portal Station,-122.46918,37.73766
-8,358855325,2005.0,post_office,Bayview,-122.3925,37.72889
-9,358855329,2005.0,post_office,Bernal Heights post office,-122.42167,37.74426
-10,358855332,2005.0,post_office,Chinatown,-122.40803,37.7939
-11,358855339,2005.0,post_office,Eighteenth Street Station San Francisco Post Office,-122.43741,37.76084
-12,358855342,2005.0,post_office,Excelsior Station,-122.43808,37.72122
-13,358855346,2005.0,post_office,Gateway Station San Francisco Post Office,-122.39583,37.79417
-14,358855349,2005.0,post_office,Geary Station,-122.48028,37.78056
-15,358855355,2005.0,post_office,Lakeshore Plaza Station San Francisco Post Office,-122.49073,37.7325
-16,358855358,2005.0,post_office,Marina,-122.4352,37.79979
-17,358855362,2005.0,post_office,McLaren Station,-122.40316,37.72688
-18,358855368,2005.0,post_office,Noe Valley Station,-122.43362,37.75121
-19,358855370,2005.0,post_office,North Beach,-122.40918,37.80097
-20,358855380,2005.0,post_office,Pine Street Station San Francisco Post Office,-122.41925,37.78993
-21,368168766,2007.0,library,Far West Library for Educational Research and Development,-122.41497,37.76715
-22,368168767,2007.0,library,Anne Bremer Memorial Library,-122.41692,37.80354
-23,368168856,2007.0,library,William E Colby Memorial Library,-122.41914,37.78382
-24,368171295,2001.0,police,San Francisco Sheriff's Department,-122.40406,37.77519
-25,368171321,2001.0,police,Bayview Police Station,-122.39778,37.72973
-26,368171323,2001.0,police,Ingleside Police Station,-122.44631,37.72465
-27,368171326,2001.0,police,Park Police Station,-122.45517,37.76777
-28,381963622,2005.0,post_office,,-122.40993,37.78916
-29,392199341,2007.0,library,Mechanic's Institute Library and Chess Room,-122.40304,37.78885
-30,392204997,2005.0,post_office,Sutter Street Post Office,-122.40311,37.79003
-31,389414006,2005.0,post_office,The UPS Store,-122.39554,37.77735
-32,416783966,2005.0,post_office,The UPS Store,-122.44062,37.80016
-33,632819804,2005.0,post_office,The UPS Store,-122.4686,37.7386
+0,358855355,2005.0,post_office,Lakeshore Plaza Station San Francisco Post Office,-122.49073,37.7325
+1,2383254147,2005.0,post_office,Lakeshore Plaza Postal Store,-122.49071,37.73249
+2,1350875345,2007.0,library,Helen Crocker Russell Horticultural Library,-122.46744,37.76695
+3,2383254146,2005.0,post_office,Irving Street Station,-122.46674,37.7639
+4,3686447515,2005.0,post_office,The UPS Store,-122.46912,37.76406
+5,1484054748,2001.0,police,Campus Police Office,-122.39161,37.76714
+6,3534945477,2002.0,fire_station,San Francisco Fire Station 4,-122.38913,37.7728
+7,3534945478,2001.0,police,SFPD Headquarters,-122.38907,37.77246
+8,3534945479,2001.0,police,SFPD Southern Police Station,-122.38904,37.77224
+9,5621249849,2001.0,police,Security Office,-122.39343,37.78999
+10,5993835885,2005.0,post_office,Steuart Street Post Office,-122.39209,37.79212
+11,4349256210,2005.0,post_office,Balboa Business Canter,-122.49905,37.77551
+12,4400574569,2005.0,post_office,Postal Depot,-122.49053,37.76124
+13,358855325,2005.0,post_office,Bayview,-122.3925,37.72889
+14,368171321,2001.0,police,Bayview Police Station,-122.39778,37.72973
+15,2383254143,2005.0,post_office,Diamond Heights Carrier ANNX,-122.38615,37.74464
+16,2383254155,2005.0,post_office,San Francisco P&Dc Finance,-122.38269,37.73997
+17,2383254156,2005.0,post_office,Stonestown Station,-122.39806,37.74718
+18,5538811243,2005.0,post_office,Post & Parcel,-122.39718,37.76245
+19,358855362,2005.0,post_office,McLaren Station,-122.40316,37.72688
+20,7262205649,2001.0,police,Mission Police Station,-122.42198,37.763
+21,4628519495,2005.0,post_office,,-122.43091,37.78561
+22,6791585443,2005.0,post_office,Jin Ling Gifts,-122.46219,37.7834
+23,358855392,2005.0,post_office,Visitacion Station,-122.40583,37.71222
+24,358804965,2005.0,post_office,The UPS Store,-122.39866,37.79803
+25,4613861079,2005.0,post_office,,-122.40378,37.78767
+26,358803323,2007.0,library,Mechanics Institute,-122.40246,37.78925
+27,392199341,2007.0,library,Mechanic's Institute Library and Chess Room,-122.40304,37.78885
+28,392204997,2005.0,post_office,Sutter Street Post Office,-122.40311,37.79003
+29,358855380,2005.0,post_office,Pine Street Station San Francisco Post Office,-122.41925,37.78993
+30,2383254152,2005.0,post_office,Pine Street,-122.41928,37.78988
+31,4632000744,2005.0,post_office,,-122.40192,37.79189
+32,358855346,2005.0,post_office,Gateway Station San Francisco Post Office,-122.39583,37.79417
+33,358855383,2005.0,post_office,Rincon Finance Center,-122.392,37.79199
 34,1223019595,2005.0,post_office,FedEx 24h office,-122.39791,37.79399
-35,1350875345,2007.0,library,Helen Crocker Russell Horticultural Library,-122.46744,37.76695
-36,1484054748,2001.0,police,Campus Police Office,-122.39161,37.76714
-37,1713269578,2005.0,post_office,The UPS Store,-122.43433,37.75135
-38,1748985895,2005.0,post_office,The UPS Store,-122.41974,37.77622
-39,2055529990,2005.0,post_office,The UPS Store,-122.39317,37.79107
-40,2156330481,2007.0,library,Simpson Library,-122.39958,37.76702
-41,2383254140,2005.0,post_office,Civic CNTR P O Box Unit,-122.41568,37.78187
-42,2383254141,2005.0,post_office,Contract Station #11,-122.44844,37.77736
-43,2383254142,2005.0,post_office,Contract Station,-122.41173,37.78089
-44,2383254143,2005.0,post_office,Diamond Heights Carrier ANNX,-122.38615,37.74464
-45,2383254145,2005.0,post_office,Federal Building San Francisco,-122.418,37.78144
-46,2383254146,2005.0,post_office,Irving Street Station,-122.46674,37.7639
-47,2383254147,2005.0,post_office,Lakeshore Plaza Postal Store,-122.49071,37.73249
-48,2383254148,2005.0,post_office,Marina Green Retail,-122.43375,37.80451
-49,2383254152,2005.0,post_office,Pine Street,-122.41928,37.78988
-50,2383254153,2005.0,post_office,Presidio,-122.45952,37.78842
-51,2383254154,2005.0,post_office,Sacramento Street Contract Station,-122.40506,37.79361
-52,2383254155,2005.0,post_office,San Francisco P&Dc Finance,-122.38269,37.73997
-53,2383254156,2005.0,post_office,Stonestown Station,-122.39806,37.74718
-54,2383254157,2005.0,post_office,18th Street Station,-122.42794,37.76805
-55,2713423199,2007.0,library,Geography Department Map Library,-122.4757,37.72217
-56,2750810779,2005.0,post_office,The Postal Chase,-122.43578,37.79778
-57,2880721207,2005.0,post_office,The UPS Store,-122.42149,37.79368
-58,2923715576,2005.0,post_office,FedEx,-122.39526,37.78466
-59,3523031626,2005.0,post_office,Diamond Heights Post Office,-122.43981,37.74349
-60,3534945477,2002.0,fire_station,San Francisco Fire Station 4,-122.38913,37.7728
-61,3534945478,2001.0,police,SFPD Headquarters,-122.38907,37.77246
-62,3534945479,2001.0,police,SFPD Southern Police Station,-122.38904,37.77224
-63,3540160995,2005.0,post_office,The Postal Chase,-122.46664,37.7403
-64,3573812493,2005.0,post_office,Townsend Carrier Annex,-122.40097,37.7727
-65,3622668126,2007.0,library,Christian Science Reading Room,-122.46844,37.73874
-66,3660306839,2001.0,police,Federal Bureau of Investigation San Francisco Field Office,-122.4181,37.78192
-67,3686447515,2005.0,post_office,The UPS Store,-122.46912,37.76406
-68,3790822861,2005.0,post_office,The Postal Chase,-122.44973,37.76546
-69,4110684325,2005.0,post_office,The UPS Store,-122.40937,37.78595
-70,4220114181,2005.0,post_office,,-122.43382,37.80468
-71,4318979089,2005.0,post_office,USPS General Delivery,-122.41237,37.7848
-72,4343636457,2007.0,library,St Francis Memorial Hospital Library,-122.41695,37.78981
-73,4349256210,2005.0,post_office,Balboa Business Canter,-122.49905,37.77551
-74,4359144092,2005.0,post_office,Haight Ashbury Express Photo & Mail,-122.44501,37.77036
-75,4400574569,2005.0,post_office,Postal Depot,-122.49053,37.76124
-76,4556518025,2007.0,library,Erik Erikson Library,-122.40674,37.78109
-77,4613861079,2005.0,post_office,,-122.40378,37.78767
-78,4616141257,2005.0,post_office,,-122.40114,37.79391
-79,4628519495,2005.0,post_office,,-122.43091,37.78561
-80,4632000744,2005.0,post_office,,-122.40192,37.79189
-81,4839249801,2005.0,post_office,Postal Chase,-122.43756,37.77454
-82,5140235358,2005.0,post_office,Mail Access,-122.43205,37.76482
-83,5538811243,2005.0,post_office,Post & Parcel,-122.39718,37.76245
-84,5621249849,2001.0,police,Security Office,-122.39343,37.78999
-85,5707334951,2005.0,post_office,Glen Park Mail Depot,-122.43437,37.7333
-86,5810841519,2005.0,post_office,LPH,-122.45372,37.78722
-87,5893590052,2005.0,post_office,,-122.46837,37.78265
-88,5902652921,2007.0,library,Maritime Research Center,-122.43049,37.80693
-89,5993835885,2005.0,post_office,Steuart Street Post Office,-122.39209,37.79212
-90,6427415718,2005.0,post_office,USPS Fox Plaza,-122.41695,37.77746
-91,6582592284,2007.0,library,Salesforce Park Children’s Reading Room,-122.39644,37.78958
-92,6632478621,2005.0,post_office,The UPS Store,-122.48141,37.78043
-93,6625189260,2005.0,post_office,Union Post SF,-122.47792,37.7806
-94,6791585443,2005.0,post_office,Jin Ling Gifts,-122.46219,37.7834
-95,7262205649,2001.0,police,Mission Police Station,-122.42198,37.763
+35,2055529990,2005.0,post_office,The UPS Store,-122.39317,37.79107
+36,2923715576,2005.0,post_office,FedEx,-122.39526,37.78466
+37,6582592284,2007.0,library,Salesforce Park Children’s Reading Room,-122.39644,37.78958
+38,2383254141,2005.0,post_office,Contract Station #11,-122.44844,37.77736
+39,4359144092,2005.0,post_office,Haight Ashbury Express Photo & Mail,-122.44501,37.77036
+40,5140235358,2005.0,post_office,Mail Access,-122.43205,37.76482
+41,5810841519,2005.0,post_office,LPH,-122.45372,37.78722
+42,368171323,2001.0,police,Ingleside Police Station,-122.44631,37.72465
+43,358855370,2005.0,post_office,North Beach,-122.40918,37.80097
+44,5893590052,2005.0,post_office,,-122.46837,37.78265
+45,368168856,2007.0,library,William E Colby Memorial Library,-122.41914,37.78382
+46,4343636457,2007.0,library,St Francis Memorial Hospital Library,-122.41695,37.78981
+47,368171295,2001.0,police,San Francisco Sheriff's Department,-122.40406,37.77519
+48,2383254142,2005.0,post_office,Contract Station,-122.41173,37.78089
+49,4556518025,2007.0,library,Erik Erikson Library,-122.40674,37.78109
+50,358855358,2005.0,post_office,Marina,-122.4352,37.79979
+51,416783966,2005.0,post_office,The UPS Store,-122.44062,37.80016
+52,2750810779,2005.0,post_office,The Postal Chase,-122.43578,37.79778
+53,358855329,2005.0,post_office,Bernal Heights post office,-122.42167,37.74426
+54,368168766,2007.0,library,Far West Library for Educational Research and Development,-122.41497,37.76715
+55,2156330481,2007.0,library,Simpson Library,-122.39958,37.76702
+56,3573812493,2005.0,post_office,Townsend Carrier Annex,-122.40097,37.7727
+57,4110684325,2005.0,post_office,The UPS Store,-122.40937,37.78595
+58,4318979089,2005.0,post_office,USPS General Delivery,-122.41237,37.7848
+59,61690511,2005.0,post_office,United States Post Office - Gateway Station,-122.39944,37.79494
+60,2383254154,2005.0,post_office,Sacramento Street Contract Station,-122.40506,37.79361
+61,4616141257,2005.0,post_office,,-122.40114,37.79391
+62,358855332,2005.0,post_office,Chinatown,-122.40803,37.7939
+63,358855368,2005.0,post_office,Noe Valley Station,-122.43362,37.75121
+64,1713269578,2005.0,post_office,The UPS Store,-122.43433,37.75135
+65,3523031626,2005.0,post_office,Diamond Heights Post Office,-122.43981,37.74349
+66,368168767,2007.0,library,Anne Bremer Memorial Library,-122.41692,37.80354
+67,2880721207,2005.0,post_office,The UPS Store,-122.42149,37.79368
+68,317124778,2007.0,library,Mission Bay Branch Library,-122.3932,37.77539
+69,389414006,2005.0,post_office,The UPS Store,-122.39554,37.77735
+70,381963622,2005.0,post_office,,-122.40993,37.78916
+71,1748985895,2005.0,post_office,The UPS Store,-122.41974,37.77622
+72,2383254140,2005.0,post_office,Civic CNTR P O Box Unit,-122.41568,37.78187
+73,2383254145,2005.0,post_office,Federal Building San Francisco,-122.418,37.78144
+74,3660306839,2001.0,police,Federal Bureau of Investigation San Francisco Field Office,-122.4181,37.78192
+75,6427415718,2005.0,post_office,USPS Fox Plaza,-122.41695,37.77746
+76,358855342,2005.0,post_office,Excelsior Station,-122.43808,37.72122
+77,358855386,2005.0,post_office,Steiner Street Station,-122.43358,37.78393
+78,358855349,2005.0,post_office,Geary Station,-122.48028,37.78056
+79,6625189260,2005.0,post_office,Union Post SF,-122.47792,37.7806
+80,6632478621,2005.0,post_office,The UPS Store,-122.48141,37.78043
+81,2713423199,2007.0,library,Geography Department Map Library,-122.4757,37.72217
+82,2383254148,2005.0,post_office,Marina Green Retail,-122.43375,37.80451
+83,4220114181,2005.0,post_office,,-122.43382,37.80468
+84,5902652921,2007.0,library,Maritime Research Center,-122.43049,37.80693
+85,368171326,2001.0,police,Park Police Station,-122.45517,37.76777
+86,3790822861,2005.0,post_office,The Postal Chase,-122.44973,37.76546
+87,4839249801,2005.0,post_office,Postal Chase,-122.43756,37.77454
+88,358855339,2005.0,post_office,Eighteenth Street Station San Francisco Post Office,-122.43741,37.76084
+89,2383254157,2005.0,post_office,18th Street Station,-122.42794,37.76805
+90,5707334951,2005.0,post_office,Glen Park Mail Depot,-122.43437,37.7333
+91,2383254153,2005.0,post_office,Presidio,-122.45952,37.78842
+92,358855395,2005.0,post_office,West Portal Station,-122.46918,37.73766
+93,632819804,2005.0,post_office,The UPS Store,-122.4686,37.7386
+94,3540160995,2005.0,post_office,The Postal Chase,-122.46664,37.7403
+95,3622668126,2007.0,library,Christian Science Reading Room,-122.46844,37.73874

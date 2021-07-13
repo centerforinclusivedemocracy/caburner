@@ -1,101 +1,101 @@
 osm_id,code,fclass,name,lon,lat
-358761181,2082.0,school,Atlas Peak School,-122.24997,38.41741
-358763048,2082.0,school,Capell Elementary School,-122.20664,38.45296
-358767874,2082.0,school,Howell Mountain Elementary School,-122.4497,38.58296
-358764486,2082.0,school,Davis School,-122.30192,38.31436
-358764837,2082.0,school,Donaldson Way Elementary School,-122.26497,38.17158
+7657597328,2501.0,supermarket,Cal Mart,-122.57898,38.58028
+7661165082,2303.0,cafe,Café Sarafornia,-122.57911,38.57897
+6375008572,2303.0,cafe,Starbucks,-122.27723,38.28263
+7012461286,2303.0,cafe,Ritual Coffee,-122.28161,38.30174
+358832403,2082.0,school,Napa Junction Elementary School,-122.2583,38.18547
+2834857973,2303.0,cafe,Starbucks,-122.25469,38.1654
+5543985884,2303.0,cafe,Starbucks,-122.25442,38.18206
 358765504,2082.0,school,Enterprise School,-122.45165,38.41158
-358766702,2082.0,school,Gordon Valley School,-122.12164,38.33741
 358767171,2082.0,school,Hardin School,-122.40165,38.6063
-358769924,2082.0,school,Lutheran School,-122.29859,38.29825
+358767874,2082.0,school,Howell Mountain Elementary School,-122.4497,38.58296
 358772306,2082.0,school,Pacific Union College,-122.44045,38.57025
-358769746,2082.0,school,Los Amigos Elementary School,-122.33109,38.23075
-358770984,2082.0,school,Mont La Salle School,-122.38831,38.33602
-358771290,2082.0,school,Mount Veeder School,-122.41053,38.36713
-358776208,2082.0,school,Soda Canyon School,-122.28609,38.35769
-358805470,2082.0,school,Monticello Elementary School,-122.27914,38.66574
 358805472,2082.0,school,Pope Valley Elementary School,-122.43942,38.62324
-358806895,2110.0,hospital,Napa State Hospital,-122.26701,38.27804
-358832310,2082.0,school,Development Center for Handicapped Minors,-122.25664,38.27936
-358832335,2082.0,school,Calistoga Junior-Senior High School,-122.58082,38.58407
-358832358,2082.0,school,Pacific Union College Elementary School,-122.44053,38.56574
 358832359,2082.0,school,Palisades High School,-122.58082,38.5838
 358832382,2082.0,school,Saint Helena Senior High School,-122.46276,38.49713
-358832403,2082.0,school,Napa Junction Elementary School,-122.2583,38.18547
+2291453831,2303.0,cafe,Calistoga Roastery,-122.57858,38.5791
+358771290,2082.0,school,Mount Veeder School,-122.41053,38.36713
+358764837,2082.0,school,Donaldson Way Elementary School,-122.26497,38.17158
+7159530920,2303.0,cafe,Model Bakery,-122.46984,38.50485
+358805470,2082.0,school,Monticello Elementary School,-122.27914,38.66574
+358832335,2082.0,school,Calistoga Junior-Senior High School,-122.58082,38.58407
+358832358,2082.0,school,Pacific Union College Elementary School,-122.44053,38.56574
 622778483,2501.0,supermarket,College Market,-122.4435,38.57087
+358766702,2082.0,school,Gordon Valley School,-122.12164,38.33741
+358776208,2082.0,school,Soda Canyon School,-122.28609,38.35769
+358806895,2110.0,hospital,Napa State Hospital,-122.26701,38.27804
 1347454311,2303.0,cafe,Starbucks,-122.27502,38.28321
 1347464427,2303.0,cafe,Starbucks,-122.31065,38.32032
+3715624080,2501.0,supermarket,Nob Hill,-122.28594,38.32419
+4610501222,2082.0,school,River Middle School,-122.3032,38.28732
+4610501234,2082.0,school,Harvest Middle School,-122.30387,38.28671
+4610544356,2303.0,cafe,Browns Valley Yogurt & Espresso Bar,-122.32927,38.30441
+4615542659,2501.0,supermarket,Grocery Outlet,-122.29088,38.28091
+5872413086,2504.0,mall,Napa Town Centre,-122.28648,38.29935
+7096638085,2303.0,cafe,Southside Cafe,-122.30989,38.28803
+7286983733,2303.0,cafe,Starbucks,-122.3021,38.32131
+8663504549,2303.0,cafe,Monday Bakery,-122.28845,38.2969
+358761181,2082.0,school,Atlas Peak School,-122.24997,38.41741
+358763048,2082.0,school,Capell Elementary School,-122.20664,38.45296
+358764486,2082.0,school,Davis School,-122.30192,38.31436
+358769746,2082.0,school,Los Amigos Elementary School,-122.33109,38.23075
+358769924,2082.0,school,Lutheran School,-122.29859,38.29825
+358770984,2082.0,school,Mont La Salle School,-122.38831,38.33602
+358832310,2082.0,school,Development Center for Handicapped Minors,-122.25664,38.27936
 1347464429,2303.0,cafe,Peet's Coffee,-122.30606,38.32287
 1347464430,2501.0,supermarket,Whole Foods Market,-122.30634,38.32325
 1347464433,2501.0,supermarket,Trader Joe's,-122.30592,38.32279
-2291453831,2303.0,cafe,Calistoga Roastery,-122.57858,38.5791
-2834857973,2303.0,cafe,Starbucks,-122.25469,38.1654
-3715624080,2501.0,supermarket,Nob Hill,-122.28594,38.32419
 3715632816,2501.0,supermarket,Lucky,-122.30178,38.32345
 4087973856,2402.0,motel,BEST WESTERN PREMIER Ivy Hotel Napa,-122.32321,38.33543
 4499457190,2303.0,cafe,Starbucks,-122.2872,38.32385
 4588462321,2303.0,cafe,Starbucks,-122.3024,38.32341
-4610501222,2082.0,school,River Middle School,-122.3032,38.28732
-4610501234,2082.0,school,Harvest Middle School,-122.30387,38.28671
-4610544356,2303.0,cafe,Browns Valley Yogurt & Espresso Bar,-122.32927,38.30441
 4611373695,2303.0,cafe,Golden Bagel,-122.29882,38.32047
-4617760867,2303.0,cafe,Starbucks,-122.28578,38.29922
 4615542654,2303.0,cafe,Happy's Donut Tree,-122.29288,38.28109
-4615542659,2501.0,supermarket,Grocery Outlet,-122.29088,38.28091
+4617760867,2303.0,cafe,Starbucks,-122.28578,38.29922
 4625801868,2082.0,school,Ox-Bow School of Art,-122.27902,38.29925
-5543985884,2303.0,cafe,Starbucks,-122.25442,38.18206
-5872413086,2504.0,mall,Napa Town Centre,-122.28648,38.29935
 6361223730,2303.0,cafe,Starbucks,-122.30769,38.32254
-6375008572,2303.0,cafe,Starbucks,-122.27723,38.28263
-7012461286,2303.0,cafe,Ritual Coffee,-122.28161,38.30174
-7096638085,2303.0,cafe,Southside Cafe,-122.30989,38.28803
-7159530920,2303.0,cafe,Model Bakery,-122.46984,38.50485
-7286983733,2303.0,cafe,Starbucks,-122.3021,38.32131
-7661165082,2303.0,cafe,Café Sarafornia,-122.57911,38.57897
-7657597328,2501.0,supermarket,Cal Mart,-122.57898,38.58028
-8663504549,2303.0,cafe,Monday Bakery,-122.28845,38.2969
+539834682,2001.0,police,American Canyon Police Department,-122.24841,38.17185
+7286972292,2005.0,post_office,The UPS Store,-122.25472,38.16525
+539834679,2002.0,fire_station,American Canyon Fire Department,-122.24812,38.17146
 358832331,2005.0,post_office,Angwin Post Office,-122.44345,38.57032
 358832336,2005.0,post_office,Calistoga Post Office,-122.57776,38.57824
-358851309,2005.0,post_office,Rutherford Post Office,-122.42276,38.45908
-358851310,2005.0,post_office,Pope Valley Post Office,-122.42887,38.61546
 358851312,2005.0,post_office,Oakville Post Office,-122.40313,38.43749
-358851316,2005.0,post_office,Imola Contact Station Post Office,-122.30386,38.3463
 358851319,2005.0,post_office,Deer Park Post Office,-122.47581,38.54185
-358851320,2005.0,post_office,Veterans Home Post Office,-122.36387,38.39129
-368167635,2002.0,fire_station,Napa City Fire Station 1,-122.29089,38.29683
-368167639,2002.0,fire_station,Fire Station Number 2,-122.29997,38.31186
+539718471,2002.0,fire_station,Rutherford Vol. Fire Dept. Station 15,-122.42354,38.4589
+539730838,2002.0,fire_station,Rutherford Vol. Fire Dept. Equip Barn,-122.38253,38.47092
+539791918,2001.0,police,Upper Valley Sheriffs Regional Stn,-122.50095,38.52791
+539795215,2001.0,police,St. Helena Police Department,-122.4713,38.50629
+539801432,2002.0,fire_station,Co. St Helena Fire Station 26,-122.51221,38.54784
+539810508,2001.0,police,Upper Valley Sheriffs Regional Stn,-122.44179,38.57233
+539821820,2002.0,fire_station,Co. Las Posadas Fire Station,-122.41911,38.56248
+358851310,2005.0,post_office,Pope Valley Post Office,-122.42887,38.61546
 368169937,2007.0,library,Calistoga Public Library,-122.57981,38.57608
-368169939,2007.0,library,Napa County Law Library,-122.28563,38.29759
 368169941,2007.0,library,Saint Helena Public Library,-122.46957,38.50786
 368169944,2007.0,library,W E Nelson Memorial Library,-122.43998,38.5695
 368171958,2008.0,town_hall,Calistoga City Hall,-122.57971,38.57935
 368171963,2008.0,town_hall,Saint Helena City Hall,-122.47165,38.5063
-539595057,2002.0,fire_station,Dry Creek/Lokoya Vol. Fire Station 16,-122.43383,38.40739
-539633563,2002.0,fire_station,Co. Yountville Fire Station 12,-122.35737,38.39498
-539718471,2002.0,fire_station,Rutherford Vol. Fire Dept. Station 15,-122.42354,38.4589
-539730838,2002.0,fire_station,Rutherford Vol. Fire Dept. Equip Barn,-122.38253,38.47092
 539762294,2001.0,police,Calistoga Police Department,-122.57991,38.57863
-539791918,2001.0,police,Upper Valley Sheriffs Regional Stn,-122.50095,38.52791
 539795203,2002.0,fire_station,St. Helena Fire Department,-122.4713,38.50692
-539795215,2001.0,police,St. Helena Police Department,-122.4713,38.50629
-539801432,2002.0,fire_station,Co. St Helena Fire Station 26,-122.51221,38.54784
 539803679,2002.0,fire_station,Deer Park Volunteer Fire Department,-122.47563,38.5446
-539810508,2001.0,police,Upper Valley Sheriffs Regional Stn,-122.44179,38.57233
 539810531,2002.0,fire_station,Angwin Volunteer Fire Department,-122.4447,38.57559
-539821820,2002.0,fire_station,Co. Las Posadas Fire Station,-122.41911,38.56248
 539832105,2002.0,fire_station,Pope Valley Vol. Fire Dept. Stn 20,-122.42886,38.61561
+539952302,2002.0,fire_station,Co. Spanish Flat Fire Station 24,-122.23302,38.53799
+539952304,2001.0,police,Napa County Sheriff Marine Unit,-122.22914,38.55074
+539946534,2002.0,fire_station,Cal Fire Gordon Valley Fire Station 38,-122.12113,38.33578
+539946535,2002.0,fire_station,Gordon Valley Volunteer Fire Dept,-122.12046,38.33616
+368167635,2002.0,fire_station,Napa City Fire Station 1,-122.29089,38.29683
+368169939,2007.0,library,Napa County Law Library,-122.28563,38.29759
 539833699,2002.0,fire_station,Carneros Vol. Fire Dept Stn 10,-122.30937,38.20545
-539834679,2002.0,fire_station,American Canyon Fire Department,-122.24812,38.17146
-539834682,2001.0,police,American Canyon Police Department,-122.24841,38.17185
 539838166,2002.0,fire_station,Caneros. Vol. Fire Dept Satelite Stn,-122.33634,38.25484
 539867038,2002.0,fire_station,Napa City Fire Station 2,-122.30014,38.31184
 539867526,2001.0,police,Napa City Police Department,-122.29013,38.29677
-539904564,2002.0,fire_station,Napa City Fire Station 3,-122.31828,38.33045
-539912229,2002.0,fire_station,Co. Napa Fire Station 25,-122.26395,38.33833
 539940698,2002.0,fire_station,Soda Canyon Vol. Fire Dept. Stn 13,-122.29521,38.40996
 539946377,2002.0,fire_station,Capell Valley Volunteer Fire Dept,-122.20565,38.45395
-539946534,2002.0,fire_station,Cal Fire Gordon Valley Fire Station 38,-122.12113,38.33578
-539946535,2002.0,fire_station,Gordon Valley Volunteer Fire Dept,-122.12046,38.33616
-539952302,2002.0,fire_station,Co. Spanish Flat Fire Station 24,-122.23302,38.53799
-539952304,2001.0,police,Napa County Sheriff Marine Unit,-122.22914,38.55074
-7286972292,2005.0,post_office,The UPS Store,-122.25472,38.16525
+358851316,2005.0,post_office,Imola Contact Station Post Office,-122.30386,38.3463
+358851320,2005.0,post_office,Veterans Home Post Office,-122.36387,38.39129
+368167639,2002.0,fire_station,Fire Station Number 2,-122.29997,38.31186
+539633563,2002.0,fire_station,Co. Yountville Fire Station 12,-122.35737,38.39498
+539904564,2002.0,fire_station,Napa City Fire Station 3,-122.31828,38.33045
+539912229,2002.0,fire_station,Co. Napa Fire Station 25,-122.26395,38.33833
+358851309,2005.0,post_office,Rutherford Post Office,-122.42276,38.45908
+539595057,2002.0,fire_station,Dry Creek/Lokoya Vol. Fire Station 16,-122.43383,38.40739

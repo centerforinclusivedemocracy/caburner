@@ -1,45 +1,50 @@
 osm_id,code,fclass,name,lon,lat
+358773914,2082.0,school,Round Valley High School,-123.25612,39.79293
+877478422,2501.0,supermarket,Gualala Supermarket,-123.5282,38.7676
 290364717,2501.0,supermarket,Redwood Valley Market,-123.20435,39.26484
 314447411,2501.0,supermarket,Raley's,-123.20897,39.1684
 314507874,2501.0,supermarket,Lucky,-123.20153,39.15234
 322990382,2303.0,cafe,Black Oak Coffee Roasters,-123.2084,39.15306
-358760985,2082.0,school,Anderson Valley Junior-Senior High School,-123.37445,39.01212
-358760988,2082.0,school,Anderson Valley Elementary School,-123.38584,39.02907
-358764452,2082.0,school,Dana Gray Elementary School,-123.78918,39.43707
-358764000,2082.0,school,Con Creek School,-123.3839,39.02962
-358766921,2082.0,school,Greenwood Elementary School,-123.71918,39.1349
-358766027,2082.0,school,Redwood Elementary School,-123.79474,39.43739
-358767144,2082.0,school,Hansen School,-123.46445,39.23045
 358773605,2082.0,school,River Union School,-123.165,39.12962
-358773914,2082.0,school,Round Valley High School,-123.25612,39.79293
-358795407,2082.0,school,Mendocino County Community School,-123.42223,39.05434
 358806836,2081.0,university,Ten Thousand Buddhas University,-123.15696,39.13462
-368167490,2014.0,arts_centre,Mendocino Art Center,-123.80335,39.30684
-358824627,2082.0,school,Branscomb Elementary School,-123.63335,39.65655
-358824634,2082.0,school,Fort Bragg Middle School,-123.79752,39.44711
-358824651,2082.0,school,Leggett Valley Elementary School,-123.71677,39.86452
-358824653,2082.0,school,Leggett Valley High School,-123.7167,39.86504
-358824665,2082.0,school,Our Lady of Good Counsel School,-123.79835,39.43933
-358824672,2082.0,school,Seventh Day Adventist School,-123.79807,39.47267
-358824673,2082.0,school,Spy Rock Elementary School,-123.51307,39.81265
-358824694,2082.0,school,Arena Elementary School,-123.6928,38.91241
 358824707,2082.0,school,Calpella Elementary School,-123.20584,39.23378
-358824719,2082.0,school,Comptche Elementary School,-123.59529,39.26517
 358824722,2082.0,school,Deep Valley Christian School,-123.22695,39.26211
-358824767,2082.0,school,Manchester Elementary School,-123.68776,38.96807
 358824774,2082.0,school,Mendocino College,-123.22719,39.18896
-358824792,2082.0,school,Point Arena High School,-123.69918,38.91463
 358824794,2082.0,school,Potter Valley Elementary School,-123.10445,39.32155
 358824796,2082.0,school,Potter Valley High School,-123.10528,39.32128
-358824807,2082.0,school,San Hedrin Continuation High School,-123.35589,39.41368
 358824813,2082.0,school,South Valley High School,-123.21125,39.14703
-358824849,2084.0,college,Mendocino College Willits Center,-123.35179,39.41273
-541339786,2303.0,cafe,Espresso Drive-Thru,-123.80691,39.42518
-541343525,2501.0,supermarket,S & B Market,-123.68713,38.97016
-877478422,2501.0,supermarket,Gualala Supermarket,-123.5282,38.7676
-1328779514,2402.0,motel,Ridgewood,-123.31589,39.34101
+4738919054,2501.0,supermarket,Ukiah Natural Foods Co-op,-123.20508,39.14321
+5912324337,2501.0,supermarket,FoodMaxx,-123.19669,39.13126
+5914708554,2082.0,school,Creating Behavioral Educational Mometum,-123.19949,39.12873
+5914710042,2303.0,cafe,Starbucks,-123.19913,39.13237
+5914862785,2402.0,motel,National 9 Inn,-123.20573,39.14095
+5916388036,2303.0,cafe,Sunny's Donunts,-123.20525,39.13303
+5916973456,2082.0,school,New Life Preschool,-123.21019,39.15136
+5919431932,2303.0,cafe,Happy Donuts & Bagels,-123.20689,39.14448
+6641480594,2303.0,cafe,Holly's Expresso Stop,-123.20541,39.14318
+6748833313,2082.0,school,Ukiah Shorin-Ryu Karate School,-123.19654,39.11153
+358824627,2082.0,school,Branscomb Elementary School,-123.63335,39.65655
+358824651,2082.0,school,Leggett Valley Elementary School,-123.71677,39.86452
+358824653,2082.0,school,Leggett Valley High School,-123.7167,39.86504
+358824673,2082.0,school,Spy Rock Elementary School,-123.51307,39.81265
 1675708538,2501.0,supermarket,Geiger's Long Valley Market,-123.48191,39.68743
 1675708542,2110.0,hospital,Long Valley Clinic,-123.48435,39.6882
+4355303910,2501.0,supermarket,Fosters Ranch Market,-123.48339,39.68758
+4355303912,2303.0,cafe,Pour Girls Coffee,-123.48279,39.68703
+4367033438,2501.0,supermarket,Mendo Sun Market,-123.47882,39.68421
+4367033445,2303.0,cafe,,-123.48255,39.68692
+358764452,2082.0,school,Dana Gray Elementary School,-123.78918,39.43707
+358766027,2082.0,school,Redwood Elementary School,-123.79474,39.43739
+358767144,2082.0,school,Hansen School,-123.46445,39.23045
+358824634,2082.0,school,Fort Bragg Middle School,-123.79752,39.44711
+358824665,2082.0,school,Our Lady of Good Counsel School,-123.79835,39.43933
+358824672,2082.0,school,Seventh Day Adventist School,-123.79807,39.47267
+358824719,2082.0,school,Comptche Elementary School,-123.59529,39.26517
+358824807,2082.0,school,San Hedrin Continuation High School,-123.35589,39.41368
+358824849,2084.0,college,Mendocino College Willits Center,-123.35179,39.41273
+368167490,2014.0,arts_centre,Mendocino Art Center,-123.80335,39.30684
+541339786,2303.0,cafe,Espresso Drive-Thru,-123.80691,39.42518
+1328779514,2402.0,motel,Ridgewood,-123.31589,39.34101
 1834415555,2082.0,school,Little Red Schoolhouse,-123.55567,39.35141
 1975485962,2012.0,community_centre,Caspar Community Center,-123.81372,39.36553
 1975494107,2083.0,kindergarten,Caspar Children's Garden,-123.81779,39.36959
@@ -48,60 +53,54 @@ osm_id,code,fclass,name,lon,lat
 3787795437,2303.0,cafe,Fiddleheads Café,-123.79858,39.30578
 3788735971,2303.0,cafe,Starbucks,-123.80577,39.4349
 3907505337,2303.0,cafe,Moody's Organic Coffee Bar,-123.79859,39.30586
-4097988548,2303.0,cafe,Cove Coffee,-123.70956,38.91459
-4367033438,2501.0,supermarket,Mendo Sun Market,-123.47882,39.68421
-4355303910,2501.0,supermarket,Fosters Ranch Market,-123.48339,39.68758
-4355303912,2303.0,cafe,Pour Girls Coffee,-123.48279,39.68703
-4367033445,2303.0,cafe,,-123.48255,39.68692
-4738919054,2501.0,supermarket,Ukiah Natural Foods Co-op,-123.20508,39.14321
 5828178085,2012.0,community_centre,Community Center of Mendocino,-123.79636,39.3079
-5912324337,2501.0,supermarket,FoodMaxx,-123.19669,39.13126
-5914708554,2082.0,school,Creating Behavioral Educational Mometum,-123.19949,39.12873
-5914710042,2303.0,cafe,Starbucks,-123.19913,39.13237
-5914862785,2402.0,motel,National 9 Inn,-123.20573,39.14095
-5916388036,2303.0,cafe,Sunny's Donunts,-123.20525,39.13303
-5916973456,2082.0,school,New Life Preschool,-123.21019,39.15136
-5919431932,2303.0,cafe,Happy Donuts & Bagels,-123.20689,39.14448
-6040350656,2501.0,supermarket,No,-123.83405,39.43127
 6169458993,2303.0,cafe,Mendo Cookie Company,-123.80624,39.44459
+358760985,2082.0,school,Anderson Valley Junior-Senior High School,-123.37445,39.01212
+358760988,2082.0,school,Anderson Valley Elementary School,-123.38584,39.02907
+358764000,2082.0,school,Con Creek School,-123.3839,39.02962
+358766921,2082.0,school,Greenwood Elementary School,-123.71918,39.1349
+358795407,2082.0,school,Mendocino County Community School,-123.42223,39.05434
+358824694,2082.0,school,Arena Elementary School,-123.6928,38.91241
+358824767,2082.0,school,Manchester Elementary School,-123.68776,38.96807
+358824792,2082.0,school,Point Arena High School,-123.69918,38.91463
+541343525,2501.0,supermarket,S & B Market,-123.68713,38.97016
+4097988548,2303.0,cafe,Cove Coffee,-123.70956,38.91459
 6309309485,2012.0,community_centre,Anderson Valley Teen Center,-123.37076,39.01072
-6641480594,2303.0,cafe,Holly's Expresso Stop,-123.20541,39.14318
-6748833313,2082.0,school,Ukiah Shorin-Ryu Karate School,-123.19654,39.11153
+8098413719,2005.0,post_office,Gualala Post Office,-123.52736,38.76701
+8098413722,2002.0,fire_station,South Coast Fire District Gualala Firehouse,-123.5291,38.76983
 290364608,2002.0,fire_station,,-123.20377,39.26541
 314506595,2008.0,town_hall,Ukiah Civic Center,-123.21015,39.14691
 358824708,2005.0,post_office,Calpella Post Office,-123.20278,39.23433
 358824755,2005.0,post_office,Hopland Post Office,-123.11667,38.97295
 358824801,2005.0,post_office,Redwood Valley Post Office,-123.20449,39.26493
 358824840,2005.0,post_office,Ukiah Post Office,-123.21006,39.15045
-358824855,2005.0,post_office,Willits Post Office,-123.35307,39.40905
 368167594,2009.0,courthouse,Mendocino County Courthouse,-123.20817,39.1502
-368167716,2002.0,fire_station,Laytonville Fire Control Station,-123.48668,39.7021
 368169576,2007.0,library,Held-Poage Memorial Home and Research Library,-123.21265,39.14898
 368169580,2007.0,library,Mendocino County Law Library,-123.20819,39.15029
 368169582,2007.0,library,Mendocino County Library,-123.20647,39.15055
-368171461,2008.0,town_hall,Fort Bragg City Hall,-123.80418,39.44572
-534349408,2002.0,fire_station,Cal Fire Leggett Station,-123.72179,39.87631
-469603010,2002.0,fire_station,Leggett Valley Fire Dept.,-123.71378,39.84991
-534353181,2002.0,fire_station,Cal Fire Howard Forest,-123.31888,39.34603
-541343524,2005.0,post_office,Manchester Post Office,-123.68668,38.97027
 1328779484,2002.0,fire_station,CAL Fire Hopland Station,-123.12047,39.00309
 1610987223,2005.0,post_office,Ukiah Post Office,-123.19776,39.14569
-1675708539,2002.0,fire_station,Laytonville Fire Dept.,-123.48526,39.68718
 2075065337,2002.0,fire_station,Ukiah Fire Department,-123.21038,39.14655
 2075066172,2001.0,police,Ukiah Police Department,-123.21008,39.14658
-2812593737,2005.0,post_office,,-123.78892,39.27082
 3358859739,2001.0,police,Mendocino County Sheriff's Department,-123.21964,39.16095
-4578420075,2005.0,post_office,Mendo Pack & Ship,-123.79562,39.30548
-5187589144,2005.0,post_office,United States Post Office,-123.48215,39.68569
 5127710510,2005.0,post_office,United States Post Office,-123.16658,39.1334
+6947276840,2007.0,library,,-123.22902,39.18896
+368167716,2002.0,fire_station,Laytonville Fire Control Station,-123.48668,39.7021
+469603010,2002.0,fire_station,Leggett Valley Fire Dept.,-123.71378,39.84991
+534349408,2002.0,fire_station,Cal Fire Leggett Station,-123.72179,39.87631
+1675708539,2002.0,fire_station,Laytonville Fire Dept.,-123.48526,39.68718
+5187589144,2005.0,post_office,United States Post Office,-123.48215,39.68569
+7717447935,2002.0,fire_station,Westport Volunteer Fire Department,-123.78278,39.64178
+358824855,2005.0,post_office,Willits Post Office,-123.35307,39.40905
+368171461,2008.0,town_hall,Fort Bragg City Hall,-123.80418,39.44572
+534353181,2002.0,fire_station,Cal Fire Howard Forest,-123.31888,39.34603
+2812593737,2005.0,post_office,,-123.78892,39.27082
+4578420075,2005.0,post_office,Mendo Pack & Ship,-123.79562,39.30548
 6039648885,2002.0,fire_station,Fort bragg fire department,-123.80635,39.44247
 6169458991,2005.0,post_office,North Coast Packing and Shipping,-123.80619,39.4434
-6947276840,2007.0,library,,-123.22902,39.18896
+541343524,2005.0,post_office,Manchester Post Office,-123.68668,38.97027
 7106404645,2005.0,post_office,United States Post Office,-123.7171,39.13059
-7717447935,2002.0,fire_station,Westport Volunteer Fire Department,-123.78278,39.64178
 8097779930,2009.0,courthouse,Arena Justice Court,-123.70364,38.91659
 8097779954,2008.0,town_hall,Point Arena City Hall,-123.70385,38.91658
 8098366253,2002.0,fire_station,Redwood Coast Fire Department Manchester Station,-123.68637,38.96762
-8098413719,2005.0,post_office,Gualala Post Office,-123.52736,38.76701
-8098413722,2002.0,fire_station,South Coast Fire District Gualala Firehouse,-123.5291,38.76983
 8336649423,2002.0,fire_station,Cal Fire Boonville Station Mendocino Unit,-123.35134,38.98617

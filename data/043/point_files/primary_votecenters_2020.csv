@@ -1,1 +1,5 @@
-Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
+name,address,lat,lon,ElecDayVotes,EarlyVotes,BallotsCast,WaitTimeHr
+Mariposa County Elections Office ,4982 10th Street Mariposa CA 95338,37.48938,-119.96778,,,,
+Bootjack Fire Department,3883 Bootjack Lane Mariposa CA 95338,37.46361,-119.88308,,,,
+Greeley Hill Public Library,10332 Fiske Road Coulterville CA 95311,37.74616,-120.13121,,,,
+El Portal Public Library,9670 Rancheria Flat Road El Portal CA 95318,37.67326,-119.80663,,,,

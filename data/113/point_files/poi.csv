@@ -1,61 +1,23 @@
 osm_id,code,fclass,name,lon,lat
-358763019,2082.0,school,Cañon School,-122.15359,38.75351
-358763772,2082.0,school,Clover School,-121.92913,38.71546
-358767723,2082.0,school,Holy Rosary Academy,-121.78774,38.6749
-358764755,2082.0,school,Dingle Elementary School,-121.77635,38.67296
-358777866,2082.0,school,Union School,-121.98914,38.59129
-358769135,2082.0,school,Laugenour School,-121.76469,38.72213
-358771266,2082.0,school,Mount Pleasant District School,-121.88497,38.66379
-358772058,2082.0,school,Oliver Wendell Holmes Junior High School,-121.73635,38.55657
-358778614,2082.0,school,West Sacramento School,-121.55607,38.52713
-358778941,2082.0,school,Wildwood School,-122.06247,38.92545
-358779026,2082.0,school,Willow Oak School,-121.8208,38.6849
-358809487,2082.0,school,California Highway Patrol Academy,-121.5592,38.59588
-358822666,2013.0,nursing_home,Alderson Convalescent Hospital,-121.77858,38.68185
-358822702,2082.0,school,Clarksburg Elementary School,-121.52857,38.41713
-358822717,2082.0,school,Douglass Junior High School,-121.77552,38.66824
-358822749,2082.0,school,Science and Technology Academy at Knights Landing (SciTech),-121.72052,38.79823
-358822764,2082.0,school,John Clayton Kinderschool,-121.9733,38.52268
-358822773,2082.0,school,Madison Community High School,-121.97108,38.67935
-358822791,2082.0,school,Plainfield Elementary School,-121.82191,38.64213
-358822842,2082.0,school,Cache Creek High School,-121.8083,38.73185
-358822864,2082.0,school,West Sacramento School for Independent Study,-121.53162,38.57713
-358822890,2084.0,college,Yuba Community College-Woodland Campus,-121.73569,38.66095
-358837150,2082.0,school,Delta High School,-121.53023,38.4163
-358858678,2082.0,school,Wyotech - Sacramento Campus,-121.56598,38.58591
 518279679,2303.0,cafe,Cargo Coffee,-121.75404,38.53557
 524176424,2082.0,school,Davis Joint Unified School District (DJUSD),-121.74548,38.54739
-531004701,2303.0,cafe,Sodexho Coffee,-121.75021,38.53622
 524176764,2082.0,school,Davis School for Independent Study (DSIS),-121.74527,38.54712
+531004701,2303.0,cafe,Sodexho Coffee,-121.75021,38.53622
 559255145,2303.0,cafe,Bio Brew,-121.75508,38.54014
 559255147,2303.0,cafe,Peet's Coffee,-121.75939,38.54254
 573949853,2303.0,cafe,Peet's Coffee,-121.7416,38.54418
 573949861,2303.0,cafe,Cultivé Frozen Yogurt,-121.74153,38.5443
 575320248,2303.0,cafe,Village Bakery,-121.73832,38.54362
 575324532,2303.0,cafe,Davis Creamery,-121.74098,38.54241
-597045822,2501.0,supermarket,Nugget Markets,-121.69601,38.55013
-597045846,2303.0,cafe,Starbucks,-121.69476,38.55013
-720459104,2082.0,school,Robert E. Willett Elementary School,-121.76574,38.55468
 710823973,2303.0,cafe,Starbucks,-121.76043,38.54715
-711012114,2501.0,supermarket,Westlake IGA Market,-121.78702,38.55454
 712336680,2082.0,school,Redbud Montessori,-121.79768,38.54561
 1052335476,2501.0,supermarket,Trader Joe's,-121.7615,38.54675
 1426747132,2084.0,college,Sacramento City College,-121.77234,38.54067
 1899064831,2303.0,cafe,Starbucks,-121.75275,38.53877
 1899070842,2303.0,cafe,CoHo South Café,-121.75164,38.53936
-1919078196,2303.0,cafe,Chuy's Panaderia,-121.96864,38.52119
-1919078197,2303.0,cafe,Steady Eddy's,-121.96842,38.52216
-1918194126,2303.0,cafe,Konditorei,-121.71833,38.55177
-2120424332,2303.0,cafe,Starbucks,-121.55456,38.59123
-2120424347,2303.0,cafe,Starbucks,-121.57967,38.57246
-2120443743,2501.0,supermarket,Mercado Loco,-121.5502,38.57817
-2120468034,2303.0,cafe,Starbucks,-121.53844,38.55079
-2188177615,2303.0,cafe,Quickly,-121.75711,38.55989
-2188177617,2501.0,supermarket,Savemart,-121.75774,38.55961
 2281654805,2303.0,cafe,Hub Cafe,-121.77182,38.54116
 2312172449,2303.0,cafe,Fluffy Donuts,-121.75947,38.5476
 2312172451,2303.0,cafe,Old Teahouse,-121.76016,38.54715
-2551989425,2501.0,supermarket,Raley's,-121.80127,38.67664
 2588098686,2303.0,cafe,Dutch Bros. Coffee,-121.73856,38.54051
 3385541430,2303.0,cafe,Common Grounds Coffee,-121.72372,38.54127
 3534205995,2303.0,cafe,Tea List,-121.74211,38.54366
@@ -63,63 +25,101 @@ osm_id,code,fclass,name,lon,lat
 3534205998,2303.0,cafe,Barista Brew Cafe,-121.74022,38.54716
 3534205999,2303.0,cafe,Cafe Bernardo,-121.74222,38.54422
 3534206000,2303.0,cafe,Cloud Forest Cafe,-121.7422,38.54393
-3534206002,2303.0,cafe,Starbucks,-121.7689,38.56257
-3534206003,2303.0,cafe,Peet's Coffee,-121.76521,38.56236
-3748087527,2501.0,supermarket,Raley's,-121.51475,38.583
-3748094805,2501.0,supermarket,Arteaga's,-121.52567,38.59041
-3748099233,2501.0,supermarket,Yolo Fruit Stand,-121.64417,38.56159
-3748097674,2303.0,cafe,Sal's West,-121.51167,38.58894
 4297142348,2303.0,cafe,Temple Coffee,-121.73941,38.54476
-4507142626,2303.0,cafe,Gong Cha,-121.7655,38.56243
 5301304718,2303.0,cafe,Teabo Café,-121.72381,38.54092
 5301352991,2303.0,cafe,Starbucks,-121.72519,38.54135
-5315597553,2501.0,supermarket,Walmart Neighborhood Market,-121.76368,38.66134
-5315598128,2501.0,supermarket,Walmart Neighborhood Market,-121.78792,38.68087
-5326303605,2501.0,supermarket,Food 4 Less,-121.74499,38.67504
-5326270116,2501.0,supermarket,Grocery Outlet,-121.7587,38.67606
 5602128078,2081.0,university,Robert Mondavi Institute for Wine & Food Science,-121.75119,38.53265
 5754875821,2303.0,cafe,Philz Coffee,-121.74127,38.54335
 6086793587,2081.0,university,Cal Aggie Flying Farmers,-121.78842,38.53293
-6262280253,2501.0,supermarket,Nugget Markets,-121.78061,38.67821
+358772058,2082.0,school,Oliver Wendell Holmes Junior High School,-121.73635,38.55657
+2188177615,2303.0,cafe,Quickly,-121.75711,38.55989
+2188177617,2501.0,supermarket,Savemart,-121.75774,38.55961
+3534206002,2303.0,cafe,Starbucks,-121.7689,38.56257
+3534206003,2303.0,cafe,Peet's Coffee,-121.76521,38.56236
+4507142626,2303.0,cafe,Gong Cha,-121.7655,38.56243
+7039677485,2083.0,kindergarten,,-121.78602,38.55931
+3748087527,2501.0,supermarket,Raley's,-121.51475,38.583
+3748097674,2303.0,cafe,Sal's West,-121.51167,38.58894
+358778614,2082.0,school,West Sacramento School,-121.55607,38.52713
+2120468034,2303.0,cafe,Starbucks,-121.53844,38.55079
+358764755,2082.0,school,Dingle Elementary School,-121.77635,38.67296
+358767723,2082.0,school,Holy Rosary Academy,-121.78774,38.6749
+358769135,2082.0,school,Laugenour School,-121.76469,38.72213
+358822666,2013.0,nursing_home,Alderson Convalescent Hospital,-121.77858,38.68185
+358822717,2082.0,school,Douglass Junior High School,-121.77552,38.66824
+358822749,2082.0,school,Science and Technology Academy at Knights Landing (SciTech),-121.72052,38.79823
+358822890,2084.0,college,Yuba Community College-Woodland Campus,-121.73569,38.66095
+2551989425,2501.0,supermarket,Raley's,-121.80127,38.67664
+5315597553,2501.0,supermarket,Walmart Neighborhood Market,-121.76368,38.66134
+5315598128,2501.0,supermarket,Walmart Neighborhood Market,-121.78792,38.68087
+5326270116,2501.0,supermarket,Grocery Outlet,-121.7587,38.67606
+5326303605,2501.0,supermarket,Food 4 Less,-121.74499,38.67504
 6180225126,2110.0,hospital,Hansen Family Health Clinic,-121.79375,38.68434
 6180225129,2082.0,school,Greengate School,-121.79685,38.68426
 6180225130,2082.0,school,Cesar Chavez Community School,-121.79564,38.68445
-7039677485,2083.0,kindergarten,,-121.78602,38.55931
+6262280253,2501.0,supermarket,Nugget Markets,-121.78061,38.67821
 7108419794,2303.0,cafe,Starbucks,-121.72703,38.67032
-7259962275,2402.0,motel,Travelers Inn,-121.54958,38.57812
-7276087583,2402.0,motel,Granada Inn,-121.57436,38.57547
-7352799822,2501.0,supermarket,Grocery Outlet,-121.72971,38.55271
 7579900640,2303.0,cafe,Starbucks,-121.79692,38.67727
 7579900674,2501.0,supermarket,Dollar General Market,-121.78373,38.67833
 7579900683,2303.0,cafe,Dutch Bros. Coffee,-121.78335,38.67773
-272094727,2001.0,police,City of Davis Police Department,-121.71924,38.55117
+358778941,2082.0,school,Wildwood School,-122.06247,38.92545
+358822702,2082.0,school,Clarksburg Elementary School,-121.52857,38.41713
+358837150,2082.0,school,Delta High School,-121.53023,38.4163
+597045822,2501.0,supermarket,Nugget Markets,-121.69601,38.55013
+597045846,2303.0,cafe,Starbucks,-121.69476,38.55013
+711012114,2501.0,supermarket,Westlake IGA Market,-121.78702,38.55454
+720459104,2082.0,school,Robert E. Willett Elementary School,-121.76574,38.55468
+1918194126,2303.0,cafe,Konditorei,-121.71833,38.55177
+7352799822,2501.0,supermarket,Grocery Outlet,-121.72971,38.55271
+358809487,2082.0,school,California Highway Patrol Academy,-121.5592,38.59588
+358822864,2082.0,school,West Sacramento School for Independent Study,-121.53162,38.57713
+358858678,2082.0,school,Wyotech - Sacramento Campus,-121.56598,38.58591
+2120424332,2303.0,cafe,Starbucks,-121.55456,38.59123
+2120424347,2303.0,cafe,Starbucks,-121.57967,38.57246
+2120443743,2501.0,supermarket,Mercado Loco,-121.5502,38.57817
+3748094805,2501.0,supermarket,Arteaga's,-121.52567,38.59041
+3748099233,2501.0,supermarket,Yolo Fruit Stand,-121.64417,38.56159
+7259962275,2402.0,motel,Travelers Inn,-121.54958,38.57812
+7276087583,2402.0,motel,Granada Inn,-121.57436,38.57547
+358763019,2082.0,school,Cañon School,-122.15359,38.75351
+358763772,2082.0,school,Clover School,-121.92913,38.71546
+358771266,2082.0,school,Mount Pleasant District School,-121.88497,38.66379
+358777866,2082.0,school,Union School,-121.98914,38.59129
+358779026,2082.0,school,Willow Oak School,-121.8208,38.6849
+358822764,2082.0,school,John Clayton Kinderschool,-121.9733,38.52268
+358822773,2082.0,school,Madison Community High School,-121.97108,38.67935
+358822791,2082.0,school,Plainfield Elementary School,-121.82191,38.64213
+358822842,2082.0,school,Cache Creek High School,-121.8083,38.73185
+1919078196,2303.0,cafe,Chuy's Panaderia,-121.96864,38.52119
+1919078197,2303.0,cafe,Steady Eddy's,-121.96842,38.52216
 275629033,2002.0,fire_station,,-121.7575,38.54037
 275629058,2001.0,police,,-121.75734,38.54061
+1943488152,2005.0,post_office,United States Post Office,-121.74294,38.54412
+2589920369,2005.0,post_office,The UPS Store,-121.7438,38.54228
+2591817577,2005.0,post_office,United States Post Office,-121.74904,38.54209
+3260413321,2005.0,post_office,,-122.19231,38.82901
+358822771,2005.0,post_office,Knights Landing Post Office,-121.71802,38.80185
+368169007,2007.0,library,Knights Landing Branch (Yolo County Library),-121.71802,38.80046
+368171501,2008.0,town_hall,Woodland City Hall,-121.77357,38.67852
+2878842488,2002.0,fire_station,Woodland Fire Station No 1,-121.7825,38.67924
+6180225127,2007.0,library,Yolo County Archives and Records Center,-121.79483,38.68406
+6180225128,2007.0,library,"Yolo County Library Administration (""Central Services"")",-121.79482,38.68384
+358822722,2005.0,post_office,Dunningan Post Office,-121.97108,38.88518
+368171502,2008.0,town_hall,Rumsey Town Hall,-122.23692,38.88795
+272094727,2001.0,police,City of Davis Police Department,-121.71924,38.55117
 358822675,2005.0,post_office,Broderick Post Office,-121.52468,38.59018
 358822676,2005.0,post_office,Bryte Branch Broderick Post Office,-121.54135,38.5949
-358822722,2005.0,post_office,Dunningan Post Office,-121.97108,38.88518
+368170436,2007.0,library,California Institute of Public Affairs Library,-121.53357,38.56463
+2120465152,2005.0,post_office,The UPS Store,-121.54805,38.57841
+2356895719,2002.0,fire_station,,-121.60123,38.64953
 358822731,2005.0,post_office,Esparto Post Office,-122.01664,38.6949
-358822771,2005.0,post_office,Knights Landing Post Office,-121.71802,38.80185
 358822775,2005.0,post_office,Madison Post Office,-121.96941,38.67907
 358822838,2005.0,post_office,Winters Post Office,-121.97025,38.52381
 358822850,2005.0,post_office,Yolo Post Office,-121.8058,38.73351
 358822894,2005.0,post_office,Zamora Post Office,-121.88302,38.7974
-368170436,2007.0,library,California Institute of Public Affairs Library,-121.53357,38.56463
-368169007,2007.0,library,Knights Landing Branch (Yolo County Library),-121.71802,38.80046
 368171500,2008.0,town_hall,Winters City Hall,-121.9708,38.52185
-368171501,2008.0,town_hall,Woodland City Hall,-121.77357,38.67852
-368171502,2008.0,town_hall,Rumsey Town Hall,-122.23692,38.88795
 1361030694,2002.0,fire_station,,-122.01696,38.69348
 1778313859,2002.0,fire_station,West Plainfield Fire Department,-121.85829,38.57811
 1919035107,2007.0,library,Winters Branch Library (Yolo County Library),-121.97146,38.52561
-1943488152,2005.0,post_office,United States Post Office,-121.74294,38.54412
-2120465152,2005.0,post_office,The UPS Store,-121.54805,38.57841
-2356895719,2002.0,fire_station,,-121.60123,38.64953
-2589920369,2005.0,post_office,The UPS Store,-121.7438,38.54228
-2591817577,2005.0,post_office,United States Post Office,-121.74904,38.54209
-2878842488,2002.0,fire_station,Woodland Fire Station No 1,-121.7825,38.67924
-3260413321,2005.0,post_office,,-122.19231,38.82901
 6180225125,2007.0,library,Esparto Regional Library (Yolo County Library),-122.01637,38.69251
-6180225127,2007.0,library,Yolo County Archives and Records Center,-121.79483,38.68406
-6180225128,2007.0,library,"Yolo County Library Administration (""Central Services"")",-121.79482,38.68384
 8392345133,2002.0,fire_station,Cal Fire Brooks Fire Station,-122.14446,38.7375

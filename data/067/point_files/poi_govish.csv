@@ -1,195 +1,195 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358815715,2005.0,post_office,Folsom Post Office,-121.16603,38.67155
-1,358815804,2005.0,post_office,Orangevale Post Office,-121.22616,38.67984
-2,358815827,2005.0,post_office,Repressa Post Office,-121.16167,38.69196
-3,358815832,2005.0,post_office,Rio Linda Post Office,-121.44829,38.69129
-4,358835687,2005.0,post_office,Elverta Post Office,-121.46551,38.7149
-5,358835730,2005.0,post_office,North Highlands Post Office,-121.38355,38.68454
-6,358836928,2005.0,post_office,Galt Post Office,-121.30189,38.26603
-7,358836934,2005.0,post_office,Isleton Post Office,-121.60978,38.16193
-8,358836969,2005.0,post_office,Wilton Post Office,-121.26967,38.40908
-9,358852233,2005.0,post_office,Arden Post Office,-121.39773,38.59657
-10,358852243,2005.0,post_office,Broadway Post Office,-121.48468,38.55991
-11,358852249,2005.0,post_office,Camellia Post Office,-121.44412,38.56685
-12,358852264,2005.0,post_office,Colonial Post Office,-121.45607,38.51685
-13,358852267,2005.0,post_office,Country Club Centre Post Office,-121.38134,38.61157
-14,358852270,2005.0,post_office,Courtland Post Office,-121.5694,38.33158
-15,358852273,2005.0,post_office,Del Paso Heights Post Office,-121.43023,38.6374
-16,358852300,2005.0,post_office,Florin Post Office,-121.37356,38.49435
-17,358852304,2005.0,post_office,Foothill Farms Post Office,-121.34384,38.66463
-18,358852307,2005.0,post_office,Fort Sutter Post Office,-121.46912,38.56574
-19,358852411,2005.0,post_office,Perkins Post Office,-121.34328,38.54463
-20,358852320,2005.0,post_office,Herald Post Office,-121.24189,38.29408
-21,358852325,2005.0,post_office,Hood Post Office,-121.51912,38.3688
-22,358852419,2005.0,post_office,Rancho Cordova Post Office,-121.28078,38.59935
-23,358852341,2005.0,post_office,Land Park Post Office,-121.51384,38.51935
-24,358852432,2005.0,post_office,Sacramento Main Post Office,-121.44829,38.60324
-25,358852405,2005.0,post_office,Oak Park Post Office,-121.46884,38.54991
-26,358852408,2005.0,post_office,Parkway Post Office,-121.45412,38.48296
-27,358852462,2005.0,post_office,Sloughhouse - Rancho Murieta Post Office,-121.10022,38.49408
-28,358852476,2005.0,post_office,Town and Country Post Office,-121.40301,38.61963
-29,358852487,2005.0,post_office,Walnut Grove Post Office,-121.5144,38.2413
-30,368167521,2009.0,courthouse,W R Ridgeway Family Relations Courthouse,-121.40745,38.54268
-31,368167522,2009.0,courthouse,Carol Miller Justice Center,-121.40676,38.55051
-32,368167881,2002.0,fire_station,Sacramento Metro Fire Station Number 24,-121.34995,38.65518
-33,368167886,2002.0,fire_station,Sacramento Metro Fire Station Number 27,-121.29217,38.71046
-34,368167887,2002.0,fire_station,Sacramento Metro Fire Station Number 117,-121.4194,38.71407
-35,368167888,2002.0,fire_station,Sacramento Metro Fire Station Number 21,-121.28356,38.67851
-36,368167889,2002.0,fire_station,Sacramento Metro Fire Station Number 22,-121.21106,38.6799
-37,368167892,2002.0,fire_station,Sacramento Metro Fire Station Number 111,-121.44968,38.69046
-38,368167893,2002.0,fire_station,Sacramento Metro Fire Station Number 112,-121.38773,38.69074
-39,368167895,2002.0,fire_station,Sacramento Metro Fire Station Number 116,-121.4669,38.71435
-40,368167896,2002.0,fire_station,Sacramento Metro Fire Station Number 106,-121.38495,38.60657
-41,368167897,2002.0,fire_station,Sacramento Metro Fire Station Number 107,-121.37467,38.58213
-42,368167898,2002.0,fire_station,Sacramento Metro Fire Station Number 108,-121.30801,38.64935
-43,368167899,2002.0,fire_station,Sacramento Metro Fire Station Number 109,-121.33328,38.62074
-44,368167900,2002.0,fire_station,Sacramento Metro Fire Station Number 102,-121.3594,38.61796
-45,368167901,2002.0,fire_station,Sacramento Metro Fire Station Number 101,-121.40106,38.6199
-46,368167902,2002.0,fire_station,Sacramento Metro Fire Station Number 105,-121.3994,38.58185
-47,368167903,2002.0,fire_station,Sacramento Metro Fire Station Number 103,-121.38245,38.63518
-48,368167904,2002.0,fire_station,Sacramento Fire Station Number 7,-121.4269,38.46824
-49,368167905,2002.0,fire_station,Sacramento Fire Station Number 60,-121.39273,38.5488
-50,368167906,2002.0,fire_station,Sacramento Metro Fire Department,-121.41745,38.58935
-51,368167907,2002.0,fire_station,Sacramento Fire Station Number 8,-121.42773,38.56768
-52,368167909,2002.0,fire_station,Sacramento Fire Station Number 4,-121.46495,38.57102
-53,368167910,2002.0,fire_station,Sacramento Fire Station Number 57,-121.45384,38.48546
-54,368167911,2002.0,fire_station,Sacramento Fire Station Number 56,-121.46579,38.50991
-55,368167912,2002.0,fire_station,Sacramento Fire Station Number 19,-121.42745,38.59602
-56,368167914,2002.0,fire_station,Sacramento Fire Station Number 18,-121.47996,38.64713
-57,368167920,2002.0,fire_station,Sacramento Fire Station Number 2,-121.48895,38.58063
-58,368167925,2002.0,fire_station,Sacramento Fire Station Number 16,-121.47995,38.49074
-59,368167926,2002.0,fire_station,Sacramento Fire Station Number 17,-121.43551,38.64768
-60,368167927,2002.0,fire_station,Sacramento Fire Station Number 14,-121.48276,38.59105
-61,368167929,2002.0,fire_station,Sacramento Fire Station Number 12,-121.48357,38.5338
-62,368167930,2002.0,fire_station,Sacramento Fire Station Number 13,-121.51829,38.51657
-63,368167931,2002.0,fire_station,Sacramento Fire Station Number 10,-121.42579,38.5238
-64,368167932,2002.0,fire_station,Sacramento Fire Station Number 11,-121.53107,38.49796
-65,368167933,2002.0,fire_station,Sacramento Fire Department,-121.49884,38.52185
-66,368167934,2002.0,fire_station,Sacramento Fire Station Number 1,-121.50134,38.57352
-67,368167936,2002.0,fire_station,Sacramento Airport Fire Station,-121.59079,38.69963
-68,368167938,2002.0,fire_station,Hood Fire Station,-121.51301,38.36658
-69,368167939,2002.0,fire_station,Isleton City Fire Station,-121.61261,38.16144
-70,368167943,2002.0,fire_station,Herald Fire Station Number 87,-121.24078,38.2938
-71,368167944,2002.0,fire_station,Herald Fire Station Number 88,-121.16022,38.33464
-72,368167945,2002.0,fire_station,Galt Fire Station,-121.30884,38.25408
-73,368167946,2002.0,fire_station,Folsom Fire Station Number 36,-121.18411,38.69657
-74,368167947,2002.0,fire_station,Folsom Fire Station Number 38,-121.13661,38.67713
-75,368167949,2002.0,fire_station,Folsom Fire Station Number 35,-121.1655,38.66824
-76,368167950,2002.0,fire_station,Florin Fire Station,-121.33162,38.51046
-77,368167953,2002.0,fire_station,Elk Grove Fire Station Number 76,-121.38773,38.43852
-78,368167960,2002.0,fire_station,Elk Grove Fire Station Number 75,-121.48162,38.41547
-79,368167884,2002.0,fire_station,Sacramento Metro Fire Station Number 25,-121.33134,38.70101
-80,368167962,2002.0,fire_station,Elk Grove Fire Station Number 73,-121.33884,38.42435
-81,368168043,2002.0,fire_station,Sacramento Metro Fire Station Number 67,-121.30662,38.55907
-82,368167963,2002.0,fire_station,Elk Grove Fire Station Number 72,-121.45662,38.37713
-83,368167964,2002.0,fire_station,Elk Grove Fire Station Number 71,-121.37801,38.40852
-84,368168044,2002.0,fire_station,Sacramento Metro Fire Station Number 114,-121.39662,38.67324
-85,368167965,2002.0,fire_station,Courtland Fire Station Number 91,-121.57023,38.3288
-86,368168045,2002.0,fire_station,Sacramento Metro Fire Station Number 65,-121.26578,38.61907
-87,368168046,2002.0,fire_station,Sacramento Metro Fire Station Number 66,-121.27106,38.58741
-88,368168047,2002.0,fire_station,Sacramento Metro Fire Station Number 53,-121.42412,38.48713
-89,368168030,2002.0,fire_station,Wilton Fire Station Number 84,-121.22356,38.37019
-90,368168048,2002.0,fire_station,Sacramento Metro Fire Station Number 51,-121.40356,38.45963
-91,368168031,2002.0,fire_station,Wilton Fire Station,-121.25773,38.4013
-92,368168051,2002.0,fire_station,Sacramento Metro Fire Station Number 50,-121.37384,38.4813
-93,368168032,2002.0,fire_station,Walnut Grove Fire Station,-121.51356,38.24603
-94,368168052,2002.0,fire_station,Sacramento Metro Fire Station Number 46,-121.28927,38.27985
-95,368168053,2002.0,fire_station,Sacramento Metro Fire Station Number 59,-121.09939,38.49602
-96,368168033,2002.0,fire_station,Walnut Grove Fire Station,-121.51218,38.24158
-97,368168054,2002.0,fire_station,Sacramento Metro Fire Station Number 58,-121.21106,38.49463
-98,368168037,2002.0,fire_station,Wilton Fire Station Number 83,-121.18828,38.44269
-99,368168039,2002.0,fire_station,Sacramento Metro Fire Station Number 63,-121.21689,38.62907
-100,368168055,2002.0,fire_station,Sacramento Metro Fire Station Number 55,-121.29828,38.47546
-101,368168040,2002.0,fire_station,Sacramento Metro Fire Station Number 64,-121.35884,38.56352
-102,368168056,2002.0,fire_station,Sacramento Metro Fire Station Number 54,-121.3719,38.54574
-103,368168041,2002.0,fire_station,Sacramento Metro Fire Station Number 61,-121.29551,38.59324
-104,368168057,2002.0,fire_station,Sacramento Metro Fire Station Number 32,-121.22606,38.65657
-105,368168042,2002.0,fire_station,Sacramento Metro Fire Station Number 62,-121.33662,38.55546
-106,368168060,2002.0,fire_station,Sacramento Metro Fire Station Number 28,-121.25828,38.70074
-107,368168074,2002.0,fire_station,Sacramento Metro Fire Station Number 45,-121.30412,38.25325
-108,368168084,2002.0,fire_station,Sacramento Metro Fire Station Number 41,-121.37579,38.69268
-109,368170395,2007.0,library,California Division of Mines and Geology Library,-121.49412,38.57935
-110,368170396,2007.0,library,California Department of Pesticide Regulation Library,-121.49242,38.57459
-111,368170397,2007.0,library,California State Department of Transportation Law Library,-121.49324,38.57488
-112,368170399,2007.0,library,California State Department of Alcohol and Drug Programs Resource Center Library,-121.48412,38.57629
-113,368170359,2007.0,library,Rio Linda Neighborhood Library,-121.45123,38.69024
-114,368170400,2007.0,library,Rancho Cordova Community Library,-121.32926,38.57652
-115,368170401,2007.0,library,California Attory Generals Law Library,-121.48662,38.57741
-116,368170402,2007.0,library,California Air Resources Board Library,-121.48051,38.57463
-117,368170411,2007.0,library,E K McClatchy Neighborhood Library,-121.48301,38.56352
-118,368170412,2007.0,library,Carmichael Regional Library,-121.3344,38.61768
-119,368170421,2007.0,library,Sacramento Area Council of Governments Library,-121.47051,38.56296
-120,368170429,2007.0,library,Kaiser Permanente Medical Center Health Sciences Library,-121.39301,38.60213
-121,368170430,2007.0,library,California Taxpayers Association Library,-121.4913,38.58071
-122,368170431,2007.0,library,California State Resources Agency Library,-121.49662,38.57574
-123,368170432,2007.0,library,California Highway Patrol Headquarters Library,-121.48168,38.55647
-124,368170433,2007.0,library,California Water Resources Control Board Law Library,-121.49773,38.57296
-125,368170435,2007.0,library,California State Braille and Talking Book Library,-121.50634,38.56518
-126,368170437,2007.0,library,Architectural-Engineering Library California State Architect,-121.50496,38.57574
-127,368170438,2007.0,library,Del Paso Heights Neighborhood Library,-121.44551,38.63629
-128,368170439,2007.0,library,North Highlands - Antelope Library,-121.38245,38.70462
-129,368170813,2007.0,library,Valley Hi - North Laguna Library,-121.42829,38.47546
-130,368170440,2007.0,library,Sylvan Oaks Community Library,-121.30753,38.68669
-131,368170819,2007.0,library,Franklin Comminity Library,-121.43134,38.39213
-132,368170441,2007.0,library,Fair Oaks Community Library,-121.26273,38.66268
-133,368170821,2007.0,library,Orangevale Neighborhood Library,-121.22994,38.67778
-134,368170443,2007.0,library,McKinley Neighborhood Library,-121.46261,38.57714
-135,368170824,2007.0,library,Courtland Community Operated Neighborhood Library,-121.56662,38.33047
-136,368170444,2007.0,library,Animal Protection Institute of America Library,-121.47857,38.52518
-137,368170445,2007.0,library,Gordon D Schaber Law Library,-121.4719,38.54907
-138,368170447,2007.0,library,Arden-Dimick Community Library,-121.38329,38.58074
-139,368170448,2007.0,library,Colonial Heights Community Library,-121.44551,38.53241
-140,368170466,2007.0,library,Courtland Branch Library,-121.56912,38.3313
-141,368170469,2007.0,library,Galt Neighborhood Library,-121.29745,38.25103
-142,368171122,2099.0,public_building,Department of Motor Vehicles - Carmichael Office,-121.34328,38.62518
-143,368170474,2007.0,library,North Sacramento - Hagginwood Neighborhood Library,-121.45142,38.61011
-144,368170475,2007.0,library,Southgate Community Library,-121.43368,38.492
-145,368170479,2007.0,library,United States Department of the Interior Bureau of Reclamation Library,-121.39745,38.60213
-146,368170485,2007.0,library,Elk Grove Community Library,-121.37118,38.40875
-147,368171171,2001.0,police,Galt Police Station,-121.3055,38.2638
-148,368171172,2001.0,police,Folsom Police Station,-121.16272,38.6824
-149,368171174,2001.0,police,City of Sacramento Police Department Headquarters,-121.49912,38.52185
-150,368171175,2001.0,police,City of Sacramento Police - William J Kinney Police Facility,-121.42995,38.6324
-151,368171176,2001.0,police,Citrus Heights Police Station,-121.29856,38.68074
-152,368170486,2007.0,library,Iselton Neighborhood Library,-121.60863,38.1616
-153,368171177,2001.0,police,California Highway Patrol - South Sacramento Office,-121.42079,38.47519
-154,368171179,2001.0,police,California Highway Patrol - North Sacramento Office,-121.36023,38.65907
-155,368171311,2001.0,police,Sacramento County Sheriff - Garfield Station,-121.33523,38.66657
-156,368171180,2001.0,police,Sacramento County Sheriff - Florin Station,-121.43968,38.4988
-157,368171181,2001.0,police,Sacramento County Sheriff - Fair Oaks / Orangevale Service Center,-121.24273,38.6649
-158,368171183,2001.0,police,Sacramento County Sheriff - Brannan Island Service Center,-121.56745,38.10159
-159,368171185,2001.0,police,Rancho Cordova Police Station,-121.30606,38.57463
-160,368171186,2001.0,police,Joseph E City of Sacramento Police - Rooney Police Facility,-121.47162,38.52713
-161,368171187,2001.0,police,Isleton Police Station,-121.61273,38.16158
-162,368171202,2001.0,police,California Highway Patrol Headquarters,-121.47955,38.55629
-163,368171312,2001.0,police,Sacramento County Sheriff - Marconi Station,-121.40245,38.61768
-164,368171314,2001.0,police,Sacramento County Sheriff - Northwest Service Center,-121.38412,38.70351
-165,368171315,2001.0,police,Sacramento County Sheriff - Rosemont Service Center,-121.35828,38.54824
-166,368171316,2001.0,police,Sacramento County Sheriff - South Division Stationhouse,-121.35467,38.42297
-167,368171317,2001.0,police,Sacramento County Sheriff - Walnut Grove Service Center,-121.51245,38.24158
-168,368171318,2001.0,police,Sacramento County Sheriff - Wilton Safety Center,-121.258,38.4013
-169,368171709,2008.0,town_hall,Galt City Hall,-121.29578,38.25269
-170,368171738,2008.0,town_hall,Folsom City Hall,-121.16439,38.68185
-171,368172505,2008.0,town_hall,Isleton City Hall,-121.61269,38.16198
-172,1169008159,2007.0,library,North Natomas Library,-121.51802,38.65751
-173,1523975255,2007.0,library,,-121.31202,38.65433
-174,1752655297,2005.0,post_office,The UPS Store,-121.12383,38.65239
-175,2015394213,2002.0,fire_station,Fire Station 43,-121.54038,38.64479
-176,2045389385,2002.0,fire_station,Consumnes CSD Fire Station 72,-121.43747,38.39278
-177,2106325898,2002.0,fire_station,Sacramento City Fire Station 30,-121.5036,38.67113
-178,4356744574,2007.0,library,California State Board of Equalization Law Library,-121.50285,38.57739
-179,4571256143,2005.0,post_office,The UPS Store,-121.48629,38.56752
-180,4586526959,2002.0,fire_station,Sacramento Metro Fire District Station 110,-121.36418,38.59156
-181,4852814840,2005.0,post_office,United States Post Office,-121.49631,38.61194
-182,5072653323,2005.0,post_office,The UPS Store,-121.48896,38.54906
-183,5283464291,2005.0,post_office,United States Post Office,-121.50318,38.65154
-184,5309751260,2002.0,fire_station,Fire Station no.20,-121.44756,38.61336
-185,5317344850,2005.0,post_office,UPS Customer Center - UPS Cordova Building,-121.3254,38.55238
-186,5843422101,2005.0,post_office,United States Post Office,-121.41687,38.42645
-187,5854059487,2002.0,fire_station,Sacramento fire station #6,-121.46434,38.54431
-188,6056298710,2001.0,police,,-121.59089,38.69361
-189,6419894892,2005.0,post_office,The UPS Store,-121.49504,38.61196
-190,6434217905,2005.0,post_office,The UPS Store,-121.40265,38.45522
-191,7229119238,2005.0,post_office,FedEx,-121.42276,38.59856
-192,7958679022,2005.0,post_office,The UPS Store,-121.52243,38.65676
-193,8430924701,2005.0,post_office,The UPS Store,-121.43693,38.55731
+0,358836928,2005.0,post_office,Galt Post Office,-121.30189,38.26603
+1,358836969,2005.0,post_office,Wilton Post Office,-121.26967,38.40908
+2,358852320,2005.0,post_office,Herald Post Office,-121.24189,38.29408
+3,358852411,2005.0,post_office,Perkins Post Office,-121.34328,38.54463
+4,358852462,2005.0,post_office,Sloughhouse - Rancho Murieta Post Office,-121.10022,38.49408
+5,368167943,2002.0,fire_station,Herald Fire Station Number 87,-121.24078,38.2938
+6,368167944,2002.0,fire_station,Herald Fire Station Number 88,-121.16022,38.33464
+7,368167945,2002.0,fire_station,Galt Fire Station,-121.30884,38.25408
+8,368167950,2002.0,fire_station,Florin Fire Station,-121.33162,38.51046
+9,368167962,2002.0,fire_station,Elk Grove Fire Station Number 73,-121.33884,38.42435
+10,368168030,2002.0,fire_station,Wilton Fire Station Number 84,-121.22356,38.37019
+11,368168031,2002.0,fire_station,Wilton Fire Station,-121.25773,38.4013
+12,368168037,2002.0,fire_station,Wilton Fire Station Number 83,-121.18828,38.44269
+13,368168042,2002.0,fire_station,Sacramento Metro Fire Station Number 62,-121.33662,38.55546
+14,368168052,2002.0,fire_station,Sacramento Metro Fire Station Number 46,-121.28927,38.27985
+15,368168053,2002.0,fire_station,Sacramento Metro Fire Station Number 59,-121.09939,38.49602
+16,368168054,2002.0,fire_station,Sacramento Metro Fire Station Number 58,-121.21106,38.49463
+17,368168055,2002.0,fire_station,Sacramento Metro Fire Station Number 55,-121.29828,38.47546
+18,368168074,2002.0,fire_station,Sacramento Metro Fire Station Number 45,-121.30412,38.25325
+19,368170469,2007.0,library,Galt Neighborhood Library,-121.29745,38.25103
+20,368171171,2001.0,police,Galt Police Station,-121.3055,38.2638
+21,368171316,2001.0,police,Sacramento County Sheriff - South Division Stationhouse,-121.35467,38.42297
+22,368171318,2001.0,police,Sacramento County Sheriff - Wilton Safety Center,-121.258,38.4013
+23,368171709,2008.0,town_hall,Galt City Hall,-121.29578,38.25269
+24,5317344850,2005.0,post_office,UPS Customer Center - UPS Cordova Building,-121.3254,38.55238
+25,358815832,2005.0,post_office,Rio Linda Post Office,-121.44829,38.69129
+26,358835687,2005.0,post_office,Elverta Post Office,-121.46551,38.7149
+27,368167887,2002.0,fire_station,Sacramento Metro Fire Station Number 117,-121.4194,38.71407
+28,368167892,2002.0,fire_station,Sacramento Metro Fire Station Number 111,-121.44968,38.69046
+29,368167895,2002.0,fire_station,Sacramento Metro Fire Station Number 116,-121.4669,38.71435
+30,368167936,2002.0,fire_station,Sacramento Airport Fire Station,-121.59079,38.69963
+31,368170359,2007.0,library,Rio Linda Neighborhood Library,-121.45123,38.69024
+32,6056298710,2001.0,police,,-121.59089,38.69361
+33,368167947,2002.0,fire_station,Folsom Fire Station Number 38,-121.13661,38.67713
+34,1752655297,2005.0,post_office,The UPS Store,-121.12383,38.65239
+35,358852249,2005.0,post_office,Camellia Post Office,-121.44412,38.56685
+36,368167906,2002.0,fire_station,Sacramento Metro Fire Department,-121.41745,38.58935
+37,368167907,2002.0,fire_station,Sacramento Fire Station Number 8,-121.42773,38.56768
+38,8430924701,2005.0,post_office,The UPS Store,-121.43693,38.55731
+39,358852270,2005.0,post_office,Courtland Post Office,-121.5694,38.33158
+40,358852325,2005.0,post_office,Hood Post Office,-121.51912,38.3688
+41,358852487,2005.0,post_office,Walnut Grove Post Office,-121.5144,38.2413
+42,368167938,2002.0,fire_station,Hood Fire Station,-121.51301,38.36658
+43,368167963,2002.0,fire_station,Elk Grove Fire Station Number 72,-121.45662,38.37713
+44,368167965,2002.0,fire_station,Courtland Fire Station Number 91,-121.57023,38.3288
+45,368168032,2002.0,fire_station,Walnut Grove Fire Station,-121.51356,38.24603
+46,368168033,2002.0,fire_station,Walnut Grove Fire Station,-121.51218,38.24158
+47,368170466,2007.0,library,Courtland Branch Library,-121.56912,38.3313
+48,368170824,2007.0,library,Courtland Community Operated Neighborhood Library,-121.56662,38.33047
+49,368171317,2001.0,police,Sacramento County Sheriff - Walnut Grove Service Center,-121.51245,38.24158
+50,358835730,2005.0,post_office,North Highlands Post Office,-121.38355,38.68454
+51,368167893,2002.0,fire_station,Sacramento Metro Fire Station Number 112,-121.38773,38.69074
+52,368168044,2002.0,fire_station,Sacramento Metro Fire Station Number 114,-121.39662,38.67324
+53,368168084,2002.0,fire_station,Sacramento Metro Fire Station Number 41,-121.37579,38.69268
+54,368170439,2007.0,library,North Highlands - Antelope Library,-121.38245,38.70462
+55,368171179,2001.0,police,California Highway Patrol - North Sacramento Office,-121.36023,38.65907
+56,368171314,2001.0,police,Sacramento County Sheriff - Northwest Service Center,-121.38412,38.70351
+57,358852264,2005.0,post_office,Colonial Post Office,-121.45607,38.51685
+58,358852405,2005.0,post_office,Oak Park Post Office,-121.46884,38.54991
+59,368167911,2002.0,fire_station,Sacramento Fire Station Number 56,-121.46579,38.50991
+60,368167929,2002.0,fire_station,Sacramento Fire Station Number 12,-121.48357,38.5338
+61,368167933,2002.0,fire_station,Sacramento Fire Department,-121.49884,38.52185
+62,368170432,2007.0,library,California Highway Patrol Headquarters Library,-121.48168,38.55647
+63,368170444,2007.0,library,Animal Protection Institute of America Library,-121.47857,38.52518
+64,368170445,2007.0,library,Gordon D Schaber Law Library,-121.4719,38.54907
+65,368170448,2007.0,library,Colonial Heights Community Library,-121.44551,38.53241
+66,368171174,2001.0,police,City of Sacramento Police Department Headquarters,-121.49912,38.52185
+67,368171186,2001.0,police,Joseph E City of Sacramento Police - Rooney Police Facility,-121.47162,38.52713
+68,368171202,2001.0,police,California Highway Patrol Headquarters,-121.47955,38.55629
+69,5072653323,2005.0,post_office,The UPS Store,-121.48896,38.54906
+70,5854059487,2002.0,fire_station,Sacramento fire station #6,-121.46434,38.54431
+71,358852273,2005.0,post_office,Del Paso Heights Post Office,-121.43023,38.6374
+72,358852432,2005.0,post_office,Sacramento Main Post Office,-121.44829,38.60324
+73,368167912,2002.0,fire_station,Sacramento Fire Station Number 19,-121.42745,38.59602
+74,368167914,2002.0,fire_station,Sacramento Fire Station Number 18,-121.47996,38.64713
+75,368167926,2002.0,fire_station,Sacramento Fire Station Number 17,-121.43551,38.64768
+76,368170438,2007.0,library,Del Paso Heights Neighborhood Library,-121.44551,38.63629
+77,368170474,2007.0,library,North Sacramento - Hagginwood Neighborhood Library,-121.45142,38.61011
+78,368171175,2001.0,police,City of Sacramento Police - William J Kinney Police Facility,-121.42995,38.6324
+79,5309751260,2002.0,fire_station,Fire Station no.20,-121.44756,38.61336
+80,7229119238,2005.0,post_office,FedEx,-121.42276,38.59856
+81,358852408,2005.0,post_office,Parkway Post Office,-121.45412,38.48296
+82,368167910,2002.0,fire_station,Sacramento Fire Station Number 57,-121.45384,38.48546
+83,368167925,2002.0,fire_station,Sacramento Fire Station Number 16,-121.47995,38.49074
+84,358836934,2005.0,post_office,Isleton Post Office,-121.60978,38.16193
+85,368167939,2002.0,fire_station,Isleton City Fire Station,-121.61261,38.16144
+86,368170486,2007.0,library,Iselton Neighborhood Library,-121.60863,38.1616
+87,368171183,2001.0,police,Sacramento County Sheriff - Brannan Island Service Center,-121.56745,38.10159
+88,368171187,2001.0,police,Isleton Police Station,-121.61273,38.16158
+89,368172505,2008.0,town_hall,Isleton City Hall,-121.61269,38.16198
+90,368167953,2002.0,fire_station,Elk Grove Fire Station Number 76,-121.38773,38.43852
+91,368167964,2002.0,fire_station,Elk Grove Fire Station Number 71,-121.37801,38.40852
+92,368170485,2007.0,library,Elk Grove Community Library,-121.37118,38.40875
+93,368170819,2007.0,library,Franklin Comminity Library,-121.43134,38.39213
+94,2045389385,2002.0,fire_station,Consumnes CSD Fire Station 72,-121.43747,38.39278
+95,5843422101,2005.0,post_office,United States Post Office,-121.41687,38.42645
+96,2106325898,2002.0,fire_station,Sacramento City Fire Station 30,-121.5036,38.67113
+97,4852814840,2005.0,post_office,United States Post Office,-121.49631,38.61194
+98,5283464291,2005.0,post_office,United States Post Office,-121.50318,38.65154
+99,6419894892,2005.0,post_office,The UPS Store,-121.49504,38.61196
+100,1169008159,2007.0,library,North Natomas Library,-121.51802,38.65751
+101,2015394213,2002.0,fire_station,Fire Station 43,-121.54038,38.64479
+102,7958679022,2005.0,post_office,The UPS Store,-121.52243,38.65676
+103,358852300,2005.0,post_office,Florin Post Office,-121.37356,38.49435
+104,368167904,2002.0,fire_station,Sacramento Fire Station Number 7,-121.4269,38.46824
+105,368168047,2002.0,fire_station,Sacramento Metro Fire Station Number 53,-121.42412,38.48713
+106,368168048,2002.0,fire_station,Sacramento Metro Fire Station Number 51,-121.40356,38.45963
+107,368168051,2002.0,fire_station,Sacramento Metro Fire Station Number 50,-121.37384,38.4813
+108,368170475,2007.0,library,Southgate Community Library,-121.43368,38.492
+109,368170813,2007.0,library,Valley Hi - North Laguna Library,-121.42829,38.47546
+110,368171177,2001.0,police,California Highway Patrol - South Sacramento Office,-121.42079,38.47519
+111,368171180,2001.0,police,Sacramento County Sheriff - Florin Station,-121.43968,38.4988
+112,6434217905,2005.0,post_office,The UPS Store,-121.40265,38.45522
+113,368168060,2002.0,fire_station,Sacramento Metro Fire Station Number 28,-121.25828,38.70074
+114,368170441,2007.0,library,Fair Oaks Community Library,-121.26273,38.66268
+115,358852304,2005.0,post_office,Foothill Farms Post Office,-121.34384,38.66463
+116,368167881,2002.0,fire_station,Sacramento Metro Fire Station Number 24,-121.34995,38.65518
+117,368167884,2002.0,fire_station,Sacramento Metro Fire Station Number 25,-121.33134,38.70101
+118,368167886,2002.0,fire_station,Sacramento Metro Fire Station Number 27,-121.29217,38.71046
+119,368167888,2002.0,fire_station,Sacramento Metro Fire Station Number 21,-121.28356,38.67851
+120,368167898,2002.0,fire_station,Sacramento Metro Fire Station Number 108,-121.30801,38.64935
+121,368170440,2007.0,library,Sylvan Oaks Community Library,-121.30753,38.68669
+122,368171176,2001.0,police,Citrus Heights Police Station,-121.29856,38.68074
+123,368171311,2001.0,police,Sacramento County Sheriff - Garfield Station,-121.33523,38.66657
+124,1523975255,2007.0,library,,-121.31202,38.65433
+125,358815715,2005.0,post_office,Folsom Post Office,-121.16603,38.67155
+126,358815827,2005.0,post_office,Repressa Post Office,-121.16167,38.69196
+127,368167946,2002.0,fire_station,Folsom Fire Station Number 36,-121.18411,38.69657
+128,368167949,2002.0,fire_station,Folsom Fire Station Number 35,-121.1655,38.66824
+129,368171172,2001.0,police,Folsom Police Station,-121.16272,38.6824
+130,368171738,2008.0,town_hall,Folsom City Hall,-121.16439,38.68185
+131,358815804,2005.0,post_office,Orangevale Post Office,-121.22616,38.67984
+132,368167889,2002.0,fire_station,Sacramento Metro Fire Station Number 22,-121.21106,38.6799
+133,368168057,2002.0,fire_station,Sacramento Metro Fire Station Number 32,-121.22606,38.65657
+134,368170821,2007.0,library,Orangevale Neighborhood Library,-121.22994,38.67778
+135,368171181,2001.0,police,Sacramento County Sheriff - Fair Oaks / Orangevale Service Center,-121.24273,38.6649
+136,358852419,2005.0,post_office,Rancho Cordova Post Office,-121.28078,38.59935
+137,368167897,2002.0,fire_station,Sacramento Metro Fire Station Number 107,-121.37467,38.58213
+138,368167899,2002.0,fire_station,Sacramento Metro Fire Station Number 109,-121.33328,38.62074
+139,368167900,2002.0,fire_station,Sacramento Metro Fire Station Number 102,-121.3594,38.61796
+140,368168039,2002.0,fire_station,Sacramento Metro Fire Station Number 63,-121.21689,38.62907
+141,368168040,2002.0,fire_station,Sacramento Metro Fire Station Number 64,-121.35884,38.56352
+142,368168041,2002.0,fire_station,Sacramento Metro Fire Station Number 61,-121.29551,38.59324
+143,368168043,2002.0,fire_station,Sacramento Metro Fire Station Number 67,-121.30662,38.55907
+144,368168045,2002.0,fire_station,Sacramento Metro Fire Station Number 65,-121.26578,38.61907
+145,368168046,2002.0,fire_station,Sacramento Metro Fire Station Number 66,-121.27106,38.58741
+146,368170400,2007.0,library,Rancho Cordova Community Library,-121.32926,38.57652
+147,368170412,2007.0,library,Carmichael Regional Library,-121.3344,38.61768
+148,368171122,2099.0,public_building,Department of Motor Vehicles - Carmichael Office,-121.34328,38.62518
+149,368171185,2001.0,police,Rancho Cordova Police Station,-121.30606,38.57463
+150,4586526959,2002.0,fire_station,Sacramento Metro Fire District Station 110,-121.36418,38.59156
+151,358852233,2005.0,post_office,Arden Post Office,-121.39773,38.59657
+152,358852267,2005.0,post_office,Country Club Centre Post Office,-121.38134,38.61157
+153,358852476,2005.0,post_office,Town and Country Post Office,-121.40301,38.61963
+154,368167896,2002.0,fire_station,Sacramento Metro Fire Station Number 106,-121.38495,38.60657
+155,368167901,2002.0,fire_station,Sacramento Metro Fire Station Number 101,-121.40106,38.6199
+156,368167902,2002.0,fire_station,Sacramento Metro Fire Station Number 105,-121.3994,38.58185
+157,368167903,2002.0,fire_station,Sacramento Metro Fire Station Number 103,-121.38245,38.63518
+158,368170429,2007.0,library,Kaiser Permanente Medical Center Health Sciences Library,-121.39301,38.60213
+159,368170447,2007.0,library,Arden-Dimick Community Library,-121.38329,38.58074
+160,368170479,2007.0,library,United States Department of the Interior Bureau of Reclamation Library,-121.39745,38.60213
+161,368171312,2001.0,police,Sacramento County Sheriff - Marconi Station,-121.40245,38.61768
+162,368167521,2009.0,courthouse,W R Ridgeway Family Relations Courthouse,-121.40745,38.54268
+163,368167522,2009.0,courthouse,Carol Miller Justice Center,-121.40676,38.55051
+164,368167905,2002.0,fire_station,Sacramento Fire Station Number 60,-121.39273,38.5488
+165,368167931,2002.0,fire_station,Sacramento Fire Station Number 10,-121.42579,38.5238
+166,368168056,2002.0,fire_station,Sacramento Metro Fire Station Number 54,-121.3719,38.54574
+167,368171315,2001.0,police,Sacramento County Sheriff - Rosemont Service Center,-121.35828,38.54824
+168,368167934,2002.0,fire_station,Sacramento Fire Station Number 1,-121.50134,38.57352
+169,368170435,2007.0,library,California State Braille and Talking Book Library,-121.50634,38.56518
+170,368170437,2007.0,library,Architectural-Engineering Library California State Architect,-121.50496,38.57574
+171,4356744574,2007.0,library,California State Board of Equalization Law Library,-121.50285,38.57739
+172,358852341,2005.0,post_office,Land Park Post Office,-121.51384,38.51935
+173,368167930,2002.0,fire_station,Sacramento Fire Station Number 13,-121.51829,38.51657
+174,368167932,2002.0,fire_station,Sacramento Fire Station Number 11,-121.53107,38.49796
+175,358852307,2005.0,post_office,Fort Sutter Post Office,-121.46912,38.56574
+176,368167909,2002.0,fire_station,Sacramento Fire Station Number 4,-121.46495,38.57102
+177,368170421,2007.0,library,Sacramento Area Council of Governments Library,-121.47051,38.56296
+178,368170443,2007.0,library,McKinley Neighborhood Library,-121.46261,38.57714
+179,358852243,2005.0,post_office,Broadway Post Office,-121.48468,38.55991
+180,368167920,2002.0,fire_station,Sacramento Fire Station Number 2,-121.48895,38.58063
+181,368167927,2002.0,fire_station,Sacramento Fire Station Number 14,-121.48276,38.59105
+182,368170395,2007.0,library,California Division of Mines and Geology Library,-121.49412,38.57935
+183,368170396,2007.0,library,California Department of Pesticide Regulation Library,-121.49242,38.57459
+184,368170397,2007.0,library,California State Department of Transportation Law Library,-121.49324,38.57488
+185,368170399,2007.0,library,California State Department of Alcohol and Drug Programs Resource Center Library,-121.48412,38.57629
+186,368170401,2007.0,library,California Attory Generals Law Library,-121.48662,38.57741
+187,368170402,2007.0,library,California Air Resources Board Library,-121.48051,38.57463
+188,368170411,2007.0,library,E K McClatchy Neighborhood Library,-121.48301,38.56352
+189,368170430,2007.0,library,California Taxpayers Association Library,-121.4913,38.58071
+190,368170431,2007.0,library,California State Resources Agency Library,-121.49662,38.57574
+191,368170433,2007.0,library,California Water Resources Control Board Law Library,-121.49773,38.57296
+192,4571256143,2005.0,post_office,The UPS Store,-121.48629,38.56752
+193,368167960,2002.0,fire_station,Elk Grove Fire Station Number 75,-121.48162,38.41547

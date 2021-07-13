@@ -12,7 +12,7 @@
 const PARTICIPATING_COUNTIES = [
     //SSS// We have 3 classes for CA: lite for the 4 VBM counties, fullmodel for polling places, and fullmodel for vote centers
     { countyfp: "001", name: "Alameda", profile: 'inprogress', },
-    { countyfp: "003", name: "Alpine", profile: 'lite', },
+    { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "005", name: "Amador", profile: 'fullmodel', },
     { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing vote location suggestions for this county.", },
     { countyfp: "009", name: "Calaveras", profile: 'fullmodel', },
@@ -28,13 +28,13 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "029", name: "Kern", profile: 'inprogress', },
     { countyfp: "031", name: "Kings", profile: 'fullmodel', },
     { countyfp: "033", name: "Lake", profile: 'fullmodel', },
-    { countyfp: "035", name: "Lassen", profile: 'fullmodel', outoforder:"Vote-by-mail data update in progress." },
+    { countyfp: "035", name: "Lassen", profile: 'fullmodel', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%." },
     { countyfp: "037", name: "Los Angeles", profile: 'inprogress', },
     { countyfp: "039", name: "Madera", profile: 'fullmodel', },
     { countyfp: "041", name: "Marin", profile: 'fullmodel', },
     { countyfp: "043", name: "Mariposa", profile: 'fullmodel', },
     { countyfp: "045", name: "Mendocino", profile: 'fullmodel', },
-    { countyfp: "047", name: "Merced", profile: 'fullmodel', },
+    { countyfp: "047", name: "Merced", profile: 'fullmodel', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%."},
     { countyfp: "049", name: "Modoc", profile: 'fullmodel', },
     { countyfp: "051", name: "Mono", profile: 'fullmodel', },
     { countyfp: "053", name: "Monterey", profile: 'fullmodel', },
@@ -42,7 +42,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "057", name: "Nevada", profile: 'fullmodel', },
     { countyfp: "059", name: "Orange", profile: 'inprogress', },
     { countyfp: "061", name: "Placer", profile: 'fullmodel', },
-    { countyfp: "063", name: "Plumas", profile: 'lite', },
+    { countyfp: "063", name: "Plumas", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "065", name: "Riverside", profile: 'inprogress', },
     { countyfp: "067", name: "Sacramento", profile: 'fullmodel', },
     { countyfp: "069", name: "San Benito", profile: 'fullmodel', },
@@ -56,14 +56,14 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "085", name: "Santa Clara", profile: 'inprogress', },
     { countyfp: "087", name: "Santa Cruz", profile: 'fullmodel', },
     { countyfp: "089", name: "Shasta", profile: 'fullmodel', },
-    { countyfp: "091", name: "Sierra", profile: 'inprogress', },
+    { countyfp: "091", name: "Sierra", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "093", name: "Siskiyou", profile: 'fullmodel', },
     { countyfp: "095", name: "Solano", profile: 'fullmodel', },
     { countyfp: "097", name: "Sonoma", profile: 'fullmodel', },
-    { countyfp: "099", name: "Stanislaus", profile: 'fullmodel', },
-    { countyfp: "101", name: "Sutter", profile: 'fullmodel', },
+    { countyfp: "099", name: "Stanislaus", profile: 'fullmodel',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%."},
+    { countyfp: "101", name: "Sutter", profile: 'fullmodel',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%."},
     { countyfp: "103", name: "Tehama", profile: 'fullmodel', },
-    { countyfp: "105", name: "Trinity", profile: 'fullmodel', },
+    { countyfp: "105", name: "Trinity", profile: 'fullmodel',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%."},
     { countyfp: "107", name: "Tulare", profile: 'fullmodel', },
     { countyfp: "109", name: "Tuolumne", profile: 'fullmodel', },
     { countyfp: "111", name: "Ventura", profile: 'fullmodel', },
@@ -118,6 +118,7 @@ const BOUNDSTYLE_DEFAULT = { fillColor: 'white', weight: 1, opacity: 0.5, color:
 const BOUNDSTYLE_PARTICIPATING = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
 const BOUNDSTYLE_FULL = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
 const BOUNDSTYLE_LITE = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.33 };
+const BOUNDSTYLE_INPROGRESS = { fillColor: '#DDDDDD', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
 const BOUNDSTYLE_MOUSEOVER = { weight: 5, color: 'black', fillOpacity: 0.15 };
 
 // in county.html to view a single county, the style to use for county boundary

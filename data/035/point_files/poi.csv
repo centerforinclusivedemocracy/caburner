@@ -1,12 +1,9 @@
 osm_id,code,fclass,name,lon,lat
-358765935,2082.0,school,Fletcher Walker Elementary School,-121.00329,40.30767
 358762819,2082.0,school,Butte School,-120.29244,40.91906
-358799415,2082.0,school,Richmond Elementary School,-120.63912,40.37184
 358773627,2082.0,school,Riverside School,-120.52967,40.37545
 358775841,2082.0,school,Lake School,-120.47661,40.27073
-358795362,2082.0,school,Big Valley High School,-121.13955,41.12174
-358795364,2082.0,school,Big Valley Intermediate School,-121.14063,41.1229
 358796890,2082.0,school,Bird Flat School,-120.20938,40.1074
+358799415,2082.0,school,Richmond Elementary School,-120.63912,40.37184
 358819927,2082.0,school,Credence High School,-120.66495,40.41851
 358819929,2082.0,school,Diamond View School,-120.66217,40.40656
 358819948,2082.0,school,Herlong High School,-120.14382,40.13935
@@ -20,21 +17,24 @@ osm_id,code,fclass,name,lon,lat
 358820046,2082.0,school,Shaffer Elementary School,-120.38244,40.38268
 358820051,2082.0,school,Sierra Primary School,-120.13521,40.14101
 358820065,2082.0,school,Washington School,-120.6594,40.41656
-358820070,2082.0,school,Westwood High School,-121.00913,40.30378
 4340976510,2402.0,motel,Motel 9,-120.65676,40.41766
 5860137434,2303.0,cafe,Revivalution Coffee House,-120.64122,40.41351
 5860137438,2303.0,cafe,Joe's,-120.64174,40.41358
 5860257607,2303.0,cafe,Starbucks,-120.63416,40.40565
-6486896440,2082.0,school,Big Valley Preschool,-121.14065,41.12324
+358795362,2082.0,school,Big Valley High School,-121.13955,41.12174
+358795364,2082.0,school,Big Valley Intermediate School,-121.14063,41.1229
 6385788255,2501.0,supermarket,Big Valley Market,-121.14388,41.12118
-368167449,2009.0,courthouse,Lassen County Courthouse,-120.66328,40.41601
-358819903,2005.0,post_office,Bieber Post Office,-121.14335,41.1212
-358820009,2005.0,post_office,Nubieber Post Office,-121.18017,41.09715
+6486896440,2082.0,school,Big Valley Preschool,-121.14065,41.12324
+358765935,2082.0,school,Fletcher Walker Elementary School,-121.00329,40.30767
+358820070,2082.0,school,Westwood High School,-121.00913,40.30378
 358820062,2005.0,post_office,Susanville Post Office,-120.66121,40.41933
 358820068,2005.0,post_office,Wendel Post Office,-120.23208,40.34773
-358820073,2005.0,post_office,Westwood Post Office,-121.00079,40.30294
+368167449,2009.0,courthouse,Lassen County Courthouse,-120.66328,40.41601
 368169032,2007.0,library,Lassen County Free Library,-120.66356,40.41656
 368171494,2008.0,town_hall,Susanville City Hall,-120.66162,40.41962
 5860137479,2001.0,police,Susanville Police Department,-120.64696,40.41527
 5860137484,2007.0,library,Lassen Library District,-120.64941,40.41475
 8336552962,2005.0,post_office,One Stop Office,-120.63752,40.41251
+358819903,2005.0,post_office,Bieber Post Office,-121.14335,41.1212
+358820009,2005.0,post_office,Nubieber Post Office,-121.18017,41.09715
+358820073,2005.0,post_office,Westwood Post Office,-121.00079,40.30294

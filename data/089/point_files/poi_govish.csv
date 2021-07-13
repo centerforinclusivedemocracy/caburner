@@ -1,32 +1,32 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358802563,2005.0,post_office,Castle Post Office,-121.55284,40.91909
-1,358809009,2005.0,post_office,Montgomery Creek Post Office,-121.92472,40.84154
-2,358809585,2005.0,post_office,Hat Creek Post Office,-121.50581,40.79099
-3,368169056,2007.0,library,Anderson Branch Shasta County Library,-122.30372,40.45147
-4,358818599,2005.0,post_office,Shasta Post Office,-122.48835,40.59654
-5,358818707,2005.0,post_office,Fall River Mills Post Office,-121.4372,41.006
-6,368171344,2008.0,town_hall,Anderson City Hall,-122.30033,40.44783
-7,1672768457,2002.0,fire_station,McArthur Vol. Fire Department (Station 16),-121.40286,41.05005
-8,1704594093,2002.0,fire_station,Anderson Fire Department,-122.2998,40.4483
-9,1704594125,2001.0,police,Anderson Police Department,-122.29873,40.45315
-10,1708102193,2005.0,post_office,Anderson US Post Office,-122.29801,40.45126
-11,1708109841,2008.0,town_hall,Anderson Chamber of Commerce,-122.29629,40.45466
+0,1709526690,2008.0,town_hall,CALWORKS,-122.38218,40.55076
+1,1709526909,2008.0,town_hall,Food Stamps,-122.38223,40.55049
+2,1710171425,2008.0,town_hall,Restoration Enterprises,-122.38903,40.56419
+3,8698415211,2002.0,fire_station,Cal Fire Station #57,-122.62919,40.46104
+4,1709528335,2008.0,town_hall,Shasta Senior Nutrition Programs,-122.32949,40.61691
+5,8082878994,2002.0,fire_station,Cal Fire Redding Fire Station,-122.29969,40.51979
+6,358818599,2005.0,post_office,Shasta Post Office,-122.48835,40.59654
+7,358809009,2005.0,post_office,Montgomery Creek Post Office,-121.92472,40.84154
+8,368169056,2007.0,library,Anderson Branch Shasta County Library,-122.30372,40.45147
+9,368171344,2008.0,town_hall,Anderson City Hall,-122.30033,40.44783
+10,1704594093,2002.0,fire_station,Anderson Fire Department,-122.2998,40.4483
+11,1704594125,2001.0,police,Anderson Police Department,-122.29873,40.45315
 12,1707851693,2008.0,town_hall,Parks & Recs Center,-122.30019,40.44772
-13,1709526690,2008.0,town_hall,CALWORKS,-122.38218,40.55076
-14,1709526909,2008.0,town_hall,Food Stamps,-122.38223,40.55049
-15,1709528335,2008.0,town_hall,Shasta Senior Nutrition Programs,-122.32949,40.61691
-16,1710158309,2008.0,town_hall,Independent Living Services,-122.39078,40.58313
-17,1710171425,2008.0,town_hall,Restoration Enterprises,-122.38903,40.56419
-18,2589527309,2002.0,fire_station,,-122.34769,40.61166
-19,2919629501,2002.0,fire_station,Redding Fire Department,-122.29927,40.50955
-20,4270403925,2005.0,post_office,United States Post Office,-122.8935,40.35971
-21,4972531934,2001.0,police,Highway Patrol,-121.65688,40.88612
-22,5106546088,2005.0,post_office,Shingtown Post Office,-121.88877,40.49256
-23,5106546090,2007.0,library,Shingletown Free Library,-121.88676,40.49227
-24,5114000642,2002.0,fire_station,Shasta Lake Fire District,-122.40235,40.68888
-25,5409543180,2005.0,post_office,Mail Biz,-122.38015,40.6117
-26,5441924612,2005.0,post_office,Wrap N Pack,-122.35751,40.57521
-27,6994373881,2005.0,post_office,The UPS Store,-122.35792,40.59127
-28,7262587465,2005.0,post_office,Mailbiz,-122.41528,40.57418
-29,8082878994,2002.0,fire_station,Cal Fire Redding Fire Station,-122.29969,40.51979
-30,8698415211,2002.0,fire_station,Cal Fire Station #57,-122.62919,40.46104
+13,1708102193,2005.0,post_office,Anderson US Post Office,-122.29801,40.45126
+14,1708109841,2008.0,town_hall,Anderson Chamber of Commerce,-122.29629,40.45466
+15,2919629501,2002.0,fire_station,Redding Fire Department,-122.29927,40.50955
+16,5106546088,2005.0,post_office,Shingtown Post Office,-121.88877,40.49256
+17,5106546090,2007.0,library,Shingletown Free Library,-121.88676,40.49227
+18,358802563,2005.0,post_office,Castle Post Office,-121.55284,40.91909
+19,358809585,2005.0,post_office,Hat Creek Post Office,-121.50581,40.79099
+20,358818707,2005.0,post_office,Fall River Mills Post Office,-121.4372,41.006
+21,1672768457,2002.0,fire_station,McArthur Vol. Fire Department (Station 16),-121.40286,41.05005
+22,4972531934,2001.0,police,Highway Patrol,-121.65688,40.88612
+23,5409543180,2005.0,post_office,Mail Biz,-122.38015,40.6117
+24,1710158309,2008.0,town_hall,Independent Living Services,-122.39078,40.58313
+25,7262587465,2005.0,post_office,Mailbiz,-122.41528,40.57418
+26,4270403925,2005.0,post_office,United States Post Office,-122.8935,40.35971
+27,5114000642,2002.0,fire_station,Shasta Lake Fire District,-122.40235,40.68888
+28,2589527309,2002.0,fire_station,,-122.34769,40.61166
+29,5441924612,2005.0,post_office,Wrap N Pack,-122.35751,40.57521
+30,6994373881,2005.0,post_office,The UPS Store,-122.35792,40.59127

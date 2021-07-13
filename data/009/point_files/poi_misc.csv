@@ -1,34 +1,34 @@
 osm_id,code,fclass,name,lon,lat
-358775536,2082.0,school,Bret Harte Union High School,-120.55287,38.07941
-358766308,2082.0,school,Fricot Ranch School,-120.53688,38.17343
-358775895,2082.0,school,Mark Twain Elementary School,-120.55131,38.0752
-358817654,2082.0,school,Hazel Fischer Elementary School,-120.34297,38.26436
+4216515113,2303.0,cafe,Gold County Roasters,-120.45987,38.13682
+4216516485,2303.0,cafe,Bristol's Ranch House Cafe,-120.34943,38.25584
+4216517007,2501.0,supermarket,Sierra Hills Market,-120.45709,38.13789
+4216518111,2303.0,cafe,Coop's Coffee House,-120.36921,38.2052
+4543685558,2501.0,supermarket,Big Trees Market,-120.36392,38.23972
+5592637518,2082.0,school,Avery Middle School,-120.36475,38.20391
 358832944,2082.0,school,San Andreas Elementary School,-120.67766,38.19889
 358832947,2082.0,school,Valley Springs Elementary School,-120.83299,38.19075
 358832954,2082.0,school,Albert A Michelson Elementary School,-120.4527,38.13298
 358832959,2082.0,school,California Conservaton Corps Academy,-120.45825,38.14159
 358832975,2082.0,school,Vallecito Union Elementary School,-120.4577,38.13575
-358832976,2082.0,school,Altaville Grammar School,-120.56187,38.08298
-358832900,2082.0,school,Mokelumne Hill Elementary School,-120.69836,38.29909
-358832909,2082.0,school,Rail Road Flat Elementary School,-120.51631,38.33741
-358832915,2082.0,school,West Point Alternative School,-120.52854,38.40213
 358833025,2082.0,school,Vallecito High School,-120.47575,38.08548
-358832917,2082.0,school,West Point Elementary School,-120.52659,38.39908
-358833033,2082.0,school,Copperopolis Elementary School,-120.64132,37.98187
 368167480,2014.0,arts_centre,Metropolitan Cultural Center,-120.68076,38.19742
 990550930,2501.0,supermarket,Food Mart,-120.56582,38.08605
+4216517008,2501.0,supermarket,Sierra Hills Natural Foods,-120.45742,38.13822
+358766308,2082.0,school,Fricot Ranch School,-120.53688,38.17343
+358775536,2082.0,school,Bret Harte Union High School,-120.55287,38.07941
+358775895,2082.0,school,Mark Twain Elementary School,-120.55131,38.0752
+358832915,2082.0,school,West Point Alternative School,-120.52854,38.40213
+358832976,2082.0,school,Altaville Grammar School,-120.56187,38.08298
+358833033,2082.0,school,Copperopolis Elementary School,-120.64132,37.98187
 1904630537,2501.0,supermarket,Sender's Market,-120.54085,38.22848
 2795626710,2501.0,supermarket,Save Mart,-120.55566,38.07866
-4216515113,2303.0,cafe,Gold County Roasters,-120.45987,38.13682
-4216516485,2303.0,cafe,Bristol's Ranch House Cafe,-120.34943,38.25584
-4216516488,2402.0,motel,Bear's Lair,-120.34676,38.25698
-4216517007,2501.0,supermarket,Sierra Hills Market,-120.45709,38.13789
-4216517008,2501.0,supermarket,Sierra Hills Natural Foods,-120.45742,38.13822
-4216518100,2402.0,motel,Ebbett's Pass Lodge,-120.35359,38.25425
-4216518111,2303.0,cafe,Coop's Coffee House,-120.36921,38.2052
 4729422391,2501.0,supermarket,Young's Payless IGA,-120.60445,37.93817
-4543685558,2501.0,supermarket,Big Trees Market,-120.36392,38.23972
 4816153226,2303.0,cafe,Starbucks,-120.55995,38.08215
-4917628961,2303.0,cafe,Angels Creek Cafe,-120.53992,38.06919
 4917628765,2402.0,motel,Jumping Frog Motel,-120.55341,38.07972
-5592637518,2082.0,school,Avery Middle School,-120.36475,38.20391
+4917628961,2303.0,cafe,Angels Creek Cafe,-120.53992,38.06919
+358832900,2082.0,school,Mokelumne Hill Elementary School,-120.69836,38.29909
+358832909,2082.0,school,Rail Road Flat Elementary School,-120.51631,38.33741
+358832917,2082.0,school,West Point Elementary School,-120.52659,38.39908
+358817654,2082.0,school,Hazel Fischer Elementary School,-120.34297,38.26436
+4216516488,2402.0,motel,Bear's Lair,-120.34676,38.25698
+4216518100,2402.0,motel,Ebbett's Pass Lodge,-120.35359,38.25425

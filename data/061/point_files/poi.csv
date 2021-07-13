@@ -1,118 +1,36 @@
 osm_id,code,fclass,name,lon,lat
-358764969,2082.0,school,Dry Creek Elementary School,-121.33634,38.72824
-358763263,2082.0,school,College of Our Lady of Mercy,-121.07717,38.87851
-358763960,2082.0,school,Columbia School,-121.12856,38.95684
-358766909,2082.0,school,Greenhills Elementary School,-121.21523,38.75018
-358766334,2082.0,school,Fruitvale School,-121.23356,38.9124
-358774087,2082.0,school,Saint Albans Day School,-121.30181,38.7233
-358772409,2082.0,school,Parker Whitney Elementary School,-121.25439,38.79323
-358772840,2082.0,school,Placer Hills Elementary School,-121.02354,38.99598
-358776412,2082.0,school,Spring Garden School,-120.90716,39.00212
 358778015,2082.0,school,Valley View School,-121.28495,39.0099
-358797946,2082.0,school,Gold Run School,-120.86105,39.17518
-358823611,2082.0,school,Alta-Dutch Flat Elementary School,-120.80799,39.2074
-358823622,2082.0,school,Emigrant Gap Elementary School,-120.67137,39.29783
-358823625,2082.0,school,Foresthill Elementary School,-120.81271,39.02073
-358823628,2082.0,school,Iowa Hill School,-120.85884,39.10864
-358823644,2082.0,school,Weimar Hills Junior High School,-120.97828,39.0449
-358823646,2084.0,college,Weimar Institute,-120.97689,39.03684
-358823713,2082.0,school,Adelante High School,-121.27995,38.75268
-358823717,2082.0,school,Antelope Creek Elementary School,-121.25662,38.77712
 358823741,2082.0,school,Carlin C Coppin Elementary School,-121.28523,38.90184
-358823743,2082.0,school,Chana High School,-121.108,38.95073
-358823753,2082.0,school,Fleur Du Lac School,-120.1438,39.07296
 358823755,2082.0,school,Glen Edwards Elementary School,-121.29995,38.88768
 358823758,2082.0,school,Glen Edwards Middle School,-121.29995,38.88851
-358823760,2012.0,community_centre,Gold Country Fairgrounds,-121.07405,38.89032
 358823777,2082.0,school,Lincoln High School,-121.29773,38.89434
-358823808,2082.0,school,Roseville High School,-121.27606,38.75796
-358823820,2082.0,school,Sheridan Elementary School,-121.37357,38.98267
-358823866,2082.0,school,Rocklin Elementary School,-121.22828,38.79184
-368167296,2014.0,arts_centre,Roseville Arts Center,-121.28551,38.74657
 441268819,2082.0,school,Foskett Ranch Elementary School,-121.31754,38.90683
-584344388,2501.0,supermarket,Nugget Markets,-121.27978,38.78975
-604057423,2082.0,school,,-121.28727,38.80287
-952636278,2303.0,cafe,WildFlower Cafe,-120.26084,39.19498
-952636357,2303.0,cafe,WildFlower Cafe,-120.23644,39.19609
-1012846558,2303.0,cafe,Starbucks,-121.28656,38.78133
-1001538760,2303.0,cafe,Starbucks,-121.30992,38.7523
-1014167614,2501.0,supermarket,Whole Foods Market,-121.26705,38.76736
-1003372805,2303.0,cafe,Starbucks,-121.33043,38.76901
-1016591575,2303.0,cafe,Starbucks,-121.26326,38.77355
-1017874338,2501.0,supermarket,Sunrise Nutrition Science,-121.27827,38.79122
-1017874344,2303.0,cafe,Top This Yogurt,-121.27875,38.79173
-1017874353,2303.0,cafe,Peet's Coffee,-121.27911,38.79003
-1099386730,2303.0,cafe,Foothills Donuts,-121.31009,38.75409
-1100671465,2303.0,cafe,Starbucks,-121.28799,38.7894
-1129603834,2303.0,cafe,Peet's Coffee,-121.27104,38.72908
-1239234214,2303.0,cafe,Starbucks,-121.27133,38.7842
-1347662080,2082.0,school,Rocklin Academy,-121.22782,38.79046
-1347662181,2082.0,school,Rocklin Elementary School,-121.22889,38.79158
-1385835059,2083.0,kindergarten,La Petite Academy,-121.2634,38.79812
-1379500127,2083.0,kindergarten,,-121.27695,38.74647
-1379744324,2303.0,cafe,Starbucks,-121.28331,38.81004
-1394549916,2083.0,kindergarten,KinderCare,-121.30814,38.76135
-1416803716,2303.0,cafe,Starbucks,-121.20654,38.78833
-1416584890,2082.0,school,Whitney High School,-121.28899,38.83459
-1583415354,2501.0,supermarket,Grocery Outlet,-121.07521,38.90477
-1571893879,2303.0,cafe,Starbucks,-121.07412,38.90413
-1572051369,2501.0,supermarket,SaveMart,-121.07406,38.90535
-1584813019,2501.0,supermarket,Grocery Outlet,-121.2762,38.74488
-1585236606,2501.0,supermarket,Raley's,-121.05407,38.92409
-1709508450,2082.0,school,Sierra Elementary School,-121.21713,38.77225
-1795166923,2501.0,supermarket,BelAir,-121.09114,38.93469
-1843620025,2012.0,community_centre,Community Center,-120.83747,39.20486
-1921023842,2303.0,cafe,Cafe Delicias,-121.09795,38.94307
-1980643872,2083.0,kindergarten,Forest Cottage Preschool,-120.90665,39.00205
-2011839600,2082.0,school,Fiddyment Farm Elementary School,-121.35761,38.80621
-2295252418,2082.0,school,Greenhills Elementary School,-121.21615,38.75007
-2583261980,2083.0,kindergarten,Kid's Camp,-121.29421,38.78519
-2635702230,2501.0,supermarket,Nitta Ranch,-121.21965,38.81756
-2678110833,2082.0,school,Sunset Ranch Elementary School,-121.27487,38.82866
-2680120510,2082.0,school,Maria Montessori Charter Academy,-121.28532,38.82202
-2972018287,2083.0,kindergarten,Kiddie Academy,-121.3111,38.7614
-3026629469,2402.0,motel,Sun N Sand,-120.02633,39.23726
-3052749789,2303.0,cafe,Starbucks,-120.9503,39.09516
-3064362104,2083.0,kindergarten,La Petite Academy,-121.24296,38.73934
-3064362105,2012.0,community_centre,Maidu Activity Center,-121.2465,38.73816
-3065878902,2012.0,community_centre,Auburn Moose Family Center,-121.07691,38.89279
-3180202880,2303.0,cafe,Starbucks,-121.20421,38.80122
-3222270191,2303.0,cafe,Depoe Bay Coffee,-121.06887,38.90098
-3337200794,2501.0,supermarket,Tahoe Central Market,-120.02281,39.23632
-3748099258,2303.0,cafe,Dine and Dash Cafe,-120.95571,39.08507
-3748099535,2501.0,supermarket,Gai's Basket,-121.07014,38.89882
-4342508834,2402.0,motel,Foothills Motel,-121.0584,38.92552
-4342508866,2402.0,motel,Quality Inn Auburn,-121.05554,38.92749
-4382507193,2303.0,cafe,The Dam Cafe,-120.14505,39.16702
-4512217591,2303.0,cafe,Pressed Juicery,-121.26914,38.76802
-4512256494,2303.0,cafe,Mirabella Gelato,-121.26802,38.76799
-4512283189,2303.0,cafe,Peet's Coffee,-121.26732,38.76801
-4514318690,2501.0,supermarket,West Shore Market & Deli,-120.15424,39.14046
-4514492990,2303.0,cafe,Poppy's Frozen Yogurt,-120.14095,39.17126
-4521145592,2303.0,cafe,Beach Hut Deli,-121.293,38.88472
 4516188390,2303.0,cafe,Sourdough & Co.,-121.29428,38.87915
 4516188392,2303.0,cafe,Home Spun Yogurt,-121.2941,38.8788
 4516268889,2012.0,community_centre,The Axiom,-121.29304,38.89093
 4517673893,2303.0,cafe,Mi Pueblito,-121.29299,38.88986
-4521217989,2303.0,cafe,El Portal Taqueria,-121.2926,38.88714
 4517727389,2501.0,supermarket,Panadería La Michoacana,-121.29184,38.89196
 4517751590,2501.0,supermarket,Fotos Market,-121.29106,38.89165
 4517767390,2303.0,cafe,Whistle Stop Cafe,-121.29265,38.8934
+4521145592,2303.0,cafe,Beach Hut Deli,-121.293,38.88472
+4521217989,2303.0,cafe,El Portal Taqueria,-121.2926,38.88714
 4836031894,2082.0,school,Horizon Charter School,-121.32994,38.89755
-5031130987,2303.0,cafe,The Human Bean,-121.26759,38.79803
 5184936816,2303.0,cafe,Starbucks,-121.3032,38.87295
-5402931095,2303.0,cafe,Peet's Coffee,-121.18844,38.81793
-5402931100,2303.0,cafe,Starbucks,-121.18936,38.81853
-5567538650,2303.0,cafe,Edwin's Coffee and Tea,-121.26176,38.79217
+358823820,2082.0,school,Sheridan Elementary School,-121.37357,38.98267
+1001538760,2303.0,cafe,Starbucks,-121.30992,38.7523
+1099386730,2303.0,cafe,Foothills Donuts,-121.31009,38.75409
+1394549916,2083.0,kindergarten,KinderCare,-121.30814,38.76135
+2972018287,2083.0,kindergarten,Kiddie Academy,-121.3111,38.7614
 5600882689,2083.0,kindergarten,Play Care Learning Center,-121.3555,38.75273
-5662504919,2082.0,school,Weimar Academy,-120.98218,39.03602
+358823753,2082.0,school,Fleur Du Lac School,-120.1438,39.07296
+952636278,2303.0,cafe,WildFlower Cafe,-120.26084,39.19498
+952636357,2303.0,cafe,WildFlower Cafe,-120.23644,39.19609
+3026629469,2402.0,motel,Sun N Sand,-120.02633,39.23726
+3337200794,2501.0,supermarket,Tahoe Central Market,-120.02281,39.23632
+4382507193,2303.0,cafe,The Dam Cafe,-120.14505,39.16702
+4514318690,2501.0,supermarket,West Shore Market & Deli,-120.15424,39.14046
+4514492990,2303.0,cafe,Poppy's Frozen Yogurt,-120.14095,39.17126
 5816313294,2501.0,supermarket,Save Mart,-120.14599,39.16803
-6164546666,2303.0,cafe,JD's Cafe & Deli,-121.2328,38.79534
-6441605412,2501.0,supermarket,Raley's,-121.17323,38.74442
-6568955581,2303.0,cafe,Starbucks,-121.28943,38.73008
-6568974548,2303.0,cafe,Starbucks,-121.27461,38.74495
-6568974927,2501.0,supermarket,Smart & Final Extra!,-121.27381,38.74704
-7236261150,2303.0,cafe,Dutch Bros. Coffee,-121.24838,38.78458
 7993343391,2303.0,cafe,Starbucks,-120.23515,39.19693
 8146743545,2303.0,cafe,Syd's Bagelry and Espresso,-120.13969,39.17174
 8264952770,2303.0,cafe,Starbucks,-120.1206,39.275
@@ -120,64 +38,146 @@ osm_id,code,fclass,name,lon,lat
 8303785525,2303.0,cafe,Coffeebar,-120.23305,39.19703
 8421717409,2012.0,community_centre,Northstar community services district,-120.11981,39.28215
 8489541803,2501.0,supermarket,Nugget Markets,-121.32626,38.79381
+358766909,2082.0,school,Greenhills Elementary School,-121.21523,38.75018
+2295252418,2082.0,school,Greenhills Elementary School,-121.21615,38.75007
+3064362104,2083.0,kindergarten,La Petite Academy,-121.24296,38.73934
+6441605412,2501.0,supermarket,Raley's,-121.17323,38.74442
+5402931095,2303.0,cafe,Peet's Coffee,-121.18844,38.81793
+5402931100,2303.0,cafe,Starbucks,-121.18936,38.81853
+2011839600,2082.0,school,Fiddyment Farm Elementary School,-121.35761,38.80621
+1003372805,2303.0,cafe,Starbucks,-121.33043,38.76901
+358823866,2082.0,school,Rocklin Elementary School,-121.22828,38.79184
+1347662080,2082.0,school,Rocklin Academy,-121.22782,38.79046
+1347662181,2082.0,school,Rocklin Elementary School,-121.22889,38.79158
+1416803716,2303.0,cafe,Starbucks,-121.20654,38.78833
+1709508450,2082.0,school,Sierra Elementary School,-121.21713,38.77225
+2635702230,2501.0,supermarket,Nitta Ranch,-121.21965,38.81756
+3180202880,2303.0,cafe,Starbucks,-121.20421,38.80122
+6164546666,2303.0,cafe,JD's Cafe & Deli,-121.2328,38.79534
+358772409,2082.0,school,Parker Whitney Elementary School,-121.25439,38.79323
+1385835059,2083.0,kindergarten,La Petite Academy,-121.2634,38.79812
+5031130987,2303.0,cafe,The Human Bean,-121.26759,38.79803
+5567538650,2303.0,cafe,Edwin's Coffee and Tea,-121.26176,38.79217
+584344388,2501.0,supermarket,Nugget Markets,-121.27978,38.78975
+604057423,2082.0,school,,-121.28727,38.80287
+1017874338,2501.0,supermarket,Sunrise Nutrition Science,-121.27827,38.79122
+1017874344,2303.0,cafe,Top This Yogurt,-121.27875,38.79173
+1017874353,2303.0,cafe,Peet's Coffee,-121.27911,38.79003
+1100671465,2303.0,cafe,Starbucks,-121.28799,38.7894
+1379744324,2303.0,cafe,Starbucks,-121.28331,38.81004
+1416584890,2082.0,school,Whitney High School,-121.28899,38.83459
+2678110833,2082.0,school,Sunset Ranch Elementary School,-121.27487,38.82866
+2680120510,2082.0,school,Maria Montessori Charter Academy,-121.28532,38.82202
+358776412,2082.0,school,Spring Garden School,-120.90716,39.00212
+358797946,2082.0,school,Gold Run School,-120.86105,39.17518
+358823611,2082.0,school,Alta-Dutch Flat Elementary School,-120.80799,39.2074
+358823622,2082.0,school,Emigrant Gap Elementary School,-120.67137,39.29783
+358823625,2082.0,school,Foresthill Elementary School,-120.81271,39.02073
+358823628,2082.0,school,Iowa Hill School,-120.85884,39.10864
+358823644,2082.0,school,Weimar Hills Junior High School,-120.97828,39.0449
+358823646,2084.0,college,Weimar Institute,-120.97689,39.03684
+1843620025,2012.0,community_centre,Community Center,-120.83747,39.20486
+1980643872,2083.0,kindergarten,Forest Cottage Preschool,-120.90665,39.00205
+3052749789,2303.0,cafe,Starbucks,-120.9503,39.09516
+3748099258,2303.0,cafe,Dine and Dash Cafe,-120.95571,39.08507
+5662504919,2082.0,school,Weimar Academy,-120.98218,39.03602
+358764969,2082.0,school,Dry Creek Elementary School,-121.33634,38.72824
+358774087,2082.0,school,Saint Albans Day School,-121.30181,38.7233
+6568955581,2303.0,cafe,Starbucks,-121.28943,38.73008
+358763263,2082.0,school,College of Our Lady of Mercy,-121.07717,38.87851
+358763960,2082.0,school,Columbia School,-121.12856,38.95684
+358766334,2082.0,school,Fruitvale School,-121.23356,38.9124
+358772840,2082.0,school,Placer Hills Elementary School,-121.02354,38.99598
+358823743,2082.0,school,Chana High School,-121.108,38.95073
+358823760,2012.0,community_centre,Gold Country Fairgrounds,-121.07405,38.89032
+1571893879,2303.0,cafe,Starbucks,-121.07412,38.90413
+1572051369,2501.0,supermarket,SaveMart,-121.07406,38.90535
+1583415354,2501.0,supermarket,Grocery Outlet,-121.07521,38.90477
+1585236606,2501.0,supermarket,Raley's,-121.05407,38.92409
+1795166923,2501.0,supermarket,BelAir,-121.09114,38.93469
+1921023842,2303.0,cafe,Cafe Delicias,-121.09795,38.94307
+3065878902,2012.0,community_centre,Auburn Moose Family Center,-121.07691,38.89279
+3222270191,2303.0,cafe,Depoe Bay Coffee,-121.06887,38.90098
+3748099535,2501.0,supermarket,Gai's Basket,-121.07014,38.89882
+4342508834,2402.0,motel,Foothills Motel,-121.0584,38.92552
+4342508866,2402.0,motel,Quality Inn Auburn,-121.05554,38.92749
+358823717,2082.0,school,Antelope Creek Elementary School,-121.25662,38.77712
+358823808,2082.0,school,Roseville High School,-121.27606,38.75796
+1014167614,2501.0,supermarket,Whole Foods Market,-121.26705,38.76736
+1016591575,2303.0,cafe,Starbucks,-121.26326,38.77355
+1239234214,2303.0,cafe,Starbucks,-121.27133,38.7842
+1379500127,2083.0,kindergarten,,-121.27695,38.74647
+1584813019,2501.0,supermarket,Grocery Outlet,-121.2762,38.74488
+4512217591,2303.0,cafe,Pressed Juicery,-121.26914,38.76802
+4512256494,2303.0,cafe,Mirabella Gelato,-121.26802,38.76799
+4512283189,2303.0,cafe,Peet's Coffee,-121.26732,38.76801
+6568974548,2303.0,cafe,Starbucks,-121.27461,38.74495
+6568974927,2501.0,supermarket,Smart & Final Extra!,-121.27381,38.74704
+7236261150,2303.0,cafe,Dutch Bros. Coffee,-121.24838,38.78458
+358823713,2082.0,school,Adelante High School,-121.27995,38.75268
+368167296,2014.0,arts_centre,Roseville Arts Center,-121.28551,38.74657
+1012846558,2303.0,cafe,Starbucks,-121.28656,38.78133
+2583261980,2083.0,kindergarten,Kid's Camp,-121.29421,38.78519
+1129603834,2303.0,cafe,Peet's Coffee,-121.27104,38.72908
+3064362105,2012.0,community_centre,Maidu Activity Center,-121.2465,38.73816
+368167717,2002.0,fire_station,Station 20,-121.12437,38.82454
+368167720,2002.0,fire_station,Loomis Fire Station Number 2,-121.14113,38.81028
+3143049779,2002.0,fire_station,,-120.51786,39.30681
+358823778,2005.0,post_office,Lincoln Post Office,-121.29162,38.89156
+368169554,2007.0,library,Lincoln Public Library,-121.29135,38.89203
+368171447,2008.0,town_hall,Lincoln City Hall,-121.29051,38.89156
+2366463240,2005.0,post_office,United States Post Office,-121.29094,38.88487
+2366463342,2001.0,police,,-121.29379,38.89488
+4521168200,2005.0,post_office,The UPS Store,-121.29419,38.87861
+792205678,2005.0,post_office,The UPS Store,-121.31079,38.76087
+1099552944,2005.0,post_office,PostalAnnex,-121.31112,38.75387
+358823635,2005.0,post_office,Tahoe City Post Office,-120.13637,39.17395
+358823763,2005.0,post_office,Homewood Post Office,-120.15854,39.08152
+358823773,2005.0,post_office,Kings Beach Post Office,-120.02092,39.23616
+358823827,2005.0,post_office,Tahoe Vista Post Office,-120.0484,39.23973
+360988514,2005.0,post_office,,-120.22849,39.19958
+360988559,2005.0,post_office,Olympic Valley,-120.22849,39.19958
+368169551,2007.0,library,Kings Beach Branch Auburn-Placer County Library,-120.03006,39.23857
+368169553,2007.0,library,Tahoe City Branch Auburn-Placer County Library,-120.13858,39.17259
+2414331620,2002.0,fire_station,Station 51,-120.14786,39.16752
+7566849099,2005.0,post_office,Olympic Valley Post Office,-120.22872,39.1996
+8423821015,2001.0,police,Ski patrol,-120.12656,39.26381
+368169548,2007.0,library,Loomis Branch Auburn-Placer County Library,-121.19059,38.81998
+626997524,2002.0,fire_station,South Placer FPD Station 19,-121.16379,38.76601
+5402931080,2001.0,police,Placer County Sheriff - South Placer Substation,-121.19098,38.81753
+5402931094,2005.0,post_office,Mail Biz Etc.,-121.19081,38.81822
+358823869,2005.0,post_office,Rocklin Post Office,-121.23961,38.78491
+1342066313,2001.0,police,,-121.23287,38.78819
+3184251802,2005.0,post_office,,-121.22232,38.79856
+5379572660,2005.0,post_office,The UPS Store,-121.20459,38.80021
+1416733993,2002.0,fire_station,,-121.25498,38.80711
 358809699,2005.0,post_office,Blue Canyon Post Office,-120.70966,39.2549
 358823618,2005.0,post_office,Colfax Post Office,-120.95511,39.09929
 358823626,2005.0,post_office,Foresthill Post Office,-120.82637,39.01959
-358823635,2005.0,post_office,Tahoe City Post Office,-120.13637,39.17395
 358823648,2005.0,post_office,Weimar Post Office,-120.97283,39.04355
-358823720,2005.0,post_office,Applegate Post Office,-120.99467,38.99767
-358823763,2005.0,post_office,Homewood Post Office,-120.15854,39.08152
-358823773,2005.0,post_office,Kings Beach Post Office,-120.02092,39.23616
-358823778,2005.0,post_office,Lincoln Post Office,-121.29162,38.89156
-358823827,2005.0,post_office,Tahoe Vista Post Office,-120.0484,39.23973
-358823850,2005.0,post_office,Newcastle Post Office,-121.13328,38.87351
-358823861,2005.0,post_office,Penryn Post Office,-121.16884,38.85184
-358823869,2005.0,post_office,Rocklin Post Office,-121.23961,38.78491
-358823875,2005.0,post_office,United States Post Office,-121.28457,38.74732
-360988514,2005.0,post_office,,-120.22849,39.19958
-360988559,2005.0,post_office,Olympic Valley,-120.22849,39.19958
-368168989,2007.0,library,Applegate Branch Auburn-Placer County Library,-120.99467,38.99767
-368167717,2002.0,fire_station,Station 20,-121.12437,38.82454
-368167720,2002.0,fire_station,Loomis Fire Station Number 2,-121.14113,38.81028
 368168990,2007.0,library,Colfax Branch Auburn-Placer County Library,-120.95482,39.09934
-368169548,2007.0,library,Loomis Branch Auburn-Placer County Library,-121.19059,38.81998
-368169551,2007.0,library,Kings Beach Branch Auburn-Placer County Library,-120.03006,39.23857
-368169553,2007.0,library,Tahoe City Branch Auburn-Placer County Library,-120.13858,39.17259
-368169554,2007.0,library,Lincoln Public Library,-121.29135,38.89203
-368171447,2008.0,town_hall,Lincoln City Hall,-121.29051,38.89156
-368171448,2008.0,town_hall,Auburn City Hall,-121.07411,38.89768
-626997524,2002.0,fire_station,South Placer FPD Station 19,-121.16379,38.76601
-638798261,2001.0,police,Roseville Police,-121.29586,38.75982
-792205678,2005.0,post_office,The UPS Store,-121.31079,38.76087
-944918373,2002.0,fire_station,Vincent L. Kelley Jr. Memorial Fire Station,-121.28424,38.78297
-1014240664,2005.0,post_office,,-121.26266,38.74814
-1099552944,2005.0,post_office,PostalAnnex,-121.31112,38.75387
-1340871803,2005.0,post_office,FedEx Office,-121.25366,38.74463
-1342066313,2001.0,police,,-121.23287,38.78819
-1416733993,2002.0,fire_station,,-121.25498,38.80711
 1834843123,2005.0,post_office,U.S. Post Office,-120.85516,39.18059
 1867002308,2001.0,police,California Highway Patrol Gold Run,-120.8345,39.18824
 1982624653,2002.0,fire_station,Foresthill Fire Station,-120.80638,39.02389
 2020521805,2002.0,fire_station,Iowa Hill Volunteer Fire Department,-120.85763,39.10982
 2020521894,2005.0,post_office,,-120.86026,39.10714
-2366463240,2005.0,post_office,United States Post Office,-121.29094,38.88487
-2366463342,2001.0,police,,-121.29379,38.89488
-2414331620,2002.0,fire_station,Station 51,-120.14786,39.16752
+2503344036,2002.0,fire_station,Placer Hills Fire Station,-120.97534,39.04454
+2533270445,2002.0,fire_station,,-120.94988,39.09838
+2533270447,2002.0,fire_station,,-120.9549,39.09984
+6075806993,2001.0,police,,-120.81657,39.02013
+358823720,2005.0,post_office,Applegate Post Office,-120.99467,38.99767
+358823850,2005.0,post_office,Newcastle Post Office,-121.13328,38.87351
+358823861,2005.0,post_office,Penryn Post Office,-121.16884,38.85184
+368168989,2007.0,library,Applegate Branch Auburn-Placer County Library,-120.99467,38.99767
+368171448,2008.0,town_hall,Auburn City Hall,-121.07411,38.89768
 2418620168,2002.0,fire_station,,-121.08042,38.8766
 2419576955,2002.0,fire_station,,-121.13032,38.90363
 2483251324,2009.0,courthouse,,-121.07686,38.89657
-2503344036,2002.0,fire_station,Placer Hills Fire Station,-120.97534,39.04454
-2533270447,2002.0,fire_station,,-120.9549,39.09984
-2533270445,2002.0,fire_station,,-120.94988,39.09838
-3143049779,2002.0,fire_station,,-120.51786,39.30681
-3184251802,2005.0,post_office,,-121.22232,38.79856
-4521168200,2005.0,post_office,The UPS Store,-121.29419,38.87861
 5338304559,2005.0,post_office,,-121.08303,38.90746
-5379572660,2005.0,post_office,The UPS Store,-121.20459,38.80021
-5402931080,2001.0,police,Placer County Sheriff - South Placer Substation,-121.19098,38.81753
-5402931094,2005.0,post_office,Mail Biz Etc.,-121.19081,38.81822
-6075806993,2001.0,police,,-120.81657,39.02013
 6075807004,2007.0,library,Foresthill Library,-120.81662,39.02007
 6353563129,2005.0,post_office,Mail 'N More,-121.09195,38.93546
-7566849099,2005.0,post_office,Olympic Valley Post Office,-120.22872,39.1996
-8423821015,2001.0,police,Ski patrol,-120.12656,39.26381
+1014240664,2005.0,post_office,,-121.26266,38.74814
+1340871803,2005.0,post_office,FedEx Office,-121.25366,38.74463
+358823875,2005.0,post_office,United States Post Office,-121.28457,38.74732
+638798261,2001.0,police,Roseville Police,-121.29586,38.75982
+944918373,2002.0,fire_station,Vincent L. Kelley Jr. Memorial Fire Station,-121.28424,38.78297

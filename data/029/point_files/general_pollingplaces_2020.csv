@@ -1,0 +1,160 @@
+Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
+1435,Wasco Library,"1102 7th St, Wasco, CA 93280, USA",35.59453,-119.33842,1435.0,CA,KERN COUNTY,Locality wide location,False,False,1.0
+1436,Kern County Election Office,"1115 Truxtun Ave, Bakersfield, CA 93301, USA",35.37265,-119.0149,1436.0,CA,KERN COUNTY,Locality wide location,False,False,1.0
+1437,Frazier Park Library,"3732 Park Dr, Frazier Park, CA 93225, USA",34.81922,-118.94845,1437.0,CA,KERN COUNTY,Locality wide location,False,False,1.0
+1438,Kern River Valley Library,"7054 Lake Isabella Blvd, Lake Isabella, CA 93240, USA",35.63769,-118.46682,1438.0,CA,KERN COUNTY,Locality wide location,False,False,1.0
+1439,Cal State Bakersfield,"9001 Stockdale Hwy, Bakersfield, CA 93311, USA",35.34866,-119.10334,1439.0,CA,KERN COUNTY,Locality wide location,False,False,1.0
+1440,Delano Library,"925 10th Ave, Delano, CA 93215, USA",35.76947,-119.24465,1440.0,CA,KERN COUNTY,Locality wide location,False,False,1.0
+1441,Ridgecrest Library,"Ridgecrest Public Library, 131 E Las Flores Ave, Ridgecrest, CA 93555, USA",35.62902,-117.66865,1441.0,CA,KERN COUNTY,Locality wide location,False,False,1.0
+1442,Rosamond Library,"Rosamond Boulevard, 3611 W Rosamond Blvd, Rosamond, CA 93560, USA",34.86431,-118.19537,1442.0,CA,KERN COUNTY,Locality wide location,False,False,1.0
+1443,Weldon United Methodist Church,"20021 CA-178, Weldon, CA 93283, USA",35.6671,-118.2811,1443.0,CA,KERN COUNTY,Voting Pct 11155,False,False,1.0
+1444,Kern River Valley Veterans Building,"6405 Lake Isabella Blvd, Lake Isabella, CA 93240, USA",35.62888,-118.47408,1444.0,CA,KERN COUNTY,"Voting Pct 11190, Voting Pct 12173",False,False,1.0
+1445,Norris Middle School,"6940 Calloway Dr, Bakersfield, CA 93312, USA",35.42197,-119.10939,1445.0,CA,KERN COUNTY,Voting Pct 11195,False,False,1.0
+1446,Delano Regional Medical Center,"1401 Garces Hwy, Delano, CA 93215, USA",35.76229,-119.23925,1446.0,CA,KERN COUNTY,"Voting Pct 11548, Voting Pct 11580",False,False,1.0
+1447,Harold Olson Rotary Village,"1635 Randolph St, Delano, CA 93215, USA",35.77697,-119.23224,1447.0,CA,KERN COUNTY,Voting Pct 11550,False,False,1.0
+1448,Terrace Elementary School,"1999 Norwalk St, Delano, CA 93215, USA",35.78305,-119.24136,1448.0,CA,KERN COUNTY,"Voting Pct 11552, Voting Pct 11540",False,False,1.0
+1449,Pioneer Middle School,"1001 Hiett Ave, Delano, CA 93215, USA",35.76721,-119.26961,1449.0,CA,KERN COUNTY,"Voting Pct 11554, Voting Pct 11546, Voting Pct 11557, Voting Pct 11530",False,False,1.0
+1450,Civic Center Hall - Auditorium,"1009 11th Ave, Delano, CA 93215, USA",35.7708,-119.24438,1450.0,CA,KERN COUNTY,"Voting Pct 11610, Voting Pct 11570",False,False,1.0
+1451,North Kern Community School,"1915 Cecil Ave, Delano, CA 93215, USA",35.7768,-119.22954,1451.0,CA,KERN COUNTY,Voting Pct 11626,False,False,1.0
+1452,St Jude's Catholic Church,"86 Nellie Dent Dr, Wofford Heights, CA 93285, USA",35.71017,-118.44383,1452.0,CA,KERN COUNTY,Voting Pct 11725,False,False,1.0
+1453,Inyokern Baptist Church,"6521 Plains Ave, Inyokern, CA 93527, USA",35.64057,-117.81303,1453.0,CA,KERN COUNTY,"Voting Pct 11991, Voting Pct 13078, Voting Pct 11990",False,False,1.0
+1454,Kern Valley High School,"3340 Erskine Creek Rd, Lake Isabella, CA 93240, USA",35.61018,-118.46696,1454.0,CA,KERN COUNTY,Voting Pct 12171,False,False,1.0
+1455,Kern River Valley Eagles Lodge,"12251 CA-178, Lake Isabella, CA 93240, USA",35.6414,-118.40757,1455.0,CA,KERN COUNTY,Voting Pct 12505,False,False,1.0
+1456,St Elizabeth's Church,"835 E Perkins Ave, McFarland, CA 93250, USA",35.68125,-119.21775,1456.0,CA,KERN COUNTY,Voting Pct 12591,False,False,1.0
+1457,Church Of The Living Savior,"149 5th St, McFarland, CA 93250, USA",35.6754,-119.2343,1457.0,CA,KERN COUNTY,"Voting Pct 12592, Voting Pct 12593",False,False,1.0
+1458,Granite Construction Inc.,"3005 James Rd, Bakersfield, CA 93308, USA",35.46909,-119.06572,1458.0,CA,KERN COUNTY,"Voting Pct 12620, Voting Pct 12622",False,False,1.0
+1459,Standard School District,"1200 N Chester Ave, Bakersfield, CA 93308, USA",35.41714,-119.01944,1459.0,CA,KERN COUNTY,"Voting Pct 12709, Voting Pct 31772",False,False,1.0
+1460,Ridgecrest Presbyterian Church,"633 W Las Flores Ave, Ridgecrest, CA 93555, USA",35.62936,-117.68286,1460.0,CA,KERN COUNTY,"Voting Pct 12921, Voting Pct 12922, Voting Pct 12923",False,False,1.0
+1461,RCA Church,"800 W Upjohn Ave, Ridgecrest, CA 93555, USA",35.61566,-117.68638,1461.0,CA,KERN COUNTY,"Voting Pct 12925, Voting Pct 12933, Voting Pct 12934",False,False,1.0
+1462,St. Ann's School,"446 W Church Ave, Ridgecrest, CA 93555, USA",35.61926,-117.67745,1462.0,CA,KERN COUNTY,"Voting Pct 12927, Voting Pct 13076",False,False,1.0
+1463,Kernville Community Building - Room B,"11447 Kernville Rd, Kernville, CA 93238, USA",35.75593,-118.41809,1463.0,CA,KERN COUNTY,Voting Pct 12996,False,False,1.0
+1464,Kerr Mcgee Community Center - Pinnacles Room,"100 W California Ave, Ridgecrest, CA 93555, USA",35.62135,-117.67327,1464.0,CA,KERN COUNTY,"Voting Pct 13070, Voting Pct 13072, Voting Pct 12924, Voting Pct 12928, Voting Pct 12929, Voting Pct 12935, Voting Pct 12941",False,False,1.0
+1465,Shafter Veterans Building,"309 California Ave, Shafter, CA 93263, USA",35.50317,-119.27661,1465.0,CA,KERN COUNTY,"Voting Pct 13110, Voting Pct 13129, Voting Pct 13100, Voting Pct 13107, Voting Pct 13120",False,False,1.0
+1466,Southlake Fire Station 71,"9000 Navajo Ave, Weldon, CA 93283, USA",35.6469,-118.36067,1466.0,CA,KERN COUNTY,Voting Pct 13194,False,False,1.0
+1467,Juliet Thorner Elementary School,"5501 Thorner St, Bakersfield, CA 93306, USA",35.40472,-118.91702,1467.0,CA,KERN COUNTY,"Voting Pct 15106, Voting Pct 15135",False,False,1.0
+1468,Rio Bravo Fire Station 10,"12100 Alfred Harrell Hwy, Bakersfield, CA 93306, USA",35.43057,-118.86992,1468.0,CA,KERN COUNTY,Voting Pct 15109,False,False,1.0
+1469,Paul L. Cato Middle School,"4115 Vineland Rd, Bakersfield, CA 93306, USA",35.39107,-118.89522,1469.0,CA,KERN COUNTY,"Voting Pct 15110, Voting Pct 15132",False,False,1.0
+1470,Veterans Elementary School,"6301 Old Farm Rd, Bakersfield, CA 93312, USA",35.41685,-119.13738,1470.0,CA,KERN COUNTY,"Voting Pct 15113, Voting Pct 15114, Voting Pct 15124",False,False,1.0
+1471,Norris Elementary School,"7110 Old Farm Rd, Bakersfield, CA 93312, USA",35.42385,-119.1345,1471.0,CA,KERN COUNTY,"Voting Pct 15123, Voting Pct 15133",False,False,1.0
+1472,Boron Bible Church,"26921 John St, Boron, CA 93516, USA",34.99701,-117.65171,1472.0,CA,KERN COUNTY,"Voting Pct 20121, Voting Pct 21660",False,False,1.0
+1473,South High School,"1101 Planz Rd, Bakersfield, CA 93304, USA",35.32447,-119.01261,1473.0,CA,KERN COUNTY,"Voting Pct 20232, Voting Pct 50731, Voting Pct 20236",False,False,1.0
+1474,Berkshire Elementary School,"3900 Berkshire Rd, Bakersfield, CA 93313, USA",35.28999,-119.04577,1474.0,CA,KERN COUNTY,Voting Pct 20243,False,False,1.0
+1475,Bakersfield First Church of the Nazarene,"2801 Hughes Ln, Bakersfield, CA 93304, USA",35.32975,-119.03104,1475.0,CA,KERN COUNTY,"Voting Pct 20246, Voting Pct 20289",False,False,1.0
+1476,Central Seventh Day Adventist Church,"4201 Wilson Rd, Bakersfield, CA 93309, USA",35.33155,-119.05099,1476.0,CA,KERN COUNTY,"Voting Pct 20260, Voting Pct 20249, Voting Pct 22004, Voting Pct 22006, Voting Pct 22008",False,False,1.0
+1477,Bill L. Williams Elementary School,"5601 Harris Rd, Bakersfield, CA 93313, USA",35.30289,-119.06437,1477.0,CA,KERN COUNTY,"Voting Pct 20262, Voting Pct 20282",False,False,1.0
+1478,Granite Pointe Elementary School,"2900 Berkshire Rd, Bakersfield, CA 93313, USA",35.29011,-119.03501,1478.0,CA,KERN COUNTY,"Voting Pct 20272, Voting Pct 20271",False,False,1.0
+1479,Daybreak Baptist Church,"5446 Taft Hwy, Bakersfield, CA 93313, USA",35.26946,-119.06302,1479.0,CA,KERN COUNTY,"Voting Pct 20283, Voting Pct 20298",False,False,1.0
+1480,Panama Elementary School - Gymnasium,"9400 Stine Rd, Bakersfield, CA 93313, USA",35.26875,-119.05605,1480.0,CA,KERN COUNTY,"Voting Pct 20286, Voting Pct 22037",False,False,1.0
+1481,So Bakersfield Veterans Hall - Room 1,"1905 Wilson Rd, Bakersfield, CA 93304, USA",35.33179,-119.02413,1481.0,CA,KERN COUNTY,"Voting Pct 20288, Voting Pct 20284",False,False,1.0
+1482,Whiting Center - Game Room,"26900 Bear Valley Rd, Tehachapi, CA 93561, USA",35.16906,-118.60975,1482.0,CA,KERN COUNTY,"Voting Pct 21143, Voting Pct 21145, Voting Pct 21148",False,False,1.0
+1483,Oak Tree Country Club,"29500 N Lower Valley Rd, Tehachapi, CA 93561, USA",35.1696,-118.65575,1483.0,CA,KERN COUNTY,Voting Pct 21144,False,False,1.0
+1484,Strata Center,"10350 Heather Ave, California City, CA 93505, USA",35.12968,-117.94538,1484.0,CA,KERN COUNTY,"Voting Pct 21275, Voting Pct 21281, Voting Pct 21282",False,False,1.0
+1485,First Baptist Church,"8770 Lupine Loop Dr, California City, CA 93505, USA",35.13031,-117.97126,1485.0,CA,KERN COUNTY,"Voting Pct 21280, Voting Pct 21283",False,False,1.0
+1486,Country Oaks Baptist Church - Chapel,"20915 Schout Rd, Tehachapi, CA 93561, USA",35.11805,-118.50243,1486.0,CA,KERN COUNTY,"Voting Pct 21512, Voting Pct 21888, Voting Pct 21889",False,False,1.0
+1487,Tehachapi-Cummings Water Dist.,"22901 Banducci Rd, Tehachapi, CA 93561, USA",35.10343,-118.53716,1487.0,CA,KERN COUNTY,"Voting Pct 21513, Voting Pct 21511",False,False,1.0
+1488,Lynch Elementary School,"17100 Foothill Ave, North Edwards, CA 93523, USA",35.01495,-117.82633,1488.0,CA,KERN COUNTY,Voting Pct 21710,False,False,1.0
+1489,Lakeside School,"14535 Old River Rd, Bakersfield, CA 93311, USA",35.22288,-119.11049,1489.0,CA,KERN COUNTY,Voting Pct 21781,False,False,1.0
+1490,Tehachapi Valley United Methodist Church,"20400 Backes Ln, Tehachapi, CA 93561, USA",35.11609,-118.50239,1490.0,CA,KERN COUNTY,Voting Pct 21886,False,False,1.0
+1491,Golden Hills Community Services District,"21415 Reeves St, Tehachapi, CA 93561, USA",35.13127,-118.4777,1491.0,CA,KERN COUNTY,"Voting Pct 21894, Voting Pct 21885",False,False,1.0
+1492,Kern City Recreation Center - Sewing Room,"1003 Pebble Beach Dr, Bakersfield, CA 93309, USA",35.34557,-119.06679,1492.0,CA,KERN COUNTY,"Voting Pct 22005, Voting Pct 22003",False,False,1.0
+1493,Stonecreek Junior High School,"8000 Akers Rd, Bakersfield, CA 93313, USA",35.28244,-119.04547,1493.0,CA,KERN COUNTY,"Voting Pct 22030, Voting Pct 25289, Voting Pct 20256, Voting Pct 20263",False,False,1.0
+1494,Grace Bible Church,"5207 Young St, Bakersfield, CA 93311, USA",35.3074,-119.09904,1494.0,CA,KERN COUNTY,"Voting Pct 22033, Voting Pct 25271, Voting Pct 20294, Voting Pct 25272",False,False,1.0
+1495,Mojave Veterans Building - Room 1,"15580 O St, Mojave, CA 93501, USA",35.04876,-118.16702,1495.0,CA,KERN COUNTY,Voting Pct 22450,False,False,1.0
+1496,First Baptist Church,"1049 S Curry St, Tehachapi, CA 93561, USA",35.12005,-118.45104,1496.0,CA,KERN COUNTY,"Voting Pct 22480, Voting Pct 23406, Voting Pct 23402, Voting Pct 23404, Voting Pct 23401",False,False,1.0
+1497,Wayside Chapel Community Church,"2584 Felsite Ave, Rosamond, CA 93560, USA",34.87088,-118.17745,1497.0,CA,KERN COUNTY,"Voting Pct 23020, Voting Pct 23023",False,False,1.0
+1498,Hummel Community Building - Room 1,"2500 20th St W, Rosamond, CA 93560, USA",34.8575,-118.16671,1498.0,CA,KERN COUNTY,"Voting Pct 23021, Voting Pct 23030",False,False,1.0
+1499,Rosamond Community Services District,"3179 35th St W, Rosamond, CA 93560, USA",34.86638,-118.19537,1499.0,CA,KERN COUNTY,Voting Pct 23025,False,False,1.0
+1500,United Park Apartments,"1047 W Rosamond Blvd, Rosamond, CA 93560, USA",34.86482,-118.14983,1500.0,CA,KERN COUNTY,Voting Pct 23035,False,False,1.0
+1501,Stallion Springs Gymnasium & Multi-Purpose Rm,"27850 Stallion Springs Dr, Tehachapi, CA 93561, USA",35.08262,-118.62621,1501.0,CA,KERN COUNTY,"Voting Pct 23211, Voting Pct 23212",False,False,1.0
+1502,Munsey Elementary School,"3801 Brave Ave, Bakersfield, CA 93309, USA",35.3481,-119.04431,1502.0,CA,KERN COUNTY,"Voting Pct 23239, Voting Pct 23240",False,False,1.0
+1503,Curran Middle School,"1116 Lymric Way, Bakersfield, CA 93309, USA",35.34468,-119.0447,1503.0,CA,KERN COUNTY,Voting Pct 23241,False,False,1.0
+1504,Wanda Kirk Library,"Rosamond Boulevard, 3611 W Rosamond Blvd, Rosamond, CA 93560, USA",34.86431,-118.19537,1504.0,CA,KERN COUNTY,"Voting Pct 23450, Voting Pct 23031, Voting Pct 23452, Voting Pct 23451",False,False,1.0
+1505,Riverview Church Of Christ,"241 E Roberts Ln, Bakersfield, CA 93308, USA",35.40836,-119.01568,1505.0,CA,KERN COUNTY,Voting Pct 30150,False,False,1.0
+1506,North of the River Veterans Hall - Room 1,"400 Norris Rd, Bakersfield, CA 93308, USA",35.41999,-119.02849,1506.0,CA,KERN COUNTY,"Voting Pct 30170, Voting Pct 31950, Voting Pct 30040, Voting Pct 12623, Voting Pct 12670",False,False,1.0
+1507,Northminster Presbyterian Church,"3700 Union Ave, Bakersfield, CA 93305, USA",35.39318,-119.0023,1507.0,CA,KERN COUNTY,"Voting Pct 30302, Voting Pct 32170",False,False,1.0
+1508,Parkside Church - Room 1 & 2,"2515 Church Ave, Bakersfield, CA 93306, USA",35.41014,-118.96551,1508.0,CA,KERN COUNTY,Voting Pct 30312,False,False,1.0
+1509,Col Howard Nichols Elementary,"3401 Renegade Ave, Bakersfield, CA 93306, USA",35.40194,-118.955,1509.0,CA,KERN COUNTY,Voting Pct 30316,False,False,1.0
+1510,Veterans Memorial Hall,"2101 Ridge Rd, Bakersfield, CA 93305, USA",35.38613,-118.96787,1510.0,CA,KERN COUNTY,"Voting Pct 30317, Voting Pct 31478, Voting Pct 32310, Voting Pct 51690, Voting Pct 52110, Voting Pct 52490",False,False,1.0
+1511,Tehillah Church,"3515 Mount Vernon Ave, Bakersfield, CA 93306, USA",35.4055,-118.96587,1511.0,CA,KERN COUNTY,"Voting Pct 30318, Voting Pct 30321, Voting Pct 30367",False,False,1.0
+1512,Stella Hills Elementary School,"3800 Jewett Ave, Bakersfield, CA 93301, USA",35.39418,-119.01362,1512.0,CA,KERN COUNTY,"Voting Pct 30332, Voting Pct 30325, Voting Pct 30399",False,False,1.0
+1513,Canyon Hills Assembly of God,"7001 Auburn St, Bakersfield, CA 93306, USA",35.39744,-118.91696,1513.0,CA,KERN COUNTY,"Voting Pct 30338, Voting Pct 30339, Voting Pct 30337, Voting Pct 30322, Voting Pct 30370",False,False,1.0
+1514,First United Methodist Church - Rooms 4 & 5,"4600 Stockdale Hwy, Bakersfield, CA 93309, USA",35.35483,-119.05347,1514.0,CA,KERN COUNTY,"Voting Pct 30348, Voting Pct 30351",False,False,1.0
+1515,Park Stockdale Community Center,"205 Rio Bravo Dr, Bakersfield, CA 93309, USA",35.35633,-119.06958,1515.0,CA,KERN COUNTY,"Voting Pct 30352, Voting Pct 30374",False,False,1.0
+1516,Westside Church Of Christ - Gymnasium,"7300 Stockdale Hwy, Bakersfield, CA 93309, USA",35.35478,-119.08336,1516.0,CA,KERN COUNTY,"Voting Pct 30354, Voting Pct 30364, Voting Pct 40405, Voting Pct 40440, Voting Pct 40454, Voting Pct 43290",False,False,1.0
+1517,William B. Bimat Elementary School,"8600 Northshore Dr, Bakersfield, CA 93312, USA",35.41039,-119.09912,1517.0,CA,KERN COUNTY,"Voting Pct 30385, Voting Pct 30393, Voting Pct 30386",False,False,1.0
+1518,Cesar E. Chavez Elementary School,"4201 Mesa Marin Dr, Bakersfield, CA 93306, USA",35.3921,-118.88102,1518.0,CA,KERN COUNTY,Voting Pct 30389,False,False,1.0
+1519,Valley Baptist Church,"4800 Fruitvale Ave, Bakersfield, CA 93308, USA",35.40288,-119.07256,1519.0,CA,KERN COUNTY,"Voting Pct 30390, Voting Pct 30387, Voting Pct 32640",False,False,1.0
+1520,Wesley United Methodist Church,"1314 Oswell St, Bakersfield, CA 93306, USA",35.37632,-118.95027,1520.0,CA,KERN COUNTY,"Voting Pct 31642, Voting Pct 31953, Voting Pct 31960, Voting Pct 31641",False,False,1.0
+1521,Pioneer Drive Elementary School,"4404 Pioneer Dr, Bakersfield, CA 93306, USA",35.37012,-118.93581,1521.0,CA,KERN COUNTY,"Voting Pct 31935, Voting Pct 32532, Voting Pct 32370",False,False,1.0
+1522,Greenacres Community Center,"2014 Calloway Dr, Bakersfield, CA 93312, USA",35.37814,-119.10903,1522.0,CA,KERN COUNTY,"Voting Pct 32214, Voting Pct 33042",False,False,1.0
+1523,Niles East Mobile Estates,"8500 Kern Canyon Rd, Bakersfield, CA 93306, USA",35.37846,-118.91028,1523.0,CA,KERN COUNTY,"Voting Pct 32340, Voting Pct 32380, Voting Pct 32330",False,False,1.0
+1524,North High School,"300 Galaxy Ave, Bakersfield, CA 93308, USA",35.42908,-119.02781,1524.0,CA,KERN COUNTY,"Voting Pct 32441, Voting Pct 30060, Voting Pct 32240",False,False,1.0
+1525,"Valley Baptist Church, Olive Drive Campus","5500 Olive Dr, Bakersfield, CA 93308, USA",35.41311,-119.06458,1525.0,CA,KERN COUNTY,"Voting Pct 32731, Voting Pct 32732, Voting Pct 12650, Voting Pct 32652",False,False,1.0
+1526,Voorhies Elementary School,"6001 Pioneer Dr, Bakersfield, CA 93306, USA",35.36764,-118.91781,1526.0,CA,KERN COUNTY,"Voting Pct 32750, Voting Pct 32360",False,False,1.0
+1527,The Church Of Jesus Christ Of Lds,"851 Monica St, Bakersfield, CA 93306, USA",35.36281,-118.90491,1527.0,CA,KERN COUNTY,"Voting Pct 32751, Voting Pct 32762",False,False,1.0
+1528,Bakersfield College - Library,"1801 Panorama Dr, Bakersfield, CA 93305, USA",35.408,-118.97165,1528.0,CA,KERN COUNTY,"Voting Pct 33161, Voting Pct 30314, Voting Pct 33150, Voting Pct 30304, Voting Pct 30308",False,False,1.0
+1529,Virginia Colony Fire Station 41,"2214 Virginia Ave, Bakersfield, CA 93307, USA",35.36165,-118.96674,1529.0,CA,KERN COUNTY,Voting Pct 33492,False,False,1.0
+1530,Discovery Elementary School,"7500 Vaquero Ave, Bakersfield, CA 93308, USA",35.39947,-119.08667,1530.0,CA,KERN COUNTY,Voting Pct 35628,False,False,1.0
+1531,Riverlakes Community Church - Auditorium,"4301 Calloway Dr, Bakersfield, CA 93312, USA",35.40054,-119.11027,1531.0,CA,KERN COUNTY,"Voting Pct 35629, Voting Pct 35604, Voting Pct 40430, Voting Pct 30396, Voting Pct 35603, Voting Pct 35601, Voting Pct 35631",False,False,1.0
+1532,Almondale Elementary School,"10510 Chippewa St, Bakersfield, CA 93312, USA",35.40777,-119.11978,1532.0,CA,KERN COUNTY,"Voting Pct 35632, Voting Pct 35633",False,False,1.0
+1533,Columbia Elementary School,"703 Mondavi Way, Bakersfield, CA 93312, USA",35.36449,-119.10526,1533.0,CA,KERN COUNTY,"Voting Pct 35635, Voting Pct 35602, Voting Pct 35624",False,False,1.0
+1534,Endeavour Elementary School,"9300 Meacham Rd, Bakersfield, CA 93312, USA",35.39252,-119.1049,1534.0,CA,KERN COUNTY,"Voting Pct 35658, Voting Pct 35661",False,False,1.0
+1535,American Elementary School,"800 Verdugo Ln, Bakersfield, CA 93312, USA",35.36454,-119.11748,1535.0,CA,KERN COUNTY,"Voting Pct 35675, Voting Pct 35640",False,False,1.0
+1536,Virginia Avenue Elementary School,"3301 Virginia Ave, Bakersfield, CA 93307, USA",35.36032,-118.94706,1536.0,CA,KERN COUNTY,"Voting Pct 35677, Voting Pct 32531, Voting Pct 33222",False,False,1.0
+1537,West High School,"1200 New Stine Rd, Bakersfield, CA 93309, USA",35.3432,-119.05836,1537.0,CA,KERN COUNTY,"Voting Pct 40401, Voting Pct 40415",False,False,1.0
+1538,Actis Junior High School,"2400 Westholme Blvd, Bakersfield, CA 93309, USA",35.33379,-119.0645,1538.0,CA,KERN COUNTY,"Voting Pct 40406, Voting Pct 40442, Voting Pct 40411, Voting Pct 40414, Voting Pct 40424",False,False,1.0
+1539,New Life Church - SW Campus,"4201 Stine Rd, Bakersfield, CA 93313, USA",35.31716,-119.05735,1539.0,CA,KERN COUNTY,"Voting Pct 40407, Voting Pct 40444, Voting Pct 20254, Voting Pct 20253",False,False,1.0
+1540,Patriot Elementary School,"4410 Old Farm Rd, Bakersfield, CA 93312, USA",35.40076,-119.13578,1540.0,CA,KERN COUNTY,"Voting Pct 40419, Voting Pct 44112",False,False,1.0
+1541,St Demiana Coptic Orthodox Church,"9200 White Ln, Bakersfield, CA 93311, USA",35.32471,-119.10476,1541.0,CA,KERN COUNTY,Voting Pct 40421,False,False,1.0
+1542,Independence Elementary School,"2345 Old Farm Rd, Bakersfield, CA 93312, USA",35.38119,-119.13725,1542.0,CA,KERN COUNTY,"Voting Pct 40432, Voting Pct 40435",False,False,1.0
+1543,Rosedale North Elementary School,"11500 Meacham Rd, Bakersfield, CA 93312, USA",35.39164,-119.13004,1543.0,CA,KERN COUNTY,"Voting Pct 40433, Voting Pct 40460",False,False,1.0
+1544,Del Rio Elementary School,"600 Hidalgo Dr, Bakersfield, CA 93314, USA",35.34943,-119.16104,1544.0,CA,KERN COUNTY,"Voting Pct 40436, Voting Pct 40496",False,False,1.0
+1545,Aera Energy LLC,"10000 Ming Ave, Bakersfield, CA 93311, USA",35.34173,-119.11205,1545.0,CA,KERN COUNTY,"Voting Pct 40441, Voting Pct 40462, Voting Pct 40495, Voting Pct 40494, Voting Pct 44107",False,False,1.0
+1546,Panama/Buena Vista School Dist,"4200 Ashe Rd, Bakersfield, CA 93313, USA",35.31688,-119.07386,1546.0,CA,KERN COUNTY,"Voting Pct 40443, Voting Pct 40409, Voting Pct 40428",False,False,1.0
+1547,Tevis Junior High School,"3901 Pin Oak Park Blvd, Bakersfield, CA 93311, USA",35.32114,-119.09922,1547.0,CA,KERN COUNTY,"Voting Pct 40447, Voting Pct 40463",False,False,1.0
+1548,Freedom Middle School,"11445 Noriega Rd, Bakersfield, CA 93312, USA",35.40483,-119.13036,1548.0,CA,KERN COUNTY,Voting Pct 40455,False,False,1.0
+1549,Laurelglen Elementary School - Music Room,"2601 El Portal Dr, Bakersfield, CA 93309, USA",35.33157,-119.08915,1549.0,CA,KERN COUNTY,"Voting Pct 40461, Voting Pct 40480",False,False,1.0
+1550,Laurelglen Bible Church,"2801 Ashe Rd, Bakersfield, CA 93309, USA",35.32929,-119.0749,1550.0,CA,KERN COUNTY,Voting Pct 40464,False,False,1.0
+1551,The Bridge Bible Church,"12225 Stockdale Hwy, Bakersfield, CA 93314, USA",35.35275,-119.13879,1551.0,CA,KERN COUNTY,"Voting Pct 40466, Voting Pct 44103, Voting Pct 40429",False,False,1.0
+1552,Kern Christian Center,"4701 Gosford Rd, Bakersfield, CA 93313, USA",35.31237,-119.09313,1552.0,CA,KERN COUNTY,"Voting Pct 40469, Voting Pct 25270, Voting Pct 22018",False,False,1.0
+1553,The Oaks Community Church,"10200 Campus Park Dr, Bakersfield, CA 93311, USA",35.31868,-119.11498,1553.0,CA,KERN COUNTY,"Voting Pct 40470, Voting Pct 40497, Voting Pct 44113",False,False,1.0
+1554,St John's Lutheran Church,"4500 Buena Vista Rd, Bakersfield, CA 93311, USA",35.31316,-119.12643,1554.0,CA,KERN COUNTY,"Voting Pct 40475, Voting Pct 44104, Voting Pct 40471, Voting Pct 44105, Voting Pct 44106",False,False,1.0
+1555,Pioneer Senior Building,"131 E 1st St, Buttonwillow, CA 93206, USA",35.40019,-119.46896,1555.0,CA,KERN COUNTY,Voting Pct 41240,False,False,1.0
+1556,Frazier Park Branch Library,"3732 Park Dr, Frazier Park, CA 93225, USA",34.81922,-118.94845,1556.0,CA,KERN COUNTY,Voting Pct 41820,False,False,1.0
+1557,Rosedale Bible Church,"16000 Rosedale Hwy, Bakersfield, CA 93314, USA",35.38387,-119.18061,1557.0,CA,KERN COUNTY,"Voting Pct 41913, Voting Pct 43055, Voting Pct 41910, Voting Pct 43043, Voting Pct 43059, Voting Pct 41915",False,False,1.0
+1558,Frazier Mountain High School,"700 Falcon Way, Lebec, CA 93243, USA",34.79963,-118.89145,1558.0,CA,KERN COUNTY,Voting Pct 42218,False,False,1.0
+1559,Lost Hills Community Center,"Lost Hills Park, 14688 Lost Hills Rd, Lost Hills, CA 93249, USA",35.61697,-119.68861,1559.0,CA,KERN COUNTY,Voting Pct 42261,False,False,1.0
+1560,Maricopa Senior Center,"271 California St, Maricopa, CA 93252, USA",35.06446,-119.40197,1560.0,CA,KERN COUNTY,Voting Pct 42390,False,False,1.0
+1561,Pine Mountain Christian Community Church,"16281 Askin Dr, Frazier Park, CA 93222, USA",34.84948,-119.16589,1561.0,CA,KERN COUNTY,Voting Pct 42842,False,False,1.0
+1562,Cuddy Hall,"335 Lakewood Dr, Frazier Park, CA 93225, USA",34.81701,-118.99787,1562.0,CA,KERN COUNTY,Voting Pct 42845,False,False,1.0
+1563,Grace Baptist Church,"2550 Jewetta Ave, Bakersfield, CA 93312, USA",35.38268,-119.13033,1563.0,CA,KERN COUNTY,"Voting Pct 43048, Voting Pct 33040, Voting Pct 43053, Voting Pct 43052",False,False,1.0
+1564,Centennial Elementary School,"15200 Westdale Dr, Bakersfield, CA 93314, USA",35.37174,-119.16123,1564.0,CA,KERN COUNTY,Voting Pct 43050,False,False,1.0
+1565,Rosedale Middle School - Gymnasium,"12463 Rosedale Hwy, Bakersfield, CA 93312, USA",35.38266,-119.14075,1565.0,CA,KERN COUNTY,Voting Pct 43051,False,False,1.0
+1566,Taft Veterans Building,"218 Taylor St, Taft, CA 93268, USA",35.15421,-119.45969,1566.0,CA,KERN COUNTY,"Voting Pct 43310, Voting Pct 43340, Voting Pct 41780, Voting Pct 42630",False,False,1.0
+1567,Westside Recreation & Park Dist,"500 Cascade Pl, Taft, CA 93268, USA",35.14493,-119.46712,1567.0,CA,KERN COUNTY,"Voting Pct 43320, Voting Pct 43170",False,False,1.0
+1568,Wasco Veterans Hall,"1202 Poplar Ave, Wasco, CA 93280, USA",35.58846,-119.3445,1568.0,CA,KERN COUNTY,"Voting Pct 43567, Voting Pct 43568, Voting Pct 43510, Voting Pct 43572, Voting Pct 43520, Voting Pct 43540, Voting Pct 43570",False,False,1.0
+1569,Fairview Elementary School,"425 E Fairview Rd, Bakersfield, CA 93307, USA",35.303,-118.99628,1569.0,CA,KERN COUNTY,"Voting Pct 50020, Voting Pct 50514",False,False,1.0
+1570,Arvin Veterans Building,"414 4th Ave, Arvin, CA 93203, USA",35.2102,-118.82923,1570.0,CA,KERN COUNTY,"Voting Pct 50180, Voting Pct 50190, Voting Pct 50200, Voting Pct 50211",False,False,1.0
+1571,Emmanuel Lutheran Church,"1900 Baker St, Bakersfield, CA 93305, USA",35.3887,-118.98911,1571.0,CA,KERN COUNTY,"Voting Pct 50501, Voting Pct 50506, Voting Pct 50503",False,False,1.0
+1572,Cain Memorial Ame Church- Noah's Ark Building,"618 California Ave, Bakersfield, CA 93301, USA",35.36869,-119.00891,1572.0,CA,KERN COUNTY,Voting Pct 50507,False,False,1.0
+1573,California Ave Church Of Christ,"1020 E California Ave, Bakersfield, CA 93307, USA",35.36892,-118.98939,1573.0,CA,KERN COUNTY,"Voting Pct 50511, Voting Pct 50509",False,False,1.0
+1574,Bakersfield Racquet Club,"1660 Pine St, Bakersfield, CA 93301, USA",35.37399,-119.0312,1574.0,CA,KERN COUNTY,"Voting Pct 50517, Voting Pct 50519",False,False,1.0
+1575,Weill Institute,"2100 Chester Ave, Bakersfield, CA 93301, USA",35.37846,-119.01817,1575.0,CA,KERN COUNTY,Voting Pct 50523,False,False,1.0
+1576,Compassion Christian Center,"1030 4th St, Bakersfield, CA 93304, USA",35.36123,-119.01367,1576.0,CA,KERN COUNTY,Voting Pct 50524,False,False,1.0
+1577,Emerson Middle School,"801 E 4th St, Bakersfield, CA 93307, USA",35.36098,-118.99478,1577.0,CA,KERN COUNTY,Voting Pct 50532,False,False,1.0
+1578,Horizon Elementary School,"7901 Monitor St, Bakersfield, CA 93307, USA",35.28284,-119.01401,1578.0,CA,KERN COUNTY,"Voting Pct 50545, Voting Pct 50536, Voting Pct 50518",False,False,1.0
+1579,Leo G. Pauly Elementary School,"313 Planz Rd, Bakersfield, CA 93304, USA",35.32373,-119.00728,1579.0,CA,KERN COUNTY,"Voting Pct 50548, Voting Pct 50560",False,False,1.0
+1580,Golden Valley High School,"801 Hosking Ave, Bakersfield, CA 93307, USA",35.27948,-119.00889,1580.0,CA,KERN COUNTY,"Voting Pct 50552, Voting Pct 50741, Voting Pct 50538",False,False,1.0
+1581,Casa Loma Elementary School,"525 E Casa Loma Dr, Bakersfield, CA 93307, USA",35.33886,-118.99571,1581.0,CA,KERN COUNTY,"Voting Pct 50590, Voting Pct 50543, Voting Pct 50541",False,False,1.0
+1582,Greenfield School District,"1624 Fairview Rd, Bakersfield, CA 93307, USA",35.30466,-119.0199,1582.0,CA,KERN COUNTY,"Voting Pct 50742, Voting Pct 20257, Voting Pct 20245, Voting Pct 20248",False,False,1.0
+1583,Bakersfield Elementary Teachers Assn,"837 H St, Bakersfield, CA 93304, USA",35.3657,-119.02156,1583.0,CA,KERN COUNTY,"Voting Pct 50750, Voting Pct 50765, Voting Pct 50751",False,False,1.0
+1584,Bakersfield Church Of The Brethren,"327 A St, Bakersfield, CA 93304, USA",35.36118,-119.02969,1584.0,CA,KERN COUNTY,Voting Pct 50752,False,False,1.0
+1585,McKee Middle School,"205 McKee Rd, Bakersfield, CA 93307, USA",35.27329,-119.00489,1585.0,CA,KERN COUNTY,"Voting Pct 51228, Voting Pct 51227",False,False,1.0
+1586,Southeast Bakersfield Community Serv Center,"1600 E Belle Terrace, Bakersfield, CA 93307, USA",35.34716,-118.98378,1586.0,CA,KERN COUNTY,"Voting Pct 51313, Voting Pct 51310, Voting Pct 52033",False,False,1.0
+1587,Sequoia Middle School,"900 Belle Terrace, Bakersfield, CA 93304, USA",35.34705,-119.0128,1587.0,CA,KERN COUNTY,"Voting Pct 51331, Voting Pct 51332, Voting Pct 51180",False,False,1.0
+1588,Shirley Lane Elementary School,"6714 Shirley Ln, Bakersfield, CA 93307, USA",35.34485,-118.9285,1588.0,CA,KERN COUNTY,"Voting Pct 51728, Voting Pct 51727",False,False,1.0
+1589,Arvin Lamont Administrative Building,"12014 Main St, Lamont, CA 93241, USA",35.24474,-118.91526,1589.0,CA,KERN COUNTY,Voting Pct 52034,False,False,1.0
+1590,Height Street Baptist Church,"1010 Height St, Bakersfield, CA 93305, USA",35.39427,-118.98218,1590.0,CA,KERN COUNTY,"Voting Pct 52070, Voting Pct 52080, Voting Pct 50505",False,False,1.0
+1591,David Head Community Building,"10300 San Diego St, Lamont, CA 93241, USA",35.2615,-118.91943,1591.0,CA,KERN COUNTY,"Voting Pct 52180, Voting Pct 52183, Voting Pct 52184",False,False,1.0
+1592,Lamont Assembly of God Church,"8300 Collison St, Lamont, CA 93241, USA",35.27094,-118.91252,1592.0,CA,KERN COUNTY,"Voting Pct 52182, Voting Pct 52185",False,False,1.0
+1593,Kern Agricultural Pavilion,"3300 E Belle Terrace, Bakersfield, CA 93307, USA",35.347,-118.96551,1593.0,CA,KERN COUNTY,"Voting Pct 52400, Voting Pct 50576",False,False,1.0

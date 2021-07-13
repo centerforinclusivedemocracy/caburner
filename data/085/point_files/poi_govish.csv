@@ -1,0 +1,170 @@
+,osm_id,code,fclass,name,lon,lat
+0,313261447,2005.0,post_office,,-122.0864,37.35438
+1,345438498,2002.0,fire_station,Loyola Fire Station,-122.09334,37.3576
+2,923288074,2001.0,police,Police Station,-122.1274,37.36188
+3,2619982748,2005.0,post_office,The UPS Store,-122.0981,37.36163
+4,5587462376,2005.0,post_office,United States Post Office,-122.05135,37.35438
+5,324518353,2008.0,town_hall,Los Altos Hills Town Hall,-122.13872,37.38371
+6,1723464800,2007.0,library,Christian Science Reading Room,-122.1452,37.42561
+7,8281625768,2007.0,library,NASA Harold P. Klein Life Sciences Library,-122.05807,37.41445
+8,8281625769,2007.0,library,NASA Technical Library,-122.06225,37.4136
+9,4608063472,2007.0,library,Columbia Neighborhood center library,-122.01875,37.39494
+10,300946538,2008.0,town_hall,Gilroy City Hall,-121.57253,37.00435
+11,332494039,2001.0,police,Gilroy Police Station,-121.57349,37.00408
+12,368170127,2007.0,library,Gavilan College Library,-121.56915,36.97387
+13,8712687243,2007.0,library,Cesar E. Chavez Library,-121.57567,36.99677
+14,3063907836,2005.0,post_office,The UPS Store,-122.04243,37.3387
+15,1077818343,2005.0,post_office,Redwood Estates,-121.98653,37.15842
+16,1642124879,2005.0,post_office,The UPS Store,-122.16028,37.43855
+17,1781829281,2007.0,library,Lane Medical Library,-122.1755,37.43273
+18,4732910085,2007.0,library,Robin Li and Melissa Ma Science Library,-122.17142,37.43069
+19,812849107,2007.0,library,,-121.60203,37.03733
+20,993180206,2005.0,post_office,Fed Ex Center,-121.58007,37.01326
+21,8484206910,2005.0,post_office,The UPS Store,-121.8419,37.33917
+22,7176677261,2005.0,post_office,United States Post Office,-121.91431,37.31856
+23,3458890526,2005.0,post_office,The UPS Store,-121.91286,37.33266
+24,3643659852,2001.0,police,Transit Police Bureau Substation,-121.90256,37.32913
+25,8770636829,2009.0,courthouse,Juvenile Justice Courthouse,-121.90786,37.34991
+26,314151192,2005.0,post_office,,-122.08823,37.37172
+27,358838159,2005.0,post_office,Los Altos Post Office,-122.12015,37.38048
+28,2403126776,2005.0,post_office,United States Post Office,-122.07601,37.37839
+29,2619982673,2005.0,post_office,Mail All Center,-122.08782,37.373
+30,2619982745,2005.0,post_office,The UPS Store,-122.11507,37.37905
+31,2641042493,2005.0,post_office,Los Altos Mail Office,-122.11938,37.38012
+32,2642087074,2005.0,post_office,,-122.11591,37.37856
+33,5975640248,2007.0,library,Covington School Library,-122.1068,37.37248
+34,4367160189,2005.0,post_office,The UPS Store,-121.79773,37.25386
+35,7100399100,2005.0,post_office,Mail Stop,-121.83128,37.23815
+36,8567999339,2005.0,post_office,HR Express,-121.83372,37.27941
+37,631343897,2001.0,police,Santa Clara Police,-121.94768,37.39539
+38,6859149487,2005.0,post_office,PostalAnnex,-121.94662,37.3948
+39,3987066984,2002.0,fire_station,Pacheco Fire Station 31,-121.34696,37.01346
+40,368170145,2007.0,library,West Valley Branch Library,-121.97934,37.30237
+41,933757012,2001.0,police,Mission College Police,-121.98139,37.39235
+42,988279570,2005.0,post_office,All Service Centre,-121.99515,37.38336
+43,2297714492,2005.0,post_office,FedEx Office,-121.98445,37.38874
+44,2607395542,2005.0,post_office,FedEx Office,-121.99525,37.38298
+45,3655078965,2005.0,post_office,The UPS Store,-121.97477,37.39034
+46,8723178610,2007.0,library,Saint John Paul II Library,-121.97651,37.38888
+47,1700633023,2001.0,police,Milpitas Police,-121.91018,37.44931
+48,368170150,2007.0,library,Pacific Graduate School of Psychological Research Library,-122.10635,37.42966
+49,8197826661,2008.0,town_hall,Sunnyvale City Hall,-122.03787,37.37258
+50,3642759857,2001.0,police,University Police Department,-121.87992,37.33313
+51,358839422,2005.0,post_office,New Almaden Post Office,-121.82273,37.17578
+52,368168639,2002.0,fire_station,San Jose Fire Station 28,-121.82472,37.19952
+53,5762636708,2002.0,fire_station,Cal Fire Stevens Creek Fire Station 23,-122.0791,37.28719
+54,368168551,2002.0,fire_station,West Valley Fire Station,-122.01947,37.28266
+55,368171156,2099.0,public_building,Sanchez-South County Government Center,-121.60257,37.07393
+56,1280580278,2007.0,library,,-121.60124,37.07842
+57,5754996147,2007.0,library,,-121.60495,37.13801
+58,368170147,2007.0,library,Saint Thomas Episcopal Church Library,-122.04328,37.3776
+59,3513424193,2002.0,fire_station,Quito Fire Station,-122.00229,37.24122
+60,358857281,2002.0,fire_station,McCormack Training Center,-121.95843,37.27361
+61,368168550,2002.0,fire_station,Sunnyoaks Fire Station,-121.95845,37.27246
+62,2494420134,2001.0,police,Los Gatos Police Department Operations Center,-121.96181,37.23739
+63,2570305851,2005.0,post_office,FedEx Office,-121.96021,37.24291
+64,3272065316,2005.0,post_office,PostalAnnex,-121.96048,37.24006
+65,3513457593,2002.0,fire_station,Winchester Fire Station,-121.96771,37.25231
+66,3704012660,2005.0,post_office,The UPS Store,-121.95798,37.24404
+67,368170458,2007.0,library,First Congregational Church Library,-122.13361,37.44464
+68,4474939856,2005.0,post_office,Postal Plus,-121.90728,37.25243
+69,368168537,2002.0,fire_station,San Jose Fire Station 9,-121.9163,37.26343
+70,4876323121,2005.0,post_office,The UPS Store,-121.93397,37.26282
+71,5821249648,2007.0,library,Ida Price M.S. Library,-121.92574,37.27327
+72,3911828059,2005.0,post_office,PostalAnnex,-121.77546,37.23073
+73,8288098806,2005.0,post_office,Mailbox & More,-121.77509,37.22764
+74,7215715252,2005.0,post_office,Centro Express,-121.8908,37.35974
+75,1249142264,2002.0,fire_station,Cal Fire Smith Creek Fire Station 12,-121.66915,37.32257
+76,368170459,2007.0,library,Center for Continuing Study of California Economy Library,-122.16052,37.44938
+77,2512780031,2001.0,police,Palo Alto Police Department,-122.15955,37.44409
+78,368167879,2002.0,fire_station,Los Altos Fire Station,-122.11367,37.38471
+79,2638611675,2005.0,post_office,Village Mail Center,-122.11519,37.40038
+80,8558664859,2005.0,post_office,The UPS Store,-121.85798,37.38746
+81,8562616201,2007.0,library,Harrington Learning Commons,-121.93804,37.3484
+82,8562616203,2007.0,library,Orradre Library,-121.93783,37.34824
+83,8604433234,2005.0,post_office,Mailing Service Center,-121.93851,37.33948
+84,8604433236,2005.0,post_office,Ad West Mail Center,-121.93842,37.33931
+85,358839370,2005.0,post_office,Los Gatos Main Post Office,-121.98432,37.2213
+86,368171802,2008.0,town_hall,Los Gatos City Hall,-121.97879,37.22056
+87,472302986,2001.0,police,,-121.97882,37.22049
+88,647699753,2002.0,fire_station,Los Gatos Fire Station,-121.97993,37.22685
+89,1257135026,2007.0,library,California Province of the Society of Jesus Jesuit Center Library,-121.98216,37.2137
+90,4908231765,2007.0,library,Reading Room,-121.97643,37.22062
+91,6615573414,2005.0,post_office,The UPS Store,-121.98022,37.23161
+92,368166733,2099.0,public_building,Santa Clara Unified School District Office,-121.99524,37.3555
+93,580360959,2002.0,fire_station,,-121.99245,37.34518
+94,2388972240,2005.0,post_office,United States Post Office,-121.99439,37.34595
+95,7256260593,2005.0,post_office,The UPS Store,-121.9761,37.33818
+96,358839182,2005.0,post_office,Blossom Hill Station San Jose Post Office,-121.84639,37.24888
+97,8648300406,2005.0,post_office,PostalAnnex,-121.87924,37.26258
+98,358838664,2005.0,post_office,Station B San Jose Post Office,-121.90301,37.31105
+99,3778987367,2005.0,post_office,Garden Station,-121.90086,37.30706
+100,8895930296,2007.0,library,The Gene and Mickey Long Library,-121.89621,37.29082
+101,4641748422,2007.0,library,Inez C. Jackson Historical Library,-121.88846,37.34345
+102,368170148,2007.0,library,Milpitas Community Library,-121.89842,37.43343
+103,1700633024,2007.0,library,Milpitas Public Library,-121.90704,37.43243
+104,3631944449,2005.0,post_office,The Postal Stop,-121.90906,37.4279
+105,6681775714,2005.0,post_office,The UPS Store,-121.89891,37.43524
+106,2159765926,2002.0,fire_station,,-121.77933,37.05669
+107,8813107045,2005.0,post_office,利达快递,-122.0327,37.31419
+108,8856487722,2005.0,post_office,Stevens Creek Office Center Mail Drop,-122.03859,37.32374
+109,2309426541,2001.0,police,,-122.04522,37.32091
+110,8447172610,2005.0,post_office,PostalAnnex,-121.78142,37.28826
+111,8573333116,2005.0,post_office,PostalAnnex,-121.79421,37.31435
+112,8759077372,2005.0,post_office,E-Z Mail,-121.79169,37.31277
+113,358838660,2005.0,post_office,Santa Clara Post Office,-121.94718,37.34855
+114,6532925180,2005.0,post_office,PostalAnnex,-121.96116,37.35024
+115,4642809825,2005.0,post_office,Kangaroo Pack & Ship,-121.85746,37.33157
+116,4885818785,2001.0,police,Opsec Security Patrol,-121.85696,37.33383
+117,8207376561,2005.0,post_office,VietAir Express,-121.85242,37.33299
+118,8356930851,2005.0,post_office,Việt Cargo,-121.85752,37.33242
+119,368168552,2002.0,fire_station,Campbell Fire Station,-121.93584,37.28546
+120,6307708478,2005.0,post_office,The UPS Store,-121.93203,37.29078
+121,7387271605,2007.0,library,Bascom Branch Library,-121.93116,37.30759
+122,368170137,2007.0,library,Islamic Library and Resource Center,-121.94801,37.29189
+123,3679715123,2005.0,post_office,,-121.85106,37.31167
+124,7387271939,2007.0,library,Seven Trees Branch Library,-121.83326,37.28494
+125,7717587137,2005.0,post_office,,-121.84751,37.3091
+126,7841092575,2005.0,post_office,Bảo Tín Cargo,-121.83835,37.31482
+127,8356284459,2005.0,post_office,ABC Cargo Express,-121.84327,37.30243
+128,3630274649,2005.0,post_office,The UPS Store,-121.88712,37.33572
+129,4881063480,2001.0,police,170 Suite,-121.88976,37.33608
+130,7094840053,2005.0,post_office,The UPS Store,-121.91246,37.29284
+131,1700604299,2005.0,post_office,FedEx Office Print and Ship Center,-121.89383,37.38358
+132,6177519993,2005.0,post_office,FedEx,-121.89526,37.38388
+133,6536460667,2005.0,post_office,The UPS Store,-121.89738,37.3843
+134,4901268357,2005.0,post_office,The UPS Store,-121.88815,37.32992
+135,358838486,2005.0,post_office,Saratoga Post Office,-122.01519,37.26629
+136,368172495,2008.0,town_hall,Saratoga City Hall,-122.01472,37.2675
+137,464804696,2002.0,fire_station,Saratoga Fire Station,-122.03148,37.25918
+138,2637692717,2005.0,post_office,The UPS Store,-122.03299,37.25849
+139,3655078967,2005.0,post_office,The UPS Store,-121.97567,37.40443
+140,4909658725,2001.0,police,Community Policing Center,-121.97662,37.42637
+141,7757334640,2005.0,post_office,The UPS Store,-122.03147,37.30782
+142,2663431877,2005.0,post_office,The UPS Store,-122.006,37.35141
+143,8447057826,2005.0,post_office,Tây Nam Cargo,-121.82709,37.31906
+144,8784037258,2005.0,post_office,,-121.82362,37.32199
+145,3445812317,2007.0,library,Branner Earth Sciences Library,-122.17264,37.42644
+146,4768549821,2007.0,library,David Rumsey Map Center,-122.16778,37.42686
+147,4846515988,2007.0,library,Robert Crown Law Library,-122.16764,37.42419
+148,4892917223,2007.0,library,Stanford Geospatial Center,-122.17252,37.42642
+149,5206903613,2007.0,library,Tanner Philosophy Library,-122.17123,37.42792
+150,5555953384,2007.0,library,Mendenhall Library,-122.16932,37.42835
+151,7439173023,2007.0,library,Stanford Map Library,-122.17276,37.42646
+152,358839117,2005.0,post_office,Almaden Valley Station San Jose Post Office,-121.8625,37.21881
+153,368170115,2007.0,library,Almaden Branch Library,-121.86975,37.22136
+154,2070192197,2005.0,post_office,The UPS Store,-121.88469,37.22967
+155,5821093916,2007.0,library,Leigh Library,-121.92152,37.2424
+156,7732168783,2005.0,post_office,PostNet,-121.88654,37.40676
+157,8332523259,2005.0,post_office,Atlas,-121.87731,37.41676
+158,8356250207,2005.0,post_office,Dollar Plus,-121.8827,37.4343
+159,8756218105,2005.0,post_office,Post N Parcel,-121.87246,37.41752
+160,1783200420,2005.0,post_office,The UPS Store,-122.08293,37.3878
+161,2157969014,2005.0,post_office,Mountain View Hope Street Post Office,-122.07778,37.3931
+162,2217336066,2008.0,town_hall,Mountain View City Hall,-122.08202,37.38971
+163,4884928806,2001.0,police,Mountain View Police Department,-122.08165,37.39561
+164,3630274641,2005.0,post_office,Colonnade Station Post Office,-121.88544,37.33352
+165,8424037554,2005.0,post_office,The UPS Store,-121.82418,37.29987
+166,8185858620,2005.0,post_office,The UPS Store,-121.93854,37.41249
+167,4170062877,2005.0,post_office,The UPS Store,-121.64267,37.11202
+168,4170124353,2005.0,post_office,PostalAnnex,-121.64036,37.11337
