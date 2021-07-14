@@ -84,7 +84,7 @@ function initStatewideMap () {
                             message = 'Community-Level Demographic and Voter Data';
                             break;
                         case 'inprogress':
-                            message = '2020 Modeling Update in Progress';
+                            message = 'Modeling Update in Progress';
                             break;
                         default:
                             console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for creating tooltip`);

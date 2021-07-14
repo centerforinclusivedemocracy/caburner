@@ -13,7 +13,7 @@ L.Control.StatewideMapLegend = L.Control.extend({
         this.container.innerHTML = '';
         this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-lite"></span> Community-Level Demographic and Voter Data</div>';
         this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-fullmodel"></span> Suggested Voting Locations</div>';
-        this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-inprogress"></span> 2020 Update in Progress</div>';
+        this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-inprogress"></span> Modeling Update in Progress</div>';
         // this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-none"></span> Not Analyzed</div>';
 
 
