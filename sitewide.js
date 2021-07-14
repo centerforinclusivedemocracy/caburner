@@ -14,7 +14,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "001", name: "Alameda", profile: 'inprogress', },
     { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "005", name: "Amador", profile: 'fullmodel', },
-    { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing vote location suggestions for this county.", },
+    { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county.", },
     { countyfp: "009", name: "Calaveras", profile: 'fullmodel', },
     { countyfp: "011", name: "Colusa", profile: 'fullmodel', },
     { countyfp: "013", name: "Contra Costa", profile: 'inprogress', },
@@ -188,7 +188,7 @@ const DATA_LAYERS = {};
 
 DATA_LAYERS.four_day_sites = {
     id: 'four_day_sites',
-    title: "Suggested Areas for 4 Day Vote Centers",
+    title: "Suggested Areas for 4 Day Voting Locations",
     csvfile: 'model_files/four_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
@@ -201,7 +201,7 @@ DATA_LAYERS.four_day_sites = {
 
 DATA_LAYERS.eleven_day_sites = {
     id: 'eleven_day_sites',
-    title: "Suggested Areas for 11 Day Vote Centers",
+    title: "Suggested Areas for 11 Day Voting Locations",
     csvfile: 'model_files/eleven_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
@@ -235,7 +235,7 @@ DATA_LAYERS.all_sites_scored = {
 };
 DATA_LAYERS.additional_sites_model = {
     id: 'additional_sites_model',
-    title: "Additional Vote Center Options Based on Model",
+    title: "Additional Voting Location Options Based on Model",
     csvfile: 'model_files/additional_sites_model.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
@@ -247,7 +247,7 @@ DATA_LAYERS.additional_sites_model = {
 };
 DATA_LAYERS.additional_sites_distance = {
     id: 'additional_sites_distance',
-    title: "Additional Vote Center Options Based on Distance",
+    title: "Additional Voting Location Options Based on Distance",
     csvfile: 'model_files/additional_sites_distance.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
@@ -436,7 +436,7 @@ DATA_LAYERS.pripoll2020 = {
     csvfile: 'point_files/primary_pollingplaces_2020.csv',
     circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 2, },
     popupnamefield: 'name',
-    popuptypetext: '2020 Primary Vote Location',
+    popuptypetext: '2020 Primary Voting Location',
     downloadfile: 'point_files/primaryvote_2020.csv',
     mapzindex: 'highest',
     layertype: 'pois'
@@ -447,7 +447,7 @@ DATA_LAYERS.pricenter2020 = {
     csvfile: 'point_files/primary_votecenters_2020.csv',
     circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 2,  },
     popupnamefield: 'name',
-    popuptypetext: '2020 Primary Vote Center Location',
+    popuptypetext: '2020 Primary Election Voting Locations',
     downloadfile: 'point_files/primary_votecenters_2020.csv',
     mapzindex: 'highest',
     layertype: 'pois'
