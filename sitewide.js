@@ -46,7 +46,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "065", name: "Riverside", profile: 'inprogress', outoforder: "Updated modeling of suggested vote locations is in progress for this county. In the meantime, previously modeled suggested vote locations are available."},
     { countyfp: "067", name: "Sacramento", profile: 'fullmodel', },
     { countyfp: "069", name: "San Benito", profile: 'fullmodel', },
-    { countyfp: "071", name: "San Bernardino", profile: 'fullmodel', outoforder: ""},
+    { countyfp: "071", name: "San Bernardino", profile: 'inprogress', outoforder: "Updated modeling of suggested vote locations is in progress for this county. In the meantime, previously modeled suggested vote locations are available."},
     { countyfp: "073", name: "San Diego", profile: 'inprogress', outoforder: "Updated modeling of suggested vote locations is in progress for this county. In the meantime, previously modeled suggested vote locations are available."},
     { countyfp: "075", name: "San Francisco", profile: 'fullmodel', },
     { countyfp: "077", name: "San Joaquin", profile: 'fullmodel', },
