@@ -40,7 +40,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "053", name: "Monterey", profile: 'fullmodel', },
     { countyfp: "055", name: "Napa", profile: 'fullmodel', },
     { countyfp: "057", name: "Nevada", profile: 'fullmodel', },
-    { countyfp: "059", name: "Orange", profile: 'inprogress', outoforder: "Updated modeling of suggested voting locations is in progress for this county. Currently modeled voting locations for the 2020 General Election are available."},
+    { countyfp: "059", name: "Orange", profile: 'fullmodel', outoforder: ""},
     { countyfp: "061", name: "Placer", profile: 'fullmodel', },
     { countyfp: "063", name: "Plumas", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "065", name: "Riverside", profile: 'fullmodel', outoforder: ""},
