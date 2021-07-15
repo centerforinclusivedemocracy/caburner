@@ -1,38 +1,38 @@
 osm_id,code,fclass,name,lon,lat
-358761254,2082.0,school,Bailey Flat School,-119.81349,37.35216
-358773264,2082.0,school,Raymond Granite Union High School,-119.90627,37.20856
-358834701,2082.0,school,Raymond-Knowles Elementary School,-119.90877,37.21161
-3385110563,2082.0,school,Rivergold Elementary School,-119.7811,37.20814
-358778499,2082.0,school,Webster School,-119.85737,36.88078
 358760622,2082.0,school,Adams School,-120.08016,36.95717
 358760837,2082.0,school,Alpha School,-120.08294,36.91606
 358761156,2082.0,school,Ashview School,-120.40184,37.0405
+358761254,2082.0,school,Bailey Flat School,-119.81349,37.35216
+358767863,2082.0,school,Howard Elementary School,-120.15683,36.95217
 358764785,2082.0,school,Dixieland Elementary School,-120.20267,37.01745
 358765142,2082.0,school,Eastin-Arcola Elementary School,-120.00905,36.86633
-358767863,2082.0,school,Howard Elementary School,-120.15683,36.95217
-358768865,2082.0,school,La Vina School,-120.12933,36.87467
 358770968,2082.0,school,James Monroe Elementary School,-120.05544,36.98356
+358768865,2082.0,school,La Vina School,-120.12933,36.87467
+358773264,2082.0,school,Raymond Granite Union High School,-119.90627,37.20856
 358773593,2082.0,school,Ripperdan Elementary School,-120.07349,36.85161
 358774191,2082.0,school,Saint Joachim Elementary School,-120.06711,36.96078
 358776097,2082.0,school,Seventh Day Adventist School,-120.31145,37.07311
 358778387,2082.0,school,George Washington Elementary School,-120.06016,36.97078
+358778499,2082.0,school,Webster School,-119.85737,36.88078
+358795345,2082.0,school,Gateway Christian School,-119.64154,37.34355
 358815579,2082.0,school,La Vina Elementary School,-120.111,36.87995
+358834544,2082.0,school,Ahwahnee Hills Continuation High School,-119.72675,37.37462
+358834550,2082.0,school,Oakhurst Elementary School,-119.6457,37.32967
+358834561,2082.0,school,Yosemite High School,-119.63126,37.32883
 358834595,2082.0,school,Duane E Furman High School West,-120.08072,36.95217
 358834651,2082.0,school,Norman M Gould Education Center,-120.05738,36.95161
 358834658,2082.0,school,Pershing Elementary School,-120.05155,36.96606
 358834663,2082.0,school,Seventh Day Adventist School,-120.066,36.97606
+358834701,2082.0,school,Raymond-Knowles Elementary School,-119.90877,37.21161
 358834704,2082.0,school,Berenda Elementary School,-120.15406,37.03717
 2926137869,2303.0,cafe,Sno White,-120.05387,36.96539
+2928147313,2303.0,cafe,Deli Delicious,-119.65254,37.33274
+2928150742,2303.0,cafe,Starbucks,-119.65253,37.33303
 2928265182,2303.0,cafe,Yum Yum Donuts,-120.06115,36.9612
 2951614153,2501.0,supermarket,Super Save,-120.05813,36.97524
 2954890059,2012.0,community_centre,Frank A Bergon Senior Center,-120.05658,36.96041
+3385110563,2082.0,school,Rivergold Elementary School,-119.7811,37.20814
 4312183091,2303.0,cafe,Starbucks,-120.08608,36.98136
 6196289554,2303.0,cafe,,-120.13154,37.01945
-358795345,2082.0,school,Gateway Christian School,-119.64154,37.34355
-358834544,2082.0,school,Ahwahnee Hills Continuation High School,-119.72675,37.37462
-358834550,2082.0,school,Oakhurst Elementary School,-119.6457,37.32967
-358834561,2082.0,school,Yosemite High School,-119.63126,37.32883
-2928147313,2303.0,cafe,Deli Delicious,-119.65254,37.33274
-2928150742,2303.0,cafe,Starbucks,-119.65253,37.33303
 6597719928,2501.0,supermarket,Grocery Outlet,-119.65666,37.33414
 7979246588,2303.0,cafe,The Cool Bean Cafe,-119.65481,37.33234

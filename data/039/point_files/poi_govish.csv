@@ -1,18 +1,18 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358834700,2005.0,post_office,Raymond Post Office,-119.90738,37.2155
-1,2307249826,2001.0,police,Police usually here if you need help,-119.73519,37.13108
+0,358816389,2005.0,post_office,Coarsegold Post Office,-119.69209,37.26439
+1,368170327,2007.0,library,Chowchilla Branch Madera County Library,-120.26379,37.11939
 2,358834642,2005.0,post_office,Madera Post Office,-120.05711,36.96161
-3,358834723,2005.0,post_office,Chowchilla Post Office,-120.26073,37.1205
-4,368167647,2002.0,fire_station,Madera Fire Department Station #6,-120.05592,36.9684
-5,368170327,2007.0,library,Chowchilla Branch Madera County Library,-120.26379,37.11939
-6,368170330,2007.0,library,Madera County Law Library,-120.06266,36.9605
-7,368171030,2099.0,public_building,Madera County Government Center,-120.06266,36.9605
-8,368171752,2008.0,town_hall,Madera City Hall,-120.06433,36.96245
-9,368171754,2008.0,town_hall,Chowchilla City Hall,-120.25962,37.12272
-10,1929302441,2007.0,library,Madera County Library,-120.06203,36.96135
-11,1929379689,2001.0,police,Madera Police Department Headquarters,-120.05496,36.96053
-12,1987944946,2002.0,fire_station,Madera City Fire Department Station #7,-120.08366,36.94959
-13,358816389,2005.0,post_office,Coarsegold Post Office,-119.69209,37.26439
-14,358834698,2005.0,post_office,North Fork Post Office,-119.50958,37.22995
-15,368171589,2099.0,public_building,Government Center,-119.58126,37.338
-16,368171755,2008.0,town_hall,North Fork Town Hall,-119.50903,37.22856
+3,358834698,2005.0,post_office,North Fork Post Office,-119.50958,37.22995
+4,358834700,2005.0,post_office,Raymond Post Office,-119.90738,37.2155
+5,358834723,2005.0,post_office,Chowchilla Post Office,-120.26073,37.1205
+6,368167647,2002.0,fire_station,Madera Fire Department Station #6,-120.05592,36.9684
+7,368170330,2007.0,library,Madera County Law Library,-120.06266,36.9605
+8,368171030,2099.0,public_building,Madera County Government Center,-120.06266,36.9605
+9,368171752,2008.0,town_hall,Madera City Hall,-120.06433,36.96245
+10,368171589,2099.0,public_building,Government Center,-119.58126,37.338
+11,368171754,2008.0,town_hall,Chowchilla City Hall,-120.25962,37.12272
+12,368171755,2008.0,town_hall,North Fork Town Hall,-119.50903,37.22856
+13,1987944946,2002.0,fire_station,Madera City Fire Department Station #7,-120.08366,36.94959
+14,1929302441,2007.0,library,Madera County Library,-120.06203,36.96135
+15,1929379689,2001.0,police,Madera Police Department Headquarters,-120.05496,36.96053
+16,2307249826,2001.0,police,Police usually here if you need help,-119.73519,37.13108
