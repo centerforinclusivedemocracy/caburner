@@ -1,97 +1,97 @@
 ,osm_id,code,fclass,name,lon,lat
-0,332097529,2005.0,post_office,,-122.29742,37.97962
-1,332098988,2002.0,fire_station,,-122.2816,37.9657
-2,358817105,2005.0,post_office,San Ramon Post Office,-121.96492,37.77943
-3,358818762,2005.0,post_office,El Sobrante Post Office,-122.29553,37.9777
-4,358820643,2005.0,post_office,Fairmount Station El Cerrito Post Office,-122.30156,37.90075
-5,358820793,2005.0,post_office,Mira Vista Station Richmond Post Office,-122.32914,37.9427
-6,358820903,2005.0,post_office,Pinole Post Office,-122.29136,38.00437
-7,358820929,2005.0,post_office,Point Richmond Station Richmond Post Office,-122.38502,37.92715
-8,358820957,2005.0,post_office,Richmond Post Office,-122.35924,37.93709
-9,358821047,2005.0,post_office,San Pablo Post Office,-122.34574,37.96114
-10,358821082,2005.0,post_office,Station A Richmond Post Office,-122.34692,37.93242
-11,358821152,2005.0,post_office,Port Costa Post Office,-122.18338,38.04645
-12,358821199,2005.0,post_office,Antioch Post Office,-121.8094,37.99687
-13,358821203,2005.0,post_office,Bethel Island Post Office,-121.64023,38.0152
-14,358821259,2005.0,post_office,Knightsen Post Office,-121.66606,37.96909
-15,358821300,2005.0,post_office,Oakley Post Office,-121.70801,37.99576
+0,4363871992,2007.0,library,Contra Costa County Public Law Library,-122.13324,38.01801
+1,4363872052,2001.0,police,Contra Costa County Sheriff,-122.1336,38.01938
+2,6422056927,2007.0,library,Martinez Library,-122.13417,38.01794
+3,368169560,2007.0,library,Moraga Branch Contra Costa County Library,-122.12279,37.84081
+4,4972560064,2005.0,post_office,,-122.1257,37.8594
+5,8546976570,2002.0,fire_station,,-122.09821,37.87069
+6,6656690495,2001.0,police,Richmond Police Department,-122.34988,37.91794
+7,358823419,2005.0,post_office,Associated Post Office,-122.07519,38.03264
+8,368167447,2009.0,courthouse,Contra Costa County Courthouse,-122.13371,38.01837
+9,4955864008,2005.0,post_office,The UPS Store,-122.1019,37.99482
+10,4959226315,2009.0,courthouse,Juvenile Court School,-122.08812,37.98831
+11,4959259467,2009.0,courthouse,Contra Costa County Family Court,-122.13301,38.01903
+12,4959259468,2009.0,courthouse,Contra Costa County Court Records,-122.13279,38.01886
+13,6094554401,2005.0,post_office,The UPS Store,-122.0615,37.94674
+14,6296221612,2005.0,post_office,The UPS Store,-122.08772,37.9244
+15,358821199,2005.0,post_office,Antioch Post Office,-121.8094,37.99687
 16,358821307,2005.0,post_office,Rivertown Station Antioch Post Office,-121.81218,38.01575
 17,358821484,2005.0,post_office,Pittsburg Post Office,-121.8844,38.02881
-18,358821818,2005.0,post_office,Todos Santos Station Concord Post Office,-122.03191,37.97964
-19,358823991,2005.0,post_office,Clayton Post Office,-121.93428,37.94035
-20,358823419,2005.0,post_office,Associated Post Office,-122.07519,38.03264
-21,368167447,2009.0,courthouse,Contra Costa County Courthouse,-122.13371,38.01837
-22,368169024,2007.0,library,Rodeo Branch Contra Costa County Library,-122.26858,38.03548
-23,368167722,2002.0,fire_station,Fire Station Number 7,-122.3583,37.92548
-24,368169025,2007.0,library,Richmond Public Library - Main Branch,-122.34404,37.93606
-25,368169027,2007.0,library,San Pablo Branch Contra Costa County Library,-122.34914,37.9577
-26,368169028,2007.0,library,Brentwood Branch Contra Costa County Library,-121.69264,37.93361
-27,368169029,2007.0,library,Antioch Branch Contra Costa County Library,-121.81246,38.00464
-28,368169031,2007.0,library,Oakley Branch Contra Costa County Library,-121.71356,37.99659
-29,368169047,2007.0,library,Bayview Branch Richmond Public Library,-122.32384,37.91517
-30,368169054,2007.0,library,El Sobrante Branch Contra Costa County Library,-122.30941,37.96742
-31,368169306,2007.0,library,San Ramon Library,-121.95326,37.76422
-32,368169401,2007.0,library,Danville Library,-121.99557,37.82085
-33,368169560,2007.0,library,Moraga Branch Contra Costa County Library,-122.12279,37.84081
-34,368171449,2008.0,town_hall,Lafayette Town Hall,-122.11792,37.88781
-35,368171483,2008.0,town_hall,Brentwood City Hall,-121.69441,37.93428
-36,368171487,2008.0,town_hall,Antioch City Hall,-121.81523,38.01631
-37,368171508,2008.0,town_hall,Martinez City Hall,-122.13549,38.01395
-38,368172508,2008.0,town_hall,Danville City Hall,-122.00333,37.83
-39,368172509,2008.0,town_hall,Oakley City Hall,-121.71814,37.9971
-40,559914380,2099.0,public_building,El Cerrito Senior Center,-122.30373,37.90811
-41,761870398,2005.0,post_office,United States Post Office,-122.01493,37.9309
-42,1608417510,2001.0,police,Clayton Police Department,-121.93722,37.94246
-43,1669921608,2007.0,library,Library,-121.71961,37.96934
-44,1709018125,2002.0,fire_station,East Bay Regional Park Fire Department,-122.2252,37.88223
-45,1730938443,2008.0,town_hall,,-122.26638,38.01016
-46,1730938467,2001.0,police,,-122.26635,38.0106
-47,2131722731,2005.0,post_office,The UPS Store,-122.03965,37.92843
-48,2386056122,2005.0,post_office,UPS,-121.96959,37.77378
-49,2503330173,2002.0,fire_station,Richmond Fire Department,-122.3238,37.91468
-50,2753216013,2007.0,library,,-121.77382,37.96609
-51,2985267033,2007.0,library,El Cerrito Del Norte Library-a-Go-Go,-122.317,37.9253
-52,3224399562,2002.0,fire_station,Contra Costa Fire Protection District Station 10,-122.02726,37.93789
-53,3281243658,2002.0,fire_station,El Cerrito Fire Department,-122.31162,37.91629
-54,3281243659,2001.0,police,El Cerrito Public Safety,-122.31132,37.91605
-55,3601376636,2001.0,police,Pittsburg Police,-121.89218,38.02003
-56,4363871992,2007.0,library,Contra Costa County Public Law Library,-122.13324,38.01801
-57,4363872052,2001.0,police,Contra Costa County Sheriff,-122.1336,38.01938
-58,4422529608,2007.0,library,Contra Costa County Law Library,-122.33395,37.9326
-59,4422529609,2009.0,courthouse,George D. Carroll Courthouse,-122.33344,37.93249
-60,4486208688,2005.0,post_office,The UPS Store,-122.29946,37.90127
-61,4555758394,2005.0,post_office,,-121.9614,38.0347
-62,4555758395,2001.0,police,,-121.9614,38.03484
-63,4567181905,2001.0,police,City of Antioch Police Department,-121.82046,38.01601
-64,4703155743,2002.0,fire_station,Cal Fire Station 83,-121.83777,37.99732
-65,4727158834,2002.0,fire_station,East Contra Costa Fire Protection District Station 53,-121.71362,37.99367
-66,4893505723,2001.0,police,Walnut Creek Police Department,-122.06142,37.90147
-67,4955864008,2005.0,post_office,The UPS Store,-122.1019,37.99482
-68,4959226315,2009.0,courthouse,Juvenile Court School,-122.08812,37.98831
-69,4959259467,2009.0,courthouse,Contra Costa County Family Court,-122.13301,38.01903
-70,4959259468,2009.0,courthouse,Contra Costa County Court Records,-122.13279,38.01886
-71,4972560064,2005.0,post_office,,-122.1257,37.8594
-72,5052252996,2002.0,fire_station,(CLOSED) East Contra Costa County Fire Protection District Station 94,-121.66702,37.96968
-73,5129909924,2002.0,fire_station,"City of El Cerrito, Station 72",-122.29975,37.92971
-74,5734046977,2008.0,town_hall,San Pablo City Hall,-122.3415,37.95902
-75,5877415279,2001.0,police,City of Oakley Police Department,-121.71841,37.9969
-76,5877415280,2002.0,fire_station,CONFIRE Station 82,-121.80057,37.97755
-77,6094554401,2005.0,post_office,The UPS Store,-122.0615,37.94674
-78,6296221612,2005.0,post_office,The UPS Store,-122.08772,37.9244
-79,6319760308,2001.0,police,Brentwood Police Station,-121.68426,37.91936
-80,6319805869,2002.0,fire_station,(CLOSED) East Contra Costa Fire Protection District Station 54,-121.69564,37.93319
-81,6319826914,2005.0,post_office,Brentwood Post Office,-121.68929,37.93465
-82,6319960049,2002.0,fire_station,CalFire Sunshine Station,-121.8608,37.89962
-83,6429722937,2005.0,post_office,Danville Square Post Office,-122.00422,37.82337
-84,6422056927,2007.0,library,Martinez Library,-122.13417,38.01794
-85,6441600856,2005.0,post_office,UPS,-121.62082,37.89056
-86,6448797384,2005.0,post_office,The UPS Store,-121.99468,37.81244
-87,6448837334,2005.0,post_office,FedEx,-121.99591,37.81882
-88,6656690495,2001.0,police,Richmond Police Department,-122.34988,37.91794
-89,6750614663,2005.0,post_office,The UPS Store,-122.18753,37.88166
-90,7703811478,2005.0,post_office,PostalAnnex,-121.91804,37.79772
-91,7888534504,2005.0,post_office,United States Post Office,-122.06067,37.94992
-92,7929678962,2002.0,fire_station,Moraga-Orinda Fire Station,-122.17041,37.89957
-93,8064425989,2001.0,police,,-122.18614,37.88211
-94,8546976570,2002.0,fire_station,,-122.09821,37.87069
-95,8720243238,2005.0,post_office,FedEx,-121.7458,37.96123
+18,368169029,2007.0,library,Antioch Branch Contra Costa County Library,-121.81246,38.00464
+19,368171487,2008.0,town_hall,Antioch City Hall,-121.81523,38.01631
+20,2753216013,2007.0,library,,-121.77382,37.96609
+21,3601376636,2001.0,police,Pittsburg Police,-121.89218,38.02003
+22,4567181905,2001.0,police,City of Antioch Police Department,-121.82046,38.01601
+23,4703155743,2002.0,fire_station,Cal Fire Station 83,-121.83777,37.99732
+24,5877415280,2002.0,fire_station,CONFIRE Station 82,-121.80057,37.97755
+25,8720243238,2005.0,post_office,FedEx,-121.7458,37.96123
+26,358821818,2005.0,post_office,Todos Santos Station Concord Post Office,-122.03191,37.97964
+27,4555758394,2005.0,post_office,,-121.9614,38.0347
+28,4555758395,2001.0,police,,-121.9614,38.03484
+29,358820793,2005.0,post_office,Mira Vista Station Richmond Post Office,-122.32914,37.9427
+30,358820957,2005.0,post_office,Richmond Post Office,-122.35924,37.93709
+31,358821082,2005.0,post_office,Station A Richmond Post Office,-122.34692,37.93242
+32,368167722,2002.0,fire_station,Fire Station Number 7,-122.3583,37.92548
+33,368169027,2007.0,library,San Pablo Branch Contra Costa County Library,-122.34914,37.9577
+34,2985267033,2007.0,library,El Cerrito Del Norte Library-a-Go-Go,-122.317,37.9253
+35,3281243659,2001.0,police,El Cerrito Public Safety,-122.31132,37.91605
+36,4422529608,2007.0,library,Contra Costa County Law Library,-122.33395,37.9326
+37,4422529609,2009.0,courthouse,George D. Carroll Courthouse,-122.33344,37.93249
+38,2131722731,2005.0,post_office,The UPS Store,-122.03965,37.92843
+39,3224399562,2002.0,fire_station,Contra Costa Fire Protection District Station 10,-122.02726,37.93789
+40,358821047,2005.0,post_office,San Pablo Post Office,-122.34574,37.96114
+41,368169024,2007.0,library,Rodeo Branch Contra Costa County Library,-122.26858,38.03548
+42,368169025,2007.0,library,Richmond Public Library - Main Branch,-122.34404,37.93606
+43,1730938443,2008.0,town_hall,,-122.26638,38.01016
+44,1730938467,2001.0,police,,-122.26635,38.0106
+45,368171508,2008.0,town_hall,Martinez City Hall,-122.13549,38.01395
+46,6750614663,2005.0,post_office,The UPS Store,-122.18753,37.88166
+47,7929678962,2002.0,fire_station,Moraga-Orinda Fire Station,-122.17041,37.89957
+48,8064425989,2001.0,police,,-122.18614,37.88211
+49,1709018125,2002.0,fire_station,East Bay Regional Park Fire Department,-122.2252,37.88223
+50,5129909924,2002.0,fire_station,"City of El Cerrito, Station 72",-122.29975,37.92971
+51,332097529,2005.0,post_office,,-122.29742,37.97962
+52,332098988,2002.0,fire_station,,-122.2816,37.9657
+53,358818762,2005.0,post_office,El Sobrante Post Office,-122.29553,37.9777
+54,358820903,2005.0,post_office,Pinole Post Office,-122.29136,38.00437
+55,368169054,2007.0,library,El Sobrante Branch Contra Costa County Library,-122.30941,37.96742
+56,5734046977,2008.0,town_hall,San Pablo City Hall,-122.3415,37.95902
+57,7888534504,2005.0,post_office,United States Post Office,-122.06067,37.94992
+58,358821203,2005.0,post_office,Bethel Island Post Office,-121.64023,38.0152
+59,358821259,2005.0,post_office,Knightsen Post Office,-121.66606,37.96909
+60,358821300,2005.0,post_office,Oakley Post Office,-121.70801,37.99576
+61,368169028,2007.0,library,Brentwood Branch Contra Costa County Library,-121.69264,37.93361
+62,368169031,2007.0,library,Oakley Branch Contra Costa County Library,-121.71356,37.99659
+63,368171483,2008.0,town_hall,Brentwood City Hall,-121.69441,37.93428
+64,368172509,2008.0,town_hall,Oakley City Hall,-121.71814,37.9971
+65,1669921608,2007.0,library,Library,-121.71961,37.96934
+66,4727158834,2002.0,fire_station,East Contra Costa Fire Protection District Station 53,-121.71362,37.99367
+67,5052252996,2002.0,fire_station,(CLOSED) East Contra Costa County Fire Protection District Station 94,-121.66702,37.96968
+68,5877415279,2001.0,police,City of Oakley Police Department,-121.71841,37.9969
+69,6319826914,2005.0,post_office,Brentwood Post Office,-121.68929,37.93465
+70,7703811478,2005.0,post_office,PostalAnnex,-121.91804,37.79772
+71,358821152,2005.0,post_office,Port Costa Post Office,-122.18338,38.04645
+72,358820643,2005.0,post_office,Fairmount Station El Cerrito Post Office,-122.30156,37.90075
+73,368169047,2007.0,library,Bayview Branch Richmond Public Library,-122.32384,37.91517
+74,559914380,2099.0,public_building,El Cerrito Senior Center,-122.30373,37.90811
+75,2503330173,2002.0,fire_station,Richmond Fire Department,-122.3238,37.91468
+76,3281243658,2002.0,fire_station,El Cerrito Fire Department,-122.31162,37.91629
+77,4486208688,2005.0,post_office,The UPS Store,-122.29946,37.90127
+78,358820929,2005.0,post_office,Point Richmond Station Richmond Post Office,-122.38502,37.92715
+79,368171449,2008.0,town_hall,Lafayette Town Hall,-122.11792,37.88781
+80,358823991,2005.0,post_office,Clayton Post Office,-121.93428,37.94035
+81,761870398,2005.0,post_office,United States Post Office,-122.01493,37.9309
+82,1608417510,2001.0,police,Clayton Police Department,-121.93722,37.94246
+83,6319760308,2001.0,police,Brentwood Police Station,-121.68426,37.91936
+84,6319805869,2002.0,fire_station,(CLOSED) East Contra Costa Fire Protection District Station 54,-121.69564,37.93319
+85,6319960049,2002.0,fire_station,CalFire Sunshine Station,-121.8608,37.89962
+86,368172508,2008.0,town_hall,Danville City Hall,-122.00333,37.83
+87,358817105,2005.0,post_office,San Ramon Post Office,-121.96492,37.77943
+88,368169306,2007.0,library,San Ramon Library,-121.95326,37.76422
+89,368169401,2007.0,library,Danville Library,-121.99557,37.82085
+90,2386056122,2005.0,post_office,UPS,-121.96959,37.77378
+91,6429722937,2005.0,post_office,Danville Square Post Office,-122.00422,37.82337
+92,6448797384,2005.0,post_office,The UPS Store,-121.99468,37.81244
+93,6448837334,2005.0,post_office,FedEx,-121.99591,37.81882
+94,4893505723,2001.0,police,Walnut Creek Police Department,-122.06142,37.90147
+95,6441600856,2005.0,post_office,UPS,-121.62082,37.89056
