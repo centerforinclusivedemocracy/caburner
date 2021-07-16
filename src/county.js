@@ -28,9 +28,11 @@ function initCountyInfo () {
 
     // if there is an Out Of Order message, fill in the explanation why the county is broken
     const $outoforder = $('#outoforder')
-    if (COUNTYINFO.outoforder) {
+    if ((COUNTYINFO.outoforder) && (COUNTYINFO.vca)) {
         $outoforder.text(COUNTYINFO.outoforder);
         $outoforder.append('<br></br>');
+    } else if ((COUNTYINFO.outoforder) && (COUNTYINFO.vca === undefined)){
+        $outoforder.text(COUNTYINFO.outoforder);
     };
     if (COUNTYINFO.vca == '1') {
         $(`<span>The number of voting locations suggested by the Tool is consistent with the minimum number of required locations for voting method #1 as per the CA Secretary of State's recall election <a target="_blank" href="https://elections.cdn.sos.ca.gov/ccrov/2021/july/21091jl.pdf">guidance memo</a>.</span>`).appendTo($outoforder);
