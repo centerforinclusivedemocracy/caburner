@@ -27,8 +27,13 @@ function initCountyInfo () {
     $('#sidebar > h1').text(`${COUNTYINFO.name} County`);
 
     // if there is an Out Of Order message, fill in the explanation why the county is broken
-    if (COUNTYINFO.outoforder) $('#outoforder').text(COUNTYINFO.outoforder);
-    else $('#outoforder').remove();
+    if ((COUNTYINFO.outoforder) && (COUNTYINFO.outoforder == 'vca')) {
+        $(`<span>I'm a VCA county. See <a target="_blank" href="https://elections.cdn.sos.ca.gov/ccrov/2021/july/21091jl.pdf">this link</a>.</span>`).appendTo($('#outoforder'));  
+    } else if (COUNTYINFO.outoforder) {
+        $('#outoforder').text(COUNTYINFO.outoforder);
+    } else {
+        $('#outoforder').remove();
+    };
 }
 
 function initAdditionalDataWording () {
