@@ -27,12 +27,17 @@ function initCountyInfo () {
     $('#sidebar > h1').text(`${COUNTYINFO.name} County`);
 
     // if there is an Out Of Order message, fill in the explanation why the county is broken
-    if ((COUNTYINFO.outoforder) && (COUNTYINFO.outoforder == 'vca')) {
-        $(`<span>I'm a VCA county. See <a target="_blank" href="https://elections.cdn.sos.ca.gov/ccrov/2021/july/21091jl.pdf">this link</a>.</span>`).appendTo($('#outoforder'));  
-    } else if (COUNTYINFO.outoforder) {
-        $('#outoforder').text(COUNTYINFO.outoforder);
-    } else {
-        $('#outoforder').remove();
+    const $outoforder = $('#outoforder')
+    if (COUNTYINFO.outoforder) {
+        $outoforder.text(COUNTYINFO.outoforder);
+        $outoforder.append('<br></br>');
+    };
+    if (COUNTYINFO.vca == '1') {
+        $(`<span>The number of voting locations suggested by the Tool is consistent with the minimum number of required locations for voting method #1 as per the CA Secretary of State's recall election <a target="_blank" href="https://elections.cdn.sos.ca.gov/ccrov/2021/july/21091jl.pdf">guidance memo</a>.</span>`).appendTo($outoforder);
+    } else if (COUNTYINFO.vca == '2'){
+        $(`<span>The number of voting locations suggested by the Tool is consistent with the minimum number of required locations for voting method #2 as per the CA Secretary of State's recall election <a target="_blank" href="https://elections.cdn.sos.ca.gov/ccrov/2021/july/21091jl.pdf">guidance memo</a>.</span>`).appendTo($outoforder);  
+    } else if (COUNTYINFO.vca == '3 & 4') {
+        $(`<span>The number of voting locations suggested by the Tool is consistent with the minimum number of required locations for voting methods #3 and #4 as per the CA Secretary of State's recall election <a target="_blank" href="https://elections.cdn.sos.ca.gov/ccrov/2021/july/21091jl.pdf">guidance memo</a>.</span>`).appendTo($outoforder);
     };
 }
 
