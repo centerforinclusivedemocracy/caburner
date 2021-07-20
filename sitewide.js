@@ -313,7 +313,7 @@ DATA_LAYERS.prc_caraccess_final = {
 };
 DATA_LAYERS.prc_pov_final = {
     id: 'prc_pov_final',
-    title: "Percent of the Population in Poverty",
+    title: "Percent of Population in Poverty",
     scorefield:  'prc_pov_final',
     quantilefield: 'prc_pov_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
