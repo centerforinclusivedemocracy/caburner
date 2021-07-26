@@ -132,42 +132,42 @@ function initDownloadModal () {
     COUNTYINFO.datalayers.suggestedareas.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
 
     COUNTYINFO.datalayers.additionalareas.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
 
     COUNTYINFO.datalayers.allareas.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
 
     COUNTYINFO.datalayers.sitingcriteria.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
 
     COUNTYINFO.datalayers.populationdata.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
 
     COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
     {

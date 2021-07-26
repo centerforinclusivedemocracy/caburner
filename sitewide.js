@@ -331,7 +331,7 @@ DATA_LAYERS.prc_youth_final = {
 };
 DATA_LAYERS.pollvoter_dens = {
     id: 'pollvoter_dens',
-    title: "2020 Voting Location Voter Percentage",
+    title: "2020 Percent of County In-Person Voters",
     scorefield:  'pollvoter_dens',
     quantilefield: 'pollvoter_dens', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
@@ -426,7 +426,7 @@ DATA_LAYERS.gen2020 = {
     circle: { radius: 20, color: '#B941FF', opacity: 1, fillColor: '#B941FF', fillOpacity: 1, weight: 2, },
     popupnamefield: 'name',
     popuptypetext: '2020 General Voting Location',
-    downloadfile: 'point_files/generalvote_2020.csv',
+    downloadfile: 'point_files/general_pollingplaces_2020.csv',
     mapzindex: 'highest',
     layertype: 'pois'
 };
@@ -437,7 +437,7 @@ DATA_LAYERS.pripoll2020 = {
     circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 2, },
     popupnamefield: 'name',
     popuptypetext: '2020 Primary Voting Location',
-    downloadfile: 'point_files/primaryvote_2020.csv',
+    downloadfile: 'point_files/primary_pollingplaces_2020.csv',
     mapzindex: 'highest',
     layertype: 'pois'
 };

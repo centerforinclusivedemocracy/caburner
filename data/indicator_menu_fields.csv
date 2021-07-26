@@ -12,7 +12,7 @@ prc_nonengprof_final,siting,Limited English Proficient Percent of Population,The
 prc_caraccess_final,siting,Percent of Population with Vehicle Access,The percentage of the population with access to a vehicle.
 prc_pov_final,siting,Percent of the Population in Poverty,The percentage of the population with income below the poverty level.
 prc_youth_final,siting,Youth Percent of Population,The percentage of the population between the age of 18 and 24 years old.
-pollvoter_dens,siting,2020 Voting Location Voter Percentage,The number of voters who voted at a polling place divided by the total number of voters who voted at a polling place in the county.
+pollvoter_dens,siting,2020 Percent of County In-Person Voters,The number of voters who voted at a polling place divided by the total number of voters who voted at a polling place in the county.
 popdens,siting,Population Density,The total population density per square kilometer.
 vbm_rate_asn,siting,Vote by Mail Rate (Asian-American),The percentage of Asian-American voters who voted by mail.
 vbm_rate_lat,siting,Vote by Mail Rate (Latino),The percentage of Latino voters who voted by mail.
