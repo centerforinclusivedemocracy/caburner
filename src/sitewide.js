@@ -538,11 +538,7 @@ DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel);
 DATA_PROFILES.lite.suggestedareas = [];
 DATA_PROFILES.lite.additionalareas = [];
 DATA_PROFILES.lite.allareas = [];
-DATA_PROFILES.lite.pointsofinterest = [
-    DATA_LAYERS.gen2020,
-    DATA_LAYERS.pripoll2020,
-    DATA_LAYERS.pricenter2020,
-];
+
 DATA_PROFILES.fullexceptsuggested = Object.assign({}, DATA_PROFILES.fullmodel);  // a specific one that's full but we hide the Suggested Areas, but keep others
 DATA_PROFILES.fullexceptsuggested.suggestedareas = [];
 DATA_PROFILES.fullexceptsuggested.additionalareas = [];
