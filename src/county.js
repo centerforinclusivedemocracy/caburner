@@ -72,7 +72,7 @@ function initTooltips () {
     var $tipbuttons = $('i[data-tooltip-content], span[data-tooltip-content]');
 
     $tipbuttons.each(function () {
-        if ($(this).attr('data-tooltip-content') == '#tooltips > div[data-tooltip=\"pois\"]') {
+        if ($(this).attr('data-tooltip-content') == '#tooltips > div[data-tooltip=\"pois\"]' || $(this).attr('data-tooltip-content') == '#tooltips > div[data-tooltip=\"additionalareas\"]') {
             $(this).tooltipster({
                 trigger: 'hover',
                 autoClose: false,
