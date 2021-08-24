@@ -2,7 +2,7 @@
 <html lang="en">
 <!-- common header for all pages; see style_header.css -->
 <head>
-    <title>CID | California Voting Location Siting Tool</title>
+    <title>CID | Georgia Voting Location Siting Tool</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <link rel="icon" type="image/png" href="./images/favicon.png">
@@ -77,13 +77,13 @@
     <script src="https://unpkg.com/url-search-params-polyfill@2.0.3/index.js" type="text/javascript"></script>
 
     <!-- statistics library to calculate Jenks breaks et al-->
-    <script src="./simple_statistics.js?cachebust-d48c98f031"></script>
+    <script src="./simple_statistics.js?CACHEBUST"></script>
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
-    <link rel="stylesheet" href="./sitewide.css?cachebust-b40954767c" />
-    <script src="./sitewide.js?cachebust-c585bd0c02"></script>
-    <link rel="stylesheet" href="./whatsnew.css?cachebust-52dc44e32d" />
-    <script src="./whatsnew.js?cachebust-c789505063"></script>
+    <link rel="stylesheet" href="./sitewide.css?CACHEBUST" />
+    <script src="./sitewide.js?CACHEBUST"></script>
+    <link rel="stylesheet" href="./THISPAGE.css?CACHEBUST" />
+    <script src="./THISPAGE.js?CACHEBUST"></script>
 </head>
 <body>
 
@@ -110,72 +110,3 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </ul>
     </div>
 </nav>
-<div class="container" id="main-page-content">
-  <div class="row">
-    <div class="col">
-      <h1 id="title">What's New</h1>
-      <button class="accordion"><h3 id="button">July 16, 2021 Update <i class="fa fa-chevron-down"></i></h3></button>
-      <div class="panel">
-        <br>
-        <p>
-          The California Voting Location Siting Tool was updated on July 16, 2021 with the following changes to the voting location modeling, data, and map design. For more detailed information about our methods please see our <a href="methodology.html" target="_blank">Methodology</a>.
-        </p>
-
-        <h2 id="modelchanges">Model Updates</h2> 
-        <ul>
-          <li><b>Population Clustering: </b>In this update, we adjusted our method of clustering populated census blocks into larger geographic clusters to increase the stability and robustness of our results.</li>
-          <li><b>Facility Location: </b>We adjusted our facility location model to ensure that all sites are selected based on population demand.</li>
-          <li><b>Additional Areas: </b>When identifying additional suggested areas, we modified our methods to better account for population.</li>
-          <li><b>Expansion Counties: </b>When the Siting Tool was initially created, the model was run on a set of priority counties only. In this update, we expanded the Tool to include model results for all counties.</li>  
-        </ul>
-
-        <h2 id="data">Data Updates</h2>
-          <p>
-            The following Siting Tool data sources have been updated:
-            <ul>
-              <li>OpenStreetMap Points of Interest, as of June 1, 2021</li>
-              <li>GTFS Transit Data, as of June 1, 2021</li>
-              <li>American Community Survey 5-Year Estimate (2015-2019)</li>
-              <li>UCB Statewide Database Registration and Voter Data (2020 General Election)</li>
-              <li>Census LEHD Origin-Destination Employment Statistics (LODES) Data (2018)</li>
-            </ul>
-
-            The following Siting Tool data sources have been added:
-            <ul>
-              <li>2020 General Election Voting Locations provided by the Voting Information Project</li>
-            </ul>
-          </p>
-
-        <h2 id="design">Map Design Updates</h2> 
-        <ul>
-          <li><b>Legend Color Breaks: </b>Previously, the color breaks used in the map legend for the Site Scores, Demographic and Voter Data, and Population Data were created using Jenks Natural Breaks. In this update, we've updated the map legend color breaks to use quantile classification so that values are ranked and divided equally into five classes where possible. In smaller counties with insufficient data, raw values are used rather than quantile classification.</li>
-          <li><b>All Potential Areas: </b>All potential sites were previously located under the Suggested Voting Location Areas section of the sidebar and can now instead be found in its own section.</li>
-          <li><b>Info Buttons: </b>We added info buttons that can be operated by hovering to different areas of the map to provide users with additional information where helpful.</li>
-          <li><b>Points of Interest: </b>We updated the colors used to indicate different points of interest to more clearly differentiate each category.</li>
-        </ul> 
-      </div>     
-    </div>
-  </div>
-</div> <!--  container  -->
-  <!-- common footer for all pages; see style_footer.css -->
-
-<footer class="footer">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-12 col-sm-6">
-                <img src="./images/usc-logo.png" title="University of Southern California Logo" style="margin-right: 10px;" />
-                &copy; <span id="copyright-year">2021</span>
-
-                <!-- auto update copyright year -->
-                <script>
-                    document.querySelector('#copyright-year').innerText = new Date().getFullYear();
-                </script>
-
-                <a href="https://cid.usc.edu/" target="_blank">CID</a>
-            </div>
-        </div>
-    </div>
-</footer>
-
-</body>
-</html>

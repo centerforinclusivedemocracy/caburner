@@ -127,7 +127,7 @@ const CENSUSTRACT_STYLE = { color: 'black', weight: 1, opacity: 0.25, fillColor:
 const UNRELIABLE_STYLE = { color: 'black', fillColor: 'black', fillOpacity: 0.8, stroke: false, interactive: false };
 
 // to highlight a suggested area circle when its deails are being shown
-const HIGHLIGHT_SUGGESTED_AREA = { color: 'yellow', weight: 2, fill: false };
+const HIGHLIGHT_SUGGESTED_AREA = { color: 'yellow', weight: 2 };
 
 // for circles & tracts with no data, a grey fill
 const NODATA_COLOR = '#CCCCCC';
@@ -185,9 +185,10 @@ const DATA_LAYERS = {};
 DATA_LAYERS.four_day_sites = {
     id: 'four_day_sites',
     title: "Suggested Areas for 4 Day Voting Locations",
-    csvfile: 'model_files/four_day_sites.csv',
-    circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/four_day_sites.geojson',
+    style: { opacity: 0.8, color: 'black', weight: 1, fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
+    scorefield: 'vc_score',
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/four_day_sites_shp.zip',
@@ -198,9 +199,10 @@ DATA_LAYERS.four_day_sites = {
 DATA_LAYERS.eleven_day_sites = {
     id: 'eleven_day_sites',
     title: "Suggested Areas for 11 Day Voting Locations",
-    csvfile: 'model_files/eleven_day_sites.csv',
-    circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/eleven_day_sites.geojson',
+    style: { color: 'black', opacity: 0.8, fillOpacity: 0.8, weight: 1 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
+    scorefield: 'vc_score',
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/eleven_day_sites_shp.zip',
@@ -210,9 +212,10 @@ DATA_LAYERS.eleven_day_sites = {
 DATA_LAYERS.dropbox_sites = {
     id: 'dropbox_sites',
     title: "Suggested Areas for Ballot Drop Boxes",
-    csvfile: 'model_files/dropbox_sites.csv',
-    circle: { radius: 400, opacity: 0.8, color: 'red', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/dropbox_sites.geojson',
+    style: { opacity: 0.8, color: 'red', weight: 1, fillOpacity: 0.8 },
     quantilefield: 'droppoff_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
+    scorefield: 'vc_score',
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/dropbox_sites_shp.zip',
@@ -221,10 +224,11 @@ DATA_LAYERS.dropbox_sites = {
 DATA_LAYERS.all_sites_scored = {
     id: 'all_sites_scored',
     title: "All Potential Areas",
-    csvfile: 'model_files/all_sites_scored.csv',
-    circle: { radius: 400, opacity: 0.8, color: '#fcc5c0', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/all_sites_scored.geojson',
+    style: { color: '#fcc5c0', opacity: 0.8, fillOpacity: 0.8, weight: 1 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
     mapzindex: 'medium',
+    scorefield: 'vc_score',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/all_sites_scored_shp.zip',
     layertype: 'sites'
@@ -232,9 +236,10 @@ DATA_LAYERS.all_sites_scored = {
 DATA_LAYERS.additional_sites_model = {
     id: 'additional_sites_model',
     title: "Additional Voting Location Options Based on Model",
-    csvfile: 'model_files/additional_sites_model.csv',
-    circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/additional_sites_model.geojson',
+    style: { opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
+    scorefield: 'vc_score',
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_model_shp.zip',
@@ -244,9 +249,10 @@ DATA_LAYERS.additional_sites_model = {
 DATA_LAYERS.additional_sites_distance = {
     id: 'additional_sites_distance',
     title: "Additional Voting Location Options Based on Distance",
-    csvfile: 'model_files/additional_sites_distance.csv',
-    circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/additional_sites_distance.geojson',
+    style: { opacity: 0.8, color: 'blue', weight: 1, fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
+    scorefield: 'vc_score',
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_distance_shp.zip',
