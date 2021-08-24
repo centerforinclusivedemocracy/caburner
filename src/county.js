@@ -546,13 +546,6 @@ function toggleMapLayer (layerid, visible) {
             MAP.removeLayer(MAP.OVERLAYS[layerid]);
             delete MAP.OVERLAYS[layerid];
         }
-
-        // well, slightly less easy because turning off vote center layers should also stop showing highlights
-        // potential bug-like behavior would be turning on multiple suggested areas, highlighting one in one layer, and finding it un-highlghted when turning off the other layer
-        // but that's really an edge case, and would be quite difficult to work around
-        const issuggestedarea = layerinfo.quantilefield == 'center_score' || layerinfo.quantilefield == 'droppoff_score';
-        if (issuggestedarea) showSuggestedSiteInfo(null);
-
         return;
     }
 
