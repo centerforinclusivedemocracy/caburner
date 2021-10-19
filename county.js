@@ -211,7 +211,7 @@ function initLayerControls () {
             const $sections_updated = $('#sidebar div[data-section]');
             const $section_asian = $sections_updated.filter('[data-section="asiandata"]');
 
-            COUNTYINFO.datalayers.latino.forEach(function (layerinfo) {
+            COUNTYINFO.datalayers.asian.forEach(function (layerinfo) {
                 const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
                 $section_asian.append($cb);
             });

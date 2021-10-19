@@ -1,9 +1,9 @@
-name,address,lat,lon,ElecDayVotes,EarlyVotes,BallotsCast,WaitTimeHr
-Eric Rood Administration Center Upstairs - Providence Mine A & B ,950 Maidu Ave. Nevada City CA 95959,39.27003,-121.02643,,,,
-Truckee Town Hall Upstairs - Prosser Room,10183 Truckee Airport Rd. Truckee CA 96161,39.3168,-120.1462,,,,
-Gold Miners Inn Ballroom, 121 Bank St. Grass Valley CA 95945,39.21775,-121.06062,,,,
-Best Western Conference Center Next door to the hotel 2nd driveway,1012 Sutton Way Grass Valley CA 95945,39.23705,-121.03433,,,,
-Penn Valley Fire Protection District Station 43,10513 Spenceville Rd. Penn Valley CA 95946,39.19597,-121.17623,,,,
-Higgins Lions Community Center, 22490 E Hacienda Dr. Grass Valley CA 95949,39.05023,-121.06186,,,,
-The Cedar House Hotel Ballroom,10918 Brockway Rd. Truckee CA 96161,39.324,-120.16957,,,,
-North San Juan Community Center,29190 State Hwy. 49 North San Juan 95960,39.36854,-121.10789,,,,
+Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
+,,CA,NEVADA COUNTY,,Eric Rood Administration Center Upstairs - Providence Mine A & B ,950 Maidu Ave. Nevada City CA 95959,39.27003,-121.02643,,,
+,,CA,NEVADA COUNTY,,Truckee Town Hall Upstairs - Prosser Room,10183 Truckee Airport Rd. Truckee CA 96161,39.3168,-120.1462,,,
+,,CA,NEVADA COUNTY,,Gold Miners Inn Ballroom, 121 Bank St. Grass Valley CA 95945,39.21775,-121.06062,,,
+,,CA,NEVADA COUNTY,,Best Western Conference Center Next door to the hotel 2nd driveway,1012 Sutton Way Grass Valley CA 95945,39.23705,-121.03433,,,
+,,CA,NEVADA COUNTY,,Penn Valley Fire Protection District Station 43,10513 Spenceville Rd. Penn Valley CA 95946,39.19597,-121.17623,,,
+,,CA,NEVADA COUNTY,,Higgins Lions Community Center, 22490 E Hacienda Dr. Grass Valley CA 95949,39.05023,-121.06186,,,
+,,CA,NEVADA COUNTY,,The Cedar House Hotel Ballroom,10918 Brockway Rd. Truckee CA 96161,39.324,-120.16957,,,
+,,CA,NEVADA COUNTY,,North San Juan Community Center,29190 State Hwy. 49 North San Juan 95960,39.36854,-121.10789,,,
