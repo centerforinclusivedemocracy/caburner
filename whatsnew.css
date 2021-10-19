@@ -24,8 +24,16 @@
   /* Remove black outline on focus (hover or click) */
   :focus {outline:0 !important;}
 
-  /* Style the accordion panel. Note: shown by by default bc only one update */
-  .panel {
+  /* Style the closed accordion panel */
+  .panel-closed {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+  }
+
+  /* Style the open accordion panel */
+  .panel-open {
     padding: 0 18px;
     background-color: white;
     display: block;

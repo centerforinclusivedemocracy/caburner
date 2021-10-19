@@ -43,6 +43,13 @@ h3 {
     font-weight: normal;
 }
 
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: #1F2526;
+    font-size: 15px;
+    font-weight: normal;
+}
+
 a {
     color: #9A1C20;
     text-decoration: none;

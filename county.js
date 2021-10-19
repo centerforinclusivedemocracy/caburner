@@ -120,42 +120,42 @@ function initDownloadModal () {
     COUNTYINFO.datalayers.suggestedareas.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
 
     COUNTYINFO.datalayers.additionalareas.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
 
     COUNTYINFO.datalayers.allareas.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
 
     COUNTYINFO.datalayers.sitingcriteria.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
 
     COUNTYINFO.datalayers.populationdata.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
 
     COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title}</a>`);
+        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
     {
@@ -192,8 +192,34 @@ function initLayerControls () {
         $section_site.append($cb);
     });
     COUNTYINFO.datalayers.populationdata.forEach(function (layerinfo) {
-        const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-        $section_popn.append($cb);
+        if (layerinfo.id == 'prc_latino') {
+            const $cb = $(`<button-small class="btn btn-link pl-0 py-0" type="button checkbox" data-toggle="collapse" data-parent="#accordion-populationdata" data-target="#accordion-latinodata" aria-controls="accordion-latinodata" aria-expanded="false"><div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="prc_latino" id="layercheckbox-prc_latino"> <label class="form-check-label" for="layercheckbox-prc_latino">Latino Percent of Population</label> <i class="fa fa-chevron-right"></i></div></button-small> <div class="collapse pl-3 pb-1" data-section="latinodata" id="accordion-latinodata"> </div>`);
+            $section_popn.append($cb);
+
+            const $sections_updated = $('#sidebar div[data-section]');
+            const $section_latino = $sections_updated.filter('[data-section="latinodata"]');
+
+            COUNTYINFO.datalayers.latino.forEach(function (layerinfo) {
+                const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
+                $section_latino.append($cb);
+            });
+        }
+        else if (layerinfo.id == 'prc_asian') {
+            const $cb = $(`<button-small class="btn btn-link pl-0 py-0" type="button checkbox" data-toggle="collapse" data-parent="#accordion-populationdata" data-target="#accordion-asiandata" aria-controls="accordion-asiandata" aria-expanded="false"><div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="prc_asian" id="layercheckbox-prc_asian"> <label class="form-check-label" for="layercheckbox-prc_asian">Asian Percent of Population</label> <i class="fa fa-chevron-right"></i></div></button-small> <div class="collapse pl-3 pb-1" data-section="asiandata" id="accordion-asiandata"> </div>`);
+            $section_popn.append($cb);
+
+            const $sections_updated = $('#sidebar div[data-section]');
+            const $section_asian = $sections_updated.filter('[data-section="asiandata"]');
+
+            COUNTYINFO.datalayers.latino.forEach(function (layerinfo) {
+                const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
+                $section_asian.append($cb);
+            });
+        }
+        else {
+            const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
+            $section_popn.append($cb);
+        }
     });
     COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
         const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"><label class="form-check-label" style="align-self: flex-start;" for="layercheckbox-${layerinfo.id}"><i class="fa fa-circle" aria-hidden="true" style="color: ${layerinfo.circle.fillColor};  align-items: flex-start;"></i>&nbsp;${layerinfo.title}</label></div>`);
@@ -330,6 +356,7 @@ function initCountyMap () {
         zoomControl: false,
         maxZoom: 18,
         minZoom: 6,
+        zoomSnap: 0.25,
     });
 
     L.control.scale({
@@ -419,6 +446,7 @@ function initCountyMap () {
     // managed by toggleMapLayer()
     MAP.OVERLAYS = {};
 
+    MAP.createPane('lowest'); MAP.getPane('lowest').style.zIndex = 350;
     MAP.createPane('low'); MAP.getPane('low').style.zIndex = 400;
     MAP.createPane('medium'); MAP.getPane('medium').style.zIndex = 410;
     MAP.createPane('high'); MAP.getPane('high').style.zIndex = 420;
@@ -681,7 +709,7 @@ function refreshMapLegend () {
         for (let i = 0; i < text.length; i++) {
             if ((text[i] == "0.0%") || (text[i] == "0")) { 
                 $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${colors[i]};"></div> ${text[i]} <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="legend"]'></i></div>`).appendTo($legend);
-            } 
+            }
             else {
                 $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${colors[i]};"></div> ${text[i]}</div>`).appendTo($legend);
             }
@@ -747,12 +775,12 @@ function addIndicatorChoroplethToMap (layerinfo) {
 
                 return style;
             },
+            pane: 'lowest',
         });
 
         // add to the map and to the registry
         MAP.OVERLAYS[layerinfo.id] = featuregroup;
         featuregroup.addTo(MAP);
-        
     })
     .fail(function (err) {
         busySpinner(false);
@@ -1027,12 +1055,6 @@ function getBreaks (layerinfo, values) {
     else {
         var rawvals = false
         var quantiles = ss.quantile(uniquevalues, [0, 0.2, 0.4, 0.6, 0.8, 1]);
-
-        // if (layerinfo) {
-        //     var quantiles = ss.quantile(formattedvalues, [0, 0.2, 0.4, 0.6, 0.8, 1]);
-        // } else {
-        //     var quantiles = ss.quantile(values, [0, 0.2, 0.4, 0.6, 0.8, 1]);
-        // }
         // check if repeat values in quantiles
         // if so then create artifical quantile to replace repeated value
         // unless artifical quintile equals the real quintile after rounding

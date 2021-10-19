@@ -308,7 +308,7 @@ DATA_LAYERS.prc_caraccess_final = {
 };
 DATA_LAYERS.prc_pov_final = {
     id: 'prc_pov_final',
-    title: "Percent of the Population in Poverty",
+    title: "Percent of Population in Poverty",
     scorefield:  'prc_pov_final',
     quantilefield: 'prc_pov_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
@@ -326,7 +326,7 @@ DATA_LAYERS.prc_youth_final = {
 };
 DATA_LAYERS.pollvoter_dens = {
     id: 'pollvoter_dens',
-    title: "2020 Voting Location Voter Percentage",
+    title: "2020 Percent of County In-Person Voters",
     scorefield:  'pollvoter_dens',
     quantilefield: 'pollvoter_dens', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
@@ -396,11 +396,254 @@ DATA_LAYERS.prc_asian = {
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
 };
+DATA_LAYERS.prc_asianindian = {
+    id: 'prc_asianindian',
+    title: "Asian Indian Percent of Population",
+    scorefield: 'prc_asianindian',
+    quantilefield: 'prc_asianindian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_bangladeshi = {
+    id: 'prc_bangladeshi',
+    title: "Bangladeshi Percent of Population",
+    scorefield: 'prc_bangladeshi',
+    quantilefield: 'prc_bangladeshi', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_bhutanese = {
+    id: 'prc_bhutanese',
+    title: "Bhutanese Percent of Population",
+    scorefield: 'prc_bhutanese',
+    quantilefield: 'prc_bhutanese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_burmese = {
+    id: 'prc_burmese',
+    title: "Burmese Percent of Population",
+    scorefield: 'prc_burmese',
+    quantilefield: 'prc_burmese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_cambodian = {
+    id: 'prc_cambodian',
+    title: "Cambodian Percent of Population",
+    scorefield: 'prc_cambodian',
+    quantilefield: 'prc_cambodian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_chinese = {
+    id: 'prc_chinese',
+    title: "Chinese Percent of Population",
+    scorefield: 'prc_chinese',
+    quantilefield: 'prc_chinese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_hmong = {
+    id: 'prc_hmong',
+    title: "Hmong Percent of Population",
+    scorefield: 'prc_hmong',
+    quantilefield: 'prc_hmong', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_indonesian = {
+    id: 'prc_indonesian',
+    title: "Indonesian Percent of Population",
+    scorefield: 'prc_indonesian',
+    quantilefield: 'prc_indonesian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_japanese = {
+    id: 'prc_japanese',
+    title: "Japanese Percent of Population",
+    scorefield: 'prc_japanese',
+    quantilefield: 'prc_japanese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_korean = {
+    id: 'prc_korean',
+    title: "Korean Percent of Population",
+    scorefield: 'prc_korean',
+    quantilefield: 'prc_korean', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_laotian = {
+    id: 'prc_laotian',
+    title: "Laotian Percent of Population",
+    scorefield: 'prc_laotian',
+    quantilefield: 'prc_laotian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_malaysian = {
+    id: 'prc_malaysian',
+    title: "Malaysian Percent of Population",
+    scorefield: 'prc_malaysian',
+    quantilefield: 'prc_malaysian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_mongolian = {
+    id: 'prc_mongolian',
+    title: "Mongolian Percent of Population",
+    scorefield: 'prc_mongolian',
+    quantilefield: 'prc_mongolian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_nepalese = {
+    id: 'prc_nepalese',
+    title: "Nepalese Percent of Population",
+    scorefield: 'prc_nepalese',
+    quantilefield: 'prc_nepalese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_okinawan = {
+    id: 'prc_okinawan',
+    title: "Okinawan Percent of Population",
+    scorefield: 'prc_okinawan',
+    quantilefield: 'prc_okinawan', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_pakistani = {
+    id: 'prc_pakistani',
+    title: "Pakistani Percent of Population",
+    scorefield: 'prc_pakistani',
+    quantilefield: 'prc_pakistani', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_srilankan = {
+    id: 'prc_srilankan',
+    title: "Sri Lankan Percent of Population",
+    scorefield: 'prc_srilankan',
+    quantilefield: 'prc_srilankan', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_taiwanese = {
+    id: 'prc_taiwanese',
+    title: "Taiwanese Percent of Population",
+    scorefield: 'prc_taiwanese',
+    quantilefield: 'prc_taiwanese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_thai = {
+    id: 'prc_thai',
+    title: "Thai Percent of Population",
+    scorefield: 'prc_thai',
+    quantilefield: 'prc_thai', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_vietnamese = {
+    id: 'prc_vietnamese',
+    title: "Vietnamese Percent of Population",
+    scorefield: 'prc_vietnamese',
+    quantilefield: 'prc_vietnamese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
 DATA_LAYERS.prc_latino = {
     id: 'prc_latino',
     title: "Latino Percent of Population",
     scorefield: 'prc_latino',
     quantilefield: 'prc_latino', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_mexican = {
+    id: 'prc_mexican',
+    title: "Mexican Percent of Population",
+    scorefield: 'prc_mexican',
+    quantilefield: 'prc_mexican', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_puertorican = {
+    id: 'prc_puertorican',
+    title: "Puerto Rican Percent of Population",
+    scorefield: 'prc_puertorican',
+    quantilefield: 'prc_puertorican', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_cuban = {
+    id: 'prc_cuban',
+    title: "Cuban Percent of Population",
+    scorefield: 'prc_cuban',
+    quantilefield: 'prc_cuban', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_dominican = {
+    id: 'prc_dominican',
+    title: "Dominican Percent of Population",
+    scorefield: 'prc_dominican',
+    quantilefield: 'prc_dominican', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_southam = {
+    id: 'prc_southam',
+    title: "South American Percent of Population",
+    scorefield: 'prc_southam',
+    quantilefield: 'prc_southam', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_centralam = {
+    id: 'prc_centralam',
+    title: "Central American Percent of Population",
+    scorefield: 'prc_centralam',
+    quantilefield: 'prc_centralam', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
+DATA_LAYERS.prc_latother = {
+    id: 'prc_latother',
+    title: "Other Latino Percent of Population",
+    scorefield: 'prc_latother',
+    quantilefield: 'prc_latother', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
@@ -414,6 +657,15 @@ DATA_LAYERS.prc_white = {
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
 };
+DATA_LAYERS.prc_native = {
+    id: 'prc_native',
+    title: "Native American Percent of Population",
+    scoresource: 'indicatordata', scorefield: 'prc_native',
+    quantilefield: 'prc_native', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators'
+};
 DATA_LAYERS.gen2020 = {
     id: 'gen2020',
     title: "2020 General Election Voting Locations",
@@ -421,28 +673,28 @@ DATA_LAYERS.gen2020 = {
     circle: { radius: 20, color: '#B941FF', opacity: 1, fillColor: '#B941FF', fillOpacity: 1, weight: 2, },
     popupnamefield: 'name',
     popuptypetext: '2020 General Voting Location',
-    downloadfile: 'point_files/generalvote_2020.csv',
+    downloadfile: 'point_files/general_pollingplaces_2020.csv',
     mapzindex: 'highest',
     layertype: 'pois'
 };
 DATA_LAYERS.pripoll2020 = {
     id: 'pripoll2020',
-    title: "2020 Primary Voting Locations",
+    title: "2020 Primary Election Voting Locations",
     csvfile: 'point_files/primary_pollingplaces_2020.csv',
     circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 2, },
     popupnamefield: 'name',
     popuptypetext: '2020 Primary Voting Location',
-    downloadfile: 'point_files/primaryvote_2020.csv',
+    downloadfile: 'point_files/primary_pollingplaces_2020.csv',
     mapzindex: 'highest',
     layertype: 'pois'
 };
 DATA_LAYERS.pricenter2020 = {
     id: 'pricenter2020',
-    title: "2020 Primary Vote Center Locations",
+    title: "2020 Primary Election Voting Locations",
     csvfile: 'point_files/primary_votecenters_2020.csv',
     circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 2,  },
     popupnamefield: 'name',
-    popuptypetext: '2020 Primary Vote Center Location',
+    popuptypetext: '2020 Primary Election Voting Location',
     downloadfile: 'point_files/primary_votecenters_2020.csv',
     mapzindex: 'highest',
     layertype: 'pois'
@@ -495,6 +747,7 @@ DATA_LAYERS.poi = {
 // lite = all layers EXCEPT suggested areas
 const DATA_PROFILES = {};
 
+// fullmodel
 DATA_PROFILES.fullmodel = {
     suggestedareas: [
         DATA_LAYERS.four_day_sites, DATA_LAYERS.eleven_day_sites, DATA_LAYERS.dropbox_sites,
@@ -514,22 +767,52 @@ DATA_PROFILES.fullmodel = {
         DATA_LAYERS.vbm_rate_tot, DATA_LAYERS.vbm_rate_asn, DATA_LAYERS.vbm_rate_lat, DATA_LAYERS.vbm_rate_youth,
     ],
     populationdata: [
-        DATA_LAYERS.prc_black, 
-        DATA_LAYERS.prc_asian,
         DATA_LAYERS.prc_latino, 
+        DATA_LAYERS.prc_asian, 
+        DATA_LAYERS.prc_black,
+        DATA_LAYERS.prc_native, 
         DATA_LAYERS.prc_white, 
         DATA_LAYERS.prc_youth_final,
         DATA_LAYERS.prcdisabled, 
         DATA_LAYERS.prc_nonengprof, 
+    ],
+    latino: [
+        DATA_LAYERS.prc_mexican,
+        DATA_LAYERS.prc_puertorican,
+        DATA_LAYERS.prc_cuban,
+        DATA_LAYERS.prc_dominican,
+        DATA_LAYERS.prc_southam,
+        DATA_LAYERS.prc_centralam,
+        DATA_LAYERS.prc_latother,
+    ],
+    asian: [
+        DATA_LAYERS.prc_asianindian,
+        DATA_LAYERS.prc_bangladeshi,
+        DATA_LAYERS.prc_bhutanese,
+        DATA_LAYERS.prc_burmese,
+        DATA_LAYERS.prc_cambodian,
+        DATA_LAYERS.prc_chinese,
+        DATA_LAYERS.prc_hmong,
+        DATA_LAYERS.prc_indonesian,
+        DATA_LAYERS.prc_japanese,
+        DATA_LAYERS.prc_korean,
+        DATA_LAYERS.prc_laotian,
+        DATA_LAYERS.prc_malaysian,
+        DATA_LAYERS.prc_mongolian,
+        DATA_LAYERS.prc_nepalese,
+        DATA_LAYERS.prc_okinawan,
+        DATA_LAYERS.prc_pakistani,
+        DATA_LAYERS.prc_srilankan,
+        DATA_LAYERS.prc_taiwanese,
+        DATA_LAYERS.prc_thai,
+        DATA_LAYERS.prc_vietnamese,
     ],
     pointsofinterest: [
         DATA_LAYERS.gen2020,
         DATA_LAYERS.pripoll2020,
         DATA_LAYERS.pricenter2020,
         DATA_LAYERS.transit_stops,
-        DATA_LAYERS.poi_govish, 
-        DATA_LAYERS.poi_misc, 
-        DATA_LAYERS.poi,
+        DATA_LAYERS.poi_govish, DATA_LAYERS.poi_misc, DATA_LAYERS.poi
     ],
 };
 
@@ -537,15 +820,6 @@ DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel);
 DATA_PROFILES.lite.suggestedareas = [];
 DATA_PROFILES.lite.additionalareas = [];
 DATA_PROFILES.lite.allareas = [];
-DATA_PROFILES.lite.pointsofinterest = [
-    DATA_LAYERS.gen2020,
-    DATA_LAYERS.pripoll2020,
-    DATA_LAYERS.pricenter2020,
-];
-DATA_PROFILES.fullexceptsuggested = Object.assign({}, DATA_PROFILES.fullmodel);  // a specific one that's full but we hide the Suggested Areas, but keep others
-DATA_PROFILES.fullexceptsuggested.suggestedareas = [];
-DATA_PROFILES.fullexceptsuggested.additionalareas = [];
-
 
 // popup hacks: some counties need random hacks to their popup content, e.g. Los Angeles 2020 Primary Vote Center Locations has a bunch of extra fields
 // define this callback-style function to do postprocessing on the HTML of the popup content

@@ -2,12 +2,20 @@
   <div class="row">
     <div class="col">
       <h1 id="title">What's New</h1>
-      <button class="accordion"><h3 id="button">July 12, 2021 Update <i class="fa fa-chevron-down"></i></h3></button>
-      <div class="panel">
+      <button class="accordion"><h3 id="button">July 16, 2021 Update <i class="fa fa-chevron-right"></i></h3></button>
+      <div class="panel-closed">
         <br>
         <p>
-          The California Voting Location Siting Tool was updated on July 12, 2021 with the following changes to the voting location data and map design. For more detailed information about our methods please see our <a href="methodology.html" target="_blank">Methodology</a>.
+          The California Voting Location Siting Tool was updated on July 16, 2021 with the following changes to the voting location modeling, data, and map design. For more detailed information about our methods please see our <a href="methodology.html" target="_blank">Methodology</a>.
         </p>
+
+        <h2 id="modelchanges">Model Updates</h2> 
+        <ul>
+          <li><b>Population Clustering: </b>In this update, we adjusted our method of clustering populated census blocks into larger geographic clusters to increase the stability and robustness of our results.</li>
+          <li><b>Facility Location: </b>We adjusted our facility location model to ensure that all sites are selected based on population demand.</li>
+          <li><b>Additional Areas: </b>When identifying additional suggested areas, we modified our methods to better account for population.</li>
+          <li><b>Expansion Counties: </b>When the Siting Tool was initially created, the model was run on a set of priority counties only. In this update, we expanded the Tool to include model results for all counties.</li>  
+        </ul>
 
         <h2 id="data">Data Updates</h2>
           <p>
@@ -17,21 +25,43 @@
               <li>GTFS Transit Data, as of June 1, 2021</li>
               <li>American Community Survey 5-Year Estimate (2015-2019)</li>
               <li>UCB Statewide Database Registration and Voter Data (2020 General Election)</li>
+              <li>Census LEHD Origin-Destination Employment Statistics (LODES) Data (2018)</li>
             </ul>
 
             The following Siting Tool data sources have been added:
             <ul>
-              <li>2020 General Election Voting Locations</li>
+              <li>2020 General Election Voting Locations provided by the Voting Information Project</li>
             </ul>
           </p>
 
         <h2 id="design">Map Design Updates</h2> 
         <ul>
           <li><b>Legend Color Breaks: </b>Previously, the color breaks used in the map legend for the Site Scores, Demographic and Voter Data, and Population Data were created using Jenks Natural Breaks. In this update, we've updated the map legend color breaks to use quantile classification so that values are ranked and divided equally into five classes where possible. In smaller counties with insufficient data, raw values are used rather than quantile classification.</li>
-          <li><b>All Potential Areas: </b>All potential sites were previously located under the Suggested Voting Location Areas section of the sidebar and can now instead be found in it's own section.</li>
-          <li><b>Info Buttons: </b>We added info buttons to different areas of the map to provide users with additional information where needed.</li>
+          <li><b>All Potential Areas: </b>All potential sites were previously located under the Suggested Voting Location Areas section of the sidebar and can now instead be found in its own section.</li>
+          <li><b>Info Buttons: </b>We added info buttons that can be operated by hovering to different areas of the map to provide users with additional information where helpful.</li>
           <li><b>Points of Interest: </b>We updated the colors used to indicate different points of interest to more clearly differentiate each category.</li>
         </ul> 
+      </div>    
+
+      <button class="accordion"><h3 id="button">October XX, 2021 Update <i class="fa fa-chevron-down"></i></h3></button>
+      <div class="panel-open">
+        <br>
+        <p>
+          The California Voting Location Siting Tool was updated on October XX, 2021 with the following changes to the voting location data and modeling. For more detailed information about our methods please see our <a href="methodology.html" target="_blank">Methodology</a>.
+        </p>
+
+        <h2 id="modelchanges">Model Updates</h2> 
+        <ul>
+          <li><b>Population Clustering: </b>In this update, we adjusted our method of clustering populated census blocks to use a greater number of geographic clusters, identified through an iterative process, to increase the stability and robustness of our results.</li>
+          <li><b>Facility Location: </b>We expanded our facility location model to include a greater number of initial sites to account for rural areas with limited potential sites.</li>
+        </ul>
+
+        <h2 id="data">Data Updates</h2>
+          <p>
+            The following Siting Tool data sources have been updated:
+            <ul>
+              <li>2020 Decennial Census Data</li>
+            </ul>
       </div>     
     </div>
   </div>
