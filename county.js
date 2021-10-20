@@ -283,13 +283,23 @@ function initLayerControls () {
     $('#sidebar div.collapse')
     .on('hide.bs.collapse', function () {
         const myid = $(this).prop('id');
-        const $button = $(`#sidebar button[data-target="#${myid}"]`);
+        if ((myid == 'accordion-latinodata') || (myid == 'accordion-asiandata')) {
+            var $button = $(`#sidebar button-small[data-target="#${myid}"]`);
+        }
+        else {
+            var $button = $(`#sidebar button[data-target="#${myid}"]`);
+        }
         const $chevron = $button.find('i');
         $chevron.removeClass('fa-chevron-down').addClass('fa-chevron-right');
     })
     .on('show.bs.collapse', function () {
         const myid = $(this).prop('id');
-        const $button = $(`#sidebar button[data-target="#${myid}"]`);
+        if ((myid == 'accordion-latinodata') || (myid == 'accordion-asiandata')) {
+            var $button = $(`#sidebar button-small[data-target="#${myid}"]`);
+        }
+        else {
+            var $button = $(`#sidebar button[data-target="#${myid}"]`);
+        }
         const $chevron = $button.find('i');
         $chevron.removeClass('fa-chevron-right').addClass('fa-chevron-down');
     });
