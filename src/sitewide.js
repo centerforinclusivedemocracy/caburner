@@ -405,42 +405,6 @@ DATA_LAYERS.prc_asianindian = {
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
 };
-DATA_LAYERS.prc_bangladeshi = {
-    id: 'prc_bangladeshi',
-    title: "Bangladeshi Percent of Population",
-    scorefield: 'prc_bangladeshi',
-    quantilefield: 'prc_bangladeshi', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_bhutanese = {
-    id: 'prc_bhutanese',
-    title: "Bhutanese Percent of Population",
-    scorefield: 'prc_bhutanese',
-    quantilefield: 'prc_bhutanese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_burmese = {
-    id: 'prc_burmese',
-    title: "Burmese Percent of Population",
-    scorefield: 'prc_burmese',
-    quantilefield: 'prc_burmese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_cambodian = {
-    id: 'prc_cambodian',
-    title: "Cambodian Percent of Population",
-    scorefield: 'prc_cambodian',
-    quantilefield: 'prc_cambodian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
 DATA_LAYERS.prc_chinese = {
     id: 'prc_chinese',
     title: "Chinese Percent of Population",
@@ -450,20 +414,11 @@ DATA_LAYERS.prc_chinese = {
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
 };
-DATA_LAYERS.prc_hmong = {
-    id: 'prc_hmong',
-    title: "Hmong Percent of Population",
-    scorefield: 'prc_hmong',
-    quantilefield: 'prc_hmong', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_indonesian = {
-    id: 'prc_indonesian',
-    title: "Indonesian Percent of Population",
-    scorefield: 'prc_indonesian',
-    quantilefield: 'prc_indonesian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+DATA_LAYERS.prc_filipino = {
+    id: 'prc_filipino',
+    title: "Filipino Percent of Population",
+    scorefield: 'prc_filipino',
+    quantilefield: 'prc_filipino', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
@@ -482,87 +437,6 @@ DATA_LAYERS.prc_korean = {
     title: "Korean Percent of Population",
     scorefield: 'prc_korean',
     quantilefield: 'prc_korean', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_laotian = {
-    id: 'prc_laotian',
-    title: "Laotian Percent of Population",
-    scorefield: 'prc_laotian',
-    quantilefield: 'prc_laotian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_malaysian = {
-    id: 'prc_malaysian',
-    title: "Malaysian Percent of Population",
-    scorefield: 'prc_malaysian',
-    quantilefield: 'prc_malaysian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_mongolian = {
-    id: 'prc_mongolian',
-    title: "Mongolian Percent of Population",
-    scorefield: 'prc_mongolian',
-    quantilefield: 'prc_mongolian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_nepalese = {
-    id: 'prc_nepalese',
-    title: "Nepalese Percent of Population",
-    scorefield: 'prc_nepalese',
-    quantilefield: 'prc_nepalese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_okinawan = {
-    id: 'prc_okinawan',
-    title: "Okinawan Percent of Population",
-    scorefield: 'prc_okinawan',
-    quantilefield: 'prc_okinawan', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_pakistani = {
-    id: 'prc_pakistani',
-    title: "Pakistani Percent of Population",
-    scorefield: 'prc_pakistani',
-    quantilefield: 'prc_pakistani', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_srilankan = {
-    id: 'prc_srilankan',
-    title: "Sri Lankan Percent of Population",
-    scorefield: 'prc_srilankan',
-    quantilefield: 'prc_srilankan', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_taiwanese = {
-    id: 'prc_taiwanese',
-    title: "Taiwanese Percent of Population",
-    scorefield: 'prc_taiwanese',
-    quantilefield: 'prc_taiwanese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_thai = {
-    id: 'prc_thai',
-    title: "Thai Percent of Population",
-    scorefield: 'prc_thai',
-    quantilefield: 'prc_thai', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
@@ -635,15 +509,6 @@ DATA_LAYERS.prc_centralam = {
     title: "Central American Percent of Population",
     scorefield: 'prc_centralam',
     quantilefield: 'prc_centralam', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
-    legendformat: 'percent',
-    radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
-};
-DATA_LAYERS.prc_latother = {
-    id: 'prc_latother',
-    title: "Other Latino Percent of Population",
-    scorefield: 'prc_latother',
-    quantilefield: 'prc_latother', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
@@ -783,28 +648,13 @@ DATA_PROFILES.fullmodel = {
         DATA_LAYERS.prc_dominican,
         DATA_LAYERS.prc_southam,
         DATA_LAYERS.prc_centralam,
-        DATA_LAYERS.prc_latother,
     ],
     asian: [
         DATA_LAYERS.prc_asianindian,
-        DATA_LAYERS.prc_bangladeshi,
-        DATA_LAYERS.prc_bhutanese,
-        DATA_LAYERS.prc_burmese,
-        DATA_LAYERS.prc_cambodian,
         DATA_LAYERS.prc_chinese,
-        DATA_LAYERS.prc_hmong,
-        DATA_LAYERS.prc_indonesian,
+        DATA_LAYERS.prc_filipino,
         DATA_LAYERS.prc_japanese,
         DATA_LAYERS.prc_korean,
-        DATA_LAYERS.prc_laotian,
-        DATA_LAYERS.prc_malaysian,
-        DATA_LAYERS.prc_mongolian,
-        DATA_LAYERS.prc_nepalese,
-        DATA_LAYERS.prc_okinawan,
-        DATA_LAYERS.prc_pakistani,
-        DATA_LAYERS.prc_srilankan,
-        DATA_LAYERS.prc_taiwanese,
-        DATA_LAYERS.prc_thai,
         DATA_LAYERS.prc_vietnamese,
     ],
     pointsofinterest: [
