@@ -55,6 +55,8 @@ function initStatewideMap () {
                         return BOUNDSTYLE_FULL;
                     case 'lite':
                         return BOUNDSTYLE_LITE;
+                    case 'inprogress':
+                        return BOUNDSTYLE_INPROGRESS;
                     default:
                         console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for styling map`);
                         return BOUNDSTYLE_DEFAULT;  // not known, so punt with this and the error message
@@ -76,6 +78,9 @@ function initStatewideMap () {
                             break;
                         case 'lite':
                             message = 'Community-Level Demographic and Voter Data';
+                            break;
+                        case 'inprogress':
+                            message = 'Modeling Update in Progress';
                             break;
                         default:
                             console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for creating tooltip`);

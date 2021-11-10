@@ -44,7 +44,6 @@
     <script src="./mapcontrols/leaflet-control-suggestedareadetails.js"></script>
     <link rel="stylesheet" href="./mapcontrols/leaflet-control-countypicker.css" />
     <script src="./mapcontrols/leaflet-control-countypicker.js"></script>
-
     <script src="./mapcontrols/leaflet-pattern.js"></script>
 
     <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
@@ -52,6 +51,12 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css" />
     <script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
+
+    <!-- Shapefile plugin-->
+	<script src="https://unpkg.com/shpjs@latest/dist/shp.js"></script>
+	<script src="./mapcontrols/leaflet.shpfile.js"></script>
+    <script src="./mapcontrols/catiline.js"></script>
+    <script src="./mapcontrols/shp.js"></script>
 
     <!-- PapaParse CSV reader -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
@@ -76,9 +81,9 @@
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
     <link rel="stylesheet" href="./sitewide.css?cachebust-8a9647ef04" />
-    <script src="./sitewide.js?cachebust-7aae1dde79"></script>
+    <script src="./sitewide.js?cachebust-907d33cbdb"></script>
     <link rel="stylesheet" href="./index.css?cachebust-dce7befece" />
-    <script src="./index.js?cachebust-b4d8a37c38"></script>
+    <script src="./index.js?cachebust-67347b9d64"></script>
 </head>
 <body>
 
@@ -136,7 +141,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 The Voting Location Siting Tool aids election officials in the siting process by identifying optimal voting locations and ballot drop boxes for half-mile grid squares across a county. Election officials are able to find specific locations for consideration in these areas using local knowledge of their county’s resources and needs. The Siting Tool also provides visualization of demographic and voter data at the community level. 
             </p>
             <p>
-                Currently, the Voting Location Siting Tool provides location modeling for vote centers (4 day and 11 day) and drop boxes for 14 of the 15 counties that have adopted the California Voter’s Choice Act (Butte is omitted). Additionally, the Tool now provides modeling for voting locations (4 day) and drop boxes for the rest of California’s counties (except the all vote-by-mail counties of Alpine, Plumas, and Sierra) consistent with the siting options available to counties through <a href="https://urldefense.com/v3/__https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200SB423__;!!LIr3w8kk_Xxm!-8qD99XrAssswncBjIXqt0fZFSii4oKvMjgeDhbAeENxhAYqvcH114AKHWn80O4$">California Senate Bill 423</a>. 
+                <!-- Currently, the Voting Location Siting Tool provides location modeling for vote centers (4 day and 11 day) and drop boxes for 14 of the 15 counties that have adopted the California Voter’s Choice Act (Butte is omitted). Additionally, the Tool now provides modeling for voting locations (4 day) and drop boxes for the rest of California’s counties (except the all vote-by-mail counties of Alpine, Plumas, and Sierra) consistent with the siting options available to counties through <a href="https://urldefense.com/v3/__https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200SB423__;!!LIr3w8kk_Xxm!-8qD99XrAssswncBjIXqt0fZFSii4oKvMjgeDhbAeENxhAYqvcH114AKHWn80O4$">California Senate Bill 423</a>.  -->
+                Currently, the Voting Location Siting Tool provides location modeling for vote centers (open 4 days and 11 days) and drop boxes for the 15 counties that have adopted the California Voter’s Choice Act. The Tool also provides modeling for voting locations (4 day) and drop boxes for the rest of California’s counties (except the all vote-by-mail counties of Alpine, Plumas, and Sierra) consistent with the siting options available to counties for the gubernatorial recall election through <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220SB152">California Senate Bill 152</a>. We note here that some California counties may choose to conduct the recall election under a traditional polling place model. To learn more about current siting requirements, see the California Secretary of State’s recall <a href="https://elections.cdn.sos.ca.gov/ccrov/2021/july/21091jl.pdf">election administration guidance</a>.
             </p>
             <p>
                 The Tool visualizes multiple types of community-level demographic and voter data for Alpine, Butte, Plumas, and Sierra counties  as separate interactive maps.

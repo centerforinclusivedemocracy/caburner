@@ -7,64 +7,64 @@
 // exceptlayers = skip these layers when loading the data profile, for counties to opt-out from individual layers
 const PARTICIPATING_COUNTIES = [
     //SSS// We have 3 classes for CA: lite for the 4 VBM counties, fullmodel for polling places, and fullmodel for vote centers
-    { countyfp: "001", name: "Alameda", profile: 'fullmodel', },
+    { countyfp: "001", name: "Alameda", profile: 'fullmodel', vca: '3 & 4'},
     { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
-    { countyfp: "005", name: "Amador", profile: 'fullmodel', },
-    { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county.", },
-    { countyfp: "009", name: "Calaveras", profile: 'fullmodel', },
-    { countyfp: "011", name: "Colusa", profile: 'fullmodel', },
-    { countyfp: "013", name: "Contra Costa", profile: 'fullmodel', },
-    { countyfp: "015", name: "Del Norte", profile: 'fullmodel', },
-    { countyfp: "017", name: "El Dorado", profile: 'fullmodel', },
-    { countyfp: "019", name: "Fresno", profile: 'fullmodel', },
-    { countyfp: "021", name: "Glenn", profile: 'fullmodel', },
-    { countyfp: "023", name: "Humboldt", profile: 'fullmodel', },
-    { countyfp: "025", name: "Imperial", profile: 'fullmodel', },
-    { countyfp: "027", name: "Inyo", profile: 'fullmodel', },
-    { countyfp: "029", name: "Kern", profile: 'fullmodel', },
-    { countyfp: "031", name: "Kings", profile: 'fullmodel', },
-    { countyfp: "033", name: "Lake", profile: 'fullmodel', },
-    { countyfp: "035", name: "Lassen", profile: 'fullmodel', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%."},
-    { countyfp: "037", name: "Los Angeles", profile: 'fullmodel', },
-    { countyfp: "039", name: "Madera", profile: 'fullmodel', },
-    { countyfp: "041", name: "Marin", profile: 'fullmodel', },
-    { countyfp: "043", name: "Mariposa", profile: 'fullmodel', },
-    { countyfp: "045", name: "Mendocino", profile: 'fullmodel', },
-    { countyfp: "047", name: "Merced", profile: 'fullmodel', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%."},
-    { countyfp: "049", name: "Modoc", profile: 'fullmodel', },
-    { countyfp: "051", name: "Mono", profile: 'fullmodel', },
-    { countyfp: "053", name: "Monterey", profile: 'fullmodel', },
-    { countyfp: "055", name: "Napa", profile: 'fullmodel', },
-    { countyfp: "057", name: "Nevada", profile: 'fullmodel', },
-    { countyfp: "059", name: "Orange", profile: 'fullmodel', },
-    { countyfp: "061", name: "Placer", profile: 'fullmodel', },
+    { countyfp: "005", name: "Amador", profile: 'fullmodel', vca: '2'},
+    { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
+    { countyfp: "009", name: "Calaveras", profile: 'fullmodel', vca: '2'},
+    { countyfp: "011", name: "Colusa", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "013", name: "Contra Costa", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "015", name: "Del Norte", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "017", name: "El Dorado", profile: 'fullmodel', vca: '2'},
+    { countyfp: "019", name: "Fresno", profile: 'fullmodel', vca: '2'},
+    { countyfp: "021", name: "Glenn", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "023", name: "Humboldt", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "025", name: "Imperial", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "027", name: "Inyo", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "029", name: "Kern", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "031", name: "Kings", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "033", name: "Lake", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "035", name: "Lassen", profile: 'fullmodel', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
+    { countyfp: "037", name: "Los Angeles", profile: 'fullmodel', vca: '2'},
+    { countyfp: "039", name: "Madera", profile: 'fullmodel', vca: '1'},
+    { countyfp: "041", name: "Marin", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "043", name: "Mariposa", profile: 'fullmodel', vca: '2'},
+    { countyfp: "045", name: "Mendocino", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "047", name: "Merced", profile: 'fullmodel', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '2'},
+    { countyfp: "049", name: "Modoc", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "051", name: "Mono", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "053", name: "Monterey", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "055", name: "Napa", profile: 'fullmodel', vca: '2'},
+    { countyfp: "057", name: "Nevada", profile: 'fullmodel', vca: '2'},
+    { countyfp: "059", name: "Orange", profile: 'fullmodel', vca: '2'},
+    { countyfp: "061", name: "Placer", profile: 'fullmodel', vca: '3 & 4'},
     { countyfp: "063", name: "Plumas", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
-    { countyfp: "065", name: "Riverside", profile: 'fullmodel', },
-    { countyfp: "067", name: "Sacramento", profile: 'fullmodel', },
-    { countyfp: "069", name: "San Benito", profile: 'fullmodel', },
-    { countyfp: "071", name: "San Bernardino", profile: 'fullmodel', },
-    { countyfp: "073", name: "San Diego", profile: 'fullmodel', },
-    { countyfp: "075", name: "San Francisco", profile: 'fullmodel', },
-    { countyfp: "077", name: "San Joaquin", profile: 'fullmodel', },
-    { countyfp: "079", name: "San Luis Obispo", profile: 'fullmodel', },
-    { countyfp: "081", name: "San Mateo", profile: 'fullmodel', },
-    { countyfp: "083", name: "Santa Barbara", profile: 'fullmodel', },
-    { countyfp: "085", name: "Santa Clara", profile: 'fullmodel', },
-    { countyfp: "087", name: "Santa Cruz", profile: 'fullmodel', },
-    { countyfp: "089", name: "Shasta", profile: 'fullmodel', },
+    { countyfp: "065", name: "Riverside", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "067", name: "Sacramento", profile: 'fullmodel', vca: '2'},
+    { countyfp: "069", name: "San Benito", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "071", name: "San Bernardino", profile: 'inprogress', outoforder: "Updated modeling of suggested voting locations is in progress for this county. Currently modeled voting locations for the 2020 General Election are available."},
+    { countyfp: "073", name: "San Diego", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "075", name: "San Francisco", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "077", name: "San Joaquin", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "079", name: "San Luis Obispo", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "081", name: "San Mateo", profile: 'fullmodel', vca: '2'},
+    { countyfp: "083", name: "Santa Barbara", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "085", name: "Santa Clara", profile: 'fullmodel', vca: '2'},
+    { countyfp: "087", name: "Santa Cruz", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "089", name: "Shasta", profile: 'fullmodel', vca: '3 & 4'},
     { countyfp: "091", name: "Sierra", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
-    { countyfp: "093", name: "Siskiyou", profile: 'fullmodel', },
-    { countyfp: "095", name: "Solano", profile: 'fullmodel', },
-    { countyfp: "097", name: "Sonoma", profile: 'fullmodel', },
-    { countyfp: "099", name: "Stanislaus", profile: 'fullmodel', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%."},
-    { countyfp: "101", name: "Sutter", profile: 'fullmodel', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%."},
-    { countyfp: "103", name: "Tehama", profile: 'fullmodel', },
-    { countyfp: "105", name: "Trinity", profile: 'fullmodel', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%."},
-    { countyfp: "107", name: "Tulare", profile: 'fullmodel', },
-    { countyfp: "109", name: "Tuolumne", profile: 'fullmodel', },
-    { countyfp: "111", name: "Ventura", profile: 'fullmodel', },
-    { countyfp: "113", name: "Yolo", profile: 'fullmodel', },
-    { countyfp: "115", name: "Yuba", profile: 'fullmodel', },
+    { countyfp: "093", name: "Siskiyou", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "095", name: "Solano", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "097", name: "Sonoma", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "099", name: "Stanislaus", profile: 'fullmodel',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
+    { countyfp: "101", name: "Sutter", profile: 'fullmodel',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
+    { countyfp: "103", name: "Tehama", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "105", name: "Trinity", profile: 'fullmodel',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
+    { countyfp: "107", name: "Tulare", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "109", name: "Tuolumne", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "111", name: "Ventura", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "113", name: "Yolo", profile: 'fullmodel', vca: '3 & 4'},
+    { countyfp: "115", name: "Yuba", profile: 'fullmodel', vca: '3 & 4'},
   ];
 
 const getParticipatingCountyInfo = function (countyfp) {
@@ -114,6 +114,7 @@ const BOUNDSTYLE_DEFAULT = { fillColor: 'white', weight: 1, opacity: 0.5, color:
 const BOUNDSTYLE_PARTICIPATING = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
 const BOUNDSTYLE_FULL = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
 const BOUNDSTYLE_LITE = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.33 };
+const BOUNDSTYLE_INPROGRESS = { fillColor: '#DDDDDD', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
 const BOUNDSTYLE_MOUSEOVER = { weight: 5, color: 'black', fillOpacity: 0.15 };
 
 // in county.html to view a single county, the style to use for county boundary
@@ -126,7 +127,7 @@ const CENSUSTRACT_STYLE = { color: 'black', weight: 1, opacity: 0.25, fillColor:
 const UNRELIABLE_STYLE = { color: 'black', fillColor: 'black', fillOpacity: 0.8, stroke: false, interactive: false };
 
 // to highlight a suggested area circle when its deails are being shown
-const HIGHLIGHT_SUGGESTED_AREA = { color: 'yellow', weight: 2, fill: false };
+const HIGHLIGHT_SUGGESTED_AREA = { color: 'yellow', weight: 2 };
 
 // for circles & tracts with no data, a grey fill
 const NODATA_COLOR = '#CCCCCC';
@@ -184,9 +185,10 @@ const DATA_LAYERS = {};
 DATA_LAYERS.four_day_sites = {
     id: 'four_day_sites',
     title: "Suggested Areas for 4 Day Voting Locations",
-    csvfile: 'model_files/four_day_sites.csv',
-    circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/four_day_sites.geojson',
+    style: { opacity: 0.8, color: 'black', weight: 1, fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
+    scorefield: 'vc_score',
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/four_day_sites_shp.zip',
@@ -197,9 +199,10 @@ DATA_LAYERS.four_day_sites = {
 DATA_LAYERS.eleven_day_sites = {
     id: 'eleven_day_sites',
     title: "Suggested Areas for 11 Day Voting Locations",
-    csvfile: 'model_files/eleven_day_sites.csv',
-    circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/eleven_day_sites.geojson',
+    style: { color: 'black', opacity: 0.8, fillOpacity: 0.8, weight: 1 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
+    scorefield: 'vc_score',
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/eleven_day_sites_shp.zip',
@@ -209,9 +212,10 @@ DATA_LAYERS.eleven_day_sites = {
 DATA_LAYERS.dropbox_sites = {
     id: 'dropbox_sites',
     title: "Suggested Areas for Ballot Drop Boxes",
-    csvfile: 'model_files/dropbox_sites.csv',
-    circle: { radius: 400, opacity: 0.8, color: 'red', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/dropbox_sites.geojson',
+    style: { opacity: 0.8, color: 'red', weight: 1, fillOpacity: 0.8 },
     quantilefield: 'droppoff_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
+    scorefield: 'vc_score',
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/dropbox_sites_shp.zip',
@@ -220,10 +224,11 @@ DATA_LAYERS.dropbox_sites = {
 DATA_LAYERS.all_sites_scored = {
     id: 'all_sites_scored',
     title: "All Potential Areas",
-    csvfile: 'model_files/all_sites_scored.csv',
-    circle: { radius: 400, opacity: 0.8, color: '#fcc5c0', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/all_sites_scored.geojson',
+    style: { color: '#fcc5c0', opacity: 0.8, fillOpacity: 0.8, weight: 1 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
     mapzindex: 'medium',
+    scorefield: 'vc_score',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/all_sites_scored_shp.zip',
     layertype: 'sites'
@@ -231,9 +236,10 @@ DATA_LAYERS.all_sites_scored = {
 DATA_LAYERS.additional_sites_model = {
     id: 'additional_sites_model',
     title: "Additional Voting Location Options Based on Model",
-    csvfile: 'model_files/additional_sites_model.csv',
-    circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/additional_sites_model.geojson',
+    style: { opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
+    scorefield: 'vc_score',
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_model_shp.zip',
@@ -243,9 +249,10 @@ DATA_LAYERS.additional_sites_model = {
 DATA_LAYERS.additional_sites_distance = {
     id: 'additional_sites_distance',
     title: "Additional Voting Location Options Based on Distance",
-    csvfile: 'model_files/additional_sites_distance.csv',
-    circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    geojsonfile: 'model_files/additional_sites_distance.geojson',
+    style: { opacity: 0.8, color: 'blue', weight: 1, fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, // because fillColor == quantile
+    scorefield: 'vc_score',
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_distance_shp.zip',
@@ -559,7 +566,7 @@ DATA_LAYERS.pricenter2020 = {
     csvfile: 'point_files/primary_votecenters_2020.csv',
     circle: { radius: 20, color: '#ffa200', opacity: 1, fillColor: '#ffa200', fillOpacity: 1, weight: 2,  },
     popupnamefield: 'name',
-    popuptypetext: '2020 Primary Election Voting Location',
+    popuptypetext: '2020 Primary Election Voting Locations',
     downloadfile: 'point_files/primary_votecenters_2020.csv',
     mapzindex: 'highest',
     layertype: 'pois'
@@ -670,6 +677,13 @@ DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel);
 DATA_PROFILES.lite.suggestedareas = [];
 DATA_PROFILES.lite.additionalareas = [];
 DATA_PROFILES.lite.allareas = [];
+
+DATA_PROFILES.fullexceptsuggested = Object.assign({}, DATA_PROFILES.fullmodel);  // a specific one that's full but we hide the Suggested Areas, but keep others
+DATA_PROFILES.fullexceptsuggested.suggestedareas = [];
+DATA_PROFILES.fullexceptsuggested.additionalareas = [];
+
+DATA_PROFILES.inprogress = Object.assign({}, DATA_PROFILES.fullmodel);
+
 
 // popup hacks: some counties need random hacks to their popup content, e.g. Los Angeles 2020 Primary Vote Center Locations has a bunch of extra fields
 // define this callback-style function to do postprocessing on the HTML of the popup content

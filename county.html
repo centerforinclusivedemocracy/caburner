@@ -44,7 +44,6 @@
     <script src="./mapcontrols/leaflet-control-suggestedareadetails.js"></script>
     <link rel="stylesheet" href="./mapcontrols/leaflet-control-countypicker.css" />
     <script src="./mapcontrols/leaflet-control-countypicker.js"></script>
-
     <script src="./mapcontrols/leaflet-pattern.js"></script>
 
     <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
@@ -52,6 +51,12 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css" />
     <script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
+
+    <!-- Shapefile plugin-->
+	<script src="https://unpkg.com/shpjs@latest/dist/shp.js"></script>
+	<script src="./mapcontrols/leaflet.shpfile.js"></script>
+    <script src="./mapcontrols/catiline.js"></script>
+    <script src="./mapcontrols/shp.js"></script>
 
     <!-- PapaParse CSV reader -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
@@ -76,9 +81,9 @@
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
     <link rel="stylesheet" href="./sitewide.css?cachebust-8a9647ef04" />
-    <script src="./sitewide.js?cachebust-7aae1dde79"></script>
-    <link rel="stylesheet" href="./county.css?cachebust-8747a65f28" />
-    <script src="./county.js?cachebust-50dbe12e1a"></script>
+    <script src="./sitewide.js?cachebust-907d33cbdb"></script>
+    <link rel="stylesheet" href="./county.css?cachebust-6fe6c5f663" />
+    <script src="./county.js?cachebust-40e6a5a765"></script>
 </head>
 <body>
 
@@ -114,6 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h1 data-field="countyname" class="pl-2">&nbsp;</h1>
             <div><!-- scrolling content, height is sidebar minus h1 -->
                 <p id="outoforder" class="p-2"></p>
+                <!-- <p>lalalalalalal find my link <a href=https://elections.cdn.sos.ca.gov/ccrov/2021/july/21091jl.pdf>here</a></p>p -->
 
                 <div class="px-2 mb-3">
                     <h2 class="m-0">Suggested Voting Location & Drop Box Areas <i class="fa fa-info-circle" data-tooltip-content='#tooltips > div[data-tooltip="suggestedareas"]'></i></h2>

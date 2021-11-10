@@ -44,7 +44,6 @@
     <script src="./mapcontrols/leaflet-control-suggestedareadetails.js"></script>
     <link rel="stylesheet" href="./mapcontrols/leaflet-control-countypicker.css" />
     <script src="./mapcontrols/leaflet-control-countypicker.js"></script>
-
     <script src="./mapcontrols/leaflet-pattern.js"></script>
 
     <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
@@ -52,6 +51,12 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css" />
     <script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
+
+    <!-- Shapefile plugin-->
+	<script src="https://unpkg.com/shpjs@latest/dist/shp.js"></script>
+	<script src="./mapcontrols/leaflet.shpfile.js"></script>
+    <script src="./mapcontrols/catiline.js"></script>
+    <script src="./mapcontrols/shp.js"></script>
 
     <!-- PapaParse CSV reader -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
@@ -76,7 +81,7 @@
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
     <link rel="stylesheet" href="./sitewide.css?cachebust-8a9647ef04" />
-    <script src="./sitewide.js?cachebust-7aae1dde79"></script>
+    <script src="./sitewide.js?cachebust-907d33cbdb"></script>
     <link rel="stylesheet" href="./methodology.css?cachebust-8be1f32d75" />
     <script src="./methodology.js?cachebust-2c6e36a8e3"></script>
 </head>
@@ -110,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="col">
       <h1 id="purpose">Purpose</h1>
       <p>
-        The Voting Location Siting Tool is designed to help California county election officials identify optimal sites for potential vote locations and vote-by-mail drop box locations, as well provide visualization of demographic and voter data at the community level.
+        The Voting Location Siting Tool is designed to help California county election officials identify optimal sites for potential voting locations and vote-by-mail drop box locations, as well provide visualization of demographic and voter data at the community level.
       </p>
       <p>
         Please see the Siting Tool's current methodology below. For more details, see
@@ -121,7 +126,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <h1 id="methodology">Scope</h1>
       <div class="row">
         <div class="col">
-          The Tool provides vote location and drop box location modeling, along with visualization of demographic and voter data for the following counties:
+          The Tool provides voting location and drop box location modeling, along with visualization of demographic and voter data for the following counties:
           <ul id="fullAnalysisCountyList" class="card-columns"><!-- county list filled in via initFillScopeLists() --></ul>
         </div>
         <div class="col">
@@ -182,7 +187,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
       <p id="working"><b>Percent of County Workers:</b> The percent of all in-county workers who work in the tracts. Query only records for people who work and live in the same county. Summarize the total number of in-county workers per block, and divide by the total number of in-county workers in the county.</p>
       <ul>
-        <li><i>Data sources</i>: Census LEHD Origin-Destination Employment Statistics (LODES) 2015, workplace area characteristics. </li>
+        <li><i>Data sources</i>: Census LEHD Origin-Destination Employment Statistics (LODES) 2018, workplace area characteristics. </li>
         <li><i>Calculation</i>: The percent of the population in the ract that work in the county out of the total number of workers that work in that county.</li>
         <li><i>Scale</i>: Census Block - Note that although this variable is displayed on the web map at the census tract level, the model input was at the census block level.</li>
         <li><i>Rationale</i>: Voting location/drop off should be proximal to where people work.</li>
@@ -227,12 +232,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: Although the model input was at the census block level, this variable is displayed on the web map at the census tract level by aggregating the proportion of total precinct voters in a block to the census tract level.</li>
       </ul>
       
-      <p id="votelocationvoters"><b>2020 Vote Location Voter Percentage:</b> The number of voters who voted at a vote location in a census tract divided by the total number of voters who voted at a vote location in the county.</p>
+      <p id="votelocationvoters"><b>2020 Percent of County In-Person Voters:</b> The number of voters who voted at a voting location in a census tract divided by the total number of voters who voted at a voting location in the county.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
-        <li><i>Calculation</i>: Convert from precinct to census block level, calculate the percent of voters in a block who voted at a vote location out of the county total. Divide the number of people who voted at a vote location in the 2020 General Election in the block by the total number of people who voted at a vote location in the 2020 General Election in the county. </li>
+        <li><i>Calculation</i>: Convert from precinct to census block level, calculate the percent of voters in a block who voted at a voting location out of the county total. Divide the number of people who voted at a voting location in the 2020 General Election in the block by the total number of people who voted at a voting location in the 2020 General Election in the county. </li>
         <li><i>Scale</i>: Census Block -  Note that although this variable is displayed on the web map at the census tract level, the model input was at the census block level.</li>
-        <li><i>Rationale</i>: Voting location/drop off should be proximal to communities with historically low vote location usage.</li>
+        <li><i>Rationale</i>: Voting location/drop off should be proximal to communities with historically low voting location usage.</li>
         <li><i>Limitations</i>: Imperfect conversion from precinct to tract level.</li>
         <li><i>Note</i>: Although the model input was at the census block level, this variable is displayed on the web map at the census tract level by aggregating the proportion of total precinct voters in a block to the census tract level.</li>
       </ul>
@@ -282,7 +287,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><i>Data sources</i>: Model</li>
           <li><i>Calculation</i>: The model accounts for geographically isolated communities encouraging dispersion of sites. The additional suggested areas based on distance account for any remaining communities that have a greater travel time to a suggested site.</li>
           <li><i>Scale</i>: N/A</li>
-          <li><i>Rationale</i>: Vote locations should be proximal to geographically isolated communities.</li>
+          <li><i>Rationale</i>: Voting locations should be proximal to geographically isolated communities.</li>
           <li><i>Limitations</i>: There is no clear definition or data source for geographically isolated communities.</li>
         </ul>
       
@@ -626,13 +631,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><i>Limitations</i>: OpenStreetMap is a crowdsourced database. While the organization does some validating of data, the extent and quality of a county’s coverage depends on the user.</li>
           </ul>
     
-          <p id="votelocations"><b>Vote Locations:</b> Locations previously used as a vote location, which may include 2020 General Election and 2020 Presidential Primary vote locations.</p>
+          <p id="votelocations"><b>Voting Locations:</b> Locations previously used as a voting location, which may include 2020 General Election and 2020 Presidential Primary voting locations.</p>
           <ul>
             <li><i>Data sources</i>: Voting Information Project</li>
             <li><i>Calculation</i>: N/A</li>
             <li><i>Scale</i>: Point</li>
-            <li><i>Rationale</i>: The presence of a prior vote location may be used to identify potentially suitable voting site areas.</li>
-            <li><i>Limitations</i>: The accuracy of the prior vote locations used in the Tool is subject to the integrity of the data reported by counties to the Voting Information Project.</li>
+            <li><i>Rationale</i>: The presence of a prior voting location may be used to identify potentially suitable voting site areas.</li>
+            <li><i>Limitations</i>: The accuracy of the prior voting locations used in the Tool is subject to the integrity of the data reported by counties to the Voting Information Project.</li>
           </ul>
 
           <h2 id="weighting">Variable Weights</h3>
@@ -662,6 +667,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   </div>
 </div><!--/container-->
+<!-- common footer for all pages; see style_footer.css -->
+
+<footer class="footer">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-sm-6">
+                <img src="./images/usc-logo.png" title="University of Southern California Logo" style="margin-right: 10px;" />
+                &copy; <span id="copyright-year">2021</span>
+
+                <!-- auto update copyright year -->
+                <script>
+                    document.querySelector('#copyright-year').innerText = new Date().getFullYear();
+                </script>
+
+                <a href="https://cid.usc.edu/" target="_blank">CID</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>
 <!-- common footer for all pages; see style_footer.css -->
 
 <footer class="footer">
