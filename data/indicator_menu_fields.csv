@@ -1,34 +1,19 @@
 fieldname,section,title,description
 prc_asianindian,population,Asian Indian Percent of Population,Percent of the tract population that is Asian Indian.
 prc_asian,population,Asian-American Percent of Population,Percent of the tract population that is Asian-American alone&#x002C not Hispanic or Latino.
-prc_bangladeshi,population,Bangladeshi Percent of Population,Percent of the tract population that is Bangladeshi.
-prc_bhutanese,population,Bhutanese Percent of Population,Percent of the tract population that is Bhutanese.
 prc_black,population,Black Percent of Population,Percent of the tract population that is Black alone&#x002C not Hispanic or Latino.
-prc_burmese,population,Burmese Percent of Population,Percent of the tract population that is Burmese.
-prc_cambodian,population,Cambodian Percent of Population,Percent of the tract population that is Cambodian.
 prc_centralam,population,Central American Percent of Population,The percentage of the population that is Central American.
 prc_chinese,population,Chinese Percent of Population,Percent of the tract population that is Chinese.
 prc_cuban,population,Cuban Percent of Population,The percentage of the population that is Cuban.
 prc_dominican,population,Dominican Percent of Population,The percentage of the population that is Dominican.
-prc_hmong,population,Hmong Percent of Population,Percent of the tract population that is Hmong.
-prc_indonesian,population,Indonesian Percent of Population,Percent of the tract population that is Indonesian.
+prc_filipino,population,Filipino Percent of Population,Percent of the tract population that is Vietnamese.
 prc_japanese,population,Japanese Percent of Population,Percent of the tract population that is Japanese.
 prc_korean,population,Korean Percent of Population,Percent of the tract population that is Korean.
-prc_laotian,population,Laotian Percent of Population,Percent of the tract population that is Laotian.
 prc_latino,population,Latino Percent of Population,The percentage of the population that is Hispanic or Latino.
-prc_malaysian,population,Malaysian Percent of Population,Percent of the tract population that is Malaysian.
 prc_mexican,population,Mexican Percent of Population,The percentage of the population that is Mexican.
-prc_mongolian,population,Mongolian Percent of Population,Percent of the tract population that is Mongolian.
 prc_native,population,Native American Percent of Population,Percent of the tract population that is Native American.
-prc_nepalese,population,Nepalese Percent of Population,Percent of the tract population that is Nepalese.
-prc_okinawan,population,Okinawan Percent of Population,Percent of the tract population that is Okinawan.
-prc_latother,population,Other Latino Percent of Population,The percentage of the population that is of some other Latino origen.
-prc_pakistani,population,Pakistani Percent of Population,Percent of the tract population that is Pakistani.
 prc_puertorican,population,Puerto Rican Percent of Population,The percentage of the population that is Puerto Rican.
 prc_southam,population,South American Percent of Population,The percentage of the population that is South American.
-prc_srilankan,population,Sri Lankan Percent of Population,Percent of the tract population that is Sri Lankan.
-prc_taiwanese,population,Taiwanese Percent of Population,Percent of the tract population that is Taiwanese.
-prc_thai,population,Thai Percent of Population,Percent of the tract population that is Thai.
 prc_vietnamese,population,Vietnamese Percent of Population,Percent of the tract population that is Vietnamese.
 prc_white,population,White Percent of Population,Percent of the tract population that is White alone&#x002C not Hispanic or Latino.
 pollvoter_dens,siting,2020 Percent of County In-Person Voters,The number of voters who voted at a polling place in this census tract divided by the total number of voters who voted at a polling place in the county.

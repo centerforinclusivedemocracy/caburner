@@ -408,7 +408,7 @@ function initCountyMap () {
     MAP.LEGENDCONTROL = new L.Control.CountyMapLegend();
 
     // load the statewide counties GeoJSON and filter to this one
-    const gjurl = `data/counties.js`;
+    const gjurl = `data/counties.json`;
     $.get(gjurl, function (data) {
         MAP.COUNTYOVERLAY = L.geoJson(data, {
             filter: function (feature) {

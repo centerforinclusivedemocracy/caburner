@@ -44,7 +44,7 @@ function initStatewideMap () {
     new L.Control.StatewideMapLegend({
     }).addTo(MAP);
 
-    $.get('data/counties.js', function (data) {
+    $.get('data/counties.json', function (data) {
         MAP.COUNTYOVERLAY = L.geoJson(data, {
             style: function (feature) {
                 let countyinfo;
