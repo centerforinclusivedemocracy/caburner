@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "idnum": 1806, "county": 101, "vc_score": 0.72304, "db_score": 0.72584 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.625223378456781, 39.127895198185996 ], [ -121.625382152339583, 39.135092265839027 ], [ -121.616120751984639, 39.135215328715489 ], [ -121.615962883714701, 39.12801825075681 ], [ -121.625223378456781, 39.127895198185996 ] ] ] } }
+]
+}

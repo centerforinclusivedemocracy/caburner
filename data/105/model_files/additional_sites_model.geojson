@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "idnum": 5118, "county": 105, "vc_score": 0.6333, "db_score": 0.64747 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -123.189615192106899, 40.550993933255342 ], [ -123.189932861994805, 40.558194534185979 ], [ -123.180493078620017, 40.558436536454188 ], [ -123.180176347799005, 40.551235908857294 ], [ -123.189615192106899, 40.550993933255342 ] ] ] } }
+]
+}
