@@ -511,11 +511,11 @@ DATA_LAYERS.prc_southam = {
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
 };
-DATA_LAYERS.prc_centralam = {
-    id: 'prc_centralam',
+DATA_LAYERS.prc_centralamerican = {
+    id: 'prc_centralamerican',
     title: "Central American Percent of Population",
-    scorefield: 'prc_centralam',
-    quantilefield: 'prc_centralam', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    scorefield: 'prc_centralamerican',
+    quantilefield: 'prc_centralamerican', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
