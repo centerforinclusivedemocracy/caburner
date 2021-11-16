@@ -658,7 +658,7 @@ DATA_PROFILES.fullmodel = {
         DATA_LAYERS.prc_cuban,
         DATA_LAYERS.prc_dominican,
         DATA_LAYERS.prc_southam,
-        DATA_LAYERS.prc_centralam,
+        DATA_LAYERS.prc_centralamerican,
     ],
     asian: [
         DATA_LAYERS.prc_asianindian,
