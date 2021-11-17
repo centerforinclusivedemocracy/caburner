@@ -4,6 +4,7 @@
 
 let MAP;
 let COUNTYINFO;
+let BBOX; // save county bounding box
 const QUANTILEBREAKS = {}; // contains quantile breaks by layerid
 const INDICATORS_BY_TRACT = {}; // contains indicator data by geoid
 const SITESCOREBREAKS = {}; // contains quantile breaks by site score field (displayed in characteristics of suggested area popup)
@@ -29,6 +30,9 @@ function initCountyInfo () {
 
     // fill in the county name into the title bar
     $('#sidebar > h1').text(`${COUNTYINFO.name} County`);
+
+    // add alert for mobile
+    $('#mobile');
 
     // if there is an Out Of Order message, fill in the explanation why the county is broken
     const $outoforder = $('#outoforder')
@@ -378,7 +382,7 @@ function initCountyMap () {
         zoomControl: false,
         maxZoom: 18,
         minZoom: 6,
-        zoomSnap: 0.25,
+        zoomSnap: 0.25
     });
 
     L.control.scale({
@@ -406,6 +410,11 @@ function initCountyMap () {
     // and the suggested area details special control
     // and a click behavior to dismiss the SuggestedAreaDetails control
     MAP.LEGENDCONTROL = new L.Control.CountyMapLegend();
+    MAP.SUGGESTEDAREACONTROL = new L.Control.SuggestedAreaDetails();
+    MAP.SUGGESTEDAREAHIGHLIGHT = L.featureGroup([]).addTo(MAP);
+    MAP.on('click', function () {
+        showSuggestedSiteInfo(null);
+    });
 
     // load the statewide counties GeoJSON and filter to this one
     const gjurl = `data/counties.json`;
@@ -418,11 +427,11 @@ function initCountyMap () {
         })
         .addTo(MAP);
 
-        const bbox = MAP.COUNTYOVERLAY.getBounds();
+        BBOX = MAP.COUNTYOVERLAY.getBounds();
         if (COUNTYINFO.countyfp === '037') {
             MAP.setView([34.1,-118.38285],9);
         } else {
-            MAP.fitBounds(bbox);
+            MAP.fitBounds(BBOX);
         };
         
         // now that we have a home bounds, add the zoom+home control then the geocoder control under it (they are positioned in sequence)
@@ -432,7 +441,7 @@ function initCountyMap () {
                 var la = MAP.getBounds([34.1,-118.38285],9)
                 return la;
             } else {
-                return bbox;
+                return BBOX;
             };
         }
         MAP.ZOOMBAR = new L.Control.ZoomBar({
@@ -575,6 +584,8 @@ function toggleSidebar (desired) {
 
     if (MAP) {
         MAP.invalidateSize();
+        MAP.fitBounds(BBOX);
+        
     }
 }
 
@@ -588,6 +599,13 @@ function toggleMapLayer (layerid, visible) {
             MAP.removeLayer(MAP.OVERLAYS[layerid]);
             delete MAP.OVERLAYS[layerid];
         }
+
+        // well, slightly less easy because turning off vote center layers should also stop showing highlights
+        // potential bug-like behavior would be turning on multiple suggested areas, highlighting one in one layer, and finding it un-highlghted when turning off the other layer
+        // but that's really an edge case, and would be quite difficult to work around
+        const issuggestedarea = layerinfo.quantilefield == 'center_score' || layerinfo.quantilefield == 'droppoff_score';
+        if (issuggestedarea) showSuggestedSiteInfo(null);
+
         return;
     }
 
@@ -614,9 +632,6 @@ function toggleMapLayer (layerid, visible) {
     }
     else if (layerinfo.csvfile) {
         addCsvPointFileToMap(layerinfo);
-    }
-    else if (layerinfo.geojsonfile) {
-        addSitesToMap(layerinfo);
     }
     else if (layerinfo.layertype == 'indicators') {
         addIndicatorChoroplethToMap(layerinfo);
@@ -666,7 +681,7 @@ function refreshMapLegend () {
         $('<span>Low</span>').appendTo($entry);
         $('<span>&nbsp;</span>').appendTo($entry);
         layerinfo.quantilecolors.forEach(function (color) {
-            const bordercolor = layerinfo.style.color;
+            const bordercolor = layerinfo.circle.color;
             $(`<div class="legend-swatch legend-swatch-square" style="background-color: ${color}; border-color: ${bordercolor}"></div>`).appendTo($entry);
             $('<span>&nbsp;</span>').appendTo($entry);
         });
@@ -698,9 +713,13 @@ function refreshMapLegend () {
         
         let text = []; 
         // if county has 5 or fewer tracts or all the same values then show raw values (no under or higher language in legend)
+        // also check for nans
         let formattedvalues = new Array();
+        let nodata = false;
         values.forEach(function (value) { 
-            formattedvalues.push(formatValue(value, layerinfo.legendformat));
+            const formattedvalue = (formatValue(value, layerinfo.legendformat));
+            formattedvalues.push(formattedvalue)
+            if (isNaN(formattedvalue)) { nodata = true};
         });
         if (formattedvalues.unique().length < 6) {
             for (let i=0, l=breaks.length; i<l; i++) {
@@ -728,8 +747,10 @@ function refreshMapLegend () {
             }
         };
         
-        // add the legend entry for no data
-        $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
+        // add the legend entry for no data only if nans
+        if (nodata) {
+            $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
+        };
 
         // add the legend entry for unreliable squares
         $(`<div class="legend-entry"><div class="legend-swatch legend-swatch-nodata"></div> Estimates that have a high degree of uncertainty</div>`).appendTo($legend);
@@ -788,12 +809,12 @@ function addIndicatorChoroplethToMap (layerinfo) {
 
                 return style;
             },
-            pane: 'lowest',
         });
 
         // add to the map and to the registry
         MAP.OVERLAYS[layerinfo.id] = featuregroup;
         featuregroup.addTo(MAP);
+        
     })
     .fail(function (err) {
         busySpinner(false);
@@ -820,8 +841,15 @@ function addCsvPointFileToMap (layerinfo) {
             // populate a new FeatureGroup with these circles, markers, whatever
             const featuregroup = L.featureGroup([]);
             results.data.forEach(function (row) {
-                const circle = circleSymbolizer(layerinfo, row);
-                circle.addTo(featuregroup);
+                const issuggestedarea = layerinfo.quantilefield == 'center_score' || layerinfo.quantilefield == 'droppoff_score';
+                if (issuggestedarea) {
+                    const square = suggestedAreaSymbolizer(layerinfo, row);
+                    square.addTo(featuregroup);
+                }
+                else if (layerinfo.circle) {
+                    const circle = circleSymbolizer(layerinfo, row);
+                    circle.addTo(featuregroup);
+                }
             });
 
             // add to the map and to the registry
@@ -830,8 +858,9 @@ function addCsvPointFileToMap (layerinfo) {
         },
         error: function (err) {
             busySpinner(false);
-            console.error(err);
-            alert(`Problem loading or parsing ${fileurl}`);
+            // data may not be available for all counties so ignore
+            // console.error(err);
+            // alert(`Problem loading or parsing ${fileurl}`);
         },
     });
 }
@@ -842,55 +871,46 @@ function addCustomGeoJsonFileToMap (layerinfo) {
     $.getJSON(`data/${COUNTYINFO.countyfp}/${layerinfo.customgeojsonfile}`, function (gjdata) {
         busySpinner(false);
 
-        const featuregroup = L.geoJson(gjdata, {style: layerinfo.style});
+        const featuregroup = L.geoJson(gjdata, {
+            style: function (feature) {
+                return layerinfo.style;  // just use the supplied layerinfo.style... for now
+            },
+        });
 
         // add to the map and to the registry
         MAP.OVERLAYS[layerinfo.id] = featuregroup;
         featuregroup.addTo(MAP);
-    })
-    .fail(function (err) {
-        busySpinner(false);
-        console.error(err);
-        alert(`Problem loading or parsing custom geojson`);
     });
 }
 
-function addSitesToMap (layerinfo) {
-    const breaks = QUANTILEBREAKS[layerinfo.id];
-    const rawvals = RAWVALS[layerinfo.id]; 
-    const colors = layerinfo.quantilecolors;
-    
-    $.getJSON(`data/${COUNTYINFO.countyfp}/${layerinfo.geojsonfile}`, function (gjdata) {
-        busySpinner(false);
-        const featuregroup = L.geoJson(gjdata, {
-            pane: layerinfo.mapzindex ? layerinfo.mapzindex : 'low',
-            style: function (feature) {
-                var style = layerinfo.style;
-                const value = parseFloat(feature.properties[layerinfo.scorefield]);
-                style.fillColor = pickColorByValue(value, breaks, rawvals, colors, undefined);
-                return style;
-            },
-            onEachFeature: function (feature, layer) { 
-                layer.on('click', function (e){
-                    // highlight the square on the map
-                    featuregroup.resetStyle();
-                    const highlightoptions = HIGHLIGHT_SUGGESTED_AREA;
-                    highlightoptions.pane = 'highlights';
-                    layer.setStyle(highlightoptions);
-                    MAP.on('click', function() {featuregroup.resetStyle();});
-                });
-                const popup = showSuggestedSiteInfo(feature, layer);
-                layer.bindPopup(popup);
-                const mappopup = layer.getPopup();
-                layer.on('popupclose', function (e) {
-                    featuregroup.resetStyle();
-                });
-            },
-        });
-        // add to the map and to the registry
-        MAP.OVERLAYS[layerinfo.id] = featuregroup;
-        featuregroup.addTo(MAP);
-    });   
+function suggestedAreaSymbolizer (layerinfo, row) {
+    // Leaflet hack: a circle bounds can only be computer if the circle is on the map, so we do need to add it for a split-second
+    const circle = L.circle([row.lat, row.lon], {radius: layerinfo.circle.radius}).addTo(MAP);
+
+    const squareoptions = Object.assign({}, layerinfo.circle);
+    squareoptions.bubblingMouseEvents = false;
+    squareoptions.pane = layerinfo.mapzindex ? layerinfo.mapzindex : 'low';
+
+    if (squareoptions.fillColor == 'quantile') {
+        const value = parseFloat(row[layerinfo.quantilefield]);
+        const breaks = QUANTILEBREAKS[layerinfo.id];
+        const rawvals = RAWVALS[layerinfo.id]; 
+        const colors = layerinfo.quantilecolors;
+        squareoptions.fillColor = pickColorByValue(value, breaks, rawvals, colors, undefined);
+    }
+
+    const square = L.rectangle(circle.getBounds(), squareoptions);
+    circle.removeFrom(MAP);
+
+    // suggested areas get a special click behavior
+    // see also the MAP click behavior which dismisses this by clicking anywhere else
+    square.on('click', function () {
+        square.feature = {};
+        square.feature.properties = row;
+        showSuggestedSiteInfo(square, row, layerinfo);
+    });
+
+    return square;
 }
 
 function circleSymbolizer (layerinfo, row) {
@@ -927,6 +947,7 @@ function circleSymbolizer (layerinfo, row) {
             circle.bindPopup(popuphtml);
         }
     }
+
     return circle;
 }
 
@@ -947,54 +968,24 @@ function findCheckboxForLayerId (layerid) {
     return $checkbox;
 }
 
-function createSitesLegend (newstats) {
-    const popup = ['<h4>Characteristics of Suggested Area (0.5 mi. Square)</h4>'];
+function showSuggestedSiteInfo (square, row, layerinfo) {
+    // passing a single null is OK = stop highlighting any sugegsted site
+    if (! row) {
+        MAP.SUGGESTEDAREAHIGHLIGHT.clearLayers();
+        MAP.removeControl(MAP.SUGGESTEDAREACONTROL);
+        return;
+    }
 
-    // go over the set of statistics, each one being a value: hi, md, lo
-    // translate that into the swatches we're displaying
-    // just use jQuery here since we're tightly contrived to this one use case, where we are using jQuery
-    const allstats = { 
-        'vage' : 'Percent of County Voting Age Citizens', 
-        'cowo' : 'Percent of County Workers',
-        'popd' : 'Population Density',
-        'pcar' : 'Percent of Population with Vehicle Access',
-        'nonv' : 'Percent of Eligible Voters Not Registered',
-        'disb' : 'Disabilities Percent of Population', 
-        'latn' : 'Percent Latino Population', 
-        'noen' : 'Limited English Proficient Percent of Population', 
-        'povr': 'Percent of Population in Poverty',
-        'yout' : 'Youth Percent of Population', 
-        'vbmr' : 'Vote by Mail Rate (Total)', 
-        'poll' : 'Percent of County In-Person Voters'
-    };
+    // highlight the square on the map, by drawing a second square at the same latlng+center but with this highlight style
+    const highlightsquareoptions = Object.assign({}, HIGHLIGHT_SUGGESTED_AREA);
+    highlightsquareoptions.radius = square.options.radius;
+    highlightsquareoptions.pane = 'highlights';
 
-    for (const [statname, fullstatname] of Object.entries(allstats)) {
-        const score = newstats[statname];
-        let swatch;
-        switch (score) {
-            case 'hi':
-                swatch = `<span class="suggestedarea-swatch-high" data-swatch="${statname}">High</span> ${fullstatname}<br>`
-                popup.push(swatch);
-                break;
-            case 'md':
-                swatch = `<span class="suggestedarea-swatch-medium" data-swatch="${statname}">Med</span> ${fullstatname}<br>`
-                popup.push(swatch);
-                break;
-            case 'lo':
-                swatch = `<span class="suggestedarea-swatch-low" data-swatch="${statname}">Low</span> ${fullstatname}<br>`
-                popup.push(swatch);
-                break;
-        }
-    };
+    const highlightsquare = L.rectangle(square.getBounds(), highlightsquareoptions);
+    MAP.SUGGESTEDAREAHIGHLIGHT.clearLayers().addLayer(highlightsquare);
 
-    popup.push('<p><a target="_blank" href="methodology.html">Methodology <i class="fa fa-external-link"></i></a></p>');
-    let popuphtml = popup.join('');
-    return popuphtml;
-}
-
-function showSuggestedSiteInfo (feature, layer) {
     // show the Suggested Area Details map control, and fill in the details
-    const siteid = feature.properties.idnum;
+    const siteid = square.feature.properties.idnum;
     const scores = SITESCORES[siteid];
 
     const stats = {};
@@ -1011,8 +1002,9 @@ function showSuggestedSiteInfo (feature, layer) {
     stats.vbmr = scores['rate.vbm.std'] >= SITESCOREBREAKS['rate.vbm.std'][2] ? 'hi' : scores['rate.vbm.std'] >= SITESCOREBREAKS['rate.vbm.std'][1] ? 'md' : 'lo';
     stats.poll = scores['dens.poll.std'] >= SITESCOREBREAKS['dens.poll.std'][2] ? 'hi' : scores['dens.poll.std'] >= SITESCOREBREAKS['dens.poll.std'][1] ? 'md' : 'lo';
 
-    const popup = createSitesLegend (stats);
-    return popup;
+    // feed the stats into the control and open it
+    MAP.addControl(MAP.SUGGESTEDAREACONTROL);
+    MAP.SUGGESTEDAREACONTROL.updateLegend(stats);
 }
 
 function formatValueText (value, legendformat) {

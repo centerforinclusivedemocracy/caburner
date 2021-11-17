@@ -891,8 +891,7 @@ function suggestedAreaSymbolizer (layerinfo, row) {
         const value = parseFloat(row[layerinfo.quantilefield]);
         const breaks = QUANTILEBREAKS[layerinfo.id];
         const rawvals = RAWVALS[layerinfo.id]; 
-    const rawvals = RAWVALS[layerinfo.id]; 
-        const rawvals = RAWVALS[layerinfo.id]; 
+        const colors = layerinfo.quantilecolors;
         squareoptions.fillColor = pickColorByValue(value, breaks, rawvals, colors, undefined);
     }
 
