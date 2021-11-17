@@ -1,9 +1,8 @@
-Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
-3142.0,3143.0,CA,MADERA COUNTY,Locality wide location,County Superintendent of Schools - Conference Room 1,"1105 S Madera Ave, Madera, CA 93637, USA",36.94279,-120.0552,False,False,1.0
-3143.0,3144.0,CA,MADERA COUNTY,Locality wide location,Liberty High School - Theatre (Madera Ranchos),"12220 Rd 36, Madera, CA 93636, USA",36.92711,-119.89787,False,False,1.0
-3144.0,3145.0,CA,MADERA COUNTY,Locality wide location,Chowchilla City Hall â€“ Council Chambers,"130 S 2nd St, Chowchilla, CA 93610, USA",37.12203,-120.25968,False,False,1.0
-3145.0,3146.0,CA,MADERA COUNTY,Locality wide location,Madera County Government Center - Lobby,"200 W 4th St, Madera, CA 93637, USA",36.96183,-120.06373,False,False,1.0
-3146.0,3147.0,CA,MADERA COUNTY,Locality wide location,Oakhurst Community Center - Main Hall,"39800 Rd 425B, Oakhurst, CA 93644, USA",37.32652,-119.65105,False,False,1.0
-3147.0,3148.0,CA,MADERA COUNTY,Locality wide location,Coarsegold Vote Center,"45543 Rd 415, Coarsegold, CA 93614, USA",37.25855,-119.71731,False,False,1.0
-3148.0,3149.0,CA,MADERA COUNTY,Locality wide location,Pan Am Community Center - Gymnnasium,"703 Sherwood Way, Madera, CA 93638, USA",36.97766,-120.05849,False,False,1.0
-51407.0,28.0,CA,MADERA COUNTY,Locality wide location,Madera County Government Center - Lobby,"200 W 4th St, Madera, CA 93637, USA",36.96183,-120.06373,True,False,1.0
+name,address,Is Early Voting,Precincts (Or Locality-wide),Is Drop Off,lon,lat
+Chowchilla City Hall â€“ Council Chambers,130 S. 2ND STREET CHOWCHILLA CA 93610,False,Locality wide location,False,-120.25968,37.12203
+Coarsegold Vote Center,45543 ROAD 415 COARSEGOLD CA 93614,False,Locality wide location,False,-119.71731,37.25855
+County Superintendent of Schools - Conference Room 1,1105 S. MADERA AVE MADERA CA 93637,False,Locality wide location,False,-120.0552,36.94279
+Liberty High School - Theatre (Madera Ranchos),12220 ROAD 36 MADERA CA 93636,False,Locality wide location,False,-119.89787,36.92711
+Madera County Government Center - Lobby,200 W. 4TH STREET MADERA CA 93637,False,Locality wide location,False,-120.06373,36.96183
+Oakhurst Community Center - Main Hall,39800 ROAD 425B OAKHURST CA 93644,False,Locality wide location,False,-119.65105,37.32652
+Pan Am Community Center - Gymnnasium,703 SHERWOOD WAY MADERA CA 93638,False,Locality wide location,False,-120.05849,36.97766

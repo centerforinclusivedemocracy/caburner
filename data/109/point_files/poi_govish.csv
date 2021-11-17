@@ -1,7 +1,7 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358830241,2005.0,post_office,Jamestown Post Office,-120.42214,37.9552
-1,358830263,2005.0,post_office,Sonora Post Office,-120.37895,37.97486
-2,358830298,2005.0,post_office,Big Oak Flat Post Office,-120.25936,37.82354
+0,358830263,2005.0,post_office,Sonora Post Office,-120.37895,37.97486
+1,358830298,2005.0,post_office,Big Oak Flat Post Office,-120.25936,37.82354
+2,358830241,2005.0,post_office,Jamestown Post Office,-120.42214,37.9552
 3,358833603,2005.0,post_office,Columbia Post Office,-120.405,38.03292
 4,358833633,2002.0,fire_station,Long Barn Fire Station 54,-120.13798,38.09153
 5,358833639,2005.0,post_office,Twain Harte Post Office,-120.23148,38.03955
@@ -11,13 +11,13 @@
 9,368170047,2007.0,library,Tuolumne County Free Library,-120.36907,37.98253
 10,368171846,2008.0,town_hall,Sonora City Hall,-120.38492,37.98687
 11,508062149,2005.0,post_office,Chinese Camp Post Office,-120.4325,37.87207
-12,5334162524,2005.0,post_office,Tuolumne Post Office,-120.2364,37.96313
-13,5381592858,2007.0,library,County Library and Youth Center,-120.23937,37.96107
-14,5588659925,2002.0,fire_station,Columbia Air Attack Base,-120.41071,38.03668
-15,5591318771,2002.0,fire_station,Dry Meadow Station 34,-120.12659,38.22719
-16,2361287215,2005.0,post_office,Tuolumne Meadows Post Office,-119.35692,37.87431
-17,8200271286,2002.0,fire_station,Station 32,-120.00553,38.18894
-18,8200271287,2002.0,fire_station,Station 55,-120.00397,38.18892
-19,3608363581,2002.0,fire_station,Hodgdon Meadow Fire Station,-119.8621,37.79711
-20,3608363585,2002.0,fire_station,Cherry Station 44,-119.91625,37.97483
-21,5590658329,2002.0,fire_station,Buck Meadows Station 42,-120.09957,37.82273
+12,2361287215,2005.0,post_office,Tuolumne Meadows Post Office,-119.35692,37.87431
+13,3608363581,2002.0,fire_station,Hodgdon Meadow Fire Station,-119.8621,37.79711
+14,3608363585,2002.0,fire_station,Cherry Station 44,-119.91625,37.97483
+15,5334162524,2005.0,post_office,Tuolumne Post Office,-120.2364,37.96313
+16,5381592858,2007.0,library,County Library and Youth Center,-120.23937,37.96107
+17,5591318771,2002.0,fire_station,Dry Meadow Station 34,-120.12659,38.22719
+18,5588659925,2002.0,fire_station,Columbia Air Attack Base,-120.41071,38.03668
+19,5590658329,2002.0,fire_station,Buck Meadows Station 42,-120.09957,37.82273
+20,8200271286,2002.0,fire_station,Station 32,-120.00553,38.18894
+21,8200271287,2002.0,fire_station,Station 55,-120.00397,38.18892

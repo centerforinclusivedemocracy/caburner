@@ -1,15 +1,22 @@
 osm_id,code,fclass,name,lon,lat
+358767597,2082.0,school,Hoaglin-Zenia Elementary School,-123.46808,40.18848
 358778937,2082.0,school,Wildwood School,-123.06974,40.3807
 358796954,2082.0,school,Blanchard Flat School,-122.90641,40.59376
+358797105,2082.0,school,Burnt Ranch School,-123.48838,40.83347
 358797409,2082.0,school,Cox Bar School,-123.25441,40.73725
+358802706,2082.0,school,Hettenshaw School,-123.41864,40.27237
 358802836,2082.0,school,Trinity High School,-122.94642,40.73959
+358800025,2082.0,school,Southern Trinity High School,-123.52837,40.45681
+358800510,2082.0,school,Van Duzen Elementary School,-123.52837,40.45514
 358819042,2082.0,school,Coffee Creek Elementary School,-122.71169,41.0857
 358819049,2082.0,school,Hayfork Elementary School,-123.1867,40.5532
 358819052,2082.0,school,Hayfork High School,-123.17086,40.55153
 358819061,2082.0,school,Junction City Elementary School,-123.0567,40.72764
 358819071,2082.0,school,Lewiston Elementary School,-122.81336,40.69987
 358819095,2082.0,school,Weaverville Elementary School,-122.93642,40.7332
+358819105,2082.0,school,Burnt Ranch Elementary School,-123.47949,40.80903
 368167286,2014.0,arts_centre,Highland Art Center,-122.93944,40.73112
+4274859114,2501.0,supermarket,Trinity Center General Store,-122.70525,40.98449
 4270365024,2501.0,supermarket,Wiley's Supermarket,-123.18,40.55365
 4270365031,2303.0,cafe,Starbucks,-122.92712,40.72106
 4567639901,2501.0,supermarket,Norelpom Natural Foods,-123.18573,40.5542
@@ -18,18 +25,13 @@ osm_id,code,fclass,name,lon,lat
 5847708564,2303.0,cafe,Garden Cafe,-122.94079,40.73287
 5847708568,2402.0,motel,Red Hill Motel and Cabins,-122.94271,40.73623
 7068729025,2303.0,cafe,Blue Moon Cafe,-123.32139,40.26946
-358797105,2082.0,school,Burnt Ranch School,-123.48838,40.83347
-358800025,2082.0,school,Southern Trinity High School,-123.52837,40.45681
-358800510,2082.0,school,Van Duzen Elementary School,-123.52837,40.45514
-358819105,2082.0,school,Burnt Ranch Elementary School,-123.47949,40.80903
-358767597,2082.0,school,Hoaglin-Zenia Elementary School,-123.46808,40.18848
-358802706,2082.0,school,Hettenshaw School,-123.41864,40.27237
-4274859114,2501.0,supermarket,Trinity Center General Store,-122.70525,40.98449
 358819041,2005.0,post_office,Big Bar Post Office,-123.26726,40.7432
+358814876,2005.0,post_office,Hyampom Post Office,-123.45726,40.61681
 358819047,2005.0,post_office,Douglas City Post Office,-122.94364,40.65153
 358819055,2005.0,post_office,Hayfork Post Office,-123.18141,40.55394
 358819064,2005.0,post_office,Junction City Post Office,-123.05503,40.73014
 358819075,2005.0,post_office,Lewiston Post Office,-122.8003,40.70403
+358819082,2005.0,post_office,Salyer Post Office,-123.58422,40.89069
 358819087,2005.0,post_office,Trinity Center Post Office,-122.70347,40.98134
 358819103,2005.0,post_office,Weaverville Post Office,-122.94251,40.73338
 368167467,2009.0,courthouse,Trinity County Courthouse,-122.94093,40.73443
@@ -42,5 +44,3 @@ osm_id,code,fclass,name,lon,lat
 7821227298,2002.0,fire_station,Douglas City Fire Station,-122.94297,40.65205
 8875745528,2002.0,fire_station,Shasta-Trinity National Forest Junction City Fire Station,-123.05488,40.73079
 8875753919,2002.0,fire_station,Shasta-Trinity National Forest Big Bar Fire Station,-123.2516,40.74215
-358814876,2005.0,post_office,Hyampom Post Office,-123.45726,40.61681
-358819082,2005.0,post_office,Salyer Post Office,-123.58422,40.89069

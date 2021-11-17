@@ -3,7 +3,9 @@ osm_id,code,fclass,name,lon,lat
 358760914,2082.0,school,Amador County High School,-120.80966,38.39852
 358770779,2082.0,school,Milligan School,-120.70077,38.34797
 358771538,2082.0,school,New York Ranch School,-120.72549,38.40352
+358772671,2082.0,school,Pigeon Creek School,-120.75104,38.53185
 358773068,2082.0,school,Preston School of Industry,-120.93466,38.35964
+358775094,2082.0,school,Shenandoah School,-120.80438,38.52213
 358779044,2082.0,school,Willow Springs School,-120.91355,38.45297
 358827129,2082.0,school,Amador City School,-120.82494,38.42102
 358827132,2082.0,school,California Department of Forestry Fire Academy,-120.94525,38.36539
@@ -26,7 +28,5 @@ osm_id,code,fclass,name,lon,lat
 3964177105,2012.0,community_centre,Evelynn Bishop Hall,-120.9326,38.34443
 3964182698,2012.0,community_centre,VFW Hall,-120.93041,38.35167
 4748478158,2402.0,motel,Linda Vista Motel,-120.78988,38.36607
-5921074442,2303.0,cafe,Rosebud's Cafe,-120.7736,38.34859
 6899127485,2303.0,cafe,Pearl’s,-120.51279,38.49163
-358772671,2082.0,school,Pigeon Creek School,-120.75104,38.53185
-358775094,2082.0,school,Shenandoah School,-120.80438,38.52213
+5921074442,2303.0,cafe,Rosebud's Cafe,-120.7736,38.34859

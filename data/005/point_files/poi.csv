@@ -3,7 +3,9 @@ osm_id,code,fclass,name,lon,lat
 358760914,2082.0,school,Amador County High School,-120.80966,38.39852
 358770779,2082.0,school,Milligan School,-120.70077,38.34797
 358771538,2082.0,school,New York Ranch School,-120.72549,38.40352
+358772671,2082.0,school,Pigeon Creek School,-120.75104,38.53185
 358773068,2082.0,school,Preston School of Industry,-120.93466,38.35964
+358775094,2082.0,school,Shenandoah School,-120.80438,38.52213
 358779044,2082.0,school,Willow Springs School,-120.91355,38.45297
 358827129,2082.0,school,Amador City School,-120.82494,38.42102
 358827132,2082.0,school,California Department of Forestry Fire Academy,-120.94525,38.36539
@@ -26,31 +28,29 @@ osm_id,code,fclass,name,lon,lat
 3964177105,2012.0,community_centre,Evelynn Bishop Hall,-120.9326,38.34443
 3964182698,2012.0,community_centre,VFW Hall,-120.93041,38.35167
 4748478158,2402.0,motel,Linda Vista Motel,-120.78988,38.36607
-5921074442,2303.0,cafe,Rosebud's Cafe,-120.7736,38.34859
 6899127485,2303.0,cafe,Pearl’s,-120.51279,38.49163
-358772671,2082.0,school,Pigeon Creek School,-120.75104,38.53185
-358775094,2082.0,school,Shenandoah School,-120.80438,38.52213
-5921074480,2008.0,town_hall,Jackson City Hall,-120.77301,38.34751
-358827232,2005.0,post_office,Volcano Post Office,-120.63053,38.44227
+5921074442,2303.0,cafe,Rosebud's Cafe,-120.7736,38.34859
 358827128,2005.0,post_office,Amador City Post Office,-120.82451,38.41942
 358827156,2005.0,post_office,Ione Post Office,-120.93383,38.35241
 358827170,2005.0,post_office,Pioneer Post Office,-120.57604,38.43019
 358827174,2005.0,post_office,Plymouth Post Office,-120.84676,38.48161
 358827214,2005.0,post_office,Pine Grove Post Office,-120.65437,38.41241
 358827228,2005.0,post_office,Sutter Creek Post Office,-120.80294,38.39543
+358827232,2005.0,post_office,Volcano Post Office,-120.63053,38.44227
 368167605,2009.0,courthouse,Amador County Courthouse,-120.7913,38.35397
 368172073,2008.0,town_hall,Sutter Creek City Hall,-120.80256,38.3922
+368172078,2008.0,town_hall,River Pines Town Hall,-120.74132,38.54463
 368172081,2008.0,town_hall,Pine Grove Town Hall,-120.65884,38.41308
 368172103,2008.0,town_hall,Ione City Hall,-120.93327,38.35297
 368172106,2008.0,town_hall,Plymouth City Hall,-120.84716,38.48117
 1923885343,2001.0,police,Ione Police Dept.,-120.93319,38.35301
 1923886071,2002.0,fire_station,Ione Firestation,-120.93361,38.35175
 1923887976,2002.0,fire_station,North Ione Fire Station,-120.93736,38.35668
+2210086672,2005.0,post_office,,-120.76017,38.50569
 3964177101,2007.0,library,Ione Library,-120.933,38.35299
 5921074466,2001.0,police,Jackson Police Department,-120.77299,38.34767
+5921074480,2008.0,town_hall,Jackson City Hall,-120.77301,38.34751
 7025258955,2001.0,police,Sutter Creek Police Department,-120.80216,38.39219
 7026911348,2002.0,fire_station,Cal Fire Amador El Dorado Unit Sutter Hill Station 60,-120.80154,38.3772
 7027009945,2007.0,library,Amador County Library Plymouth Branch,-120.84859,38.48108
-368172078,2008.0,town_hall,River Pines Town Hall,-120.74132,38.54463
-2210086672,2005.0,post_office,,-120.76017,38.50569
 8737613245,2002.0,fire_station,,-120.48049,38.51564

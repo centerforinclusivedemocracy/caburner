@@ -1,46 +1,46 @@
 osm_id,code,fclass,name,lon,lat
+358816233,2082.0,school,Palisade Glacier High School,-118.32812,37.15242
 358832805,2082.0,school,Cerro Coso Community College,-118.4315,37.35993
 358832812,2082.0,school,Elm Street Elementary School,-118.40525,37.3652
 358832823,2082.0,school,Home Street Middle School,-118.40285,37.36281
 358832827,2082.0,school,Lassen College,-118.42233,37.36771
 358832833,2082.0,school,Pine Street School,-118.40532,37.36418
 358832845,2082.0,school,Wildrose Home,-118.43011,37.34743
+358832849,2082.0,school,Big Pine Elementary School,-118.28903,37.16155
+358832850,2082.0,school,Big Pine High School,-118.28843,37.16132
+358832851,2082.0,school,Owens Valley Elementary School,-118.19621,36.80215
+358832853,2082.0,school,Owens Valley High School,-118.19648,36.80271
+358832858,2082.0,school,Lo-Inyo Elementary School,-118.06287,36.60882
+358832859,2082.0,school,Lone Pine Adult School,-118.06064,36.60216
 358851992,2082.0,school,Morningside Elementary School,-118.43483,37.28854
 441549495,2303.0,cafe,Looney Bean,-118.39545,37.36377
+1941035623,2501.0,supermarket,Carrolls Market,-118.28933,37.1657
 3066157203,2303.0,cafe,Blacksheep Cafe,-118.39501,37.3623
 3221983045,2303.0,cafe,Starbucks,-118.39595,37.37058
 3221988857,2501.0,supermarket,Smart N Final,-118.3947,37.3734
 3222135256,2303.0,cafe,Spellbinder Books,-118.39503,37.36114
 4071624113,2402.0,motel,Bishop Village Motel,-118.39706,37.36524
+4145237719,2082.0,school,Sierra Adventure Center at Bernasconi Ranch,-118.32678,37.15166
+4484968890,2405.0,hostel,,-118.06181,36.60167
 5135647822,2405.0,hostel,The Hostel California,-118.3966,37.3633
+5389824847,2303.0,cafe,Lone Star Bistro,-118.06359,36.60575
 5732809526,2014.0,arts_centre,Inyo Council for the Arts,-118.39546,37.36078
 6510421886,2501.0,supermarket,Mahogany smoked meats,-118.41769,37.37601
-7125702007,2303.0,cafe,Bronco's Deli,-118.39614,37.36325
-8690930017,2303.0,cafe,Indy Coffee Roasting Company,-118.39571,37.35976
-7333129145,2303.0,cafe,Amargosa Cafe,-116.41418,36.30095
-358816233,2082.0,school,Palisade Glacier High School,-118.32812,37.15242
-358832849,2082.0,school,Big Pine Elementary School,-118.28903,37.16155
-358832850,2082.0,school,Big Pine High School,-118.28843,37.16132
-1941035623,2501.0,supermarket,Carrolls Market,-118.28933,37.1657
-4145237719,2082.0,school,Sierra Adventure Center at Bernasconi Ranch,-118.32678,37.15166
-358832851,2082.0,school,Owens Valley Elementary School,-118.19621,36.80215
-358832853,2082.0,school,Owens Valley High School,-118.19648,36.80271
-358832858,2082.0,school,Lo-Inyo Elementary School,-118.06287,36.60882
-358832859,2082.0,school,Lone Pine Adult School,-118.06064,36.60216
-4484968890,2405.0,hostel,,-118.06181,36.60167
-5389824847,2303.0,cafe,Lone Star Bistro,-118.06359,36.60575
 6794429197,2402.0,motel,The Portal Motel,-118.06238,36.60284
 6794429208,2402.0,motel,Mt. Williamson Motel,-118.19745,36.79831
+7333129145,2303.0,cafe,Amargosa Cafe,-116.41418,36.30095
+7125702007,2303.0,cafe,Bronco's Deli,-118.39614,37.36325
+8690930017,2303.0,cafe,Indy Coffee Roasting Company,-118.39571,37.35976
+358816117,2005.0,post_office,Darwin Post Office,-117.59201,36.26966
+358816267,2005.0,post_office,Olancha Post Office,-118.00536,36.28133
 358832798,2005.0,post_office,Bishop Post Office,-118.40036,37.36159
 368167649,2002.0,fire_station,Bishop Fire Department,-118.39675,37.36158
 368169900,2007.0,library,Northern Inyo Hospital Medical Library,-118.40619,37.36172
-358816117,2005.0,post_office,Darwin Post Office,-117.59201,36.26966
-4112650009,2005.0,post_office,Death Valley Post Office,-116.86629,36.45724
-4812365373,2005.0,post_office,United States Post Office,-116.22762,35.84849
+368169901,2007.0,library,Inyo County Free Library,-118.19959,36.8035
 1941034794,2005.0,post_office,,-118.28921,37.16704
 1941035616,2002.0,fire_station,,-118.28986,37.16738
-4927843769,2008.0,town_hall,,-118.29116,37.16436
-368169901,2007.0,library,Inyo County Free Library,-118.19959,36.8035
-4835430821,2005.0,post_office,Lone Pine's post office,-118.0632,36.60654
-358816267,2005.0,post_office,Olancha Post Office,-118.00536,36.28133
 2357514697,2002.0,fire_station,Olancha Fire Station,-117.99372,36.25494
+4112650009,2005.0,post_office,Death Valley Post Office,-116.86629,36.45724
+4812365373,2005.0,post_office,United States Post Office,-116.22762,35.84849
+4835430821,2005.0,post_office,Lone Pine's post office,-118.0632,36.60654
+4927843769,2008.0,town_hall,,-118.29116,37.16436

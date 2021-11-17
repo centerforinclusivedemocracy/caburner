@@ -1,47 +1,47 @@
 ,osm_id,code,fclass,name,lon,lat
 0,358809583,2005.0,post_office,Harris Post Office,-123.64169,40.04876
 1,358818196,2005.0,post_office,Garberville Post Office,-123.79614,40.08209
-2,368168901,2002.0,fire_station,Alderpoint Forest Fire Station,-123.59114,40.18653
-3,674529546,2005.0,post_office,Garberville Post Office,-123.79602,40.09884
-4,842907838,2005.0,post_office,Whitehorn Post Office,-123.97018,40.05829
-5,1328779363,2002.0,fire_station,Cal Fire Humboldt Del Norte Unit - Thorn,-123.9618,40.0563
-6,1328779405,2002.0,fire_station,,-123.88003,40.12226
-7,4321922452,2005.0,post_office,United States Post Office,-124.12357,40.24346
-8,4321922455,2005.0,post_office,Petrolia Post Office,-124.28749,40.32467
-9,5251043621,2007.0,library,Humboldt County Library - Garberville,-123.79253,40.10243
-10,7734888166,2002.0,fire_station,Shelter Cove Volunteer Fire and Rescue,-124.06538,40.02854
-11,7744687055,2001.0,police,California Highway Patrol,-123.81359,40.11574
-12,7744862346,2002.0,fire_station,CalFire Weott Station,-123.92403,40.32154
-13,7744866331,2005.0,post_office,US Post Office Weott Station,-123.92409,40.32487
-14,7744867827,2002.0,fire_station,CalFire Garberville Station,-123.79057,40.10594
-15,358818028,2005.0,post_office,Blue Lake Post Office,-123.98898,40.88153
-16,358819038,2005.0,post_office,Willow Creek Post Office,-123.6295,40.94069
-17,368167711,2002.0,fire_station,Blue Lake Fire Department,-123.99126,40.88297
-18,368169067,2007.0,library,Blue Lake Branch Humboldt County Library,-123.9919,40.88261
-19,368169171,2007.0,library,Klamath-Trinity Branch Humboldt County Library,-123.63116,40.93958
-20,368171354,2008.0,town_hall,Blue Lake City Hall,-123.99196,40.88254
-21,2094660243,2002.0,fire_station,Kneeland CDF,-123.92916,40.71922
-22,4270192570,2001.0,police,Humbolt County Deputy Sheriff,-123.68646,41.06348
-23,358818022,2005.0,post_office,Bayside Post Office,-124.0635,40.84279
-24,368171353,2008.0,town_hall,Arcata City Hall,-124.08486,40.86723
-25,524851380,2001.0,police,Arcata Police Department,-124.08455,40.86717
-26,760309494,2005.0,post_office,Post Haste,-124.08483,40.86575
-27,5267124531,2001.0,police,Humboldt University Police,-124.07901,40.87461
-28,5271013150,2005.0,post_office,Mail Room,-124.07862,40.87876
-29,4270977722,2005.0,post_office,United States Post Office,-123.53812,41.30233
-30,368167472,2009.0,courthouse,Humboldt County Courthouse,-124.1624,40.80293
-31,368169196,2007.0,library,Humboldt County Law Library,-124.16247,40.80273
-32,1465389954,2001.0,police,Humboldt County Sheriff's Office,-124.16222,40.80315
-33,1476087068,2002.0,fire_station,,-124.16888,40.80098
-34,3646501652,2002.0,fire_station,Humboldt Bay Fire Station 5,-124.12975,40.78072
-35,358818224,2005.0,post_office,McKinleyville Post Office,-124.10171,40.94381
-36,884899213,2007.0,library,McKinleyville Library,-124.09981,40.9442
-37,884899262,2001.0,police,McKinleyville Sheriffs Substation Office,-124.09983,40.94377
-38,4110833832,2007.0,library,Trinidad Library,-124.14117,41.06202
-39,358818065,2005.0,post_office,Ferndale Post Office,-124.2626,40.57738
-40,368168982,2007.0,library,Ferndale Public Library,-124.26117,40.57957
-41,368171511,2008.0,town_hall,Ferndale City Hall,-124.26006,40.58041
-42,2649563924,2002.0,fire_station,Loleta Fire District,-124.22064,40.64411
-43,8615583528,2005.0,post_office,United States Postal Service,-124.10187,40.48378
-44,8615583531,2008.0,town_hall,Town of Scotia,-124.10159,40.48474
-45,6250977110,2002.0,fire_station,,-123.95904,41.22216
+2,358818224,2005.0,post_office,McKinleyville Post Office,-124.10171,40.94381
+3,358818022,2005.0,post_office,Bayside Post Office,-124.0635,40.84279
+4,358818028,2005.0,post_office,Blue Lake Post Office,-123.98898,40.88153
+5,358818065,2005.0,post_office,Ferndale Post Office,-124.2626,40.57738
+6,358819038,2005.0,post_office,Willow Creek Post Office,-123.6295,40.94069
+7,368167711,2002.0,fire_station,Blue Lake Fire Department,-123.99126,40.88297
+8,368167472,2009.0,courthouse,Humboldt County Courthouse,-124.1624,40.80293
+9,368168901,2002.0,fire_station,Alderpoint Forest Fire Station,-123.59114,40.18653
+10,368168982,2007.0,library,Ferndale Public Library,-124.26117,40.57957
+11,368171353,2008.0,town_hall,Arcata City Hall,-124.08486,40.86723
+12,368169067,2007.0,library,Blue Lake Branch Humboldt County Library,-123.9919,40.88261
+13,368169171,2007.0,library,Klamath-Trinity Branch Humboldt County Library,-123.63116,40.93958
+14,368169196,2007.0,library,Humboldt County Law Library,-124.16247,40.80273
+15,368171354,2008.0,town_hall,Blue Lake City Hall,-123.99196,40.88254
+16,368171511,2008.0,town_hall,Ferndale City Hall,-124.26006,40.58041
+17,524851380,2001.0,police,Arcata Police Department,-124.08455,40.86717
+18,674529546,2005.0,post_office,Garberville Post Office,-123.79602,40.09884
+19,760309494,2005.0,post_office,Post Haste,-124.08483,40.86575
+20,842907838,2005.0,post_office,Whitehorn Post Office,-123.97018,40.05829
+21,884899213,2007.0,library,McKinleyville Library,-124.09981,40.9442
+22,884899262,2001.0,police,McKinleyville Sheriffs Substation Office,-124.09983,40.94377
+23,1328779363,2002.0,fire_station,Cal Fire Humboldt Del Norte Unit - Thorn,-123.9618,40.0563
+24,1328779405,2002.0,fire_station,,-123.88003,40.12226
+25,1465389954,2001.0,police,Humboldt County Sheriff's Office,-124.16222,40.80315
+26,1476087068,2002.0,fire_station,,-124.16888,40.80098
+27,2094660243,2002.0,fire_station,Kneeland CDF,-123.92916,40.71922
+28,2649563924,2002.0,fire_station,Loleta Fire District,-124.22064,40.64411
+29,3646501652,2002.0,fire_station,Humboldt Bay Fire Station 5,-124.12975,40.78072
+30,4110833832,2007.0,library,Trinidad Library,-124.14117,41.06202
+31,4270192570,2001.0,police,Humbolt County Deputy Sheriff,-123.68646,41.06348
+32,4270977722,2005.0,post_office,United States Post Office,-123.53812,41.30233
+33,4321922452,2005.0,post_office,United States Post Office,-124.12357,40.24346
+34,4321922455,2005.0,post_office,Petrolia Post Office,-124.28749,40.32467
+35,5251043621,2007.0,library,Humboldt County Library - Garberville,-123.79253,40.10243
+36,5267124531,2001.0,police,Humboldt University Police,-124.07901,40.87461
+37,5271013150,2005.0,post_office,Mail Room,-124.07862,40.87876
+38,6250977110,2002.0,fire_station,,-123.95904,41.22216
+39,7734888166,2002.0,fire_station,Shelter Cove Volunteer Fire and Rescue,-124.06538,40.02854
+40,7744687055,2001.0,police,California Highway Patrol,-123.81359,40.11574
+41,7744862346,2002.0,fire_station,CalFire Weott Station,-123.92403,40.32154
+42,7744866331,2005.0,post_office,US Post Office Weott Station,-123.92409,40.32487
+43,7744867827,2002.0,fire_station,CalFire Garberville Station,-123.79057,40.10594
+44,8615583528,2005.0,post_office,United States Postal Service,-124.10187,40.48378
+45,8615583531,2008.0,town_hall,Town of Scotia,-124.10159,40.48474

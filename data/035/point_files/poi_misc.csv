@@ -1,7 +1,10 @@
 osm_id,code,fclass,name,lon,lat
 358762819,2082.0,school,Butte School,-120.29244,40.91906
 358773627,2082.0,school,Riverside School,-120.52967,40.37545
+358765935,2082.0,school,Fletcher Walker Elementary School,-121.00329,40.30767
 358775841,2082.0,school,Lake School,-120.47661,40.27073
+358795362,2082.0,school,Big Valley High School,-121.13955,41.12174
+358795364,2082.0,school,Big Valley Intermediate School,-121.14063,41.1229
 358796890,2082.0,school,Bird Flat School,-120.20938,40.1074
 358799415,2082.0,school,Richmond Elementary School,-120.63912,40.37184
 358819927,2082.0,school,Credence High School,-120.66495,40.41851
@@ -17,13 +20,10 @@ osm_id,code,fclass,name,lon,lat
 358820046,2082.0,school,Shaffer Elementary School,-120.38244,40.38268
 358820051,2082.0,school,Sierra Primary School,-120.13521,40.14101
 358820065,2082.0,school,Washington School,-120.6594,40.41656
+358820070,2082.0,school,Westwood High School,-121.00913,40.30378
 4340976510,2402.0,motel,Motel 9,-120.65676,40.41766
 5860137434,2303.0,cafe,Revivalution Coffee House,-120.64122,40.41351
 5860137438,2303.0,cafe,Joe's,-120.64174,40.41358
 5860257607,2303.0,cafe,Starbucks,-120.63416,40.40565
-358795362,2082.0,school,Big Valley High School,-121.13955,41.12174
-358795364,2082.0,school,Big Valley Intermediate School,-121.14063,41.1229
 6385788255,2501.0,supermarket,Big Valley Market,-121.14388,41.12118
 6486896440,2082.0,school,Big Valley Preschool,-121.14065,41.12324
-358765935,2082.0,school,Fletcher Walker Elementary School,-121.00329,40.30767
-358820070,2082.0,school,Westwood High School,-121.00913,40.30378

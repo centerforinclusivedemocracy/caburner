@@ -1,7 +1,7 @@
-Unnamed: 0,name,address,lat,lon,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),Is Early Voting,Is Drop Off,manual
-1594,SIERRA PACIFIC HIGH SCHOOL GYM,"1259 13th Ave, Hanford, CA 93230, USA",36.33726,-119.68989,1594.0,CA,KINGS COUNTY,Locality wide location,False,False,1.0
-1595,KINGS CO GOV CENTER MULTI-PURPOSE RM,"1400 W Lacey Blvd, Hanford, CA 93230, USA",36.32982,-119.66395,1595.0,CA,KINGS COUNTY,Locality wide location,False,False,1.0
-1596,LONGFIELD CENTER,"560 S Douty St, Hanford, CA 93230, USA",36.31986,-119.64509,1596.0,CA,KINGS COUNTY,Locality wide location,False,False,1.0
-1597,AVENAL HIGH SCHOOL CAFETERIA,"601 E Mariposa St, Avenal, CA 93204, USA",36.01032,-120.12934,1597.0,CA,KINGS COUNTY,Locality wide location,False,False,1.0
-1598,LEMOORE MASONIC TEMPLE,"647 W Bush St, Lemoore, CA 93245, USA",36.29798,-119.79046,1598.0,CA,KINGS COUNTY,Locality wide location,False,False,1.0
-1599,CORCORAN RAC GYMNASIUM,"900 Dairy Ave, Corcoran, CA 93212, USA",36.10115,-119.57284,1599.0,CA,KINGS COUNTY,Locality wide location,False,False,1.0
+name,address,Is Early Voting,Precincts (Or Locality-wide),Is Drop Off,lon,lat
+AVENAL HIGH SCHOOL CAFETERIA,601 MARIPOSA ST AVENAL CA 93204,False,Locality wide location,False,-120.13033,36.00966
+CORCORAN RAC GYMNASIUM,900 DAIRY AVE CORCORAN CA 93212,False,Locality wide location,False,-119.57284,36.10115
+KINGS CO GOV CENTER MULTI-PURPOSE RM,1400 W LACEY BLVD HANFORD CA 93230,False,Locality wide location,False,-119.66576,36.3298
+LEMOORE MASONIC TEMPLE,647 W BUSH STRM LEMOORE CA 93245,False,Locality wide location,False,-119.79046,36.29798
+LONGFIELD CENTER,560 S DOUTY ST HANFORD CA 93230,False,Locality wide location,False,-119.64509,36.31986
+SIERRA PACIFIC HIGH SCHOOL GYM,1259 13TH AVE HANFORD CA 93230,False,Locality wide location,False,-119.68989,36.33726

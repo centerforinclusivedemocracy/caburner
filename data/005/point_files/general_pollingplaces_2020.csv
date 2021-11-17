@@ -1,4 +1,4 @@
-Unnamed: 0,Unnamed: 0.1,State,Locality,Precincts (Or Locality-wide),name,address,lat,lon,Is Early Voting,Is Drop Off,manual
-1079.0,1079.0,CA,AMADOR COUNTY,Locality wide location,Ione Memorial Hall,"207 S Amador St, Ione, CA 95640, USA",38.35171,-120.93042,False,False,1.0
-1080.0,1080.0,CA,AMADOR COUNTY,Locality wide location,Mace Meadows Golf Course,"26570 Fairway Dr, Pioneer, CA 95666, USA",38.45503,-120.532,False,False,1.0
-1081.0,1081.0,CA,AMADOR COUNTY,Locality wide location,Amador County Supervisors Chambers,"810 Court St, Jackson, CA 95642, USA",38.3525,-120.76764,False,False,1.0
+name,address,Is Early Voting,Precincts (Or Locality-wide),Is Drop Off,lon,lat
+Amador County Supervisors Chambers,810 COURT STREET JACKSON CA 95642,False,Locality wide location,False,-120.76764,38.3525
+Ione Memorial Hall,207 S. AMADOR ST IONE CA 95640,False,Locality wide location,False,-120.93042,38.35171
+Mace Meadows Golf Course,26570 FAIRWAY DRIVE PIONEER CA 95666,False,Locality wide location,False,-120.532,38.45503
