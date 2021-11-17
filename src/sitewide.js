@@ -42,7 +42,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "065", name: "Riverside", profile: 'fullmodel', vca: '3 & 4'},
     { countyfp: "067", name: "Sacramento", profile: 'fullmodel', vca: '2'},
     { countyfp: "069", name: "San Benito", profile: 'fullmodel', vca: '3 & 4'},
-    { countyfp: "071", name: "San Bernardino", profile: 'inprogress', outoforder: "Updated modeling of suggested voting locations is in progress for this county. Currently modeled voting locations for the 2020 General Election are available."},
+    { countyfp: "071", name: "San Bernardino", profile: 'fullmodel', vca: '3 & 4'},
     { countyfp: "073", name: "San Diego", profile: 'fullmodel', vca: '3 & 4'},
     { countyfp: "075", name: "San Francisco", profile: 'fullmodel', vca: '3 & 4'},
     { countyfp: "077", name: "San Joaquin", profile: 'fullmodel', vca: '3 & 4'},
