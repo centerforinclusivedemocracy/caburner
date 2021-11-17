@@ -2,7 +2,7 @@
 <html lang="en">
 <!-- common header for all pages; see style_header.css -->
 <head>
-    <title>CID | California Voting Location Siting Tool</title>
+    <title>CID | Georgia Voting Location Siting Tool</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <link rel="icon" type="image/png" href="./images/favicon.png">
@@ -75,13 +75,13 @@
     <script src="https://unpkg.com/url-search-params-polyfill@2.0.3/index.js" type="text/javascript"></script>
 
     <!-- statistics library to calculate Jenks breaks et al-->
-    <script src="./simple_statistics.js?cachebust-d48c98f031"></script>
+    <script src="./simple_statistics.js?CACHEBUST"></script>
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
-    <link rel="stylesheet" href="./sitewide.css?cachebust-8a9647ef04" />
-    <script src="./sitewide.js?cachebust-bd75a30670"></script>
-    <link rel="stylesheet" href="./acknowledgments.css?cachebust-8be1f32d75" />
-    <script src="./acknowledgments.js?cachebust-8be1f32d75"></script>
+    <link rel="stylesheet" href="./sitewide.css?CACHEBUST" />
+    <script src="./sitewide.js?CACHEBUST"></script>
+    <link rel="stylesheet" href="./THISPAGE.css?CACHEBUST" />
+    <script src="./THISPAGE.js?CACHEBUST"></script>
 </head>
 <body>
 
@@ -108,108 +108,3 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </ul>
     </div>
 </nav>
-<div class="container" id="main-page-content">
-    <h1>Acknowledgments</h1>
-
-    <div class="row">
-        <div class="col-12 col-md-6">
-            <h2>For Project Inquiries Please Contact:</h2>
-            <p>
-                Mindy Romero, Ph.D., Director<br/>
-                E-mail: <a href="mailto:cid@price.usc.edu?subject=CID Siting Tool">cid@price.usc.edu</a><br/>
-                Phone: <a href="tel:+15306653010">+1 (530) 665-3010</a><br/>
-                Web: <a href="https://cid.usc.edu/" target="_blank">CID Website</a>
-            </p>
-
-            <p>
-                <h2>Siting Tool Team:</h2>
-                <ul style="list-style-type:none; padding-left: 0;">
-                    <li>Kelly Armijo</li>
-                    <li>Emily Pavia</li>
-                    <li>Sheridan Zalewski</li>
-                    <li>Scott Stetkiewicz</li>
-                </ul>
-            </p>
-
-            <p class="mt-4">
-                We would like to thank the many elections officials and voter advocacy groups who contributed valuable input on the Siting Tool in its development process. We also thank Laura Daly, former CID research associate, for her contributions to the Siting Tool.
-            </p>
-            <p>
-              We thank the following advisors for their contributions to the development of the CID Voting Location Siting Tool:
-            </p>
-            <p>
-                Eric McGhee, Ph.D. <br>
-                Research Fellow <br>
-                Public Policy Institute of California 
-              </p>
-            <p>
-              Paul Gronke, Ph.D. <br>
-              Professor of Political Science, Reed College<br>
-              Director, Early Voting Information Center
-            </p>
-            <p>
-              Amber McReynolds<br>
-              CEO, National Vote at Home Institute & Coalition
-            </p>
-            <p>
-              Robert M. Stein, Ph.D.<br>
-              Lena Gohlman Fox Professor of Political Science<br>
-              Rice University
-            </p>
-            <p>
-              Thad Kousser, Ph.D.<br>
-              Professor and Department Chair<br>
-              Department of Political Science, UC San Diego
-            </p>
-            <p>
-              Melissa Michelson, Ph.D.<br>
-              Professor of Political Science<br>
-              Menlo College
-            </p>
-            <p>
-              James Gimpel, Ph.D.<br>
-              Professor of Government and Politics<br>
-              University of Maryland
-            </p>
-            <p>
-              Lisa Bryant, Ph.D.<br>
-              Associate Professor of Political Science<br>
-              California State University, Fresno
-            </p>
-        </div>
-        <div class="col-12 col-md-6">
-          <h3>This research has been generously supported by:</h3>
-          <img src="images\democracyfund-logo.jpg" alt="democracy fund logo" class="img-fluid py-4 w-75">
-          <img src="images\stanford-mit-logo.png" alt="silicon valley community foundation logo" class="img-fluid pt-4 w-75">
-          <p>The Stanford-MIT Healthy Elections Project</p>
-          <img src="images\fjc-logo.jpg" alt="silicon valley community foundation logo" class="img-fluid py-4 w-75">
-          <!-- <img src="images\svcf-logo.png" alt="silicon valley community foundation logo" class="img-fluid py-4 w-75 mx-auto"> -->
-
-          <p>We thank the James Irvine foundation for their support of an earlier version of the CID Voting Location Siting Tool.</p>
-        </div>
-    </div>
-
-</div>
-</div><!--/container-->
-<!-- common footer for all pages; see style_footer.css -->
-
-<footer class="footer">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-12 col-sm-6">
-                <img src="./images/usc-logo.png" title="University of Southern California Logo" style="margin-right: 10px;" />
-                &copy; <span id="copyright-year">2021</span>
-
-                <!-- auto update copyright year -->
-                <script>
-                    document.querySelector('#copyright-year').innerText = new Date().getFullYear();
-                </script>
-
-                <a href="https://cid.usc.edu/" target="_blank">CID</a>
-            </div>
-        </div>
-    </div>
-</footer>
-
-</body>
-</html>
