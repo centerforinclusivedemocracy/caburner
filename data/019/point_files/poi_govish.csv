@@ -1,0 +1,108 @@
+,osm_id,code,fclass,name,lon,lat
+0,270622781,2099.0,public_building,Ranger Station,-119.15582,37.06632
+1,150941004,2005.0,post_office,Piedra Post Office,-119.36494,36.82286
+2,358823439,2005.0,post_office,Raisin Post Office,-119.90403,36.60245
+3,358833915,2005.0,post_office,Friant Post Office,-119.71459,36.98467
+4,358833928,2005.0,post_office,Mendota Post Office,-120.37989,36.75495
+5,358833931,2005.0,post_office,Pinedale Post Office,-119.79126,36.84273
+6,358833941,2005.0,post_office,Shaver Lake Post Office,-119.32065,37.11139
+7,358833951,2005.0,post_office,Biola Post Office,-120.01627,36.803
+8,358833987,2005.0,post_office,Easton Post Office,-119.7907,36.65134
+9,358834016,2005.0,post_office,Kerman Post Office,-120.0596,36.72384
+10,358834034,2005.0,post_office,Tranquillity Post Office,-120.25377,36.64856
+11,358834296,2005.0,post_office,Sanger Post Office,-119.55819,36.70523
+12,358834303,2005.0,post_office,Caruthers Post Office,-119.83375,36.53967
+13,358834329,2005.0,post_office,Raisin Post Office,-119.90403,36.60078
+14,358834335,2005.0,post_office,San Joaquin Post Office,-120.18766,36.60856
+15,358834400,2005.0,post_office,Kingsburg Post Office,-119.55217,36.51381
+16,358834415,2005.0,post_office,Selma Post Office,-119.61291,36.56995
+17,358834504,2005.0,post_office,Laton Post Office,-119.68597,36.43439
+18,358834517,2005.0,post_office,Orange Cove Post Office,-119.31179,36.62467
+19,358834526,2005.0,post_office,Reedley Post Office,-119.44901,36.59773
+20,358834535,2005.0,post_office,Riverdale Post Office,-119.8601,36.43175
+21,358833901,2005.0,post_office,Auberry Post Office,-119.48624,37.07439
+22,358833910,2005.0,post_office,Firebaugh Post Office,-120.45539,36.85916
+23,368167644,2002.0,fire_station,Coalinga Fire Station,-120.36237,36.13773
+24,368166625,2099.0,public_building,Clovis School District Office,-119.69042,36.83689
+25,368167645,2002.0,fire_station,Fire Station Number 2,-119.60985,36.57606
+26,368169933,2007.0,library,Clovis Regional Library,-119.69486,36.82439
+27,368167180,2099.0,public_building,State Center Community College District Office,-119.79289,36.76892
+28,368171873,2008.0,town_hall,Mendota City Hall,-120.38157,36.75362
+29,368170303,2007.0,library,Fresno County Law Library,-119.7893,36.73717
+30,368170312,2007.0,library,Fresno County Free Library,-119.80959,36.80912
+31,368170313,2007.0,library,Community Hospitals of Central California Medical Library,-119.78431,36.743
+32,368170314,2007.0,library,Fresno Central Library and California History & Genealogy Room,-119.78627,36.73796
+33,368170318,2007.0,library,Selma Branch Fresno County Free Library,-119.6093,36.56745
+34,368170319,2007.0,library,Huron Branch Coalinga-Huron Library,-120.09903,36.2094
+35,368170320,2007.0,library,First Mennonite Church Library,-119.45485,36.5919
+36,368170321,2007.0,library,Reedley Branch Fresno County Free Library,-119.44929,36.59828
+37,368170326,2007.0,library,Kings River Community College Library,-119.45957,36.60773
+38,368171032,2099.0,public_building,Fresno City and County Historical Society Archives,-119.9193,36.72373
+39,368171874,2008.0,town_hall,Firebaugh City Hall,-120.45585,36.85954
+40,368171749,2008.0,town_hall,Parlier City Hall,-119.53485,36.61162
+41,368171750,2008.0,town_hall,Orange Cove City Hall,-119.31317,36.62467
+42,368171751,2008.0,town_hall,Huron City Hall,-120.10403,36.20495
+43,368171753,2008.0,town_hall,Reedley City Hall,-119.45318,36.59828
+44,368171864,2008.0,town_hall,Kingsburg City Hall,-119.55272,36.51519
+45,368171866,2008.0,town_hall,Selma City Hall,-119.61041,36.56745
+46,368171867,2008.0,town_hall,San Joaquin City Hall,-120.18543,36.60578
+47,368171869,2008.0,town_hall,Fowler City Hall,-119.67708,36.63023
+48,368171871,2008.0,town_hall,Kerman City Hall,-120.0596,36.72161
+49,1751617521,2001.0,police,Clovis Police Headquarters,-119.69387,36.82442
+50,1751618611,2002.0,fire_station,Clovis Fire Department Headquarters,-119.69342,36.82437
+51,1788009784,2002.0,fire_station,Fresno County Fire Department Station #72,-119.70691,36.99262
+52,1788014847,2002.0,fire_station,Fresno County Fire Department Station #74,-119.52889,36.98886
+53,1788021208,2002.0,fire_station,Blasingame Fire Station,-119.44719,36.95998
+54,1788022004,2002.0,fire_station,CAL FIRE Fire Station,-119.22225,36.74931
+55,1788023883,2002.0,fire_station,CAL FIRE Fire Station,-119.17754,36.68212
+56,1788024326,2002.0,fire_station,CAL FIRE Fire Station,-119.38221,36.81282
+57,1794087110,2002.0,fire_station,Fresno County Fire Department Station #93,-120.10412,36.2046
+58,1794104775,2002.0,fire_station,Fresno County Fire Department Station #89,-119.78143,36.65062
+59,1794107488,2002.0,fire_station,Fresno County Fire Department Station #87,-119.74183,36.70582
+60,1794109866,2002.0,fire_station,Fresno County Fire Department Station #86,-119.57921,36.80772
+61,1794114301,2002.0,fire_station,Fresno County Fire Department Station #82,-119.61529,36.66357
+62,1794118579,2002.0,fire_station,Fresno County Fire Department Station #83,-119.58361,36.54742
+63,1794089588,2002.0,fire_station,Fresno County Fire Department Station #94,-120.23119,36.25411
+64,1794120758,2002.0,fire_station,Fresno County Fire Department Station #84,-119.555,36.73262
+65,1794094949,2002.0,fire_station,CAL Fire Coalinga Fire Station,-120.27321,36.1377
+66,1794120819,2002.0,fire_station,CAL FIRE/Fresno County Fire Department Headquarters,-119.55542,36.73256
+67,1794098246,2002.0,fire_station,Fresno County Fire Department Station #90,-119.83974,36.53665
+68,1980828460,2002.0,fire_station,Clovis Fire Department Station #1,-119.70175,36.82232
+69,1980830060,2002.0,fire_station,Clovis Fire Department Station #2,-119.70954,36.8057
+70,1980834886,2002.0,fire_station,Clovis Fire Department Station #4,-119.6727,36.80442
+71,1980838043,2002.0,fire_station,Clovis Fire Department Station #5,-119.66571,36.84479
+72,1980448826,2002.0,fire_station,Fresno Fire Department Station #1,-119.7474,36.75877
+73,1980451781,2002.0,fire_station,Fresno Fire Department Station #2,-119.82602,36.83931
+74,1980463391,2002.0,fire_station,Fresno Fire Department Station #3,-119.79771,36.73172
+75,1980771494,2002.0,fire_station,Fresno Fire Department Station #5,-119.78199,36.77891
+76,1980776732,2002.0,fire_station,Fresno Fire Department Station #7,-119.78136,36.70799
+77,1980779097,2002.0,fire_station,Fresno Fire Department Station #8,-119.75495,36.72799
+78,1980782338,2002.0,fire_station,Fresno Fire Department Station #9,-119.81626,36.77174
+79,1980782911,2002.0,fire_station,Fresno Fire Department Station #10,-119.70444,36.77496
+80,1980784090,2002.0,fire_station,Fresno Fire Department Station #11,-119.78092,36.81788
+81,1980785775,2002.0,fire_station,Fresno Fire Department Station #12,-119.84406,36.80446
+82,1980789011,2002.0,fire_station,Fresno Fire Department Station #14,-119.89008,36.82664
+83,1980791713,2002.0,fire_station,Fresno Fire Department Station #15,-119.69906,36.73088
+84,1980792065,2002.0,fire_station,Fresno Fire Department Station #16,-119.88884,36.77228
+85,1980792607,2002.0,fire_station,Fresno Fire Department Station #17,-119.74699,36.88878
+86,1980795943,2002.0,fire_station,Fresno Fire Department Station #18,-119.91428,36.822
+87,1980797307,2002.0,fire_station,Fresno Fire Department Station #19,-119.8492,36.74968
+88,1980800732,2002.0,fire_station,Fresno Fire Department Station #20,-119.80298,36.80012
+89,1980804599,2002.0,fire_station,North Central FPD Station #21,-120.07678,36.72786
+90,1980804978,2002.0,fire_station,North Central FPD Station #22,-119.92514,36.72315
+91,1980824825,2002.0,fire_station,North Central FPD Station #23,-120.01685,36.8013
+92,2277866151,2005.0,post_office,Post Office (93727),-119.70217,36.74357
+93,3483479950,2007.0,library,Caruthers Library,-119.83145,36.5422
+94,3998339376,2007.0,library,Buchanan High School Library,-119.71401,36.85881
+95,4622537301,2007.0,library,Mosqueda Library,-119.74292,36.72808
+96,4638622998,2001.0,police,Fresno Police Department South East,-119.75414,36.72662
+97,4961086122,2007.0,library,Woodward Park Regional Library,-119.76644,36.87156
+98,4962939524,2005.0,post_office,United States Post Office,-119.77091,36.85113
+99,5009363145,2005.0,post_office,US Post office,-118.9142,36.78725
+100,5436693829,2008.0,town_hall,Coalinga City Hall,-120.36197,36.13955
+101,5436693830,2001.0,police,Coalinga Police Department,-120.36184,36.13932
+102,6422020568,2007.0,library,,-119.2509,36.73859
+103,6422023357,2005.0,post_office,,-119.24964,36.74017
+104,6422023358,2099.0,public_building,,-119.25117,36.73852
+105,6422023359,2001.0,police,,-119.25234,36.73831
+106,7929815573,2005.0,post_office,The UPS Store,-119.91012,36.83356
