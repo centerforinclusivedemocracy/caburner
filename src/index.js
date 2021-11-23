@@ -51,12 +51,16 @@ function initStatewideMap () {
                 if (! countyinfo) return BOUNDSTYLE_DEFAULT;  // not participating, default style
 
                 switch (countyinfo.profile) {
-                    case 'fullmodel':
-                        return BOUNDSTYLE_FULL;
+                    // case 'fullmodel':
+                    //     return BOUNDSTYLE_FULL;
                     case 'lite':
                         return BOUNDSTYLE_LITE;
                     // case 'inprogress':
                     //     return BOUNDSTYLE_INPROGRESS;
+                    case 'vca':
+                        return BOUNDSTYLE_VCA;
+                    case 'nonvca':
+                        return BOUNDSTYLE_NONVCA;
                     default:
                         console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for styling map`);
                         return BOUNDSTYLE_DEFAULT;  // not known, so punt with this and the error message
@@ -73,15 +77,21 @@ function initStatewideMap () {
                 let message = 'Not analyzed';
                 if (countyinfo) {
                     switch (countyinfo.profile) {
-                        case 'fullmodel':
-                            message = 'Suggested Voting Locations';
-                            break;
+                        // case 'fullmodel':
+                        //     message = 'Suggested Voting Locations';
+                        //     break;
                         case 'lite':
                             message = 'Community-Level Demographic and Voter Data';
                             break;
                         // case 'inprogress':
                         //     message = 'Modeling Update in Progress';
                         //     break;
+                        case 'vca':
+                            message = "Voter's Choice Act Vote Center County";
+                            break;
+                        case 'nonvca':
+                            message = "Polling Place County";
+                            break;
                         default:
                             console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for creating tooltip`);
                             message = 'Unknown status';
