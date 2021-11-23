@@ -14,12 +14,14 @@
       <h1 id="methodology">Scope</h1>
       <div class="row">
         <div class="col">
-          The Tool provides voting location and drop box location modeling, along with visualization of demographic and voter data for the following counties:
-          <ul id="fullAnalysisCountyList" class="card-columns"><!-- county list filled in via initFillScopeLists() --></ul>
-        </div>
-        <div class="col">
+          The Tool provides vote center (open 4 and ll days) and drop box location modeling for the following counties in California that have adopted the Voter's Choice Act, along with visualization of demographic and voter data:
+          <ul id="vcaCountyList" class="card-columns"><!-- county list filled in via initFillScopeLists() --></ul>
+
+          The Tool provides vote location and drop box location modeling for the following counties consistent with the traditional polling place model, along with visualization of demographic and voter data:
+          <ul id="nonvcaCountyList" class="card-columns"><!-- county list filled in via initFillScopeLists() --></ul>
+          
           The Tool provides visualization of demographic and voter data for the following counties:
-          <ul id="liteAnalysisCountyList" class="card-columns"><!-- county list filled in via initFillScopeLists() --></ul>
+          <ul id="liteAnalysisCountyList"><!-- county list filled in via initFillScopeLists() --></ul>
         </div>
       </div>
 
@@ -34,7 +36,7 @@
         We identified all areas that were potentially suitable for hosting a site. We created a grid made up of 0.5 mile cells covering the entire county, where each cell is a potential area to host a site. These “suitable areas” were determined using a combined approach for road density and “points of interest” density. A suitable area needed to contain either a sufficient density of roads or at least two points of interest, while also avoiding bodies of water. This means that suitable areas are areas that have some concentration of activity and therefore are more likely to have buildings and infrastructure. Note that we are not suggesting that all points of interest are suitable sites to host a voting location, but that the presence of a point of interest suggests a general concentration of infrastructure.
       </p>
       <p>
-        Points of interest were sourced from OpenStreetMap and were defined by the research team to be both governmental and non-governmental buildings (shown as two different layers in the tool) that could serve as potential voting locations or drop box sites.
+        Points of interest were sourced from OpenStreetMap and were defined by the research team to be both governmental and non-governmental buildings (shown as two different layers in the tool) that could serve as potential voting locations or drop box sites. As crowdsourced data, the accuracy and coverage of OpenStreetMap data is dependent on user input and varies across geographies. 
       </p>
 
       <h2 id="facility-location">Facility Location</h3>
@@ -214,42 +216,6 @@
             <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
           </ul>
 
-          <p id="pctbangladeshi"><b>Bangladeshi Percent of Population:</b> The percentage of the population that is Bangladeshi.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Bangladeshi in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctbhutanese"><b>Bhutanese Percent of Population:</b> The percentage of the population that is Bhutanese.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Bhutanese in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctburmese"><b>Burmese Percent of Population:</b> The percentage of the population that is Burmese.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Burmese in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctcambodian"><b>Cambodian Percent of Population:</b> The percentage of the population that is Cambodian.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Cambodian in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
           <p id="pctchinese"><b>Chinese Percent of Population:</b> The percentage of the population that is Chinese.</p>
           <ul>
             <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
@@ -259,19 +225,10 @@
             <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
           </ul>
 
-          <p id="pcthmong"><b>Hmong Percent of Population:</b> The percentage of the population that is Hmong.</p>
+          <p id="pctfilipino"><b>Filipino Percent of Population:</b> The percentage of the population that is Filipino.</p>
           <ul>
             <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Hmong in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctindonesian"><b>Indonesian Percent of Population:</b> The percentage of the population that is Indonesian.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Indonesian in a tract out of the total tract population.</li>
+            <li><i>Calculation</i>: The percent of residents that are Filipino in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
             <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
@@ -286,91 +243,10 @@
             <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
           </ul>
 
-          <p id="pctkorean"><b>Korean Percent of Population:</b> The percentage of the population that is korean.</p>
+          <p id="pctkorean"><b>Korean Percent of Population:</b> The percentage of the population that is Korean.</p>
           <ul>
             <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
             <li><i>Calculation</i>: The percent of residents that are Korean in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctlaotian"><b>Laotian Percent of Population:</b> The percentage of the population that is Laotian.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Laotian in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctmalaysian"><b>Malaysian Percent of Population:</b> The percentage of the population that is Malaysian.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Malaysian in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctmongolian"><b>Mongolian Percent of Population:</b> The percentage of the population that is Mongolian.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Mongolian in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctnepalese"><b>Nepalese Percent of Population:</b> The percentage of the population that is Nepalese.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Nepalese in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctokinawan"><b>Okinawan Percent of Population:</b> The percentage of the population that is Okinawan.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Okinawan in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctpakistani"><b>Pakistani Percent of Population:</b> The percentage of the population that is Pakistani.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Pakistani in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctsrilankan"><b>Sri Lankan Percent of Population:</b> The percentage of the population that is Sri Lankan.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Sri Lankan in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pcttaiwanese"><b>Taiwanese Percent of Population:</b> The percentage of the population that is Taiwanese.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Taiwanese in a tract out of the total tract population.</li>
-            <li><i>Scale</i>: Census Tract</li>
-            <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
-            <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>
-          </ul>
-
-          <p id="pctthai"><b>Thai Percent of Population:</b> The percentage of the population that is Thai.</p>
-          <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
-            <li><i>Calculation</i>: The percent of residents that are Thai in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
             <li><i>Note</i>: This data is included as contextual population information only, it was not included in the model or in the scoring of the potential areas.</li>

@@ -12,7 +12,7 @@
 const PARTICIPATING_COUNTIES = [
     //SSS// We have 3 classes for CA: lite for the 4 VBM counties, fullmodel for polling places, and fullmodel for vote centers
     { countyfp: "001", name: "Alameda", profile: 'nonvca', vca: '3 & 4'},
-    { countyfp: "003", name: "Alpine", profile: 'nonvca', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "005", name: "Amador", profile: 'vca', vca: '2'},
     { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
     { countyfp: "009", name: "Calaveras", profile: 'vca', vca: '2'},
