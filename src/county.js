@@ -45,7 +45,8 @@ function initCountyInfo () {
     // } else if (COUNTYINFO.vca == '3 & 4') {
     //     $(`<span>The number of voting locations suggested by the Tool is consistent with the minimum number of required locations for voting methods #3 and #4 as per the CA Secretary of State's recall election <a target="_blank" href="https://elections.cdn.sos.ca.gov/ccrov/2021/july/21091jl.pdf">guidance memo</a>.</span>`).appendTo($outoforder);
     // };
-    if (COUNTYINFO.outoforder) {$outoforder.text(COUNTYINFO.outoforder);};
+    if (COUNTYINFO.outoforder) $('#outoforder').text(COUNTYINFO.outoforder);
+    else $('#outoforder').remove();
 }
 
 function initAdditionalDataWording () {
