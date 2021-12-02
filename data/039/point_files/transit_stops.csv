@@ -1,4 +1,112 @@
 provider,lat,lon,num_stops_per_week,score
+Fresno Public Transportation (FAX),36.88509,-119.80003,52.0,1.0
+Yosemite Area Regional Transportation System,37.26202,-119.69972,3.0,1.0
+Yosemite Area Regional Transportation System,37.33549,-119.64622,6.0,1.0
+Yosemite Area Regional Transportation System,37.26179,-119.70049,3.0,1.0
+Yosemite Area Regional Transportation System,37.21225,-119.69952,6.0,1.0
+Madera Metro,36.92434,-119.99758,18.0,1.0
+Madera Metro,36.96283,-120.05997,132.0,3.0
+Madera Metro,36.9777,-120.05963,62.0,2.0
+Madera Metro,36.95847,-120.08313,43.0,1.0
+Madera Metro,36.95812,-120.0833,43.0,1.0
+Madera Metro,36.94212,-120.06497,45.0,1.0
+Madera Metro,36.96021,-120.10331,40.0,1.0
+Madera Metro,36.96214,-120.09317,34.0,1.0
+Madera Metro,36.97473,-120.08518,34.0,1.0
+Madera Metro,36.9663,-120.05318,66.0,2.0
+Madera Metro,36.94412,-120.04483,174.0,3.0
+Madera Metro,36.97378,-120.08112,214.0,4.0
+Madera Metro,36.95343,-120.07038,215.0,4.0
+Madera Metro,36.9772,-120.07381,66.0,2.0
+Madera Metro,36.97031,-120.06363,96.0,2.0
+Madera Metro,36.98153,-120.05639,62.0,2.0
+Madera Metro,36.95276,-120.05877,34.0,1.0
+Madera Metro,36.97737,-120.07365,62.0,2.0
+Madera Metro,36.95296,-120.0595,36.0,1.0
+Madera Metro,36.95914,-120.05384,36.0,1.0
+Madera Metro,36.96001,-120.04218,34.0,1.0
+Madera Metro,36.96675,-120.05211,62.0,2.0
+Madera Metro,36.95469,-120.07053,77.0,2.0
+Madera Metro,36.95881,-120.05398,34.0,1.0
+Madera Metro,36.94723,-120.03775,36.0,1.0
+Madera Metro,36.96221,-120.093,34.0,1.0
+Madera Metro,36.97043,-120.06354,32.0,1.0
+Madera Metro,36.98292,-120.06558,62.0,2.0
+Madera Metro,36.97219,-120.04507,62.0,2.0
+Madera Metro,36.96042,-120.05639,62.0,2.0
+Madera Metro,36.95713,-120.06648,66.0,2.0
+Madera Metro,36.96377,-120.05626,66.0,2.0
+Madera Metro,36.98255,-120.06657,66.0,2.0
+Madera Metro,36.98248,-120.06679,62.0,2.0
+Madera Metro,36.97066,-120.04714,62.0,2.0
+Madera Metro,36.96455,-120.05541,62.0,2.0
+Madera Metro,36.97719,-120.06725,96.0,2.0
+Madera Metro,36.9747,-120.05045,62.0,2.0
+Madera Metro,36.95984,-120.04641,34.0,1.0
+Madera Metro,36.9745,-120.08605,34.0,1.0
+Madera Metro,36.97457,-120.04696,66.0,2.0
+Madera Metro,36.9522,-120.0727,68.0,2.0
+Madera Metro,36.94548,-120.05435,34.0,1.0
+Madera Metro,36.95216,-120.0729,68.0,2.0
+Madera Metro,36.94568,-120.06273,34.0,1.0
+Madera Metro,36.93844,-120.0598,79.0,2.0
+Madera Metro,36.93822,-120.06296,79.0,2.0
+Madera Metro,36.9384,-120.052,45.0,1.0
+Madera Metro,36.93813,-120.04787,45.0,1.0
+Madera Metro,36.9799,-120.06332,66.0,2.0
+Madera Metro,36.97982,-120.06311,62.0,2.0
+Madera Metro,36.97491,-120.06336,66.0,2.0
+Madera Metro,36.95018,-120.07318,68.0,2.0
+Madera Metro,36.95,-120.0732,68.0,2.0
+Madera Metro,36.97482,-120.06311,62.0,2.0
+Madera Metro,36.96017,-120.06192,66.0,2.0
+Madera Metro,36.96084,-120.06137,66.0,2.0
+Madera Metro,36.96023,-120.09891,20.0,1.0
+Madera Metro,36.96003,-120.0987,20.0,1.0
+Madera Metro,36.95753,-120.0663,66.0,2.0
+Madera Metro,36.9598,-120.0426,34.0,1.0
+Madera Metro,36.96006,-120.0476,34.0,1.0
+Madera Metro,36.96889,-120.04965,66.0,2.0
+Madera Metro,36.96019,-120.0916,34.0,1.0
+Madera Metro,36.96,-120.09146,34.0,1.0
+Madera Metro,36.95106,-120.06519,79.0,2.0
+Madera Metro,36.96634,-120.09227,34.0,1.0
+Madera Metro,36.96734,-120.09206,34.0,1.0
+Madera Metro,36.95289,-120.08145,43.0,1.0
+Madera Metro,36.93835,-120.04798,45.0,1.0
+Madera Metro,36.95293,-120.06654,72.0,2.0
+Madera Metro,36.9527,-120.06478,34.0,1.0
+Madera Metro,36.9459,-120.065,45.0,1.0
+Madera Metro,36.94543,-120.05022,34.0,1.0
+Madera Metro,36.9456,-120.051,34.0,1.0
+Madera Metro,36.95113,-120.06503,45.0,1.0
+Madera Metro,36.9492,-120.065,45.0,1.0
+Madera Metro,36.983,-120.0528,62.0,2.0
+Madera Metro,36.97506,-120.05609,66.0,2.0
+Madera Metro,36.97522,-120.05638,62.0,2.0
+Madera Metro,36.97455,-120.04935,66.0,2.0
+Madera Metro,36.97481,-120.04616,62.0,2.0
+Madera Metro,36.96132,-120.05545,66.0,2.0
+Madera Metro,36.94567,-120.05483,34.0,1.0
+Madera Metro,36.93844,-120.06864,34.0,1.0
+Madera Metro,36.94524,-120.04155,34.0,1.0
+Madera Metro,36.94638,-120.0719,102.0,2.0
+Madera Metro,36.94651,-120.072,34.0,1.0
+Madera Metro,36.97033,-120.0479,66.0,2.0
+Madera Metro,36.94985,-120.04202,34.0,1.0
+Madera Metro,36.95012,-120.04225,34.0,1.0
+Madera Metro,36.9829,-120.05284,66.0,2.0
+Madera Metro,36.9459,-120.0652,79.0,2.0
+Madera Metro,36.95618,-120.06766,32.0,1.0
+Madera Metro,36.97349,-120.04337,66.0,2.0
+Madera Metro,36.97746,-120.05987,66.0,2.0
+Madera Metro,36.94541,-120.04791,34.0,1.0
+Madera Metro,36.93869,-120.06518,79.0,2.0
+Madera Metro,36.95267,-120.08155,14.0,1.0
+Madera Metro,36.97321,-120.04324,32.0,1.0
+Madera Metro,36.98164,-120.0561,66.0,2.0
+Madera Metro,36.93863,-120.065,45.0,1.0
+Madera Metro,36.95893,-120.0375,102.0,2.0
 Madera County Connection,36.94412,-120.04483,2.0,1.0
 Madera County Connection,36.96285,-120.05997,30.0,4.0
 Madera County Connection,37.01018,-119.79438,3.0,1.0
@@ -34,8 +142,6 @@ Madera County Connection,37.21813,-119.70809,6.0,1.0
 Madera County Connection,37.33254,-119.65254,3.0,1.0
 Madera County Connection,37.33624,-119.64549,3.0,1.0
 Madera County Connection,37.33586,-119.6458,3.0,1.0
-Fresno Public Transportation (FAX),36.88509,-119.80003,52.0,1.0
-Yosemite Area Regional Transportation System,37.31986,-119.55656,0.0,0.0
 Yosemite Area Regional Transportation System,37.26202,-119.69972,3.0,1.0
 Yosemite Area Regional Transportation System,37.33549,-119.64622,6.0,1.0
 Yosemite Area Regional Transportation System,37.26179,-119.70049,3.0,1.0

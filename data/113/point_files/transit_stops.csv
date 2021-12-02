@@ -1,383 +1,1066 @@
 provider,lat,lon,num_stops_per_week,score
-Capitol Corridor Joint Powers Authority,38.54349,-121.73776,26.0,2.0
-Yolo County Transportation District,38.65989,-121.76403,502.0,4.0
-Yolo County Transportation District,38.66279,-121.76151,118.0,2.0
-Yolo County Transportation District,38.66278,-121.75867,118.0,2.0
-Yolo County Transportation District,38.66265,-121.74134,55.0,1.0
-Yolo County Transportation District,38.66109,-121.73556,55.0,1.0
-Yolo County Transportation District,38.66434,-121.73562,55.0,1.0
-Yolo County Transportation District,38.66588,-121.73166,55.0,1.0
-Yolo County Transportation District,38.6687,-121.72993,55.0,1.0
-Yolo County Transportation District,38.66938,-121.72385,55.0,1.0
-Yolo County Transportation District,38.66873,-121.73085,55.0,1.0
-Yolo County Transportation District,38.66782,-121.73309,55.0,1.0
-Yolo County Transportation District,38.6697,-121.73505,55.0,1.0
-Yolo County Transportation District,38.66897,-121.73899,55.0,1.0
-Yolo County Transportation District,38.66972,-121.74218,55.0,1.0
-Yolo County Transportation District,38.67334,-121.74538,55.0,1.0
-Yolo County Transportation District,38.67716,-121.7409,55.0,1.0
-Yolo County Transportation District,38.6773,-121.75237,144.0,2.0
-Yolo County Transportation District,38.67806,-121.75289,61.0,1.0
-Yolo County Transportation District,38.68129,-121.75618,55.0,1.0
-Yolo County Transportation District,38.68462,-121.75807,55.0,1.0
-Yolo County Transportation District,38.6847,-121.76734,55.0,1.0
-Yolo County Transportation District,38.68423,-121.77058,55.0,1.0
-Yolo County Transportation District,38.68223,-121.77057,55.0,1.0
-Yolo County Transportation District,38.67875,-121.77134,58.0,1.0
-Yolo County Transportation District,38.67878,-121.77517,58.0,1.0
-Yolo County Transportation District,38.6788,-121.77794,58.0,1.0
-Yolo County Transportation District,38.67884,-121.77957,58.0,1.0
-Yolo County Transportation District,38.67313,-121.78411,55.0,1.0
-Yolo County Transportation District,38.67202,-121.77596,55.0,1.0
-Yolo County Transportation District,38.66774,-121.77484,55.0,1.0
-Yolo County Transportation District,38.66285,-121.76936,58.0,1.0
-Yolo County Transportation District,38.6538,-121.76495,113.0,2.0
-Yolo County Transportation District,38.58159,-121.51193,195.0,2.0
-Yolo County Transportation District,38.5819,-121.51846,214.0,2.0
-Yolo County Transportation District,38.58093,-121.52248,458.0,4.0
-Yolo County Transportation District,38.58087,-121.52594,214.0,2.0
-Yolo County Transportation District,38.58043,-121.5308,137.0,2.0
-Yolo County Transportation District,38.5802,-121.53469,137.0,2.0
-Yolo County Transportation District,38.57987,-121.53942,137.0,2.0
-Yolo County Transportation District,38.5797,-121.54209,137.0,2.0
-Yolo County Transportation District,38.5795,-121.54565,137.0,2.0
-Yolo County Transportation District,38.57939,-121.54737,137.0,2.0
-Yolo County Transportation District,38.57889,-121.55566,78.0,1.0
-Yolo County Transportation District,38.57849,-121.56191,78.0,1.0
-Yolo County Transportation District,38.5782,-121.56671,78.0,1.0
-Yolo County Transportation District,38.57696,-121.57123,78.0,1.0
-Yolo County Transportation District,38.57536,-121.57618,78.0,1.0
-Yolo County Transportation District,38.55082,-121.69363,77.0,1.0
-Yolo County Transportation District,38.55096,-121.69098,77.0,1.0
-Yolo County Transportation District,38.54898,-121.68991,77.0,1.0
-Yolo County Transportation District,38.54875,-121.69308,77.0,1.0
-Yolo County Transportation District,38.55641,-121.69413,80.0,1.0
-Yolo County Transportation District,38.55806,-121.699,80.0,1.0
-Yolo County Transportation District,38.55801,-121.70286,80.0,1.0
-Yolo County Transportation District,38.55816,-121.70563,80.0,1.0
-Yolo County Transportation District,38.56041,-121.70897,80.0,1.0
-Yolo County Transportation District,38.5636,-121.7094,80.0,1.0
-Yolo County Transportation District,38.56345,-121.71849,77.0,1.0
-Yolo County Transportation District,38.56259,-121.73002,77.0,1.0
-Yolo County Transportation District,38.56069,-121.73841,80.0,1.0
-Yolo County Transportation District,38.56016,-121.74487,80.0,1.0
-Yolo County Transportation District,38.55723,-121.74351,80.0,1.0
-Yolo County Transportation District,38.5538,-121.74251,80.0,1.0
-Yolo County Transportation District,38.55157,-121.74214,80.0,1.0
-Yolo County Transportation District,38.54839,-121.74142,80.0,1.0
-Yolo County Transportation District,38.54694,-121.74336,80.0,1.0
-Yolo County Transportation District,38.54629,-121.74716,80.0,1.0
-Yolo County Transportation District,38.54396,-121.7498,174.0,2.0
-Yolo County Transportation District,38.5463,-121.75384,77.0,1.0
-Yolo County Transportation District,38.54718,-121.75874,77.0,1.0
-Yolo County Transportation District,38.54918,-121.75869,77.0,1.0
-Yolo County Transportation District,38.5525,-121.75866,77.0,1.0
-Yolo County Transportation District,38.55643,-121.75857,77.0,1.0
-Yolo County Transportation District,38.55941,-121.75854,77.0,1.0
-Yolo County Transportation District,38.56094,-121.76466,79.0,1.0
-Yolo County Transportation District,38.66967,-121.76553,77.0,1.0
-Yolo County Transportation District,38.67219,-121.76552,77.0,1.0
-Yolo County Transportation District,38.67742,-121.76446,137.0,2.0
-Yolo County Transportation District,38.67732,-121.75817,140.0,2.0
-Yolo County Transportation District,38.67725,-121.75108,80.0,1.0
-Yolo County Transportation District,38.5805,-121.5486,55.0,1.0
-Yolo County Transportation District,38.58484,-121.54714,55.0,1.0
-Yolo County Transportation District,38.58922,-121.54653,55.0,1.0
-Yolo County Transportation District,38.58911,-121.54991,55.0,1.0
-Yolo County Transportation District,38.58915,-121.55206,132.0,2.0
-Yolo County Transportation District,38.59202,-121.55123,55.0,1.0
-Yolo County Transportation District,38.59149,-121.55577,55.0,1.0
-Yolo County Transportation District,38.58857,-121.558,55.0,1.0
-Yolo County Transportation District,38.5858,-121.56297,55.0,1.0
-Yolo County Transportation District,38.5866,-121.56633,55.0,1.0
-Yolo County Transportation District,38.58957,-121.56623,55.0,1.0
-Yolo County Transportation District,38.59083,-121.56403,55.0,1.0
-Yolo County Transportation District,38.59227,-121.55703,55.0,1.0
-Yolo County Transportation District,38.59169,-121.5483,132.0,2.0
-Yolo County Transportation District,38.5886,-121.54611,55.0,1.0
-Yolo County Transportation District,38.58452,-121.54732,55.0,1.0
-Yolo County Transportation District,38.58099,-121.54849,55.0,1.0
-Yolo County Transportation District,38.57924,-121.54766,136.0,2.0
-Yolo County Transportation District,38.57939,-121.54512,136.0,2.0
-Yolo County Transportation District,38.57969,-121.53994,136.0,2.0
-Yolo County Transportation District,38.57983,-121.53752,136.0,2.0
-Yolo County Transportation District,38.58008,-121.53371,136.0,2.0
-Yolo County Transportation District,38.58022,-121.53094,136.0,2.0
-Yolo County Transportation District,38.58066,-121.52622,264.0,3.0
-Yolo County Transportation District,38.5815,-121.52253,264.0,3.0
-Yolo County Transportation District,38.58177,-121.51863,213.0,2.0
-Yolo County Transportation District,38.58114,-121.51767,217.0,2.0
-Yolo County Transportation District,38.58189,-121.51395,217.0,2.0
-Yolo County Transportation District,38.58301,-121.52622,77.0,1.0
-Yolo County Transportation District,38.58694,-121.52691,77.0,1.0
-Yolo County Transportation District,38.58918,-121.52381,77.0,1.0
-Yolo County Transportation District,38.58906,-121.51265,53.0,1.0
-Yolo County Transportation District,38.59083,-121.51383,77.0,1.0
-Yolo County Transportation District,38.59334,-121.51692,53.0,1.0
-Yolo County Transportation District,38.59388,-121.52151,53.0,1.0
-Yolo County Transportation District,38.59412,-121.52347,53.0,1.0
-Yolo County Transportation District,38.59427,-121.52592,53.0,1.0
-Yolo County Transportation District,38.5963,-121.52964,53.0,1.0
-Yolo County Transportation District,38.59533,-121.53349,53.0,1.0
-Yolo County Transportation District,38.59429,-121.53736,53.0,1.0
-Yolo County Transportation District,38.59556,-121.5388,53.0,1.0
-Yolo County Transportation District,38.59471,-121.54222,53.0,1.0
-Yolo County Transportation District,38.59235,-121.54135,53.0,1.0
-Yolo County Transportation District,38.59136,-121.54,53.0,1.0
-Yolo County Transportation District,38.59154,-121.54393,77.0,1.0
-Yolo County Transportation District,38.59121,-121.54875,77.0,1.0
-Yolo County Transportation District,38.59141,-121.54395,77.0,1.0
-Yolo County Transportation District,38.59061,-121.53711,53.0,1.0
-Yolo County Transportation District,38.59022,-121.53358,53.0,1.0
-Yolo County Transportation District,38.58957,-121.52737,53.0,1.0
-Yolo County Transportation District,38.58707,-121.52699,77.0,1.0
-Yolo County Transportation District,38.58245,-121.52651,77.0,1.0
-Yolo County Transportation District,38.73613,-122.14212,120.0,2.0
-Yolo County Transportation District,38.70734,-122.0486,60.0,1.0
-Yolo County Transportation District,38.69296,-122.01673,60.0,1.0
-Yolo County Transportation District,38.67907,-121.96847,120.0,2.0
-Yolo County Transportation District,38.67525,-121.80184,60.0,1.0
-Yolo County Transportation District,38.67677,-121.79785,60.0,1.0
-Yolo County Transportation District,38.67758,-121.7919,60.0,1.0
-Yolo County Transportation District,38.67748,-121.781,62.0,1.0
-Yolo County Transportation District,38.67747,-121.776,62.0,1.0
-Yolo County Transportation District,38.6774,-121.76743,62.0,1.0
-Yolo County Transportation District,38.67668,-121.75618,207.0,2.0
-Yolo County Transportation District,38.67329,-121.75621,207.0,2.0
-Yolo County Transportation District,38.66871,-121.75627,207.0,2.0
-Yolo County Transportation District,38.66404,-121.75648,62.0,1.0
-Yolo County Transportation District,38.66283,-121.75947,62.0,1.0
-Yolo County Transportation District,38.66282,-121.76194,62.0,1.0
-Yolo County Transportation District,38.65989,-121.76481,60.0,1.0
-Yolo County Transportation District,38.66331,-121.75645,63.0,1.0
-Yolo County Transportation District,38.66797,-121.75624,63.0,1.0
-Yolo County Transportation District,38.67366,-121.75616,63.0,1.0
-Yolo County Transportation District,38.67599,-121.75614,60.0,1.0
-Yolo County Transportation District,38.67743,-121.76798,60.0,1.0
-Yolo County Transportation District,38.67751,-121.78013,60.0,1.0
-Yolo County Transportation District,38.6776,-121.79142,60.0,1.0
-Yolo County Transportation District,38.67673,-121.7979,60.0,1.0
-Yolo County Transportation District,38.67554,-121.80132,118.0,2.0
-Yolo County Transportation District,38.69277,-122.01672,60.0,1.0
-Yolo County Transportation District,38.70722,-122.04764,60.0,1.0
-Yolo County Transportation District,38.67793,-121.75294,132.0,2.0
-Yolo County Transportation District,38.57911,-121.52868,51.0,1.0
-Yolo County Transportation District,38.57733,-121.53065,51.0,1.0
-Yolo County Transportation District,38.5728,-121.53065,51.0,1.0
-Yolo County Transportation District,38.57113,-121.53022,51.0,1.0
-Yolo County Transportation District,38.56935,-121.53184,51.0,1.0
-Yolo County Transportation District,38.56804,-121.53304,51.0,1.0
-Yolo County Transportation District,38.56697,-121.53397,51.0,1.0
-Yolo County Transportation District,38.56573,-121.53509,51.0,1.0
-Yolo County Transportation District,38.56383,-121.5368,51.0,1.0
-Yolo County Transportation District,38.56308,-121.53396,51.0,1.0
-Yolo County Transportation District,38.56307,-121.53245,51.0,1.0
-Yolo County Transportation District,38.56308,-121.53073,51.0,1.0
-Yolo County Transportation District,38.5562,-121.53279,51.0,1.0
-Yolo County Transportation District,38.55532,-121.5292,51.0,1.0
-Yolo County Transportation District,38.55099,-121.5312,51.0,1.0
-Yolo County Transportation District,38.54937,-121.52783,51.0,1.0
-Yolo County Transportation District,38.54461,-121.52549,51.0,1.0
-Yolo County Transportation District,38.54667,-121.53197,51.0,1.0
-Yolo County Transportation District,38.54876,-121.53715,51.0,1.0
-Yolo County Transportation District,38.54971,-121.54023,51.0,1.0
-Yolo County Transportation District,38.54641,-121.5433,51.0,1.0
-Yolo County Transportation District,38.53922,-121.54992,51.0,1.0
-Yolo County Transportation District,38.53508,-121.55721,51.0,1.0
-Yolo County Transportation District,38.53509,-121.56254,51.0,1.0
-Yolo County Transportation District,38.53591,-121.57605,51.0,1.0
-Yolo County Transportation District,38.53977,-121.57607,51.0,1.0
-Yolo County Transportation District,38.54498,-121.57011,51.0,1.0
-Yolo County Transportation District,38.54337,-121.56745,51.0,1.0
-Yolo County Transportation District,38.54026,-121.57219,51.0,1.0
-Yolo County Transportation District,38.53833,-121.57262,51.0,1.0
-Yolo County Transportation District,38.53703,-121.56592,51.0,1.0
-Yolo County Transportation District,38.54678,-121.54271,51.0,1.0
-Yolo County Transportation District,38.54991,-121.5398,51.0,1.0
-Yolo County Transportation District,38.54662,-121.53201,51.0,1.0
-Yolo County Transportation District,38.54469,-121.5254,51.0,1.0
-Yolo County Transportation District,38.54712,-121.52406,51.0,1.0
-Yolo County Transportation District,38.54962,-121.52803,51.0,1.0
-Yolo County Transportation District,38.55098,-121.53083,51.0,1.0
-Yolo County Transportation District,38.5554,-121.52916,51.0,1.0
-Yolo County Transportation District,38.56312,-121.53077,51.0,1.0
-Yolo County Transportation District,38.56311,-121.53184,51.0,1.0
-Yolo County Transportation District,38.5631,-121.53465,51.0,1.0
-Yolo County Transportation District,38.56375,-121.53681,51.0,1.0
-Yolo County Transportation District,38.56583,-121.53496,51.0,1.0
-Yolo County Transportation District,38.56952,-121.53163,51.0,1.0
-Yolo County Transportation District,38.57143,-121.53018,51.0,1.0
-Yolo County Transportation District,38.57364,-121.5306,51.0,1.0
-Yolo County Transportation District,38.57769,-121.5306,51.0,1.0
-Yolo County Transportation District,38.57972,-121.5306,51.0,1.0
-Yolo County Transportation District,38.6629,-121.76991,60.0,1.0
-Yolo County Transportation District,38.66293,-121.77515,60.0,1.0
-Yolo County Transportation District,38.66296,-121.77805,60.0,1.0
-Yolo County Transportation District,38.663,-121.785,60.0,1.0
-Yolo County Transportation District,38.66303,-121.78707,60.0,1.0
-Yolo County Transportation District,38.66307,-121.79155,60.0,1.0
-Yolo County Transportation District,38.66419,-121.79337,60.0,1.0
-Yolo County Transportation District,38.66958,-121.79333,60.0,1.0
-Yolo County Transportation District,38.67199,-121.79331,60.0,1.0
-Yolo County Transportation District,38.67571,-121.79328,60.0,1.0
-Yolo County Transportation District,38.67589,-121.79726,58.0,1.0
-Yolo County Transportation District,38.67871,-121.79785,58.0,1.0
-Yolo County Transportation District,38.67892,-121.79359,58.0,1.0
-Yolo County Transportation District,38.68058,-121.7932,60.0,1.0
-Yolo County Transportation District,38.68325,-121.79315,60.0,1.0
-Yolo County Transportation District,38.68478,-121.79315,60.0,1.0
-Yolo County Transportation District,38.68788,-121.79357,58.0,1.0
-Yolo County Transportation District,38.68895,-121.79777,58.0,1.0
-Yolo County Transportation District,38.69212,-121.79757,58.0,1.0
-Yolo County Transportation District,38.69193,-121.79311,58.0,1.0
-Yolo County Transportation District,38.68808,-121.79358,58.0,1.0
-Yolo County Transportation District,38.68476,-121.79006,60.0,1.0
-Yolo County Transportation District,38.68477,-121.78417,60.0,1.0
-Yolo County Transportation District,38.68245,-121.78402,60.0,1.0
-Yolo County Transportation District,38.6799,-121.78405,60.0,1.0
-Yolo County Transportation District,38.6788,-121.7796,58.0,1.0
-Yolo County Transportation District,38.67878,-121.77788,58.0,1.0
-Yolo County Transportation District,38.67875,-121.77421,58.0,1.0
-Yolo County Transportation District,38.67873,-121.77158,58.0,1.0
-Yolo County Transportation District,38.68255,-121.77053,58.0,1.0
-Yolo County Transportation District,38.6844,-121.77053,58.0,1.0
-Yolo County Transportation District,38.68467,-121.76728,58.0,1.0
-Yolo County Transportation District,38.68459,-121.75854,58.0,1.0
-Yolo County Transportation District,38.68108,-121.75622,58.0,1.0
-Yolo County Transportation District,38.66829,-121.75722,145.0,2.0
-Yolo County Transportation District,38.66834,-121.76439,145.0,2.0
-Yolo County Transportation District,38.56079,-121.76447,89.0,2.0
-Yolo County Transportation District,38.55865,-121.75859,87.0,2.0
-Yolo County Transportation District,38.55604,-121.75861,87.0,2.0
-Yolo County Transportation District,38.55222,-121.75871,87.0,2.0
-Yolo County Transportation District,38.54904,-121.75874,87.0,2.0
-Yolo County Transportation District,38.54709,-121.75877,87.0,2.0
-Yolo County Transportation District,38.54617,-121.75388,87.0,2.0
-Yolo County Transportation District,38.54617,-121.74713,84.0,1.0
-Yolo County Transportation District,38.54695,-121.74312,84.0,1.0
-Yolo County Transportation District,38.54747,-121.74111,84.0,1.0
-Yolo County Transportation District,38.54883,-121.7415,84.0,1.0
-Yolo County Transportation District,38.55147,-121.74207,84.0,1.0
-Yolo County Transportation District,38.55521,-121.74276,84.0,1.0
-Yolo County Transportation District,38.55721,-121.74345,84.0,1.0
-Yolo County Transportation District,38.56011,-121.74483,84.0,1.0
-Yolo County Transportation District,38.56053,-121.73808,84.0,1.0
-Yolo County Transportation District,38.56223,-121.73214,84.0,1.0
-Yolo County Transportation District,38.56336,-121.71792,82.0,1.0
-Yolo County Transportation District,38.56242,-121.70956,84.0,1.0
-Yolo County Transportation District,38.56004,-121.70894,84.0,1.0
-Yolo County Transportation District,38.55789,-121.70412,84.0,1.0
-Yolo County Transportation District,38.55792,-121.69998,84.0,1.0
-Yolo County Transportation District,38.55869,-121.69674,84.0,1.0
-Yolo County Transportation District,38.55773,-121.69425,84.0,1.0
-Yolo County Transportation District,38.54973,-121.69444,82.0,1.0
-Yolo County Transportation District,38.54876,-121.69378,77.0,1.0
-Yolo County Transportation District,38.54884,-121.69024,77.0,1.0
-Yolo County Transportation District,38.551,-121.69098,77.0,1.0
-Yolo County Transportation District,38.55104,-121.69328,77.0,1.0
-Yolo County Transportation District,38.57535,-121.57613,81.0,1.0
-Yolo County Transportation District,38.57676,-121.57173,81.0,1.0
-Yolo County Transportation District,38.57812,-121.56707,81.0,1.0
-Yolo County Transportation District,38.57845,-121.56217,81.0,1.0
-Yolo County Transportation District,38.57888,-121.55522,81.0,1.0
-Yolo County Transportation District,38.57386,-121.74746,4.0,1.0
-Yolo County Transportation District,38.56931,-121.74742,2.0,1.0
-Yolo County Transportation District,38.56841,-121.75101,2.0,1.0
-Yolo County Transportation District,38.56712,-121.7544,2.0,1.0
-Yolo County Transportation District,38.56812,-121.75768,2.0,1.0
-Yolo County Transportation District,38.567,-121.7584,2.0,1.0
-Yolo County Transportation District,38.56261,-121.75848,2.0,1.0
-Yolo County Transportation District,38.561,-121.7708,2.0,1.0
-Yolo County Transportation District,38.56091,-121.77309,2.0,1.0
-Yolo County Transportation District,38.56051,-121.7862,2.0,1.0
-Yolo County Transportation District,38.55747,-121.7866,2.0,1.0
-Yolo County Transportation District,38.55507,-121.78686,2.0,1.0
-Yolo County Transportation District,38.55375,-121.78447,2.0,1.0
-Yolo County Transportation District,38.55351,-121.7813,2.0,1.0
-Yolo County Transportation District,38.55062,-121.77825,2.0,1.0
-Yolo County Transportation District,38.54915,-121.77611,2.0,1.0
-Yolo County Transportation District,38.54747,-121.77322,2.0,1.0
-Yolo County Transportation District,38.54774,-121.77058,2.0,1.0
-Yolo County Transportation District,38.53921,-121.75384,30.0,1.0
-Yolo County Transportation District,38.5351,-121.76438,30.0,1.0
-Yolo County Transportation District,38.53446,-121.74844,30.0,1.0
-Yolo County Transportation District,38.58968,-121.52797,24.0,1.0
-Yolo County Transportation District,38.59025,-121.53361,24.0,1.0
-Yolo County Transportation District,38.59056,-121.53653,24.0,1.0
-Yolo County Transportation District,38.59137,-121.53994,24.0,1.0
-Yolo County Transportation District,38.59211,-121.54114,24.0,1.0
-Yolo County Transportation District,38.59459,-121.54231,24.0,1.0
-Yolo County Transportation District,38.59555,-121.53898,24.0,1.0
-Yolo County Transportation District,38.59417,-121.53766,24.0,1.0
-Yolo County Transportation District,38.59513,-121.5341,24.0,1.0
-Yolo County Transportation District,38.59627,-121.52958,24.0,1.0
-Yolo County Transportation District,38.59425,-121.52583,24.0,1.0
-Yolo County Transportation District,38.59402,-121.52287,24.0,1.0
-Yolo County Transportation District,38.5938,-121.5211,24.0,1.0
-Yolo County Transportation District,38.59446,-121.51955,24.0,1.0
-Yolo County Transportation District,38.59548,-121.51912,24.0,1.0
-Yolo County Transportation District,38.59525,-121.51507,24.0,1.0
-Yolo County Transportation District,38.67795,-121.79323,2.0,1.0
-Yolo County Transportation District,38.57725,-121.54873,4.0,1.0
-Yolo County Transportation District,38.57172,-121.54865,4.0,1.0
-Yolo County Transportation District,38.56993,-121.55023,4.0,1.0
-Yolo County Transportation District,38.57291,-121.55484,4.0,1.0
-Yolo County Transportation District,38.57368,-121.56396,4.0,1.0
-Yolo County Transportation District,38.57163,-121.56508,4.0,1.0
-Yolo County Transportation District,38.56829,-121.56424,4.0,1.0
-Yolo County Transportation District,38.56627,-121.56678,4.0,1.0
-Yolo County Transportation District,38.56453,-121.57281,4.0,1.0
-Yolo County Transportation District,38.56507,-121.57834,4.0,1.0
-Yolo County Transportation District,38.57049,-121.57844,4.0,1.0
-Yolo County Transportation District,38.55949,-121.7302,2.0,1.0
-Yolo County Transportation District,38.55756,-121.72652,2.0,1.0
-Yolo County Transportation District,38.55767,-121.7227,2.0,1.0
-Yolo County Transportation District,38.5581,-121.71729,2.0,1.0
-Yolo County Transportation District,38.5605,-121.71753,2.0,1.0
-Yolo County Transportation District,38.56186,-121.71723,2.0,1.0
-Yolo County Transportation District,38.56347,-121.71454,2.0,1.0
-Yolo County Transportation District,38.5733,-121.74724,4.0,1.0
-Yolo County Transportation District,38.56269,-121.71447,3.0,1.0
-Yolo County Transportation District,38.56193,-121.71678,3.0,1.0
-Yolo County Transportation District,38.56001,-121.71751,3.0,1.0
-Yolo County Transportation District,38.55782,-121.71772,3.0,1.0
-Yolo County Transportation District,38.5578,-121.72064,3.0,1.0
-Yolo County Transportation District,38.5577,-121.72275,3.0,1.0
-Yolo County Transportation District,38.55754,-121.7272,3.0,1.0
-Yolo County Transportation District,38.55978,-121.73049,3.0,1.0
-Yolo County Transportation District,38.56202,-121.73111,3.0,1.0
-Yolo County Transportation District,38.68012,-121.784,3.0,1.0
-Yolo County Transportation District,38.68278,-121.78397,3.0,1.0
-Yolo County Transportation District,38.68479,-121.78443,3.0,1.0
-Yolo County Transportation District,38.68479,-121.7899,3.0,1.0
-Yolo County Transportation District,38.68457,-121.79319,3.0,1.0
-Yolo County Transportation District,38.68317,-121.79319,3.0,1.0
-Yolo County Transportation District,38.68029,-121.79324,3.0,1.0
-Yolo County Transportation District,38.67792,-121.79327,3.0,1.0
-Yolo County Transportation District,38.67568,-121.79333,3.0,1.0
-Yolo County Transportation District,38.67193,-121.79336,3.0,1.0
-Yolo County Transportation District,38.66898,-121.79337,3.0,1.0
-Yolo County Transportation District,38.66421,-121.7934,3.0,1.0
-Yolo County Transportation District,38.66303,-121.7909,3.0,1.0
-Yolo County Transportation District,38.66299,-121.78676,3.0,1.0
-Yolo County Transportation District,38.66296,-121.78433,3.0,1.0
-Yolo County Transportation District,38.66293,-121.77841,3.0,1.0
-Yolo County Transportation District,38.66291,-121.77527,3.0,1.0
-Yolo County Transportation District,38.54696,-121.77055,2.0,1.0
-Yolo County Transportation District,38.54749,-121.77332,2.0,1.0
-Yolo County Transportation District,38.54836,-121.77536,2.0,1.0
-Yolo County Transportation District,38.55062,-121.77894,2.0,1.0
-Yolo County Transportation District,38.55372,-121.78197,2.0,1.0
-Yolo County Transportation District,38.5552,-121.78725,2.0,1.0
-Yolo County Transportation District,38.55735,-121.78662,2.0,1.0
-Yolo County Transportation District,38.56029,-121.78617,2.0,1.0
-Yolo County Transportation District,38.56096,-121.77839,2.0,1.0
-Yolo County Transportation District,38.56083,-121.77196,2.0,1.0
-Yolo County Transportation District,38.56285,-121.75845,2.0,1.0
-Yolo County Transportation District,38.56756,-121.75835,2.0,1.0
-Yolo County Transportation District,38.56714,-121.75412,2.0,1.0
-Yolo County Transportation District,38.56896,-121.74918,2.0,1.0
-Fairfield and Suisun Transit,38.53905,-121.75774,36.0,1.0
-Sacramento Regional Transit,38.53457,-121.74854,30.0,1.0
-Sacramento Regional Transit,38.53498,-121.76445,30.0,1.0
-Sacramento Regional Transit,38.53922,-121.75376,30.0,1.0
+Capitol Corridor Joint Powers Authority,38.54349,-121.73776,40.0,2.0
+Fairfield and Suisun Transit,38.53917,-121.75331,20.0,1.0
+Yolo County Transportation District,38.67793,-121.75294,145.0,2.0
+Yolo County Transportation District,38.65989,-121.76403,602.0,4.0
+Yolo County Transportation District,38.53921,-121.75384,90.0,1.0
+Yolo County Transportation District,38.5351,-121.76438,60.0,1.0
+Yolo County Transportation District,38.53446,-121.74844,60.0,1.0
+Yolo County Transportation District,38.58093,-121.52248,569.0,4.0
+Yolo County Transportation District,38.58087,-121.52594,267.0,2.0
+Yolo County Transportation District,38.58301,-121.52622,101.0,1.0
+Yolo County Transportation District,38.58694,-121.52691,101.0,1.0
+Yolo County Transportation District,38.58968,-121.52797,36.0,1.0
+Yolo County Transportation District,38.59025,-121.53361,36.0,1.0
+Yolo County Transportation District,38.59056,-121.53653,36.0,1.0
+Yolo County Transportation District,38.59154,-121.54393,101.0,1.0
+Yolo County Transportation District,38.59121,-121.54875,101.0,1.0
+Yolo County Transportation District,38.58915,-121.55206,168.0,2.0
+Yolo County Transportation District,38.59169,-121.5483,168.0,2.0
+Yolo County Transportation District,38.59141,-121.54395,101.0,1.0
+Yolo County Transportation District,38.59137,-121.53994,36.0,1.0
+Yolo County Transportation District,38.59211,-121.54114,36.0,1.0
+Yolo County Transportation District,38.59459,-121.54231,36.0,1.0
+Yolo County Transportation District,38.59555,-121.53898,36.0,1.0
+Yolo County Transportation District,38.59417,-121.53766,36.0,1.0
+Yolo County Transportation District,38.59513,-121.5341,36.0,1.0
+Yolo County Transportation District,38.59627,-121.52958,36.0,1.0
+Yolo County Transportation District,38.59425,-121.52583,36.0,1.0
+Yolo County Transportation District,38.59402,-121.52287,36.0,1.0
+Yolo County Transportation District,38.5938,-121.5211,36.0,1.0
+Yolo County Transportation District,38.59446,-121.51955,36.0,1.0
+Yolo County Transportation District,38.59548,-121.51912,36.0,1.0
+Yolo County Transportation District,38.59525,-121.51507,36.0,1.0
+Yolo County Transportation District,38.59083,-121.51383,101.0,1.0
+Yolo County Transportation District,38.58918,-121.52381,101.0,1.0
+Yolo County Transportation District,38.58707,-121.52699,101.0,1.0
+Yolo County Transportation District,38.58245,-121.52651,101.0,1.0
+Yolo County Transportation District,38.58066,-121.52622,329.0,3.0
+Yolo County Transportation District,38.5815,-121.52253,329.0,3.0
+Yolo County Transportation District,38.58177,-121.51863,267.0,2.0
+Yolo County Transportation District,38.58114,-121.51767,267.0,2.0
+Yolo County Transportation District,38.58189,-121.51395,267.0,2.0
+Yolo County Transportation District,38.5819,-121.51846,267.0,2.0
+Yolo County Transportation District,38.58043,-121.5308,166.0,2.0
+Yolo County Transportation District,38.5802,-121.53469,166.0,2.0
+Yolo County Transportation District,38.57987,-121.53942,166.0,2.0
+Yolo County Transportation District,38.5797,-121.54209,166.0,2.0
+Yolo County Transportation District,38.5795,-121.54565,166.0,2.0
+Yolo County Transportation District,38.57939,-121.54737,166.0,2.0
+Yolo County Transportation District,38.5805,-121.5486,67.0,1.0
+Yolo County Transportation District,38.58484,-121.54714,67.0,1.0
+Yolo County Transportation District,38.58922,-121.54653,67.0,1.0
+Yolo County Transportation District,38.58911,-121.54991,67.0,1.0
+Yolo County Transportation District,38.59202,-121.55123,67.0,1.0
+Yolo County Transportation District,38.59149,-121.55577,67.0,1.0
+Yolo County Transportation District,38.58857,-121.558,67.0,1.0
+Yolo County Transportation District,38.5858,-121.56297,67.0,1.0
+Yolo County Transportation District,38.5866,-121.56633,67.0,1.0
+Yolo County Transportation District,38.58957,-121.56623,67.0,1.0
+Yolo County Transportation District,38.59083,-121.56403,67.0,1.0
+Yolo County Transportation District,38.59227,-121.55703,67.0,1.0
+Yolo County Transportation District,38.5886,-121.54611,67.0,1.0
+Yolo County Transportation District,38.58452,-121.54732,67.0,1.0
+Yolo County Transportation District,38.58099,-121.54849,67.0,1.0
+Yolo County Transportation District,38.57924,-121.54766,166.0,2.0
+Yolo County Transportation District,38.57939,-121.54512,166.0,2.0
+Yolo County Transportation District,38.57969,-121.53994,166.0,2.0
+Yolo County Transportation District,38.57983,-121.53752,166.0,2.0
+Yolo County Transportation District,38.58008,-121.53371,166.0,2.0
+Yolo County Transportation District,38.58022,-121.53094,166.0,2.0
+Yolo County Transportation District,38.58159,-121.51193,231.0,2.0
+Yolo County Transportation District,38.57889,-121.55566,93.0,1.0
+Yolo County Transportation District,38.57849,-121.56191,93.0,1.0
+Yolo County Transportation District,38.5782,-121.56671,93.0,1.0
+Yolo County Transportation District,38.57696,-121.57123,93.0,1.0
+Yolo County Transportation District,38.57536,-121.57618,93.0,1.0
+Yolo County Transportation District,38.55082,-121.69363,149.0,2.0
+Yolo County Transportation District,38.55096,-121.69098,207.0,2.0
+Yolo County Transportation District,38.54898,-121.68991,151.0,2.0
+Yolo County Transportation District,38.54875,-121.69308,151.0,2.0
+Yolo County Transportation District,38.55641,-121.69406,151.0,2.0
+Yolo County Transportation District,38.55807,-121.699,151.0,2.0
+Yolo County Transportation District,38.55801,-121.70286,151.0,2.0
+Yolo County Transportation District,38.55816,-121.70563,93.0,1.0
+Yolo County Transportation District,38.56041,-121.70897,93.0,1.0
+Yolo County Transportation District,38.5636,-121.7094,93.0,1.0
+Yolo County Transportation District,38.56345,-121.71849,93.0,1.0
+Yolo County Transportation District,38.56259,-121.73002,93.0,1.0
+Yolo County Transportation District,38.56069,-121.73841,93.0,1.0
+Yolo County Transportation District,38.56016,-121.74487,93.0,1.0
+Yolo County Transportation District,38.55723,-121.74351,93.0,1.0
+Yolo County Transportation District,38.5538,-121.74251,93.0,1.0
+Yolo County Transportation District,38.55157,-121.74214,93.0,1.0
+Yolo County Transportation District,38.54839,-121.74142,93.0,1.0
+Yolo County Transportation District,38.54694,-121.74336,93.0,1.0
+Yolo County Transportation District,38.54629,-121.74716,93.0,1.0
+Yolo County Transportation District,38.54396,-121.7498,200.0,2.0
+Yolo County Transportation District,38.5463,-121.75384,93.0,1.0
+Yolo County Transportation District,38.54718,-121.75874,93.0,1.0
+Yolo County Transportation District,38.54918,-121.75869,93.0,1.0
+Yolo County Transportation District,38.5525,-121.75866,93.0,1.0
+Yolo County Transportation District,38.55643,-121.75857,93.0,1.0
+Yolo County Transportation District,38.55941,-121.75854,93.0,1.0
+Yolo County Transportation District,38.56094,-121.76466,93.0,1.0
+Yolo County Transportation District,38.66967,-121.76553,93.0,1.0
+Yolo County Transportation District,38.67219,-121.76552,93.0,1.0
+Yolo County Transportation District,38.67742,-121.76446,165.0,2.0
+Yolo County Transportation District,38.67732,-121.75817,165.0,2.0
+Yolo County Transportation District,38.67725,-121.75108,93.0,1.0
+Yolo County Transportation District,38.6773,-121.75237,171.0,2.0
+Yolo County Transportation District,38.67668,-121.75618,247.0,2.0
+Yolo County Transportation District,38.67329,-121.75621,247.0,2.0
+Yolo County Transportation District,38.66871,-121.75627,247.0,2.0
+Yolo County Transportation District,38.66829,-121.75722,175.0,2.0
+Yolo County Transportation District,38.66834,-121.76439,175.0,2.0
+Yolo County Transportation District,38.56079,-121.76447,105.0,2.0
+Yolo County Transportation District,38.55865,-121.75859,105.0,2.0
+Yolo County Transportation District,38.55604,-121.75861,105.0,2.0
+Yolo County Transportation District,38.55222,-121.75871,105.0,2.0
+Yolo County Transportation District,38.54904,-121.75874,105.0,2.0
+Yolo County Transportation District,38.54709,-121.75877,105.0,2.0
+Yolo County Transportation District,38.54617,-121.75388,105.0,2.0
+Yolo County Transportation District,38.54617,-121.74713,99.0,1.0
+Yolo County Transportation District,38.54695,-121.74312,99.0,1.0
+Yolo County Transportation District,38.54747,-121.74111,99.0,1.0
+Yolo County Transportation District,38.54883,-121.7415,99.0,1.0
+Yolo County Transportation District,38.55147,-121.74207,99.0,1.0
+Yolo County Transportation District,38.55521,-121.74276,99.0,1.0
+Yolo County Transportation District,38.55721,-121.74345,99.0,1.0
+Yolo County Transportation District,38.56011,-121.74483,99.0,1.0
+Yolo County Transportation District,38.56053,-121.73808,99.0,1.0
+Yolo County Transportation District,38.56223,-121.73214,99.0,1.0
+Yolo County Transportation District,38.56336,-121.71792,99.0,1.0
+Yolo County Transportation District,38.56242,-121.70956,99.0,1.0
+Yolo County Transportation District,38.56004,-121.70894,99.0,1.0
+Yolo County Transportation District,38.55789,-121.70412,155.0,2.0
+Yolo County Transportation District,38.55792,-121.69998,155.0,2.0
+Yolo County Transportation District,38.55869,-121.69674,99.0,1.0
+Yolo County Transportation District,38.55773,-121.69425,155.0,2.0
+Yolo County Transportation District,38.54973,-121.69444,99.0,1.0
+Yolo County Transportation District,38.54876,-121.69378,93.0,1.0
+Yolo County Transportation District,38.54884,-121.69024,93.0,1.0
+Yolo County Transportation District,38.551,-121.69098,93.0,1.0
+Yolo County Transportation District,38.55104,-121.69328,93.0,1.0
+Yolo County Transportation District,38.57535,-121.57613,99.0,1.0
+Yolo County Transportation District,38.57676,-121.57173,99.0,1.0
+Yolo County Transportation District,38.57812,-121.56707,99.0,1.0
+Yolo County Transportation District,38.57845,-121.56217,99.0,1.0
+Yolo County Transportation District,38.57888,-121.55522,99.0,1.0
+Yolo County Transportation District,38.6629,-121.76991,70.0,1.0
+Yolo County Transportation District,38.66293,-121.77515,70.0,1.0
+Yolo County Transportation District,38.66296,-121.77805,70.0,1.0
+Yolo County Transportation District,38.663,-121.785,70.0,1.0
+Yolo County Transportation District,38.66303,-121.78707,70.0,1.0
+Yolo County Transportation District,38.66307,-121.79155,70.0,1.0
+Yolo County Transportation District,38.66419,-121.79337,70.0,1.0
+Yolo County Transportation District,38.66958,-121.79333,70.0,1.0
+Yolo County Transportation District,38.67199,-121.79331,70.0,1.0
+Yolo County Transportation District,38.67571,-121.79328,70.0,1.0
+Yolo County Transportation District,38.67589,-121.79726,70.0,1.0
+Yolo County Transportation District,38.67554,-121.80132,142.0,2.0
+Yolo County Transportation District,38.67871,-121.79785,70.0,1.0
+Yolo County Transportation District,38.67892,-121.79359,70.0,1.0
+Yolo County Transportation District,38.68058,-121.7932,70.0,1.0
+Yolo County Transportation District,38.68325,-121.79315,70.0,1.0
+Yolo County Transportation District,38.68478,-121.79315,70.0,1.0
+Yolo County Transportation District,38.68788,-121.79357,70.0,1.0
+Yolo County Transportation District,38.68895,-121.79777,70.0,1.0
+Yolo County Transportation District,38.69212,-121.79757,70.0,1.0
+Yolo County Transportation District,38.69193,-121.79311,70.0,1.0
+Yolo County Transportation District,38.68808,-121.79358,70.0,1.0
+Yolo County Transportation District,38.68476,-121.79006,70.0,1.0
+Yolo County Transportation District,38.68477,-121.78417,70.0,1.0
+Yolo County Transportation District,38.68245,-121.78402,70.0,1.0
+Yolo County Transportation District,38.6799,-121.78405,70.0,1.0
+Yolo County Transportation District,38.6788,-121.7796,70.0,1.0
+Yolo County Transportation District,38.67878,-121.77788,70.0,1.0
+Yolo County Transportation District,38.67875,-121.77421,70.0,1.0
+Yolo County Transportation District,38.67873,-121.77158,70.0,1.0
+Yolo County Transportation District,38.68255,-121.77053,70.0,1.0
+Yolo County Transportation District,38.6844,-121.77053,70.0,1.0
+Yolo County Transportation District,38.68467,-121.76728,70.0,1.0
+Yolo County Transportation District,38.68459,-121.75854,70.0,1.0
+Yolo County Transportation District,38.68108,-121.75622,70.0,1.0
+Yolo County Transportation District,38.6538,-121.76495,136.0,2.0
+Yolo County Transportation District,38.66279,-121.76151,138.0,2.0
+Yolo County Transportation District,38.66278,-121.75867,138.0,2.0
+Yolo County Transportation District,38.66331,-121.75645,72.0,1.0
+Yolo County Transportation District,38.66797,-121.75624,72.0,1.0
+Yolo County Transportation District,38.67366,-121.75616,72.0,1.0
+Yolo County Transportation District,38.67599,-121.75614,72.0,1.0
+Yolo County Transportation District,38.67743,-121.76798,72.0,1.0
+Yolo County Transportation District,38.67751,-121.78013,72.0,1.0
+Yolo County Transportation District,38.6776,-121.79142,72.0,1.0
+Yolo County Transportation District,38.67673,-121.7979,72.0,1.0
+Yolo County Transportation District,38.67907,-121.96847,144.0,2.0
+Yolo County Transportation District,38.69277,-122.01672,72.0,1.0
+Yolo County Transportation District,38.70722,-122.04764,72.0,1.0
+Yolo County Transportation District,38.73613,-122.14212,144.0,2.0
+Yolo County Transportation District,38.57911,-121.52868,62.0,1.0
+Yolo County Transportation District,38.57733,-121.53065,62.0,1.0
+Yolo County Transportation District,38.5728,-121.53065,62.0,1.0
+Yolo County Transportation District,38.57113,-121.53022,62.0,1.0
+Yolo County Transportation District,38.56935,-121.53184,62.0,1.0
+Yolo County Transportation District,38.56804,-121.53304,62.0,1.0
+Yolo County Transportation District,38.56697,-121.53397,62.0,1.0
+Yolo County Transportation District,38.56573,-121.53509,62.0,1.0
+Yolo County Transportation District,38.56383,-121.5368,62.0,1.0
+Yolo County Transportation District,38.56308,-121.53396,62.0,1.0
+Yolo County Transportation District,38.56307,-121.53245,62.0,1.0
+Yolo County Transportation District,38.56308,-121.53073,62.0,1.0
+Yolo County Transportation District,38.5562,-121.53279,62.0,1.0
+Yolo County Transportation District,38.55532,-121.5292,62.0,1.0
+Yolo County Transportation District,38.55099,-121.5312,62.0,1.0
+Yolo County Transportation District,38.54937,-121.52783,62.0,1.0
+Yolo County Transportation District,38.54461,-121.52549,62.0,1.0
+Yolo County Transportation District,38.54667,-121.53197,62.0,1.0
+Yolo County Transportation District,38.54876,-121.53715,62.0,1.0
+Yolo County Transportation District,38.54971,-121.54023,62.0,1.0
+Yolo County Transportation District,38.54641,-121.5433,62.0,1.0
+Yolo County Transportation District,38.53922,-121.54992,62.0,1.0
+Yolo County Transportation District,38.53508,-121.55721,62.0,1.0
+Yolo County Transportation District,38.53509,-121.56254,62.0,1.0
+Yolo County Transportation District,38.53591,-121.57605,62.0,1.0
+Yolo County Transportation District,38.53977,-121.57607,62.0,1.0
+Yolo County Transportation District,38.54498,-121.57011,62.0,1.0
+Yolo County Transportation District,38.54337,-121.56745,62.0,1.0
+Yolo County Transportation District,38.54026,-121.57219,62.0,1.0
+Yolo County Transportation District,38.53833,-121.57262,62.0,1.0
+Yolo County Transportation District,38.53703,-121.56592,62.0,1.0
+Yolo County Transportation District,38.54678,-121.54271,62.0,1.0
+Yolo County Transportation District,38.54991,-121.5398,62.0,1.0
+Yolo County Transportation District,38.54662,-121.53201,62.0,1.0
+Yolo County Transportation District,38.54469,-121.5254,62.0,1.0
+Yolo County Transportation District,38.54712,-121.52406,62.0,1.0
+Yolo County Transportation District,38.54962,-121.52803,62.0,1.0
+Yolo County Transportation District,38.55098,-121.53083,62.0,1.0
+Yolo County Transportation District,38.5554,-121.52916,62.0,1.0
+Yolo County Transportation District,38.56312,-121.53077,62.0,1.0
+Yolo County Transportation District,38.56311,-121.53184,62.0,1.0
+Yolo County Transportation District,38.5631,-121.53465,62.0,1.0
+Yolo County Transportation District,38.56375,-121.53681,62.0,1.0
+Yolo County Transportation District,38.56583,-121.53496,62.0,1.0
+Yolo County Transportation District,38.56952,-121.53163,62.0,1.0
+Yolo County Transportation District,38.57143,-121.53018,62.0,1.0
+Yolo County Transportation District,38.57364,-121.5306,62.0,1.0
+Yolo County Transportation District,38.57769,-121.5306,62.0,1.0
+Yolo County Transportation District,38.57972,-121.5306,62.0,1.0
+Yolo County Transportation District,38.70734,-122.0486,72.0,1.0
+Yolo County Transportation District,38.69296,-122.01673,72.0,1.0
+Yolo County Transportation District,38.67525,-121.80184,72.0,1.0
+Yolo County Transportation District,38.67677,-121.79785,72.0,1.0
+Yolo County Transportation District,38.67758,-121.7919,72.0,1.0
+Yolo County Transportation District,38.67748,-121.781,72.0,1.0
+Yolo County Transportation District,38.67747,-121.776,72.0,1.0
+Yolo County Transportation District,38.6774,-121.76743,72.0,1.0
+Yolo County Transportation District,38.66404,-121.75648,72.0,1.0
+Yolo County Transportation District,38.66283,-121.75947,72.0,1.0
+Yolo County Transportation District,38.66282,-121.76194,72.0,1.0
+Yolo County Transportation District,38.65989,-121.76481,72.0,1.0
+Yolo County Transportation District,38.58906,-121.51265,65.0,1.0
+Yolo County Transportation District,38.59334,-121.51692,65.0,1.0
+Yolo County Transportation District,38.59388,-121.52151,65.0,1.0
+Yolo County Transportation District,38.59412,-121.52347,65.0,1.0
+Yolo County Transportation District,38.59427,-121.52592,65.0,1.0
+Yolo County Transportation District,38.5963,-121.52964,65.0,1.0
+Yolo County Transportation District,38.59533,-121.53349,65.0,1.0
+Yolo County Transportation District,38.59429,-121.53736,65.0,1.0
+Yolo County Transportation District,38.59556,-121.5388,65.0,1.0
+Yolo County Transportation District,38.59471,-121.54222,65.0,1.0
+Yolo County Transportation District,38.59235,-121.54135,65.0,1.0
+Yolo County Transportation District,38.59136,-121.54,65.0,1.0
+Yolo County Transportation District,38.59061,-121.53711,65.0,1.0
+Yolo County Transportation District,38.59022,-121.53358,65.0,1.0
+Yolo County Transportation District,38.58957,-121.52737,65.0,1.0
+Yolo County Transportation District,38.54926,-121.69438,58.0,1.0
+Yolo County Transportation District,38.55867,-121.69717,58.0,1.0
+Yolo County Transportation District,38.55689,-121.70536,58.0,1.0
+Yolo County Transportation District,38.55479,-121.70931,58.0,1.0
+Yolo County Transportation District,38.5533,-121.71356,58.0,1.0
+Yolo County Transportation District,38.55255,-121.71649,58.0,1.0
+Yolo County Transportation District,38.55144,-121.72133,58.0,1.0
+Yolo County Transportation District,38.5491,-121.72489,58.0,1.0
+Yolo County Transportation District,38.54872,-121.72776,58.0,1.0
+Yolo County Transportation District,38.54875,-121.73079,58.0,1.0
+Yolo County Transportation District,38.54774,-121.73429,58.0,1.0
+Yolo County Transportation District,38.54567,-121.73508,58.0,1.0
+Yolo County Transportation District,38.54393,-121.73814,58.0,1.0
+Yolo County Transportation District,38.54329,-121.74092,58.0,1.0
+Yolo County Transportation District,38.54192,-121.74299,58.0,1.0
+Yolo County Transportation District,38.54008,-121.74613,88.0,1.0
+Yolo County Transportation District,38.53907,-121.75015,88.0,1.0
+Yolo County Transportation District,38.5393,-121.75372,144.0,2.0
+Yolo County Transportation District,38.53908,-121.75343,56.0,1.0
+Yolo County Transportation District,38.53925,-121.74854,86.0,1.0
+Yolo County Transportation District,38.54006,-121.74608,86.0,1.0
+Yolo County Transportation District,38.54274,-121.74395,56.0,1.0
+Yolo County Transportation District,38.54321,-121.74121,56.0,1.0
+Yolo County Transportation District,38.54399,-121.73811,56.0,1.0
+Yolo County Transportation District,38.54575,-121.73453,56.0,1.0
+Yolo County Transportation District,38.54741,-121.73416,56.0,1.0
+Yolo County Transportation District,38.54871,-121.72764,56.0,1.0
+Yolo County Transportation District,38.54919,-121.72465,56.0,1.0
+Yolo County Transportation District,38.55189,-121.71909,56.0,1.0
+Yolo County Transportation District,38.55274,-121.71541,56.0,1.0
+Yolo County Transportation District,38.55346,-121.71248,56.0,1.0
+Yolo County Transportation District,38.55462,-121.70978,56.0,1.0
+Yolo County Transportation District,38.55646,-121.70538,56.0,1.0
+Yolo County Transportation District,38.67806,-121.75289,74.0,1.0
+Yolo County Transportation District,38.66265,-121.74134,66.0,1.0
+Yolo County Transportation District,38.66109,-121.73556,66.0,1.0
+Yolo County Transportation District,38.66434,-121.73562,66.0,1.0
+Yolo County Transportation District,38.66588,-121.73166,66.0,1.0
+Yolo County Transportation District,38.6687,-121.72993,66.0,1.0
+Yolo County Transportation District,38.66938,-121.72385,66.0,1.0
+Yolo County Transportation District,38.66873,-121.73085,66.0,1.0
+Yolo County Transportation District,38.66782,-121.73309,66.0,1.0
+Yolo County Transportation District,38.6697,-121.73505,66.0,1.0
+Yolo County Transportation District,38.66897,-121.73899,66.0,1.0
+Yolo County Transportation District,38.66972,-121.74218,66.0,1.0
+Yolo County Transportation District,38.67334,-121.74538,66.0,1.0
+Yolo County Transportation District,38.67716,-121.7409,66.0,1.0
+Yolo County Transportation District,38.68129,-121.75618,66.0,1.0
+Yolo County Transportation District,38.68462,-121.75807,66.0,1.0
+Yolo County Transportation District,38.6847,-121.76734,66.0,1.0
+Yolo County Transportation District,38.68423,-121.77058,66.0,1.0
+Yolo County Transportation District,38.68223,-121.77057,66.0,1.0
+Yolo County Transportation District,38.67875,-121.77134,66.0,1.0
+Yolo County Transportation District,38.67878,-121.77517,66.0,1.0
+Yolo County Transportation District,38.6788,-121.77794,66.0,1.0
+Yolo County Transportation District,38.67884,-121.77957,66.0,1.0
+Yolo County Transportation District,38.67313,-121.78411,66.0,1.0
+Yolo County Transportation District,38.67202,-121.77596,66.0,1.0
+Yolo County Transportation District,38.66774,-121.77484,66.0,1.0
+Yolo County Transportation District,38.66285,-121.76936,66.0,1.0
+Yolo County Transportation District,38.57725,-121.54873,6.0,1.0
+Yolo County Transportation District,38.57172,-121.54865,6.0,1.0
+Yolo County Transportation District,38.56993,-121.55023,6.0,1.0
+Yolo County Transportation District,38.57291,-121.55484,6.0,1.0
+Yolo County Transportation District,38.57368,-121.56396,6.0,1.0
+Yolo County Transportation District,38.57163,-121.56508,6.0,1.0
+Yolo County Transportation District,38.56829,-121.56424,6.0,1.0
+Yolo County Transportation District,38.56627,-121.56678,6.0,1.0
+Yolo County Transportation District,38.56453,-121.57281,6.0,1.0
+Yolo County Transportation District,38.56507,-121.57834,6.0,1.0
+Yolo County Transportation District,38.57049,-121.57844,6.0,1.0
+Yolo County Transportation District,38.57032,-121.72918,60.0,1.0
+Yolo County Transportation District,38.56863,-121.72653,30.0,1.0
+Yolo County Transportation District,38.56507,-121.7234,30.0,1.0
+Yolo County Transportation District,38.56447,-121.71921,30.0,1.0
+Yolo County Transportation District,38.56269,-121.71447,30.0,1.0
+Yolo County Transportation District,38.56193,-121.71678,30.0,1.0
+Yolo County Transportation District,38.55824,-121.71732,30.0,1.0
+Yolo County Transportation District,38.5578,-121.72064,30.0,1.0
+Yolo County Transportation District,38.5577,-121.72275,30.0,1.0
+Yolo County Transportation District,38.55754,-121.7272,30.0,1.0
+Yolo County Transportation District,38.55519,-121.72737,30.0,1.0
+Yolo County Transportation District,38.55335,-121.72763,30.0,1.0
+Yolo County Transportation District,38.55343,-121.73131,30.0,1.0
+Yolo County Transportation District,38.55261,-121.73541,30.0,1.0
+Yolo County Transportation District,38.55182,-121.73901,30.0,1.0
+Yolo County Transportation District,38.55154,-121.74124,30.0,1.0
+Yolo County Transportation District,38.55094,-121.7447,30.0,1.0
+Yolo County Transportation District,38.54893,-121.74605,30.0,1.0
+Yolo County Transportation District,38.54506,-121.74506,30.0,1.0
+Yolo County Transportation District,38.54499,-121.74501,30.0,1.0
+Yolo County Transportation District,38.54698,-121.74557,30.0,1.0
+Yolo County Transportation District,38.54964,-121.74617,30.0,1.0
+Yolo County Transportation District,38.55103,-121.74404,30.0,1.0
+Yolo County Transportation District,38.55151,-121.74129,30.0,1.0
+Yolo County Transportation District,38.55179,-121.73891,30.0,1.0
+Yolo County Transportation District,38.55289,-121.73442,30.0,1.0
+Yolo County Transportation District,38.5534,-121.73035,30.0,1.0
+Yolo County Transportation District,38.55394,-121.72736,30.0,1.0
+Yolo County Transportation District,38.55616,-121.72742,30.0,1.0
+Yolo County Transportation District,38.55978,-121.73049,30.0,1.0
+Yolo County Transportation District,38.56145,-121.73116,30.0,1.0
+Yolo County Transportation District,38.56202,-121.73111,30.0,1.0
+Yolo County Transportation District,38.56435,-121.73099,30.0,1.0
+Unitrans,38.54003,-121.74605,151.0,1.0
+Unitrans,38.54016,-121.74614,155.0,1.0
+Unitrans,38.54152,-121.74254,159.0,2.0
+Unitrans,38.54182,-121.74205,161.0,2.0
+Unitrans,38.54064,-121.73854,159.0,2.0
+Unitrans,38.54266,-121.74391,116.0,1.0
+Unitrans,38.54191,-121.74309,58.0,1.0
+Unitrans,38.54314,-121.74119,116.0,1.0
+Unitrans,38.54333,-121.74093,118.0,1.0
+Unitrans,38.54839,-121.74145,58.0,1.0
+Unitrans,38.54399,-121.73802,116.0,1.0
+Unitrans,38.54394,-121.73824,118.0,1.0
+Unitrans,38.5449,-121.74487,184.0,2.0
+Unitrans,38.54504,-121.74513,184.0,2.0
+Unitrans,38.54421,-121.74391,0.0,0.0
+Unitrans,38.54413,-121.74322,0.0,0.0
+Unitrans,38.54455,-121.74169,0.0,0.0
+Unitrans,38.54451,-121.74114,0.0,0.0
+Unitrans,38.54569,-121.7407,0.0,0.0
+Unitrans,38.5463,-121.74068,0.0,0.0
+Unitrans,38.54638,-121.74687,270.0,2.0
+Unitrans,38.547,-121.74544,58.0,1.0
+Unitrans,38.54893,-121.74617,58.0,1.0
+Unitrans,38.54965,-121.74606,58.0,1.0
+Unitrans,38.54689,-121.74298,174.0,2.0
+Unitrans,38.54695,-121.74358,174.0,2.0
+Unitrans,38.5488,-121.74143,58.0,1.0
+Unitrans,38.5474,-121.73961,116.0,1.0
+Unitrans,38.54793,-121.7379,116.0,1.0
+Unitrans,38.54575,-121.73509,118.0,1.0
+Unitrans,38.54564,-121.7345,116.0,1.0
+Unitrans,38.54774,-121.73434,118.0,1.0
+Unitrans,38.54742,-121.73405,106.0,1.0
+Unitrans,38.54012,-121.73021,161.0,2.0
+Unitrans,38.53984,-121.73081,253.0,2.0
+Unitrans,38.54004,-121.72754,161.0,2.0
+Unitrans,38.53974,-121.72685,65.0,1.0
+Unitrans,38.54012,-121.72509,161.0,2.0
+Unitrans,38.54259,-121.72519,116.0,1.0
+Unitrans,38.54221,-121.72438,116.0,1.0
+Unitrans,38.54023,-121.72398,65.0,1.0
+Unitrans,38.54136,-121.72072,124.0,1.0
+Unitrans,38.54178,-121.71758,124.0,1.0
+Unitrans,38.54324,-121.72253,153.0,1.0
+Unitrans,38.54371,-121.71357,124.0,1.0
+Unitrans,38.54713,-121.71337,124.0,1.0
+Unitrans,38.54735,-121.71263,116.0,1.0
+Unitrans,38.5474,-121.70609,124.0,1.0
+Unitrans,38.54769,-121.70656,124.0,1.0
+Unitrans,38.54823,-121.70305,116.0,1.0
+Unitrans,38.54807,-121.70273,124.0,1.0
+Unitrans,38.54803,-121.69994,124.0,1.0
+Unitrans,38.54776,-121.69978,124.0,1.0
+Unitrans,38.54792,-121.69672,124.0,1.0
+Unitrans,38.54842,-121.69624,124.0,1.0
+Unitrans,38.54974,-121.69457,116.0,1.0
+Unitrans,38.54928,-121.69425,174.0,2.0
+Unitrans,38.55077,-121.69348,64.0,1.0
+Unitrans,38.55088,-121.69103,114.0,1.0
+Unitrans,38.54896,-121.69009,66.0,1.0
+Unitrans,38.54884,-121.69258,66.0,1.0
+Unitrans,38.55873,-121.69722,58.0,1.0
+Unitrans,38.55854,-121.69698,124.0,1.0
+Unitrans,38.55781,-121.7043,124.0,1.0
+Unitrans,38.55689,-121.70536,58.0,1.0
+Unitrans,38.55483,-121.70932,58.0,1.0
+Unitrans,38.5546,-121.70978,116.0,1.0
+Unitrans,38.55263,-121.71651,118.0,1.0
+Unitrans,38.55153,-121.72136,118.0,1.0
+Unitrans,38.55178,-121.71904,116.0,1.0
+Unitrans,38.54923,-121.72498,118.0,1.0
+Unitrans,38.54908,-121.72454,116.0,1.0
+Unitrans,38.54856,-121.72763,222.0,2.0
+Unitrans,38.54883,-121.72778,224.0,2.0
+Unitrans,38.5489,-121.7308,224.0,2.0
+Unitrans,38.56407,-121.70887,116.0,1.0
+Unitrans,38.56267,-121.7146,58.0,1.0
+Unitrans,38.56198,-121.7172,58.0,1.0
+Unitrans,38.55824,-121.71741,58.0,1.0
+Unitrans,38.5576,-121.72734,58.0,1.0
+Unitrans,38.55777,-121.723,58.0,1.0
+Unitrans,38.5579,-121.72031,58.0,1.0
+Unitrans,38.56145,-121.73099,58.0,1.0
+Unitrans,38.55396,-121.72726,58.0,1.0
+Unitrans,38.56216,-121.73199,116.0,1.0
+Unitrans,38.56074,-121.73906,116.0,1.0
+Unitrans,38.56046,-121.73793,116.0,1.0
+Unitrans,38.55976,-121.73871,66.0,1.0
+Unitrans,38.55698,-121.74077,66.0,1.0
+Unitrans,38.55437,-121.73991,58.0,1.0
+Unitrans,38.55329,-121.73034,68.0,1.0
+Unitrans,38.55351,-121.73131,68.0,1.0
+Unitrans,38.55267,-121.73544,58.0,1.0
+Unitrans,38.55278,-121.73436,68.0,1.0
+Unitrans,38.56436,-121.73086,58.0,1.0
+Unitrans,38.55192,-121.739,58.0,1.0
+Unitrans,38.5517,-121.73892,58.0,1.0
+Unitrans,38.55963,-121.74467,233.0,2.0
+Unitrans,38.56011,-121.74496,177.0,2.0
+Unitrans,38.55694,-121.74381,176.0,2.0
+Unitrans,38.55719,-121.7433,174.0,2.0
+Unitrans,38.55526,-121.7426,58.0,1.0
+Unitrans,38.55162,-121.74199,58.0,1.0
+Unitrans,38.55159,-121.74127,116.0,1.0
+Unitrans,38.55142,-121.74127,58.0,1.0
+Unitrans,38.55101,-121.74472,58.0,1.0
+Unitrans,38.55093,-121.74401,58.0,1.0
+Unitrans,38.55092,-121.74215,58.0,1.0
+Unitrans,38.55609,-121.74816,176.0,2.0
+Unitrans,38.5559,-121.74788,116.0,1.0
+Unitrans,38.55596,-121.75059,184.0,2.0
+Unitrans,38.5614,-121.75031,60.0,1.0
+Unitrans,38.56918,-121.74628,60.0,1.0
+Unitrans,38.57313,-121.7486,60.0,1.0
+Unitrans,38.57234,-121.75554,60.0,1.0
+Unitrans,38.56741,-121.75832,60.0,1.0
+Unitrans,38.56307,-121.75835,60.0,1.0
+Unitrans,38.56218,-121.75795,60.0,1.0
+Unitrans,38.56181,-121.75491,60.0,1.0
+Unitrans,38.56221,-121.75937,180.0,2.0
+Unitrans,38.562,-121.75955,182.0,2.0
+Unitrans,38.5621,-121.76325,180.0,2.0
+Unitrans,38.56194,-121.76301,182.0,2.0
+Unitrans,38.56252,-121.76504,182.0,2.0
+Unitrans,38.56314,-121.76542,180.0,2.0
+Unitrans,38.56445,-121.76561,180.0,2.0
+Unitrans,38.56436,-121.76585,182.0,2.0
+Unitrans,38.56631,-121.76556,180.0,2.0
+Unitrans,38.56603,-121.76584,182.0,2.0
+Unitrans,38.56825,-121.76699,362.0,2.0
+Unitrans,38.56034,-121.75214,120.0,1.0
+Unitrans,38.55572,-121.75181,116.0,1.0
+Unitrans,38.55594,-121.75252,116.0,1.0
+Unitrans,38.55556,-121.75242,68.0,1.0
+Unitrans,38.55641,-121.75656,116.0,1.0
+Unitrans,38.55615,-121.75788,116.0,1.0
+Unitrans,38.55657,-121.75842,296.0,2.0
+Unitrans,38.55946,-121.7584,296.0,2.0
+Unitrans,38.55856,-121.75871,298.0,2.0
+Unitrans,38.55592,-121.75874,182.0,2.0
+Unitrans,38.55267,-121.7585,180.0,2.0
+Unitrans,38.55229,-121.75881,182.0,2.0
+Unitrans,38.5473,-121.75887,182.0,2.0
+Unitrans,38.54691,-121.75857,236.0,2.0
+Unitrans,38.55334,-121.75257,60.0,1.0
+Unitrans,38.55272,-121.75278,60.0,1.0
+Unitrans,38.55104,-121.75261,60.0,1.0
+Unitrans,38.55044,-121.75285,60.0,1.0
+Unitrans,38.54664,-121.75265,60.0,1.0
+Unitrans,38.54649,-121.75291,60.0,1.0
+Unitrans,38.54398,-121.7498,896.0,4.0
+Unitrans,38.53929,-121.74892,147.0,1.0
+Unitrans,38.5392,-121.74838,143.0,1.0
+Unitrans,38.54864,-121.6936,8.0,1.0
+Unitrans,38.53903,-121.75577,0.0,0.0
+Unitrans,38.54166,-121.71735,181.0,2.0
+Unitrans,38.54402,-121.75983,124.0,1.0
+Unitrans,38.54251,-121.76089,182.0,2.0
+Unitrans,38.54624,-121.762,210.0,2.0
+Unitrans,38.54649,-121.7635,210.0,2.0
+Unitrans,38.54738,-121.76198,138.0,1.0
+Unitrans,38.54793,-121.76394,56.0,1.0
+Unitrans,38.54902,-121.76684,112.0,1.0
+Unitrans,38.55058,-121.76471,56.0,1.0
+Unitrans,38.55097,-121.7644,82.0,1.0
+Unitrans,38.55648,-121.76481,82.0,1.0
+Unitrans,38.55531,-121.76504,82.0,1.0
+Unitrans,38.55491,-121.76484,82.0,1.0
+Unitrans,38.55348,-121.76489,82.0,1.0
+Unitrans,38.55294,-121.7651,82.0,1.0
+Unitrans,38.55824,-121.76472,82.0,1.0
+Unitrans,38.55849,-121.76482,82.0,1.0
+Unitrans,38.55862,-121.76056,82.0,1.0
+Unitrans,38.56009,-121.76124,164.0,2.0
+Unitrans,38.55941,-121.76406,82.0,1.0
+Unitrans,38.56101,-121.76464,116.0,1.0
+Unitrans,38.5607,-121.76454,116.0,1.0
+Unitrans,38.56072,-121.77172,116.0,1.0
+Unitrans,38.56108,-121.77076,116.0,1.0
+Unitrans,38.56107,-121.77297,116.0,1.0
+Unitrans,38.56085,-121.77824,116.0,1.0
+Unitrans,38.56095,-121.78199,116.0,1.0
+Unitrans,38.56046,-121.78632,116.0,1.0
+Unitrans,38.56042,-121.78604,116.0,1.0
+Unitrans,38.55757,-121.78665,116.0,1.0
+Unitrans,38.55746,-121.78644,116.0,1.0
+Unitrans,38.55523,-121.78701,116.0,1.0
+Unitrans,38.55497,-121.78691,266.0,2.0
+Unitrans,38.55394,-121.78497,116.0,1.0
+Unitrans,38.55371,-121.78484,266.0,2.0
+Unitrans,38.55348,-121.78137,266.0,2.0
+Unitrans,38.55385,-121.78208,116.0,1.0
+Unitrans,38.55276,-121.77601,94.0,1.0
+Unitrans,38.55281,-121.77111,94.0,1.0
+Unitrans,38.55161,-121.77051,94.0,1.0
+Unitrans,38.54769,-121.77068,94.0,1.0
+Unitrans,38.55028,-121.77927,172.0,2.0
+Unitrans,38.54877,-121.7788,172.0,2.0
+Unitrans,38.54655,-121.77102,266.0,2.0
+Unitrans,38.54896,-121.78849,150.0,1.0
+Unitrans,38.55044,-121.7873,150.0,1.0
+Unitrans,38.55332,-121.78752,150.0,1.0
+Unitrans,38.5468,-121.78586,300.0,2.0
+Unitrans,38.54751,-121.76167,82.0,1.0
+Unitrans,38.55204,-121.73881,58.0,1.0
+Unitrans,38.55268,-121.71538,116.0,1.0
+Unitrans,38.55786,-121.69946,124.0,1.0
+Unitrans,38.55804,-121.70346,66.0,1.0
+Unitrans,38.55342,-121.71244,116.0,1.0
+Unitrans,38.55333,-121.71357,58.0,1.0
+Unitrans,38.53884,-121.76228,194.0,2.0
+Unitrans,38.53749,-121.76394,194.0,2.0
+Unitrans,38.5408,-121.73832,161.0,2.0
+Unitrans,38.55775,-121.6943,240.0,2.0
+Unitrans,38.55625,-121.69395,182.0,2.0
+Unitrans,38.5648,-121.70003,116.0,1.0
+Unitrans,38.57026,-121.72919,124.0,1.0
+Unitrans,38.56442,-121.71917,66.0,1.0
+Unitrans,38.5432,-121.71486,181.0,2.0
+Unitrans,38.54598,-121.71326,240.0,2.0
+Unitrans,38.53914,-121.75309,374.0,2.0
+Unitrans,38.53935,-121.75308,116.0,1.0
+Unitrans,38.53933,-121.75368,286.0,2.0
+Unitrans,38.56661,-121.73076,58.0,1.0
+Unitrans,38.56502,-121.72346,66.0,1.0
+Unitrans,38.53446,-121.75901,0.0,0.0
+Unitrans,38.54386,-121.75004,320.0,2.0
+Unitrans,38.54359,-121.74976,204.0,2.0
+Unitrans,38.54362,-121.74957,372.0,2.0
+Unitrans,38.55519,-121.72748,58.0,1.0
+Unitrans,38.55343,-121.72764,68.0,1.0
+Unitrans,38.55372,-121.69776,120.0,1.0
+Unitrans,38.55023,-121.7157,60.0,1.0
+Unitrans,38.53596,-121.75899,0.0,0.0
+Unitrans,38.53866,-121.77147,138.0,1.0
+Unitrans,38.53851,-121.77181,138.0,1.0
+Unitrans,38.54122,-121.77149,138.0,1.0
+Unitrans,38.54082,-121.77171,138.0,1.0
+Unitrans,38.56016,-121.70877,8.0,1.0
+Unitrans,38.56008,-121.70901,8.0,1.0
+Unitrans,38.55061,-121.76422,82.0,1.0
+Unitrans,38.55817,-121.70626,8.0,1.0
+Unitrans,38.5686,-121.72665,66.0,1.0
+Unitrans,38.54019,-121.72698,94.0,1.0
+Unitrans,38.5436,-121.72735,94.0,1.0
+Unitrans,38.54116,-121.72219,181.0,2.0
+Unitrans,38.55812,-121.699,66.0,1.0
+Unitrans,38.55645,-121.70536,116.0,1.0
+Unitrans,38.54904,-121.75862,236.0,2.0
+Unitrans,38.54892,-121.75883,182.0,2.0
+Unitrans,38.5419,-121.7733,138.0,1.0
+Unitrans,38.542,-121.77525,276.0,2.0
+Unitrans,38.5411,-121.77164,0.0,0.0
+Unitrans,38.5364,-121.76082,0.0,0.0
+Unitrans,38.56609,-121.74532,60.0,1.0
+Unitrans,38.56173,-121.7448,60.0,1.0
+Unitrans,38.55609,-121.75221,68.0,1.0
+Unitrans,38.54638,-121.77112,172.0,2.0
+Unitrans,38.54839,-121.73528,116.0,1.0
+Unitrans,38.54522,-121.7241,94.0,1.0
+Unitrans,38.54818,-121.73564,116.0,1.0
+Unitrans,38.55009,-121.73486,10.0,1.0
+Unitrans,38.55011,-121.71092,60.0,1.0
+Unitrans,38.54983,-121.68376,8.0,1.0
+Unitrans,38.55221,-121.6842,8.0,1.0
+Unitrans,38.55101,-121.69352,8.0,1.0
+Unitrans,38.55616,-121.72732,58.0,1.0
+Unitrans,38.55243,-121.68438,8.0,1.0
+Unitrans,38.55192,-121.68994,8.0,1.0
+Unitrans,38.53714,-121.76506,194.0,2.0
+Unitrans,38.56265,-121.73024,116.0,1.0
+Unitrans,38.56352,-121.7183,116.0,1.0
+Unitrans,38.5633,-121.71784,116.0,1.0
+Unitrans,38.54888,-121.77851,116.0,1.0
+Unitrans,38.55071,-121.77896,116.0,1.0
+Unitrans,38.55136,-121.69054,8.0,1.0
+Unitrans,38.54881,-121.68997,8.0,1.0
+Unitrans,38.54991,-121.68349,8.0,1.0
+Unitrans,38.55826,-121.7057,8.0,1.0
+Unitrans,38.56438,-121.71983,8.0,1.0
+Unitrans,38.56626,-121.72405,8.0,1.0
+Unitrans,38.57044,-121.72955,8.0,1.0
+Unitrans,38.5571,-121.74064,8.0,1.0
+Unitrans,38.55896,-121.73917,8.0,1.0
+Unitrans,38.55529,-121.7802,0.0,0.0
+Unitrans,38.55512,-121.77986,0.0,0.0
+Unitrans,38.55558,-121.77548,0.0,0.0
+Unitrans,38.5553,-121.77515,0.0,0.0
+Unitrans,38.55562,-121.77291,0.0,0.0
+Unitrans,38.5554,-121.77242,0.0,0.0
+Unitrans,38.55728,-121.77113,0.0,0.0
+Unitrans,38.55698,-121.77158,0.0,0.0
+Unitrans,38.55994,-121.7729,0.0,0.0
+Unitrans,38.56173,-121.74452,0.0,0.0
+Unitrans,38.56645,-121.74516,0.0,0.0
+Unitrans,38.57336,-121.74854,0.0,0.0
+Unitrans,38.57234,-121.75584,0.0,0.0
+Unitrans,38.56754,-121.75853,0.0,0.0
+Unitrans,38.5626,-121.75865,0.0,0.0
+Unitrans,38.55369,-121.78776,0.0,0.0
+Unitrans,38.54879,-121.78908,0.0,0.0
+Unitrans,38.54613,-121.7471,154.0,1.0
+Unitrans,38.5503,-121.72671,10.0,1.0
+Unitrans,38.53457,-121.76749,0.0,0.0
+Unitrans,38.5323,-121.76757,0.0,0.0
+Unitrans,38.53041,-121.76635,0.0,0.0
+Unitrans,38.53148,-121.76195,0.0,0.0
+Unitrans,38.53251,-121.76061,0.0,0.0
+Unitrans,38.53698,-121.76075,0.0,0.0
+Unitrans,38.53912,-121.75863,0.0,0.0
+Unitrans,38.53915,-121.75686,0.0,0.0
+Yolo County Transportation District,38.67793,-121.75294,145.0,2.0
+Yolo County Transportation District,38.65989,-121.76403,602.0,4.0
+Yolo County Transportation District,38.53921,-121.75384,90.0,1.0
+Yolo County Transportation District,38.5351,-121.76438,60.0,1.0
+Yolo County Transportation District,38.53446,-121.74844,60.0,1.0
+Yolo County Transportation District,38.58093,-121.52248,569.0,4.0
+Yolo County Transportation District,38.58087,-121.52594,267.0,2.0
+Yolo County Transportation District,38.58301,-121.52622,101.0,1.0
+Yolo County Transportation District,38.58694,-121.52691,101.0,1.0
+Yolo County Transportation District,38.58968,-121.52797,36.0,1.0
+Yolo County Transportation District,38.59025,-121.53361,36.0,1.0
+Yolo County Transportation District,38.59056,-121.53653,36.0,1.0
+Yolo County Transportation District,38.59154,-121.54393,101.0,1.0
+Yolo County Transportation District,38.59121,-121.54875,101.0,1.0
+Yolo County Transportation District,38.58915,-121.55206,168.0,2.0
+Yolo County Transportation District,38.59169,-121.5483,168.0,2.0
+Yolo County Transportation District,38.59141,-121.54395,101.0,1.0
+Yolo County Transportation District,38.59137,-121.53994,36.0,1.0
+Yolo County Transportation District,38.59211,-121.54114,36.0,1.0
+Yolo County Transportation District,38.59459,-121.54231,36.0,1.0
+Yolo County Transportation District,38.59555,-121.53898,36.0,1.0
+Yolo County Transportation District,38.59417,-121.53766,36.0,1.0
+Yolo County Transportation District,38.59513,-121.5341,36.0,1.0
+Yolo County Transportation District,38.59627,-121.52958,36.0,1.0
+Yolo County Transportation District,38.59425,-121.52583,36.0,1.0
+Yolo County Transportation District,38.59402,-121.52287,36.0,1.0
+Yolo County Transportation District,38.5938,-121.5211,36.0,1.0
+Yolo County Transportation District,38.59446,-121.51955,36.0,1.0
+Yolo County Transportation District,38.59548,-121.51912,36.0,1.0
+Yolo County Transportation District,38.59525,-121.51507,36.0,1.0
+Yolo County Transportation District,38.59083,-121.51383,101.0,1.0
+Yolo County Transportation District,38.58918,-121.52381,101.0,1.0
+Yolo County Transportation District,38.58707,-121.52699,101.0,1.0
+Yolo County Transportation District,38.58245,-121.52651,101.0,1.0
+Yolo County Transportation District,38.58066,-121.52622,329.0,3.0
+Yolo County Transportation District,38.5815,-121.52253,329.0,3.0
+Yolo County Transportation District,38.58177,-121.51863,267.0,2.0
+Yolo County Transportation District,38.58114,-121.51767,267.0,2.0
+Yolo County Transportation District,38.58189,-121.51395,267.0,2.0
+Yolo County Transportation District,38.5819,-121.51846,267.0,2.0
+Yolo County Transportation District,38.58043,-121.5308,166.0,2.0
+Yolo County Transportation District,38.5802,-121.53469,166.0,2.0
+Yolo County Transportation District,38.57987,-121.53942,166.0,2.0
+Yolo County Transportation District,38.5797,-121.54209,166.0,2.0
+Yolo County Transportation District,38.5795,-121.54565,166.0,2.0
+Yolo County Transportation District,38.57939,-121.54737,166.0,2.0
+Yolo County Transportation District,38.5805,-121.5486,67.0,1.0
+Yolo County Transportation District,38.58484,-121.54714,67.0,1.0
+Yolo County Transportation District,38.58922,-121.54653,67.0,1.0
+Yolo County Transportation District,38.58911,-121.54991,67.0,1.0
+Yolo County Transportation District,38.59202,-121.55123,67.0,1.0
+Yolo County Transportation District,38.59149,-121.55577,67.0,1.0
+Yolo County Transportation District,38.58857,-121.558,67.0,1.0
+Yolo County Transportation District,38.5858,-121.56297,67.0,1.0
+Yolo County Transportation District,38.5866,-121.56633,67.0,1.0
+Yolo County Transportation District,38.58957,-121.56623,67.0,1.0
+Yolo County Transportation District,38.59083,-121.56403,67.0,1.0
+Yolo County Transportation District,38.59227,-121.55703,67.0,1.0
+Yolo County Transportation District,38.5886,-121.54611,67.0,1.0
+Yolo County Transportation District,38.58452,-121.54732,67.0,1.0
+Yolo County Transportation District,38.58099,-121.54849,67.0,1.0
+Yolo County Transportation District,38.57924,-121.54766,166.0,2.0
+Yolo County Transportation District,38.57939,-121.54512,166.0,2.0
+Yolo County Transportation District,38.57969,-121.53994,166.0,2.0
+Yolo County Transportation District,38.57983,-121.53752,166.0,2.0
+Yolo County Transportation District,38.58008,-121.53371,166.0,2.0
+Yolo County Transportation District,38.58022,-121.53094,166.0,2.0
+Yolo County Transportation District,38.58159,-121.51193,231.0,2.0
+Yolo County Transportation District,38.57889,-121.55566,93.0,1.0
+Yolo County Transportation District,38.57849,-121.56191,93.0,1.0
+Yolo County Transportation District,38.5782,-121.56671,93.0,1.0
+Yolo County Transportation District,38.57696,-121.57123,93.0,1.0
+Yolo County Transportation District,38.57536,-121.57618,93.0,1.0
+Yolo County Transportation District,38.55082,-121.69363,149.0,2.0
+Yolo County Transportation District,38.55096,-121.69098,207.0,2.0
+Yolo County Transportation District,38.54898,-121.68991,151.0,2.0
+Yolo County Transportation District,38.54875,-121.69308,151.0,2.0
+Yolo County Transportation District,38.55641,-121.69406,151.0,2.0
+Yolo County Transportation District,38.55807,-121.699,151.0,2.0
+Yolo County Transportation District,38.55801,-121.70286,151.0,2.0
+Yolo County Transportation District,38.55816,-121.70563,93.0,1.0
+Yolo County Transportation District,38.56041,-121.70897,93.0,1.0
+Yolo County Transportation District,38.5636,-121.7094,93.0,1.0
+Yolo County Transportation District,38.56345,-121.71849,93.0,1.0
+Yolo County Transportation District,38.56259,-121.73002,93.0,1.0
+Yolo County Transportation District,38.56069,-121.73841,93.0,1.0
+Yolo County Transportation District,38.56016,-121.74487,93.0,1.0
+Yolo County Transportation District,38.55723,-121.74351,93.0,1.0
+Yolo County Transportation District,38.5538,-121.74251,93.0,1.0
+Yolo County Transportation District,38.55157,-121.74214,93.0,1.0
+Yolo County Transportation District,38.54839,-121.74142,93.0,1.0
+Yolo County Transportation District,38.54694,-121.74336,93.0,1.0
+Yolo County Transportation District,38.54629,-121.74716,93.0,1.0
+Yolo County Transportation District,38.54396,-121.7498,200.0,2.0
+Yolo County Transportation District,38.5463,-121.75384,93.0,1.0
+Yolo County Transportation District,38.54718,-121.75874,93.0,1.0
+Yolo County Transportation District,38.54918,-121.75869,93.0,1.0
+Yolo County Transportation District,38.5525,-121.75866,93.0,1.0
+Yolo County Transportation District,38.55643,-121.75857,93.0,1.0
+Yolo County Transportation District,38.55941,-121.75854,93.0,1.0
+Yolo County Transportation District,38.56094,-121.76466,93.0,1.0
+Yolo County Transportation District,38.66967,-121.76553,93.0,1.0
+Yolo County Transportation District,38.67219,-121.76552,93.0,1.0
+Yolo County Transportation District,38.67742,-121.76446,165.0,2.0
+Yolo County Transportation District,38.67732,-121.75817,165.0,2.0
+Yolo County Transportation District,38.67725,-121.75108,93.0,1.0
+Yolo County Transportation District,38.6773,-121.75237,171.0,2.0
+Yolo County Transportation District,38.67668,-121.75618,247.0,2.0
+Yolo County Transportation District,38.67329,-121.75621,247.0,2.0
+Yolo County Transportation District,38.66871,-121.75627,247.0,2.0
+Yolo County Transportation District,38.66829,-121.75722,175.0,2.0
+Yolo County Transportation District,38.66834,-121.76439,175.0,2.0
+Yolo County Transportation District,38.56079,-121.76447,105.0,2.0
+Yolo County Transportation District,38.55865,-121.75859,105.0,2.0
+Yolo County Transportation District,38.55604,-121.75861,105.0,2.0
+Yolo County Transportation District,38.55222,-121.75871,105.0,2.0
+Yolo County Transportation District,38.54904,-121.75874,105.0,2.0
+Yolo County Transportation District,38.54709,-121.75877,105.0,2.0
+Yolo County Transportation District,38.54617,-121.75388,105.0,2.0
+Yolo County Transportation District,38.54617,-121.74713,99.0,1.0
+Yolo County Transportation District,38.54695,-121.74312,99.0,1.0
+Yolo County Transportation District,38.54747,-121.74111,99.0,1.0
+Yolo County Transportation District,38.54883,-121.7415,99.0,1.0
+Yolo County Transportation District,38.55147,-121.74207,99.0,1.0
+Yolo County Transportation District,38.55521,-121.74276,99.0,1.0
+Yolo County Transportation District,38.55721,-121.74345,99.0,1.0
+Yolo County Transportation District,38.56011,-121.74483,99.0,1.0
+Yolo County Transportation District,38.56053,-121.73808,99.0,1.0
+Yolo County Transportation District,38.56223,-121.73214,99.0,1.0
+Yolo County Transportation District,38.56336,-121.71792,99.0,1.0
+Yolo County Transportation District,38.56242,-121.70956,99.0,1.0
+Yolo County Transportation District,38.56004,-121.70894,99.0,1.0
+Yolo County Transportation District,38.55789,-121.70412,155.0,2.0
+Yolo County Transportation District,38.55792,-121.69998,155.0,2.0
+Yolo County Transportation District,38.55869,-121.69674,99.0,1.0
+Yolo County Transportation District,38.55773,-121.69425,155.0,2.0
+Yolo County Transportation District,38.54973,-121.69444,99.0,1.0
+Yolo County Transportation District,38.54876,-121.69378,93.0,1.0
+Yolo County Transportation District,38.54884,-121.69024,93.0,1.0
+Yolo County Transportation District,38.551,-121.69098,93.0,1.0
+Yolo County Transportation District,38.55104,-121.69328,93.0,1.0
+Yolo County Transportation District,38.57535,-121.57613,99.0,1.0
+Yolo County Transportation District,38.57676,-121.57173,99.0,1.0
+Yolo County Transportation District,38.57812,-121.56707,99.0,1.0
+Yolo County Transportation District,38.57845,-121.56217,99.0,1.0
+Yolo County Transportation District,38.57888,-121.55522,99.0,1.0
+Yolo County Transportation District,38.6629,-121.76991,70.0,1.0
+Yolo County Transportation District,38.66293,-121.77515,70.0,1.0
+Yolo County Transportation District,38.66296,-121.77805,70.0,1.0
+Yolo County Transportation District,38.663,-121.785,70.0,1.0
+Yolo County Transportation District,38.66303,-121.78707,70.0,1.0
+Yolo County Transportation District,38.66307,-121.79155,70.0,1.0
+Yolo County Transportation District,38.66419,-121.79337,70.0,1.0
+Yolo County Transportation District,38.66958,-121.79333,70.0,1.0
+Yolo County Transportation District,38.67199,-121.79331,70.0,1.0
+Yolo County Transportation District,38.67571,-121.79328,70.0,1.0
+Yolo County Transportation District,38.67589,-121.79726,70.0,1.0
+Yolo County Transportation District,38.67554,-121.80132,142.0,2.0
+Yolo County Transportation District,38.67871,-121.79785,70.0,1.0
+Yolo County Transportation District,38.67892,-121.79359,70.0,1.0
+Yolo County Transportation District,38.68058,-121.7932,70.0,1.0
+Yolo County Transportation District,38.68325,-121.79315,70.0,1.0
+Yolo County Transportation District,38.68478,-121.79315,70.0,1.0
+Yolo County Transportation District,38.68788,-121.79357,70.0,1.0
+Yolo County Transportation District,38.68895,-121.79777,70.0,1.0
+Yolo County Transportation District,38.69212,-121.79757,70.0,1.0
+Yolo County Transportation District,38.69193,-121.79311,70.0,1.0
+Yolo County Transportation District,38.68808,-121.79358,70.0,1.0
+Yolo County Transportation District,38.68476,-121.79006,70.0,1.0
+Yolo County Transportation District,38.68477,-121.78417,70.0,1.0
+Yolo County Transportation District,38.68245,-121.78402,70.0,1.0
+Yolo County Transportation District,38.6799,-121.78405,70.0,1.0
+Yolo County Transportation District,38.6788,-121.7796,70.0,1.0
+Yolo County Transportation District,38.67878,-121.77788,70.0,1.0
+Yolo County Transportation District,38.67875,-121.77421,70.0,1.0
+Yolo County Transportation District,38.67873,-121.77158,70.0,1.0
+Yolo County Transportation District,38.68255,-121.77053,70.0,1.0
+Yolo County Transportation District,38.6844,-121.77053,70.0,1.0
+Yolo County Transportation District,38.68467,-121.76728,70.0,1.0
+Yolo County Transportation District,38.68459,-121.75854,70.0,1.0
+Yolo County Transportation District,38.68108,-121.75622,70.0,1.0
+Yolo County Transportation District,38.6538,-121.76495,136.0,2.0
+Yolo County Transportation District,38.66279,-121.76151,138.0,2.0
+Yolo County Transportation District,38.66278,-121.75867,138.0,2.0
+Yolo County Transportation District,38.66331,-121.75645,72.0,1.0
+Yolo County Transportation District,38.66797,-121.75624,72.0,1.0
+Yolo County Transportation District,38.67366,-121.75616,72.0,1.0
+Yolo County Transportation District,38.67599,-121.75614,72.0,1.0
+Yolo County Transportation District,38.67743,-121.76798,72.0,1.0
+Yolo County Transportation District,38.67751,-121.78013,72.0,1.0
+Yolo County Transportation District,38.6776,-121.79142,72.0,1.0
+Yolo County Transportation District,38.67673,-121.7979,72.0,1.0
+Yolo County Transportation District,38.67907,-121.96847,144.0,2.0
+Yolo County Transportation District,38.69277,-122.01672,72.0,1.0
+Yolo County Transportation District,38.70722,-122.04764,72.0,1.0
+Yolo County Transportation District,38.73613,-122.14212,144.0,2.0
+Yolo County Transportation District,38.57911,-121.52868,62.0,1.0
+Yolo County Transportation District,38.57733,-121.53065,62.0,1.0
+Yolo County Transportation District,38.5728,-121.53065,62.0,1.0
+Yolo County Transportation District,38.57113,-121.53022,62.0,1.0
+Yolo County Transportation District,38.56935,-121.53184,62.0,1.0
+Yolo County Transportation District,38.56804,-121.53304,62.0,1.0
+Yolo County Transportation District,38.56697,-121.53397,62.0,1.0
+Yolo County Transportation District,38.56573,-121.53509,62.0,1.0
+Yolo County Transportation District,38.56383,-121.5368,62.0,1.0
+Yolo County Transportation District,38.56308,-121.53396,62.0,1.0
+Yolo County Transportation District,38.56307,-121.53245,62.0,1.0
+Yolo County Transportation District,38.56308,-121.53073,62.0,1.0
+Yolo County Transportation District,38.5562,-121.53279,62.0,1.0
+Yolo County Transportation District,38.55532,-121.5292,62.0,1.0
+Yolo County Transportation District,38.55099,-121.5312,62.0,1.0
+Yolo County Transportation District,38.54937,-121.52783,62.0,1.0
+Yolo County Transportation District,38.54461,-121.52549,62.0,1.0
+Yolo County Transportation District,38.54667,-121.53197,62.0,1.0
+Yolo County Transportation District,38.54876,-121.53715,62.0,1.0
+Yolo County Transportation District,38.54971,-121.54023,62.0,1.0
+Yolo County Transportation District,38.54641,-121.5433,62.0,1.0
+Yolo County Transportation District,38.53922,-121.54992,62.0,1.0
+Yolo County Transportation District,38.53508,-121.55721,62.0,1.0
+Yolo County Transportation District,38.53509,-121.56254,62.0,1.0
+Yolo County Transportation District,38.53591,-121.57605,62.0,1.0
+Yolo County Transportation District,38.53977,-121.57607,62.0,1.0
+Yolo County Transportation District,38.54498,-121.57011,62.0,1.0
+Yolo County Transportation District,38.54337,-121.56745,62.0,1.0
+Yolo County Transportation District,38.54026,-121.57219,62.0,1.0
+Yolo County Transportation District,38.53833,-121.57262,62.0,1.0
+Yolo County Transportation District,38.53703,-121.56592,62.0,1.0
+Yolo County Transportation District,38.54678,-121.54271,62.0,1.0
+Yolo County Transportation District,38.54991,-121.5398,62.0,1.0
+Yolo County Transportation District,38.54662,-121.53201,62.0,1.0
+Yolo County Transportation District,38.54469,-121.5254,62.0,1.0
+Yolo County Transportation District,38.54712,-121.52406,62.0,1.0
+Yolo County Transportation District,38.54962,-121.52803,62.0,1.0
+Yolo County Transportation District,38.55098,-121.53083,62.0,1.0
+Yolo County Transportation District,38.5554,-121.52916,62.0,1.0
+Yolo County Transportation District,38.56312,-121.53077,62.0,1.0
+Yolo County Transportation District,38.56311,-121.53184,62.0,1.0
+Yolo County Transportation District,38.5631,-121.53465,62.0,1.0
+Yolo County Transportation District,38.56375,-121.53681,62.0,1.0
+Yolo County Transportation District,38.56583,-121.53496,62.0,1.0
+Yolo County Transportation District,38.56952,-121.53163,62.0,1.0
+Yolo County Transportation District,38.57143,-121.53018,62.0,1.0
+Yolo County Transportation District,38.57364,-121.5306,62.0,1.0
+Yolo County Transportation District,38.57769,-121.5306,62.0,1.0
+Yolo County Transportation District,38.57972,-121.5306,62.0,1.0
+Yolo County Transportation District,38.70734,-122.0486,72.0,1.0
+Yolo County Transportation District,38.69296,-122.01673,72.0,1.0
+Yolo County Transportation District,38.67525,-121.80184,72.0,1.0
+Yolo County Transportation District,38.67677,-121.79785,72.0,1.0
+Yolo County Transportation District,38.67758,-121.7919,72.0,1.0
+Yolo County Transportation District,38.67748,-121.781,72.0,1.0
+Yolo County Transportation District,38.67747,-121.776,72.0,1.0
+Yolo County Transportation District,38.6774,-121.76743,72.0,1.0
+Yolo County Transportation District,38.66404,-121.75648,72.0,1.0
+Yolo County Transportation District,38.66283,-121.75947,72.0,1.0
+Yolo County Transportation District,38.66282,-121.76194,72.0,1.0
+Yolo County Transportation District,38.65989,-121.76481,72.0,1.0
+Yolo County Transportation District,38.58906,-121.51265,65.0,1.0
+Yolo County Transportation District,38.59334,-121.51692,65.0,1.0
+Yolo County Transportation District,38.59388,-121.52151,65.0,1.0
+Yolo County Transportation District,38.59412,-121.52347,65.0,1.0
+Yolo County Transportation District,38.59427,-121.52592,65.0,1.0
+Yolo County Transportation District,38.5963,-121.52964,65.0,1.0
+Yolo County Transportation District,38.59533,-121.53349,65.0,1.0
+Yolo County Transportation District,38.59429,-121.53736,65.0,1.0
+Yolo County Transportation District,38.59556,-121.5388,65.0,1.0
+Yolo County Transportation District,38.59471,-121.54222,65.0,1.0
+Yolo County Transportation District,38.59235,-121.54135,65.0,1.0
+Yolo County Transportation District,38.59136,-121.54,65.0,1.0
+Yolo County Transportation District,38.59061,-121.53711,65.0,1.0
+Yolo County Transportation District,38.59022,-121.53358,65.0,1.0
+Yolo County Transportation District,38.58957,-121.52737,65.0,1.0
+Yolo County Transportation District,38.54926,-121.69438,58.0,1.0
+Yolo County Transportation District,38.55867,-121.69717,58.0,1.0
+Yolo County Transportation District,38.55689,-121.70536,58.0,1.0
+Yolo County Transportation District,38.55479,-121.70931,58.0,1.0
+Yolo County Transportation District,38.5533,-121.71356,58.0,1.0
+Yolo County Transportation District,38.55255,-121.71649,58.0,1.0
+Yolo County Transportation District,38.55144,-121.72133,58.0,1.0
+Yolo County Transportation District,38.5491,-121.72489,58.0,1.0
+Yolo County Transportation District,38.54872,-121.72776,58.0,1.0
+Yolo County Transportation District,38.54875,-121.73079,58.0,1.0
+Yolo County Transportation District,38.54774,-121.73429,58.0,1.0
+Yolo County Transportation District,38.54567,-121.73508,58.0,1.0
+Yolo County Transportation District,38.54393,-121.73814,58.0,1.0
+Yolo County Transportation District,38.54329,-121.74092,58.0,1.0
+Yolo County Transportation District,38.54192,-121.74299,58.0,1.0
+Yolo County Transportation District,38.54008,-121.74613,88.0,1.0
+Yolo County Transportation District,38.53907,-121.75015,88.0,1.0
+Yolo County Transportation District,38.5393,-121.75372,144.0,2.0
+Yolo County Transportation District,38.53908,-121.75343,56.0,1.0
+Yolo County Transportation District,38.53925,-121.74854,86.0,1.0
+Yolo County Transportation District,38.54006,-121.74608,86.0,1.0
+Yolo County Transportation District,38.54274,-121.74395,56.0,1.0
+Yolo County Transportation District,38.54321,-121.74121,56.0,1.0
+Yolo County Transportation District,38.54399,-121.73811,56.0,1.0
+Yolo County Transportation District,38.54575,-121.73453,56.0,1.0
+Yolo County Transportation District,38.54741,-121.73416,56.0,1.0
+Yolo County Transportation District,38.54871,-121.72764,56.0,1.0
+Yolo County Transportation District,38.54919,-121.72465,56.0,1.0
+Yolo County Transportation District,38.55189,-121.71909,56.0,1.0
+Yolo County Transportation District,38.55274,-121.71541,56.0,1.0
+Yolo County Transportation District,38.55346,-121.71248,56.0,1.0
+Yolo County Transportation District,38.55462,-121.70978,56.0,1.0
+Yolo County Transportation District,38.55646,-121.70538,56.0,1.0
+Yolo County Transportation District,38.67806,-121.75289,74.0,1.0
+Yolo County Transportation District,38.66265,-121.74134,66.0,1.0
+Yolo County Transportation District,38.66109,-121.73556,66.0,1.0
+Yolo County Transportation District,38.66434,-121.73562,66.0,1.0
+Yolo County Transportation District,38.66588,-121.73166,66.0,1.0
+Yolo County Transportation District,38.6687,-121.72993,66.0,1.0
+Yolo County Transportation District,38.66938,-121.72385,66.0,1.0
+Yolo County Transportation District,38.66873,-121.73085,66.0,1.0
+Yolo County Transportation District,38.66782,-121.73309,66.0,1.0
+Yolo County Transportation District,38.6697,-121.73505,66.0,1.0
+Yolo County Transportation District,38.66897,-121.73899,66.0,1.0
+Yolo County Transportation District,38.66972,-121.74218,66.0,1.0
+Yolo County Transportation District,38.67334,-121.74538,66.0,1.0
+Yolo County Transportation District,38.67716,-121.7409,66.0,1.0
+Yolo County Transportation District,38.68129,-121.75618,66.0,1.0
+Yolo County Transportation District,38.68462,-121.75807,66.0,1.0
+Yolo County Transportation District,38.6847,-121.76734,66.0,1.0
+Yolo County Transportation District,38.68423,-121.77058,66.0,1.0
+Yolo County Transportation District,38.68223,-121.77057,66.0,1.0
+Yolo County Transportation District,38.67875,-121.77134,66.0,1.0
+Yolo County Transportation District,38.67878,-121.77517,66.0,1.0
+Yolo County Transportation District,38.6788,-121.77794,66.0,1.0
+Yolo County Transportation District,38.67884,-121.77957,66.0,1.0
+Yolo County Transportation District,38.67313,-121.78411,66.0,1.0
+Yolo County Transportation District,38.67202,-121.77596,66.0,1.0
+Yolo County Transportation District,38.66774,-121.77484,66.0,1.0
+Yolo County Transportation District,38.66285,-121.76936,66.0,1.0
+Yolo County Transportation District,38.57725,-121.54873,6.0,1.0
+Yolo County Transportation District,38.57172,-121.54865,6.0,1.0
+Yolo County Transportation District,38.56993,-121.55023,6.0,1.0
+Yolo County Transportation District,38.57291,-121.55484,6.0,1.0
+Yolo County Transportation District,38.57368,-121.56396,6.0,1.0
+Yolo County Transportation District,38.57163,-121.56508,6.0,1.0
+Yolo County Transportation District,38.56829,-121.56424,6.0,1.0
+Yolo County Transportation District,38.56627,-121.56678,6.0,1.0
+Yolo County Transportation District,38.56453,-121.57281,6.0,1.0
+Yolo County Transportation District,38.56507,-121.57834,6.0,1.0
+Yolo County Transportation District,38.57049,-121.57844,6.0,1.0
+Yolo County Transportation District,38.57032,-121.72918,60.0,1.0
+Yolo County Transportation District,38.56863,-121.72653,30.0,1.0
+Yolo County Transportation District,38.56507,-121.7234,30.0,1.0
+Yolo County Transportation District,38.56447,-121.71921,30.0,1.0
+Yolo County Transportation District,38.56269,-121.71447,30.0,1.0
+Yolo County Transportation District,38.56193,-121.71678,30.0,1.0
+Yolo County Transportation District,38.55824,-121.71732,30.0,1.0
+Yolo County Transportation District,38.5578,-121.72064,30.0,1.0
+Yolo County Transportation District,38.5577,-121.72275,30.0,1.0
+Yolo County Transportation District,38.55754,-121.7272,30.0,1.0
+Yolo County Transportation District,38.55519,-121.72737,30.0,1.0
+Yolo County Transportation District,38.55335,-121.72763,30.0,1.0
+Yolo County Transportation District,38.55343,-121.73131,30.0,1.0
+Yolo County Transportation District,38.55261,-121.73541,30.0,1.0
+Yolo County Transportation District,38.55182,-121.73901,30.0,1.0
+Yolo County Transportation District,38.55154,-121.74124,30.0,1.0
+Yolo County Transportation District,38.55094,-121.7447,30.0,1.0
+Yolo County Transportation District,38.54893,-121.74605,30.0,1.0
+Yolo County Transportation District,38.54506,-121.74506,30.0,1.0
+Yolo County Transportation District,38.54499,-121.74501,30.0,1.0
+Yolo County Transportation District,38.54698,-121.74557,30.0,1.0
+Yolo County Transportation District,38.54964,-121.74617,30.0,1.0
+Yolo County Transportation District,38.55103,-121.74404,30.0,1.0
+Yolo County Transportation District,38.55151,-121.74129,30.0,1.0
+Yolo County Transportation District,38.55179,-121.73891,30.0,1.0
+Yolo County Transportation District,38.55289,-121.73442,30.0,1.0
+Yolo County Transportation District,38.5534,-121.73035,30.0,1.0
+Yolo County Transportation District,38.55394,-121.72736,30.0,1.0
+Yolo County Transportation District,38.55616,-121.72742,30.0,1.0
+Yolo County Transportation District,38.55978,-121.73049,30.0,1.0
+Yolo County Transportation District,38.56145,-121.73116,30.0,1.0
+Yolo County Transportation District,38.56202,-121.73111,30.0,1.0
+Yolo County Transportation District,38.56435,-121.73099,30.0,1.0

@@ -15,7 +15,6 @@ Redding Area Bus Authority,40.61366,-122.37619,46.0,1.0
 Redding Area Bus Authority,40.61169,-122.38089,46.0,1.0
 Redding Area Bus Authority,40.61382,-122.38544,25.0,1.0
 Redding Area Bus Authority,40.61657,-122.39248,25.0,1.0
-Redding Area Bus Authority,40.62064,-122.40038,25.0,1.0
 Redding Area Bus Authority,40.62602,-122.40491,25.0,1.0
 Redding Area Bus Authority,40.62767,-122.4051,25.0,1.0
 Redding Area Bus Authority,40.6312,-122.40501,25.0,1.0
@@ -49,6 +48,8 @@ Redding Area Bus Authority,40.62057,-122.40074,25.0,1.0
 Redding Area Bus Authority,40.61893,-122.39718,25.0,1.0
 Redding Area Bus Authority,40.61638,-122.39239,25.0,1.0
 Redding Area Bus Authority,40.61359,-122.38534,25.0,1.0
+Redding Area Bus Authority,40.62195,-122.40238,25.0,1.0
+Redding Area Bus Authority,40.61955,-122.39799,25.0,1.0
 Redding Area Bus Authority,40.59308,-122.35735,46.0,1.0
 Redding Area Bus Authority,40.59561,-122.36203,23.0,1.0
 Redding Area Bus Authority,40.59706,-122.36782,23.0,1.0
@@ -87,8 +88,8 @@ Redding Area Bus Authority,40.57486,-122.38153,23.0,1.0
 Redding Area Bus Authority,40.5765,-122.38604,23.0,1.0
 Redding Area Bus Authority,40.57931,-122.38565,23.0,1.0
 Redding Area Bus Authority,40.58287,-122.38723,23.0,1.0
-Redding Area Bus Authority,40.58349,-122.39279,345.0,4.0
-Redding Area Bus Authority,40.57867,-122.38856,0.0,0.0
+Redding Area Bus Authority,40.58349,-122.39279,338.0,4.0
+Redding Area Bus Authority,40.57857,-122.38923,47.0,1.0
 Redding Area Bus Authority,40.57135,-122.38828,24.0,1.0
 Redding Area Bus Authority,40.56828,-122.3881,24.0,1.0
 Redding Area Bus Authority,40.56444,-122.38493,23.0,1.0
@@ -113,7 +114,7 @@ Redding Area Bus Authority,40.57752,-122.41098,12.0,1.0
 Redding Area Bus Authority,40.57547,-122.41506,12.0,1.0
 Redding Area Bus Authority,40.57474,-122.41917,12.0,1.0
 Redding Area Bus Authority,40.57887,-122.42424,12.0,1.0
-Redding Area Bus Authority,40.58339,-122.42654,17.0,1.0
+Redding Area Bus Authority,40.58339,-122.42654,12.0,1.0
 Redding Area Bus Authority,40.58563,-122.41307,12.0,1.0
 Redding Area Bus Authority,40.58616,-122.40733,12.0,1.0
 Redding Area Bus Authority,40.5859,-122.40475,23.0,1.0
@@ -129,7 +130,7 @@ Redding Area Bus Authority,40.5867,-122.40359,11.0,1.0
 Redding Area Bus Authority,40.58623,-122.40843,11.0,1.0
 Redding Area Bus Authority,40.58571,-122.41552,11.0,1.0
 Redding Area Bus Authority,40.58481,-122.42244,11.0,1.0
-Redding Area Bus Authority,40.58332,-122.42697,16.0,1.0
+Redding Area Bus Authority,40.58332,-122.42697,11.0,1.0
 Redding Area Bus Authority,40.58011,-122.42531,11.0,1.0
 Redding Area Bus Authority,40.57504,-122.42073,11.0,1.0
 Redding Area Bus Authority,40.57498,-122.41543,11.0,1.0
@@ -274,21 +275,20 @@ Redding Area Bus Authority,40.60804,-122.34589,21.0,1.0
 Redding Area Bus Authority,40.61179,-122.34826,21.0,1.0
 Redding Area Bus Authority,40.61322,-122.34868,21.0,1.0
 Redding Area Bus Authority,40.61424,-122.34457,21.0,1.0
-Redding Area Bus Authority,40.61691,-122.33448,21.0,1.0
-Redding Area Bus Authority,40.61795,-122.32961,21.0,1.0
-Redding Area Bus Authority,40.61916,-122.3188,21.0,1.0
-Redding Area Bus Authority,40.62512,-122.31761,0.0,0.0
-Redding Area Bus Authority,40.61784,-122.33501,42.0,1.0
-Redding Area Bus Authority,40.61702,-122.33929,42.0,1.0
-Redding Area Bus Authority,40.61665,-122.34162,42.0,1.0
-Redding Area Bus Authority,40.61638,-122.34448,42.0,1.0
-Redding Area Bus Authority,40.61652,-122.34989,42.0,1.0
+Redding Area Bus Authority,40.61691,-122.33448,24.0,1.0
+Redding Area Bus Authority,40.61795,-122.32961,24.0,1.0
+Redding Area Bus Authority,40.61916,-122.3188,24.0,1.0
+Redding Area Bus Authority,40.62512,-122.31761,87.0,2.0
+Redding Area Bus Authority,40.61784,-122.33501,21.0,1.0
+Redding Area Bus Authority,40.61702,-122.33929,21.0,1.0
+Redding Area Bus Authority,40.61665,-122.34162,21.0,1.0
+Redding Area Bus Authority,40.61638,-122.34448,21.0,1.0
+Redding Area Bus Authority,40.61652,-122.34989,21.0,1.0
 Redding Area Bus Authority,40.61143,-122.3552,21.0,1.0
 Redding Area Bus Authority,40.60765,-122.34616,21.0,1.0
 Redding Area Bus Authority,40.60505,-122.34554,21.0,1.0
 Redding Area Bus Authority,40.59813,-122.35244,21.0,1.0
 Redding Area Bus Authority,40.59537,-122.3538,21.0,1.0
-Redding Area Bus Authority,40.62278,-122.32028,84.0,2.0
 Redding Area Bus Authority,40.58838,-122.39348,21.0,1.0
 Redding Area Bus Authority,40.59464,-122.38881,21.0,1.0
 Redding Area Bus Authority,40.59895,-122.38443,21.0,1.0
@@ -306,7 +306,6 @@ Redding Area Bus Authority,40.61801,-122.37546,21.0,1.0
 Redding Area Bus Authority,40.61477,-122.37561,21.0,1.0
 Redding Area Bus Authority,40.59841,-122.3855,44.0,1.0
 Redding Area Bus Authority,40.59511,-122.38888,44.0,1.0
-Redding Area Bus Authority,40.56471,-122.38797,1.0,1.0
 Redding Area Bus Authority,40.52246,-122.38261,1.0,1.0
 Redding Area Bus Authority,40.49413,-122.36594,1.0,1.0
 Redding Area Bus Authority,40.62514,-122.31765,6.0,1.0
@@ -315,13 +314,13 @@ Redding Area Bus Authority,40.8037,-121.93986,6.0,1.0
 Redding Area Bus Authority,40.84207,-121.92401,6.0,1.0
 Redding Area Bus Authority,40.88892,-121.65358,6.0,1.0
 Redding Area Bus Authority,40.58894,-122.38029,32.0,1.0
-Redding Area Bus Authority,40.57541,-122.32456,0.0,0.0
-Redding Area Bus Authority,40.59661,-122.3248,0.0,0.0
-Redding Area Bus Authority,40.60325,-122.3277,0.0,0.0
-Redding Area Bus Authority,40.61268,-122.33389,0.0,0.0
-Redding Area Bus Authority,40.5969,-122.48876,5.0,1.0
-Redding Area Bus Authority,40.61649,-122.57209,5.0,1.0
-Redding Area Bus Authority,40.59737,-122.48986,5.0,1.0
+Redding Area Bus Authority,40.57541,-122.32456,1.0,1.0
+Redding Area Bus Authority,40.59661,-122.3248,3.0,1.0
+Redding Area Bus Authority,40.60325,-122.3277,3.0,1.0
+Redding Area Bus Authority,40.61268,-122.33389,3.0,1.0
+Redding Area Bus Authority,40.61437,-122.52074,0.0,0.0
+Redding Area Bus Authority,40.62118,-122.57097,0.0,0.0
+Redding Area Bus Authority,40.59979,-122.53561,0.0,0.0
 Redding Area Bus Authority,40.43254,-122.28763,16.0,1.0
 Redding Area Bus Authority,40.43897,-122.29136,8.0,1.0
 Redding Area Bus Authority,40.44461,-122.29525,8.0,1.0
@@ -348,11 +347,25 @@ Redding Area Bus Authority,40.45923,-122.31451,8.0,1.0
 Redding Area Bus Authority,40.45155,-122.3037,8.0,1.0
 Redding Area Bus Authority,40.44446,-122.29568,8.0,1.0
 Redding Area Bus Authority,40.43827,-122.29143,8.0,1.0
-Redding Area Bus Authority,40.57857,-122.38923,47.0,1.0
-Siskiyou Transit and General Express,41.14867,-122.31724,4.0,1.0
-Siskiyou Transit and General Express,41.16265,-122.29693,3.0,1.0
+Siskiyou Transit and General Express,41.14867,-122.31724,0.0,0.0
+Siskiyou Transit and General Express,41.16265,-122.29693,0.0,0.0
 Siskiyou Transit and General Express,41.16257,-122.29791,0.0,0.0
-Siskiyou Transit and General Express,41.18134,-122.28962,5.0,2.0
+Siskiyou Transit and General Express,41.18134,-122.28962,7.0,3.0
+Susanville Indian Rancheria Public Transportation Program,40.58389,-122.39273,3.0,1.0
+Susanville Indian Rancheria Public Transportation Program,40.38931,-122.28101,0.0,0.0
+Trinity Transit,40.58423,-122.39307,4.0,1.0
+Trinity Transit,40.59079,-122.37899,4.0,1.0
+Trinity Transit,40.59696,-122.48887,2.0,1.0
+Trinity Transit,40.59743,-122.48989,2.0,1.0
+Trinity Transit,40.66487,-122.63619,2.0,1.0
+Trinity Transit,40.66544,-122.63656,2.0,1.0
+Trinity Transit,40.58904,-122.3535,4.0,1.0
+Sage Stage,41.00741,-121.43687,2.0,1.0
+Sage Stage,40.88809,-121.65406,2.0,1.0
+Sage Stage,40.5829,-122.39204,2.0,1.0
+Sage Stage,40.58714,-122.35508,2.0,1.0
+Susanville Indian Rancheria Public Transportation Program,40.58389,-122.39273,3.0,1.0
+Susanville Indian Rancheria Public Transportation Program,40.38931,-122.28101,0.0,0.0
 Trinity Transit,40.58423,-122.39307,4.0,1.0
 Trinity Transit,40.59079,-122.37899,4.0,1.0
 Trinity Transit,40.59696,-122.48887,2.0,1.0
