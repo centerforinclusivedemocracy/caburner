@@ -72,14 +72,9 @@
         left: auto;
     }
 }
-
-/* only show mobile alert on mobile */
-#mobile {display: none;} 
-  
-@media only screen and (max-device-width : 700px){ 
-    #mobile {
-        display: block;
-        font-style: italic;
+@media screen and (max-width: 500px) {
+    #sidebar-and-map div.sidebar-closer {
+        top: 1em;
     }
 }
 
