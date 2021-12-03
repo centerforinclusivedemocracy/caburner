@@ -684,7 +684,7 @@ DATA_PROFILES.fullexceptsuggested = Object.assign({}, DATA_PROFILES.fullmodel); 
 DATA_PROFILES.fullexceptsuggested.suggestedareas = [];
 DATA_PROFILES.fullexceptsuggested.additionalareas = [];
 
-DATA_PROFILES.inprogress = Object.assign({}, DATA_PROFILES.inprogress);
+DATA_PROFILES.inprogress = Object.assign({}, DATA_PROFILES.fullmodel);
 
 
 // popup hacks: some counties need random hacks to their popup content, e.g. Los Angeles 2020 Primary Vote Center Locations has a bunch of extra fields
