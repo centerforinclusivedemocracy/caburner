@@ -1,5 +1,6 @@
 osm_id,code,fclass,name,lon,lat
 358816233,2082.0,school,Palisade Glacier High School,-118.32812,37.15242
+358851992,2082.0,school,Morningside Elementary School,-118.43483,37.28854
 358832805,2082.0,school,Cerro Coso Community College,-118.4315,37.35993
 358832812,2082.0,school,Elm Street Elementary School,-118.40525,37.3652
 358832823,2082.0,school,Home Street Middle School,-118.40285,37.36281
@@ -12,7 +13,6 @@ osm_id,code,fclass,name,lon,lat
 358832853,2082.0,school,Owens Valley High School,-118.19648,36.80271
 358832858,2082.0,school,Lo-Inyo Elementary School,-118.06287,36.60882
 358832859,2082.0,school,Lone Pine Adult School,-118.06064,36.60216
-358851992,2082.0,school,Morningside Elementary School,-118.43483,37.28854
 441549495,2303.0,cafe,Looney Bean,-118.39545,37.36377
 1941035623,2501.0,supermarket,Carrolls Market,-118.28933,37.1657
 3066157203,2303.0,cafe,Blacksheep Cafe,-118.39501,37.3623
@@ -28,8 +28,8 @@ osm_id,code,fclass,name,lon,lat
 6510421886,2501.0,supermarket,Mahogany smoked meats,-118.41769,37.37601
 6794429197,2402.0,motel,The Portal Motel,-118.06238,36.60284
 6794429208,2402.0,motel,Mt. Williamson Motel,-118.19745,36.79831
-7333129145,2303.0,cafe,Amargosa Cafe,-116.41418,36.30095
 7125702007,2303.0,cafe,Bronco's Deli,-118.39614,37.36325
+7333129145,2303.0,cafe,Amargosa Cafe,-116.41418,36.30095
 8690930017,2303.0,cafe,Indy Coffee Roasting Company,-118.39571,37.35976
 358816117,2005.0,post_office,Darwin Post Office,-117.59201,36.26966
 358816267,2005.0,post_office,Olancha Post Office,-118.00536,36.28133

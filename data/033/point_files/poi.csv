@@ -2,9 +2,9 @@ osm_id,code,fclass,name,lon,lat
 358763812,2082.0,school,Cobb Valley School,-122.73499,38.83213
 358771325,2082.0,school,Mountain School,-122.76582,38.91157
 358777763,2082.0,school,Lower Lake High School,-122.60804,38.91379
-358778659,2082.0,school,Westlake School,-122.90416,39.121
 358777765,2082.0,school,Clear Lake High School,-122.91638,39.05378
 358777819,2082.0,school,Upper Lake Union High School,-122.90194,39.16489
+358778659,2082.0,school,Westlake School,-122.90416,39.121
 358830084,2082.0,school,Clear Lake High School,-122.91861,39.06073
 358830094,2082.0,school,Lakeport Elementary School,-122.91472,39.05989
 358830110,2082.0,school,Terrace Elementary School,-122.91722,39.05989
@@ -40,6 +40,6 @@ osm_id,code,fclass,name,lon,lat
 368170045,2007.0,library,Redbud Branch Lake County Library,-122.63498,38.94934
 368171856,2008.0,town_hall,Clearlake City Hall,-122.6436,38.95406
 6615357135,2007.0,library,Carnegie Library,-122.91388,39.04315
-8392255650,2002.0,fire_station,Kelsey-Cobb Fire Station,-122.76597,38.9123
 8392343397,2002.0,fire_station,Cal Fire Clearlake Oak Fire Station,-122.71186,39.02374
 8392343398,2002.0,fire_station,Northshore Fire Protection District Station 75,-122.67337,39.02491
+8392255650,2002.0,fire_station,Kelsey-Cobb Fire Station,-122.76597,38.9123

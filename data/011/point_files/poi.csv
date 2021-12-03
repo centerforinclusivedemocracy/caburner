@@ -1,12 +1,12 @@
 osm_id,code,fclass,name,lon,lat
-358762816,2082.0,school,Butte Creek School,-122.01275,39.30405
 358768036,2082.0,school,Indian Valley School,-122.54971,39.38016
+358762816,2082.0,school,Butte Creek School,-122.01275,39.30405
 358766736,2082.0,school,Grand Island Elementary School,-121.89691,39.06962
 358768456,2082.0,school,Johns District School,-121.96997,38.95629
-358777770,2082.0,school,Union High School,-122.15886,39.15295
 358772664,2082.0,school,Pierce High School,-122.0558,39.01045
-358775521,2082.0,school,Black Mountain School,-122.40915,39.35127
 358775856,2082.0,school,Little Stony School,-122.49249,39.30183
+358775521,2082.0,school,Black Mountain School,-122.40915,39.35127
+358777770,2082.0,school,Union High School,-122.15886,39.15295
 358777780,2082.0,school,Union High School,-122.01608,39.21017
 358822623,2082.0,school,Princeton Elementary School,-122.01109,39.406
 358822624,2082.0,school,Princeton Junior-Senior High School,-122.01164,39.401
@@ -17,12 +17,12 @@ osm_id,code,fclass,name,lon,lat
 358822591,2082.0,school,Colusa High School,-122.02009,39.2002
 605017322,2303.0,cafe,Starbucks,-122.14653,39.15559
 7020626415,2501.0,supermarket,Grocery Outlet,-122.14295,39.15833
-358822577,2005.0,post_office,Arbuckle Post Office,-122.05712,39.01675
 358822608,2005.0,post_office,Grimes Post Office,-121.89358,39.07489
 358822625,2005.0,post_office,Princeton Post Office,-122.00998,39.40183
 358822635,2005.0,post_office,Stonyford Post Office,-122.54499,39.37516
 358822649,2005.0,post_office,Williams Post Office,-122.15025,39.15406
+368169003,2007.0,library,Colusa Carnegie Library,-122.00914,39.21378
+358822577,2005.0,post_office,Arbuckle Post Office,-122.05712,39.01675
 358822586,2005.0,post_office,College City Post Office,-122.00664,39.00795
 358822595,2005.0,post_office,Colusa Post Office,-122.00636,39.2135
 368171497,2008.0,town_hall,Williams City Hall,-122.15136,39.15406
-368169003,2007.0,library,Colusa Carnegie Library,-122.00914,39.21378

@@ -1,0 +1,33 @@
+osm_id,code,fclass,name,lon,lat
+358797771,2082.0,school,Feather River Prep School,-120.63022,39.78934
+358799144,2082.0,school,Pioneer Elementary School,-120.90523,39.93573
+358800152,2082.0,school,Summit School,-120.19382,39.80907
+358802761,2082.0,school,Feather River Community College District,-120.97013,39.95224
+358815932,2082.0,school,Indian Jim Elementary School,-121.30247,39.9485
+358820343,2082.0,school,Beckwourth School,-120.37854,39.8224
+358820401,2082.0,school,Meadow Valley School,-121.06079,39.93045
+358820412,2082.0,school,Plumas Christian School,-120.93851,39.93652
+358820432,2082.0,school,Portola Elementary School,-120.46605,39.80296
+358820435,2082.0,school,Portola Junior-Senior High School,-120.4666,39.80129
+358820448,2082.0,school,Quincy Junior-Senior High School,-120.93689,39.93853
+358820450,2110.0,hospital,Seneca Hospital,-121.23474,40.30581
+358820452,2082.0,school,Taylorsville Elementary School,-120.8419,40.07489
+358820458,2082.0,school,Wolf Creek Middle School,-120.94968,40.14128
+358820346,2082.0,school,C Roy Carmichael Elementary School,-120.47716,39.81796
+358820367,2082.0,school,Feather River Middle School,-120.46521,39.80323
+358820382,2082.0,school,Greenville Elementary School,-120.94496,40.141
+358820385,2082.0,school,Greenville Junior-Senior High School,-120.94496,40.13989
+358820393,2082.0,school,Indian Valley High School,-120.94968,40.14128
+358820399,2082.0,school,La Porte School,-120.98523,39.68073
+3761529309,2501.0,supermarket,Holiday Market,-121.22989,40.30742
+5249869741,2303.0,cafe,Coffee Station,-121.22676,40.31185
+358820354,2005.0,post_office,Chester Post Office,-121.2283,40.30905
+358820359,2005.0,post_office,Crescent Mills Post Office,-120.91218,40.09545
+358820389,2005.0,post_office,Greenville Post Office,-120.94968,40.14072
+368167456,2009.0,courthouse,Plumas County Courthouse,-120.94809,39.93619
+368169034,2007.0,library,Plumas County Library,-120.94697,39.93613
+368171493,2008.0,town_hall,Greenville Town Hall,-120.95051,40.14072
+652239896,2002.0,fire_station,,-120.47064,39.81337
+4894095723,2007.0,library,Greenville Library,-120.9519,40.1402
+7033994518,2007.0,library,Portola City Library,-120.46586,39.80532
+7033994520,2009.0,courthouse,Portola Court House,-120.46276,39.80245

@@ -1,43 +1,43 @@
 osm_id,code,fclass,name,lon,lat
-358762301,2082.0,school,Boronda Elementary School,-121.67472,36.69751
 358761515,2082.0,school,Trinity Christian High School,-121.90471,36.613
+358762301,2082.0,school,Boronda Elementary School,-121.67472,36.69751
 358767075,2082.0,school,Hall School,-121.82856,36.53052
 358767223,2082.0,school,Hartnell College,-121.66643,36.67454
 358771036,2082.0,school,Monte Vista Elementary School,-121.90745,36.58996
 358771612,2082.0,school,Noche Buena School,-121.83387,36.60688
+358783665,2082.0,school,Ellis School,-120.52988,35.80774
 358776220,2082.0,school,Somavia School,-121.50938,36.50607
 358776419,2082.0,school,Spring School,-121.66606,36.64579
 358778288,2082.0,school,Walter Colton Middle School,-121.91218,36.59246
-358795244,2082.0,school,Pleyto School,-121.09107,35.81413
-358783665,2082.0,school,Ellis School,-120.52988,35.80774
-358795560,2082.0,school,David Avenue Kindergarten Center,-121.93038,36.60573
 358785746,2082.0,school,Hesperia School,-121.05444,35.8218
 358789251,2082.0,school,Mission Elementary School,-121.36576,36.38941
+358795244,2082.0,school,Pleyto School,-121.09107,35.81413
 358790318,2082.0,school,Palo Colorado School,-121.90246,36.39663
+358795560,2082.0,school,David Avenue Kindergarten Center,-121.93038,36.60573
 358793192,2082.0,school,Sur School (Abandoned),-121.88711,36.31032
 358794218,2082.0,school,Vineyard School,-120.65461,35.82469
 358801902,2082.0,school,Pfeiffer School,-121.78117,36.24626
 358802145,2082.0,school,Seaview School,-121.68078,36.16913
-358849461,2082.0,school,Aromas Elementary School,-121.64467,36.88968
 358822899,2082.0,school,Esalen Institute,-121.63774,36.12481
 358849557,2082.0,school,Monterey Bay Educational Science and Technology Center,-121.77106,36.67774
-358849581,2082.0,school,San Jose State University Monterey County Center,-121.63828,36.65385
-358849591,2082.0,school,Windham Street Christian Academy,-121.64995,36.6694
-358849661,2082.0,school,Monterey Peninsula Adventist Junior Academy,-121.83023,36.59802
-358849719,2082.0,school,Cypress Continuation High School,-121.85329,36.60718
-358849769,2082.0,school,Toro School for the Hearing Impaired,-121.70511,36.59556
+358849461,2082.0,school,Aromas Elementary School,-121.64467,36.88968
 358849474,2082.0,school,Ohlone Elementary School,-121.74856,36.89884
 358849475,2082.0,school,Pajaro Middle School,-121.74856,36.8994
 358849496,2082.0,school,J C Crumpton Elementary School,-121.78545,36.67498
-358849798,2082.0,school,Los Padres High School,-121.12853,36.21552
 358849500,2082.0,school,Los Arboles Middle School,-121.79801,36.67857
 358849502,2082.0,school,North Monterey County Adult School,-121.73429,36.78094
+358849581,2082.0,school,San Jose State University Monterey County Center,-121.63828,36.65385
 358849505,2082.0,school,North Monterey County Unified Alternative School,-121.73428,36.78076
+358849591,2082.0,school,Windham Street Christian Academy,-121.64995,36.6694
+358849661,2082.0,school,Monterey Peninsula Adventist Junior Academy,-121.83023,36.59802
+358849553,2082.0,school,Marina la Via Contiuation High School,-121.79106,36.67774
+358849719,2082.0,school,Cypress Continuation High School,-121.85329,36.60718
+358849769,2082.0,school,Toro School for the Hearing Impaired,-121.70511,36.59556
+358849798,2082.0,school,Los Padres High School,-121.12853,36.21552
 358849827,2082.0,school,Carmel Ballet Academy,-121.92063,36.55284
 358849839,2082.0,school,Forest Hill School,-121.92124,36.56167
 358849902,2082.0,school,San Carlos Elementary School,-121.88162,36.59885
 358849930,2082.0,school,Saint Angelas School,-121.91095,36.62019
-358849553,2082.0,school,Marina la Via Contiuation High School,-121.79106,36.67774
 358849941,2082.0,school,Monterey College of Law,-121.89134,36.59663
 358849942,2082.0,school,Monterey Institute for Research and Astronomy,-121.89129,36.59496
 358849947,2082.0,school,Center for Continuing Learning,-121.93579,36.61829
@@ -51,9 +51,9 @@ osm_id,code,fclass,name,lon,lat
 529126578,2501.0,supermarket,Lucky,-121.66068,36.65914
 549025784,2082.0,school,Public Elementary School,-121.08525,35.81226
 549025841,2082.0,school,Public Elementary School,-121.0879,35.82136
+549645688,2082.0,school,Carmel School District Offices,-121.89601,36.54327
 549656907,2082.0,school,Martinez San Antonio Union School,-121.08408,35.93904
 549658363,2082.0,school,Agriculture Museum,-121.15302,36.20968
-549645688,2082.0,school,Carmel School District Offices,-121.89601,36.54327
 549660864,2082.0,school,Los Padres Continuation High School,-121.12994,36.2177
 549664720,2082.0,school,Art Museum,-121.8888,36.59477
 549667717,2082.0,school,Marina Vista Elem School,-121.79102,36.6782
@@ -71,12 +71,12 @@ osm_id,code,fclass,name,lon,lat
 1648518457,2501.0,supermarket,Trader Joe's,-121.89458,36.5965
 1648518086,2303.0,cafe,Starbucks,-121.89434,36.60081
 1648518098,2402.0,motel,,-121.8553,36.59701
-1651254219,2303.0,cafe,East Village Cafe,-121.89321,36.59794
 1648518166,2501.0,supermarket,Mi Pueblo,-121.8436,36.61176
 1648518223,2402.0,motel,The Comfort Inn-Monterey By,-121.89966,36.58778
 1648518225,2402.0,motel,Econo Lodge Monterey Fairgrounds,-121.86476,36.59533
 1648518248,2501.0,supermarket,Mi Tierra,-121.84533,36.60888
 1648518320,2402.0,motel,,-121.86097,36.5955
+1651254219,2303.0,cafe,East Village Cafe,-121.89321,36.59794
 1648518350,2402.0,motel,,-121.85476,36.59699
 1752073325,2303.0,cafe,Coast Gallery Café,-121.72553,36.20193
 1836721369,2303.0,cafe,Starbucks,-121.32098,36.41639
@@ -88,8 +88,8 @@ osm_id,code,fclass,name,lon,lat
 1912129659,2303.0,cafe,Surf City Coffee,-121.78361,36.79832
 2116864553,2303.0,cafe,Rollick's Specialty Coffee,-121.65541,36.67527
 2117540226,2303.0,cafe,Main Street Treats,-121.65525,36.67657
-2296356278,2303.0,cafe,Cafe Lumiere,-121.89478,36.60031
 2296535994,2303.0,cafe,Paris Bakery,-121.89297,36.59882
+2296356278,2303.0,cafe,Cafe Lumiere,-121.89478,36.60031
 2299090012,2303.0,cafe,Plumes,-121.89454,36.59988
 2328077470,2303.0,cafe,Starbucks,-121.90054,36.61603
 2328469748,2303.0,cafe,Trailside Café and Coffee House,-121.89943,36.61405
@@ -100,8 +100,8 @@ osm_id,code,fclass,name,lon,lat
 2458619561,2303.0,cafe,Bay Cafe,-121.88312,36.5989
 2547626344,2303.0,cafe,The Works,-121.92014,36.62194
 2566455945,2501.0,supermarket,Corral Market & Deli,-121.72732,36.57837
-2610370963,2402.0,motel,Overnight Campers Motel,-121.07641,36.1889
 2605957587,2402.0,motel,Quality Inn - Monterey Beach Dunes,-121.80504,36.69937
+2610370963,2402.0,motel,Overnight Campers Motel,-121.07641,36.1889
 2606246262,2012.0,community_centre,,-121.80324,36.68249
 2611470642,2082.0,school,Captain Cooper Elementary School,-121.81362,36.27483
 2618477622,2303.0,cafe,Ripplewood Cafe,-121.80116,36.26459
@@ -130,8 +130,8 @@ osm_id,code,fclass,name,lon,lat
 4505489421,2303.0,cafe,Starbucks,-121.80995,36.66582
 4505489435,2303.0,cafe,Starbucks,-121.85014,36.59792
 4726855692,2402.0,motel,Travel Inn,-121.2425,36.32016
-4917629838,2303.0,cafe,Carmey Valley Coffee Roasting,-121.80905,36.52249
 4917628775,2501.0,supermarket,Lucky,-121.90571,36.54261
+4917629838,2303.0,cafe,Carmey Valley Coffee Roasting,-121.80905,36.52249
 5140494821,2303.0,cafe,The Carmel Coffee House,-121.92232,36.5548
 5140494824,2303.0,cafe,Water + Leaves,-121.89264,36.60513
 5158768022,2501.0,supermarket,Commissary (military only),-121.81202,36.64484
@@ -150,10 +150,10 @@ osm_id,code,fclass,name,lon,lat
 5905646585,2303.0,cafe,The Bagel Bakery,-121.8949,36.59885
 5987019292,2303.0,cafe,Del Monte Golf Course Grill,-121.87176,36.59255
 6112230898,2303.0,cafe,Food for thought,-121.88381,36.59224
-6104306881,2501.0,supermarket,La Preciosa,-121.83987,36.6088
 6115231885,2303.0,cafe,Starbucks,-121.66725,36.70438
 6116710186,2501.0,supermarket,El Super,-121.6258,36.71454
 6119738686,2303.0,cafe,Starbucks,-121.62014,36.7
+6104306881,2501.0,supermarket,La Preciosa,-121.83987,36.6088
 6298322297,2501.0,supermarket,Brunos Market & Deli,-121.91981,36.55597
 6573503910,2082.0,school,San Juan Ranch High School,-121.62979,36.72993
 6573503908,2082.0,school,La Joya Elementary School,-121.6343,36.73256
@@ -166,8 +166,8 @@ osm_id,code,fclass,name,lon,lat
 7090056078,2303.0,cafe,360 Health Cafe,-121.81067,36.66544
 7134331695,2501.0,supermarket,Food 4 Less,-121.59586,36.69312
 7137281414,2303.0,cafe,Captain + Stoker,-121.8917,36.59942
-7233941615,2303.0,cafe,The Village,-121.80799,36.26981
 7214716138,2402.0,motel,Contenta Inn,-121.72864,36.47954
+7233941615,2303.0,cafe,The Village,-121.80799,36.26981
 7340846190,2402.0,motel,Motel 6,-121.62064,36.65947
 7596095839,2303.0,cafe,Las 2 Fridas,-121.85188,36.59693
 7690700456,2501.0,supermarket,Lucky,-121.84395,36.61986
@@ -185,29 +185,29 @@ osm_id,code,fclass,name,lon,lat
 8748632438,2082.0,school,Jack Franscioni Elementary School,-121.31535,36.43713
 8775164703,2501.0,supermarket,Jalisco Market,-121.44406,36.50744
 8775177243,2501.0,supermarket,Taylor Farms,-121.44431,36.5066
-8777999608,2402.0,motel,Lamp Lighter Motel,-121.44062,36.50325
 8770951114,2501.0,supermarket,Basic Foods,-121.43636,36.51484
 8770951115,2303.0,cafe,Latte Cafe,-121.43681,36.51454
-8780157617,2501.0,supermarket,Nielsen Bros. Market,-121.92162,36.55396
-8781195917,2303.0,cafe,Rise + Roam,-121.92081,36.55393
+8777999608,2402.0,motel,Lamp Lighter Motel,-121.44062,36.50325
 8784734120,2501.0,supermarket,Patton's Market,-121.51824,36.57038
 8784788362,2501.0,supermarket,Amigos Market,-121.51714,36.56955
+8780157617,2501.0,supermarket,Nielsen Bros. Market,-121.92162,36.55396
+8781195917,2303.0,cafe,Rise + Roam,-121.92081,36.55393
 8860009217,2405.0,hostel,,-121.90048,36.58735
+358849464,2005.0,post_office,Aromas Post Office,-121.6455,36.88801
+358849473,2005.0,post_office,Moss Landing Post Office,-121.78628,36.79844
+358849487,2005.0,post_office,,-121.8064,36.64508
+358849523,2005.0,post_office,Marina Post Office (disused?),-121.80393,36.68278
 358849707,2005.0,post_office,Carmel Valley Post Office,-121.72904,36.47775
 358849729,2005.0,post_office,Gonzales Post Office,-121.44354,36.50744
-358849464,2005.0,post_office,Aromas Post Office,-121.6455,36.88801
 358849761,2005.0,post_office,Seaside Post Office,-121.8432,36.60952
-358849473,2005.0,post_office,Moss Landing Post Office,-121.78628,36.79844
 358849765,2005.0,post_office,Spreckels Post Office,-121.64661,36.62246
 358849788,2005.0,post_office,Greenfield Post Office,-121.24465,36.32108
-358849487,2005.0,post_office,,-121.8064,36.64508
 358849797,2005.0,post_office,King City Post Office,-121.12558,36.21232
 358849812,2005.0,post_office,San Lucas Post Office,-121.01833,36.12885
-358849523,2005.0,post_office,Marina Post Office (disused?),-121.80393,36.68278
 368167006,2099.0,public_building,Northern Monterey County School District Office,-121.78634,36.79662
 368167007,2099.0,public_building,Moss Landing Harbor District Office,-121.7857,36.79906
-368170796,2007.0,library,Barnet J Segal Building Library,-121.89635,36.6033
 368167534,2009.0,courthouse,Monterey County Courthouse,-121.65884,36.67354
+368170796,2007.0,library,Barnet J Segal Building Library,-121.89635,36.6033
 368170797,2007.0,library,Community Hospital of Monterey Medical Staff Library,-121.89615,36.5956
 368170798,2007.0,library,Priscilla Fairfield Bok Library,-121.89134,36.59496
 368170800,2007.0,library,San Ardo Branch Monterey County Free Libraries,-120.90768,36.01885
@@ -218,31 +218,31 @@ osm_id,code,fclass,name,lon,lat
 368170806,2007.0,library,Gonzales Branch Monterey County Free Libraries,-121.44355,36.50699
 368170807,2007.0,library,Soledad Branch Monterey County Free Libraries,-121.32854,36.42774
 368170808,2007.0,library,Monterey County Law Library,-121.65866,36.67359
-368170779,2007.0,library,Marina Branch Monterey County Free Libraries,-121.79975,36.69155
-368170781,2007.0,library,Castroville Justice Library,-121.75884,36.76607
-368170782,2007.0,library,Castroville Branch Monterey County Free Libraries,-121.75439,36.76274
 368170809,2007.0,library,Carmel Valley Branch Monterey County Free Libraries,-121.73523,36.48052
-368170783,2007.0,library,Aromas Branch Monterey County Free Libraries,-121.64348,36.88869
 368170828,2007.0,library,Mayo Hayes O'Donnell Library,-121.89613,36.60386
 368171127,2099.0,public_building,Sherman Headquarters,-121.89608,36.59897
 368171129,2099.0,public_building,Fort Ord Post Headquarters,-121.80606,36.66913
 368171701,2008.0,town_hall,Greenfield City Hall,-121.24437,36.32163
+368170779,2007.0,library,Marina Branch Monterey County Free Libraries,-121.79975,36.69155
+368170781,2007.0,library,Castroville Justice Library,-121.75884,36.76607
+368170782,2007.0,library,Castroville Branch Monterey County Free Libraries,-121.75439,36.76274
+368170783,2007.0,library,Aromas Branch Monterey County Free Libraries,-121.64348,36.88869
 368171702,2008.0,town_hall,Sand City City Hall,-121.85009,36.61384
 368171703,2008.0,town_hall,Gonzales City Hall,-121.44325,36.5081
 368171704,2008.0,town_hall,Salinas City Hall,-121.65768,36.6747
 368171705,2008.0,town_hall,Del Rey Oaks City Hall,-121.83717,36.59413
 368171713,2008.0,town_hall,Pacific Grove City Hall,-121.91862,36.61972
 529119428,2002.0,fire_station,Monterey County Rural Fire District - Laureles Station 3,-121.75532,36.56915
+549645056,2008.0,town_hall,Carmel by the Sea City Hall,-121.92344,36.55306
+549645059,2005.0,post_office,,-121.92245,36.55627
+549645070,2001.0,police,Carmel Police Dept,-121.91953,36.55783
+549645909,2002.0,fire_station,Monterey County Regional Fire Station 5,-121.82789,36.53044
 549658448,2008.0,town_hall,King City Hall,-121.12708,36.21082
 549658449,2007.0,library,Library,-121.1266,36.21059
 549658777,2007.0,library,San Lucas Branch Library,-121.02044,36.12982
-549645056,2008.0,town_hall,Carmel by the Sea City Hall,-121.92344,36.55306
-549645059,2005.0,post_office,,-121.92245,36.55627
 549660582,2002.0,fire_station,Soledad City Fire Dept,-121.32759,36.42781
-549645070,2001.0,police,Carmel Police Dept,-121.91953,36.55783
 549660583,2005.0,post_office,Soledad Post Office,-121.32623,36.42614
 549660811,2007.0,library,Gonzales Branch Library,-121.43556,36.51537
-549645909,2002.0,fire_station,Monterey County Regional Fire Station 5,-121.82789,36.53044
 549660865,2001.0,police,King City Police Station,-121.12741,36.21082
 549660866,2002.0,fire_station,Fire Department,-121.12801,36.2111
 549661039,2002.0,fire_station,Greenfield City Fire Department,-121.24406,36.32059
@@ -290,5 +290,5 @@ osm_id,code,fclass,name,lon,lat
 8775366069,2001.0,police,Gonzales Police Department,-121.44379,36.50771
 8775381084,2002.0,fire_station,Gonzales Fire Department,-121.44265,36.50776
 8784617197,2005.0,post_office,United States Post Office,-121.51832,36.57085
-8816065481,2007.0,library,Greenfield Library,-121.24574,36.32238
 8813610883,2001.0,police,Greenfield Police Department,-121.25133,36.32936
+8816065481,2007.0,library,Greenfield Library,-121.24574,36.32238

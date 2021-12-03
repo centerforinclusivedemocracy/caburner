@@ -10,10 +10,10 @@ osm_id,code,fclass,name,lon,lat
 358766027,2082.0,school,Redwood Elementary School,-123.79474,39.43739
 358766921,2082.0,school,Greenwood Elementary School,-123.71918,39.1349
 358767144,2082.0,school,Hansen School,-123.46445,39.23045
-358795407,2082.0,school,Mendocino County Community School,-123.42223,39.05434
 358773605,2082.0,school,River Union School,-123.165,39.12962
 358773914,2082.0,school,Round Valley High School,-123.25612,39.79293
 358806836,2081.0,university,Ten Thousand Buddhas University,-123.15696,39.13462
+358795407,2082.0,school,Mendocino County Community School,-123.42223,39.05434
 358824627,2082.0,school,Branscomb Elementary School,-123.63335,39.65655
 358824634,2082.0,school,Fort Bragg Middle School,-123.79752,39.44711
 358824651,2082.0,school,Leggett Valley Elementary School,-123.71677,39.86452
@@ -40,8 +40,8 @@ osm_id,code,fclass,name,lon,lat
 1328779514,2402.0,motel,Ridgewood,-123.31589,39.34101
 1675708538,2501.0,supermarket,Geiger's Long Valley Market,-123.48191,39.68743
 1675708542,2110.0,hospital,Long Valley Clinic,-123.48435,39.6882
-1975485962,2012.0,community_centre,Caspar Community Center,-123.81372,39.36553
 1834415555,2082.0,school,Little Red Schoolhouse,-123.55567,39.35141
+1975485962,2012.0,community_centre,Caspar Community Center,-123.81372,39.36553
 1975494107,2083.0,kindergarten,Caspar Children's Garden,-123.81779,39.36959
 2641902605,2501.0,supermarket,Mariposa Market,-123.35282,39.40656
 3485575386,2303.0,cafe,Cafe 1,-123.80615,39.45007
@@ -55,8 +55,8 @@ osm_id,code,fclass,name,lon,lat
 4367033445,2303.0,cafe,,-123.48255,39.68692
 4738919054,2501.0,supermarket,Ukiah Natural Foods Co-op,-123.20508,39.14321
 5828178085,2012.0,community_centre,Community Center of Mendocino,-123.79636,39.3079
-5914862785,2402.0,motel,National 9 Inn,-123.20573,39.14095
 5912324337,2501.0,supermarket,FoodMaxx,-123.19669,39.13126
+5914862785,2402.0,motel,National 9 Inn,-123.20573,39.14095
 5916388036,2303.0,cafe,Sunny's Donunts,-123.20525,39.13303
 5916973456,2082.0,school,New Life Preschool,-123.21019,39.15136
 5914708554,2082.0,school,Creating Behavioral Educational Mometum,-123.19949,39.12873

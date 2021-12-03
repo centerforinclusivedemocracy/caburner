@@ -1,19 +1,19 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358849707,2005.0,post_office,Carmel Valley Post Office,-121.72904,36.47775
-1,358849729,2005.0,post_office,Gonzales Post Office,-121.44354,36.50744
-2,358849464,2005.0,post_office,Aromas Post Office,-121.6455,36.88801
-3,358849761,2005.0,post_office,Seaside Post Office,-121.8432,36.60952
-4,358849473,2005.0,post_office,Moss Landing Post Office,-121.78628,36.79844
-5,358849765,2005.0,post_office,Spreckels Post Office,-121.64661,36.62246
-6,358849788,2005.0,post_office,Greenfield Post Office,-121.24465,36.32108
-7,358849487,2005.0,post_office,,-121.8064,36.64508
-8,358849797,2005.0,post_office,King City Post Office,-121.12558,36.21232
-9,358849812,2005.0,post_office,San Lucas Post Office,-121.01833,36.12885
-10,358849523,2005.0,post_office,Marina Post Office (disused?),-121.80393,36.68278
+0,358849464,2005.0,post_office,Aromas Post Office,-121.6455,36.88801
+1,358849473,2005.0,post_office,Moss Landing Post Office,-121.78628,36.79844
+2,358849487,2005.0,post_office,,-121.8064,36.64508
+3,358849523,2005.0,post_office,Marina Post Office (disused?),-121.80393,36.68278
+4,358849707,2005.0,post_office,Carmel Valley Post Office,-121.72904,36.47775
+5,358849729,2005.0,post_office,Gonzales Post Office,-121.44354,36.50744
+6,358849761,2005.0,post_office,Seaside Post Office,-121.8432,36.60952
+7,358849765,2005.0,post_office,Spreckels Post Office,-121.64661,36.62246
+8,358849788,2005.0,post_office,Greenfield Post Office,-121.24465,36.32108
+9,358849797,2005.0,post_office,King City Post Office,-121.12558,36.21232
+10,358849812,2005.0,post_office,San Lucas Post Office,-121.01833,36.12885
 11,368167006,2099.0,public_building,Northern Monterey County School District Office,-121.78634,36.79662
 12,368167007,2099.0,public_building,Moss Landing Harbor District Office,-121.7857,36.79906
-13,368170796,2007.0,library,Barnet J Segal Building Library,-121.89635,36.6033
-14,368167534,2009.0,courthouse,Monterey County Courthouse,-121.65884,36.67354
+13,368167534,2009.0,courthouse,Monterey County Courthouse,-121.65884,36.67354
+14,368170796,2007.0,library,Barnet J Segal Building Library,-121.89635,36.6033
 15,368170797,2007.0,library,Community Hospital of Monterey Medical Staff Library,-121.89615,36.5956
 16,368170798,2007.0,library,Priscilla Fairfield Bok Library,-121.89134,36.59496
 17,368170800,2007.0,library,San Ardo Branch Monterey County Free Libraries,-120.90768,36.01885
@@ -24,31 +24,31 @@
 22,368170806,2007.0,library,Gonzales Branch Monterey County Free Libraries,-121.44355,36.50699
 23,368170807,2007.0,library,Soledad Branch Monterey County Free Libraries,-121.32854,36.42774
 24,368170808,2007.0,library,Monterey County Law Library,-121.65866,36.67359
-25,368170779,2007.0,library,Marina Branch Monterey County Free Libraries,-121.79975,36.69155
-26,368170781,2007.0,library,Castroville Justice Library,-121.75884,36.76607
-27,368170782,2007.0,library,Castroville Branch Monterey County Free Libraries,-121.75439,36.76274
-28,368170809,2007.0,library,Carmel Valley Branch Monterey County Free Libraries,-121.73523,36.48052
-29,368170783,2007.0,library,Aromas Branch Monterey County Free Libraries,-121.64348,36.88869
-30,368170828,2007.0,library,Mayo Hayes O'Donnell Library,-121.89613,36.60386
-31,368171127,2099.0,public_building,Sherman Headquarters,-121.89608,36.59897
-32,368171129,2099.0,public_building,Fort Ord Post Headquarters,-121.80606,36.66913
-33,368171701,2008.0,town_hall,Greenfield City Hall,-121.24437,36.32163
+25,368170809,2007.0,library,Carmel Valley Branch Monterey County Free Libraries,-121.73523,36.48052
+26,368170828,2007.0,library,Mayo Hayes O'Donnell Library,-121.89613,36.60386
+27,368171127,2099.0,public_building,Sherman Headquarters,-121.89608,36.59897
+28,368171129,2099.0,public_building,Fort Ord Post Headquarters,-121.80606,36.66913
+29,368171701,2008.0,town_hall,Greenfield City Hall,-121.24437,36.32163
+30,368170779,2007.0,library,Marina Branch Monterey County Free Libraries,-121.79975,36.69155
+31,368170781,2007.0,library,Castroville Justice Library,-121.75884,36.76607
+32,368170782,2007.0,library,Castroville Branch Monterey County Free Libraries,-121.75439,36.76274
+33,368170783,2007.0,library,Aromas Branch Monterey County Free Libraries,-121.64348,36.88869
 34,368171702,2008.0,town_hall,Sand City City Hall,-121.85009,36.61384
 35,368171703,2008.0,town_hall,Gonzales City Hall,-121.44325,36.5081
 36,368171704,2008.0,town_hall,Salinas City Hall,-121.65768,36.6747
 37,368171705,2008.0,town_hall,Del Rey Oaks City Hall,-121.83717,36.59413
 38,368171713,2008.0,town_hall,Pacific Grove City Hall,-121.91862,36.61972
 39,529119428,2002.0,fire_station,Monterey County Rural Fire District - Laureles Station 3,-121.75532,36.56915
-40,549658448,2008.0,town_hall,King City Hall,-121.12708,36.21082
-41,549658449,2007.0,library,Library,-121.1266,36.21059
-42,549658777,2007.0,library,San Lucas Branch Library,-121.02044,36.12982
-43,549645056,2008.0,town_hall,Carmel by the Sea City Hall,-121.92344,36.55306
-44,549645059,2005.0,post_office,,-121.92245,36.55627
-45,549660582,2002.0,fire_station,Soledad City Fire Dept,-121.32759,36.42781
-46,549645070,2001.0,police,Carmel Police Dept,-121.91953,36.55783
-47,549660583,2005.0,post_office,Soledad Post Office,-121.32623,36.42614
-48,549660811,2007.0,library,Gonzales Branch Library,-121.43556,36.51537
-49,549645909,2002.0,fire_station,Monterey County Regional Fire Station 5,-121.82789,36.53044
+40,549645056,2008.0,town_hall,Carmel by the Sea City Hall,-121.92344,36.55306
+41,549645059,2005.0,post_office,,-121.92245,36.55627
+42,549645070,2001.0,police,Carmel Police Dept,-121.91953,36.55783
+43,549645909,2002.0,fire_station,Monterey County Regional Fire Station 5,-121.82789,36.53044
+44,549658448,2008.0,town_hall,King City Hall,-121.12708,36.21082
+45,549658449,2007.0,library,Library,-121.1266,36.21059
+46,549658777,2007.0,library,San Lucas Branch Library,-121.02044,36.12982
+47,549660582,2002.0,fire_station,Soledad City Fire Dept,-121.32759,36.42781
+48,549660583,2005.0,post_office,Soledad Post Office,-121.32623,36.42614
+49,549660811,2007.0,library,Gonzales Branch Library,-121.43556,36.51537
 50,549660865,2001.0,police,King City Police Station,-121.12741,36.21082
 51,549660866,2002.0,fire_station,Fire Department,-121.12801,36.2111
 52,549661039,2002.0,fire_station,Greenfield City Fire Department,-121.24406,36.32059
@@ -96,5 +96,5 @@
 94,8775366069,2001.0,police,Gonzales Police Department,-121.44379,36.50771
 95,8775381084,2002.0,fire_station,Gonzales Fire Department,-121.44265,36.50776
 96,8784617197,2005.0,post_office,United States Post Office,-121.51832,36.57085
-97,8816065481,2007.0,library,Greenfield Library,-121.24574,36.32238
-98,8813610883,2001.0,police,Greenfield Police Department,-121.25133,36.32936
+97,8813610883,2001.0,police,Greenfield Police Department,-121.25133,36.32936
+98,8816065481,2007.0,library,Greenfield Library,-121.24574,36.32238

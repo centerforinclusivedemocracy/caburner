@@ -2,11 +2,11 @@ osm_id,code,fclass,name,lon,lat
 358764969,2082.0,school,Dry Creek Elementary School,-121.33634,38.72824
 358763263,2082.0,school,College of Our Lady of Mercy,-121.07717,38.87851
 358763960,2082.0,school,Columbia School,-121.12856,38.95684
-358772409,2082.0,school,Parker Whitney Elementary School,-121.25439,38.79323
-358766334,2082.0,school,Fruitvale School,-121.23356,38.9124
 358766909,2082.0,school,Greenhills Elementary School,-121.21523,38.75018
-358772840,2082.0,school,Placer Hills Elementary School,-121.02354,38.99598
+358766334,2082.0,school,Fruitvale School,-121.23356,38.9124
 358774087,2082.0,school,Saint Albans Day School,-121.30181,38.7233
+358772409,2082.0,school,Parker Whitney Elementary School,-121.25439,38.79323
+358772840,2082.0,school,Placer Hills Elementary School,-121.02354,38.99598
 358776412,2082.0,school,Spring Garden School,-120.90716,39.00212
 358778015,2082.0,school,Valley View School,-121.28495,39.0099
 358797946,2082.0,school,Gold Run School,-120.86105,39.17518
@@ -34,13 +34,13 @@ osm_id,code,fclass,name,lon,lat
 604057423,2082.0,school,,-121.28727,38.80287
 952636278,2303.0,cafe,WildFlower Cafe,-120.26084,39.19498
 952636357,2303.0,cafe,WildFlower Cafe,-120.23644,39.19609
+1012846558,2303.0,cafe,Starbucks,-121.28656,38.78133
 1001538760,2303.0,cafe,Starbucks,-121.30992,38.7523
+1014167614,2501.0,supermarket,Whole Foods Market,-121.26705,38.76736
 1003372805,2303.0,cafe,Starbucks,-121.33043,38.76901
 1016591575,2303.0,cafe,Starbucks,-121.26326,38.77355
-1012846558,2303.0,cafe,Starbucks,-121.28656,38.78133
 1017874338,2501.0,supermarket,Sunrise Nutrition Science,-121.27827,38.79122
 1017874344,2303.0,cafe,Top This Yogurt,-121.27875,38.79173
-1014167614,2501.0,supermarket,Whole Foods Market,-121.26705,38.76736
 1017874353,2303.0,cafe,Peet's Coffee,-121.27911,38.79003
 1099386730,2303.0,cafe,Foothills Donuts,-121.31009,38.75409
 1100671465,2303.0,cafe,Starbucks,-121.28799,38.7894
@@ -54,9 +54,9 @@ osm_id,code,fclass,name,lon,lat
 1394549916,2083.0,kindergarten,KinderCare,-121.30814,38.76135
 1416803716,2303.0,cafe,Starbucks,-121.20654,38.78833
 1416584890,2082.0,school,Whitney High School,-121.28899,38.83459
+1583415354,2501.0,supermarket,Grocery Outlet,-121.07521,38.90477
 1571893879,2303.0,cafe,Starbucks,-121.07412,38.90413
 1572051369,2501.0,supermarket,SaveMart,-121.07406,38.90535
-1583415354,2501.0,supermarket,Grocery Outlet,-121.07521,38.90477
 1584813019,2501.0,supermarket,Grocery Outlet,-121.2762,38.74488
 1585236606,2501.0,supermarket,Raley's,-121.05407,38.92409
 1709508450,2082.0,school,Sierra Elementary School,-121.21713,38.77225
@@ -86,16 +86,16 @@ osm_id,code,fclass,name,lon,lat
 4382507193,2303.0,cafe,The Dam Cafe,-120.14505,39.16702
 4512217591,2303.0,cafe,Pressed Juicery,-121.26914,38.76802
 4512256494,2303.0,cafe,Mirabella Gelato,-121.26802,38.76799
-4512283189,2303.0,cafe,Peet's Coffee,-121.26732,38.76801
 4516188390,2303.0,cafe,Sourdough & Co.,-121.29428,38.87915
+4512283189,2303.0,cafe,Peet's Coffee,-121.26732,38.76801
 4516188392,2303.0,cafe,Home Spun Yogurt,-121.2941,38.8788
 4516268889,2012.0,community_centre,The Axiom,-121.29304,38.89093
-4514318690,2501.0,supermarket,West Shore Market & Deli,-120.15424,39.14046
 4517673893,2303.0,cafe,Mi Pueblito,-121.29299,38.88986
-4514492990,2303.0,cafe,Poppy's Frozen Yogurt,-120.14095,39.17126
+4514318690,2501.0,supermarket,West Shore Market & Deli,-120.15424,39.14046
 4517727389,2501.0,supermarket,Panadería La Michoacana,-121.29184,38.89196
 4517751590,2501.0,supermarket,Fotos Market,-121.29106,38.89165
 4517767390,2303.0,cafe,Whistle Stop Cafe,-121.29265,38.8934
+4514492990,2303.0,cafe,Poppy's Frozen Yogurt,-120.14095,39.17126
 4521145592,2303.0,cafe,Beach Hut Deli,-121.293,38.88472
 4521217989,2303.0,cafe,El Portal Taqueria,-121.2926,38.88714
 4836031894,2082.0,school,Horizon Charter School,-121.32994,38.89755

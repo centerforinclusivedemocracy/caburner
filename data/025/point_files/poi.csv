@@ -1,38 +1,42 @@
 osm_id,code,fclass,name,lon,lat
-358780983,2082.0,school,Bonita School,-115.50388,33.12254
 358779415,2082.0,school,Acacia School,-115.49055,32.782
 358779498,2082.0,school,Alamo School,-115.30332,32.76616
-358783836,2082.0,school,Eucalyptus School,-115.60222,32.79728
 358783140,2082.0,school,Dool Elementary School,-115.48722,32.67367
-358785650,2082.0,school,Margaret Hedrick Elementary School,-115.57444,32.78839
+358780983,2082.0,school,Bonita School,-115.50388,33.12254
+358783836,2082.0,school,Eucalyptus School,-115.60222,32.79728
 358784423,2082.0,school,Fremont Elementary School,-115.52221,33.12448
+358785650,2082.0,school,Margaret Hedrick Elementary School,-115.57444,32.78839
 358785904,2082.0,school,Aurora High School,-115.51713,32.68069
-358787379,2082.0,school,Lantana School,-115.72722,32.82172
 358786501,2082.0,school,Jasper-Alamitos Union School,-115.43805,32.70867
-358788979,2082.0,school,Meadows Elementary School,-115.47416,32.80061
 358788463,2082.0,school,Magnolia Elementary School,-115.42304,32.98227
-358789508,2082.0,school,Mount Signal School,-115.63861,32.69506
+358787379,2082.0,school,Lantana School,-115.72722,32.82172
+358788979,2082.0,school,Meadows Elementary School,-115.47416,32.80061
 358788825,2082.0,school,McCabe Elementary School,-115.59528,32.752
-358789581,2082.0,school,Mulberry Elementary School,-115.41721,33.04393
 358789947,2082.0,school,Oakley School,-115.51832,32.98338
+358789508,2082.0,school,Mount Signal School,-115.63861,32.69506
+358789581,2082.0,school,Mulberry Elementary School,-115.41721,33.04393
 358790632,2082.0,school,Pine Elementary School,-115.38082,32.89394
-358791338,2082.0,school,Rose Mesquite School,-115.48443,32.88311
 358791069,2082.0,school,Reid School,-115.53777,32.98116
+358791338,2082.0,school,Rose Mesquite School,-115.48443,32.88311
 358791343,2082.0,school,Rose School,-115.46527,32.85116
+358792630,2082.0,school,Silsbee School,-115.63805,32.75922
 358792144,2082.0,school,San Pasqual School,-114.59815,32.74831
 358792149,2082.0,school,San Pasqual Valley School,-114.59809,32.75079
 358792151,2082.0,school,San Pasqual Valley School,-114.59829,32.75199
-358792630,2082.0,school,Silsbee School,-115.63805,32.75922
+358794099,2082.0,school,Verde School,-115.33693,32.72227
 358793762,2082.0,school,Calexico High School,-115.48722,32.67756
 358793775,2082.0,school,Union High School,-115.53443,32.98282
 358793855,2082.0,school,University of California Imperial Valley Fir,-115.44721,32.80477
-358794099,2082.0,school,Verde School,-115.33693,32.72227
 358794393,2082.0,school,Washington School,-115.54305,32.79256
 358794858,2082.0,school,Witter School,-115.54027,32.97227
 358794910,2082.0,school,Worth School,-115.53527,32.98116
-358844220,2082.0,school,Calipatria High School,-115.52471,33.12476
 358844285,2082.0,school,Calexico Adventist Missionary School,-115.49444,32.66534
+358844220,2082.0,school,Calipatria High School,-115.52471,33.12476
+358844240,2082.0,school,Fremont Primary School,-115.52249,33.12476
+358844244,2082.0,school,Midway High School,-115.52471,33.12448
+358844270,2082.0,school,Western Baptist Christian School,-115.54416,32.98366
 358844291,2082.0,school,De Anza Junior High School,-115.48944,32.67367
+358844273,2082.0,school,Westmorland Elementary School,-115.61805,33.0356
 358844300,2082.0,school,Heber Elementary School,-115.52972,32.72561
 358844301,2082.0,school,Heber Junior High School,-115.52972,32.72506
 358844305,2082.0,school,Jefferson Elementary School,-115.48083,32.67145
@@ -50,15 +54,11 @@ osm_id,code,fclass,name,lon,lat
 358844430,2082.0,school,San Webb Continuation High School,-115.38612,32.8163
 358844434,2082.0,school,Seeley Elementary School,-115.69222,32.79478
 358844440,2082.0,school,Soroptimist Elementary School,-115.51832,32.98504
-358844240,2082.0,school,Fremont Primary School,-115.52249,33.12476
-358844244,2082.0,school,Midway High School,-115.52471,33.12448
-358844270,2082.0,school,Western Baptist Christian School,-115.54416,32.98366
-358844273,2082.0,school,Westmorland Elementary School,-115.61805,33.0356
 2164259996,2402.0,motel,,-116.04004,33.4062
+4261536590,2501.0,supermarket,Food 4 Less,-115.50152,32.68042
 4227715492,2303.0,cafe,Starbucks,-115.4995,32.68074
 4227715495,2504.0,mall,Price Center,-115.50149,32.68317
 4227715496,2504.0,mall,,-115.48414,32.69339
-4261536590,2501.0,supermarket,Food 4 Less,-115.50152,32.68042
 4618001986,2402.0,motel,Super 8 El Centro,-115.57143,32.77679
 4682522593,2303.0,cafe,Starbucks,-115.56741,32.81331
 4930953726,2405.0,hostel,Slab City Hostel,-115.4575,33.25772
@@ -73,12 +73,12 @@ osm_id,code,fclass,name,lon,lat
 5741892124,2303.0,cafe,Donut Shop,-115.50069,32.67883
 6994031167,2303.0,cafe,,-115.47274,33.25436
 358820102,2005.0,post_office,Brawley Post Office,-115.53499,32.97893
+358844223,2005.0,post_office,Calipatria Post Office,-115.5161,33.12587
 358844287,2005.0,post_office,Calexico Post Office,-115.49656,32.66744
+358844248,2005.0,post_office,Niland Post Office,-115.51873,33.24106
 358844304,2005.0,post_office,Heber Post Office,-115.52777,32.73034
 358844396,2005.0,post_office,Imperial Post Office,-115.56972,32.84811
 358844435,2005.0,post_office,Seeley Post Office,-115.69111,32.79256
-358844223,2005.0,post_office,Calipatria Post Office,-115.5161,33.12587
-358844248,2005.0,post_office,Niland Post Office,-115.51873,33.24106
 358852047,2005.0,post_office,Felicity Post Office,-114.76476,32.7503
 368167745,2002.0,fire_station,Niland Fire Station,-115.5129,33.23884
 368167746,2002.0,fire_station,Westmorland Fire Station,-115.62333,33.03727

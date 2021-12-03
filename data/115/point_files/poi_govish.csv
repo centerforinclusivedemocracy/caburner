@@ -1,14 +1,14 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358823142,2005.0,post_office,Brownsville Post Office,-121.28246,39.45156
-1,358823149,2005.0,post_office,Camptonville Post Office,-121.05051,39.45184
-2,358823152,2005.0,post_office,Challenge Post Office,-121.22088,39.48407
-3,358823159,2005.0,post_office,Dobbins Post Office,-121.2069,39.37156
-4,358823170,2005.0,post_office,Oregon House Post Office,-121.27607,39.35711
-5,358823175,2005.0,post_office,Rackerby Post Office,-121.33135,39.43767
-6,358823264,2005.0,post_office,Marysville Post Office,-121.58691,39.13961
-7,358823313,2005.0,post_office,Wheatland Post Office,-121.42301,39.01128
-8,368167576,2009.0,courthouse,Yuba County Courthouse,-121.58663,39.141
-9,358823141,2005.0,post_office,Browns Valley Post Office,-121.40969,39.23961
+0,358823141,2005.0,post_office,Browns Valley Post Office,-121.40969,39.23961
+1,358823142,2005.0,post_office,Brownsville Post Office,-121.28246,39.45156
+2,358823149,2005.0,post_office,Camptonville Post Office,-121.05051,39.45184
+3,358823152,2005.0,post_office,Challenge Post Office,-121.22088,39.48407
+4,358823159,2005.0,post_office,Dobbins Post Office,-121.2069,39.37156
+5,358823170,2005.0,post_office,Oregon House Post Office,-121.27607,39.35711
+6,358823175,2005.0,post_office,Rackerby Post Office,-121.33135,39.43767
+7,358823264,2005.0,post_office,Marysville Post Office,-121.58691,39.13961
+8,358823313,2005.0,post_office,Wheatland Post Office,-121.42301,39.01128
+9,368167576,2009.0,courthouse,Yuba County Courthouse,-121.58663,39.141
 10,368168985,2007.0,library,Library Learning Center Yuba Community College,-121.53961,39.12523
 11,368168991,2007.0,library,Yuba County Library,-121.58761,39.1377
 12,368168992,2007.0,library,Packard Library,-121.58747,39.13961

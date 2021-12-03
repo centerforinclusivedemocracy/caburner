@@ -3,23 +3,22 @@ osm_id,code,fclass,name,lon,lat
 358780002,2082.0,school,Artesia School,-120.52822,34.66109
 358780914,2082.0,school,Benjamin Foxen Elementary School,-120.29645,34.86658
 358780986,2082.0,school,Bonita School,-120.50938,34.9578
-358784623,2082.0,school,Alice F Schott Continuing Education Center,-119.71986,34.42833
 358783927,2082.0,school,Fairlawn Elementary School,-120.44735,34.95417
-358786481,2082.0,school,Jalama School,-120.41044,34.56887
+358784623,2082.0,school,Alice F Schott Continuing Education Center,-119.71986,34.42833
 358785439,2082.0,school,Harding Elementary School,-119.72125,34.41639
+358787090,2082.0,school,La Cumbre Middle School,-119.72872,34.42395
+358786481,2082.0,school,Jalama School,-120.41044,34.56887
+358787816,2082.0,school,Lincoln School,-119.69486,34.41944
 358786578,2082.0,school,Jefferson School,-119.6943,34.43694
 358786697,2082.0,school,Mary Buren School,-120.56837,34.96917
-358787090,2082.0,school,La Cumbre Middle School,-119.72872,34.42395
+358789179,2082.0,school,Isaac Miller Elementary School,-120.43064,34.94089
 358788559,2082.0,school,Maple School,-120.49322,34.65359
 358789737,2082.0,school,Joe Nightingale Elementary School,-120.43365,34.89922
-358787816,2082.0,school,Lincoln School,-119.69486,34.41944
-358789179,2082.0,school,Isaac Miller Elementary School,-120.43064,34.94089
-358791146,2082.0,school,Rinconada School,-120.32321,34.60998
 358790481,2082.0,school,Peabody Charter Elementary School,-119.72867,34.4417
-358791220,2082.0,school,Robert Bruce Elementary School,-120.44239,34.96125
-358800743,2082.0,school,Aliso Elementary School,-119.52676,34.40116
 358791551,2082.0,school,Saint Anthonys Seminary,-119.71573,34.43915
 358792167,2082.0,school,San Roque School,-119.73208,34.44416
+358791146,2082.0,school,Rinconada School,-120.32321,34.60998
+358791220,2082.0,school,Robert Bruce Elementary School,-120.44239,34.96125
 358792216,2084.0,college,Santa Barbara College,-119.70527,34.43868
 358792225,2081.0,university,Antioch University - Santa Barbara,-119.69576,34.4193
 358792313,2082.0,school,Santa Ynez Valley Union High School,-120.09915,34.6079
@@ -27,70 +26,71 @@ osm_id,code,fclass,name,lon,lat
 358793823,2082.0,school,Montecito Union Elementary School,-119.63231,34.43212
 358793827,2082.0,school,Orcutt Junior High School,-120.44143,34.86222
 358794814,2082.0,school,Wilson School,-119.70958,34.41916
+358802067,2082.0,school,Saint Vincents School,-119.76236,34.4425
+358800743,2082.0,school,Aliso Elementary School,-119.52676,34.40116
 358801127,2082.0,school,Crane Country Day School,-119.61957,34.42444
 358801446,2082.0,school,Hope School,-119.75403,34.44472
 358801564,2082.0,school,Laguna Blanca School,-119.7618,34.42225
 358801736,2082.0,school,Midland School,-120.08792,34.73165
-358802067,2082.0,school,Saint Vincents School,-119.76236,34.4425
 358847969,2082.0,school,Alice Show Elementary School,-120.42636,34.8898
 358848083,2082.0,school,Cuyama Elementary School,-119.60902,34.93192
 358848084,2082.0,school,Delta High Continuation and Community Education Center,-120.4338,34.86606
 358848093,2082.0,school,Isaac Fesler Junior High School,-120.41936,34.95568
 358848094,2082.0,school,Orcutt Academy Charter School,-120.43937,34.86233
-358847973,2082.0,school,Ernest Righetti High School,-120.4209,34.88507
 358848097,2082.0,school,New Cuyama Elementary School,-119.68652,34.9447
-358847986,2082.0,school,Pacific Christian Elementary School,-120.42413,34.89461
 358848129,2082.0,school,Ralph Dunlap Elementary School,-120.41293,34.86945
-358847987,2082.0,school,Saint Joseph High School,-120.41687,34.88218
 358848133,2082.0,school,Saint Louis de Montfort School,-120.41494,34.86362
 358848173,2082.0,school,La Honda Elementary School,-120.44989,34.65748
 358848175,2082.0,school,La Mesa/Maple School,-120.47044,34.69443
-358848000,2082.0,school,Cary Calvin Oakley Elementary School,-120.45149,34.96647
 358848177,2082.0,school,Lompoc Adult School,-120.46405,34.64776
-358848008,2082.0,school,Conejo School,-120.44294,34.94359
-358848009,2082.0,school,Cypress Street Kindergarten,-120.43989,34.95081
 358848185,2082.0,school,Los Padres Elementary School,-120.50683,34.74748
-358848029,2082.0,school,George Washington Battles Elementary School,-120.42803,34.93223
 358848188,2082.0,school,Maple High School,-120.50267,34.74526
-358848036,2082.0,school,Juan Pacifico Ontiveras Elementary School,-120.4469,34.97623
-358848042,2082.0,school,Martin Luther Tunnell Elementary School,-120.41461,34.96431
 358848203,2082.0,school,Ballard School,-120.11358,34.6397
-358848048,2082.0,school,Orange Street Kindergarten,-120.43127,34.94914
-358848059,2082.0,school,Saint Marys School,-120.43067,34.95111
 358848241,2082.0,school,Los Olivos Elementary School,-120.11209,34.66582
-358848072,2082.0,school,William Laird Adam Elementary School,-120.44251,34.93578
 358848246,2082.0,school,Olga L Reed Elementary School,-120.2796,34.73998
-358848073,2082.0,school,William Rice Elementary School,-120.42683,34.96664
 358848248,2082.0,school,Refugio High School,-120.10015,34.60721
 358848256,2082.0,school,Santa Ynez Valley Charter School,-120.0832,34.61666
 358848259,2082.0,school,Santa Ynez Valley Christian Academy,-120.13737,34.59888
-358848592,2082.0,school,Canalino Elementary School,-119.51512,34.40416
 358848263,2082.0,school,Solvang Elementary School,-120.14181,34.59776
-358848599,2082.0,school,Carpinteria Middle School,-119.51484,34.39527
+358847973,2082.0,school,Ernest Righetti High School,-120.4209,34.88507
 358848315,2082.0,school,Rainbow School,-119.82347,34.43499
-358848605,2082.0,school,College of the Queen of Peace Jesuit Novitiate,-119.58068,34.44194
 358848345,2082.0,school,Bishop Garcia Diego High School,-119.75847,34.445
+358847986,2082.0,school,Pacific Christian Elementary School,-120.42413,34.89461
 358848384,2082.0,school,Los Alturas Continuation High School,-119.75681,34.45
+358847987,2082.0,school,Saint Joseph High School,-120.41687,34.88218
 358848396,2082.0,school,Seventh Day Adventist School,-119.78042,34.43444
 358848399,2082.0,school,Vieja Valley Elementary School,-119.76931,34.43583
-358848620,2082.0,school,Main Elementary School,-119.51818,34.39555
-358858164,2082.0,school,Santa Barbara Business College,-119.80752,34.43536
+358848000,2082.0,school,Cary Calvin Oakley Elementary School,-120.45149,34.96647
+358848008,2082.0,school,Conejo School,-120.44294,34.94359
+358848009,2082.0,school,Cypress Street Kindergarten,-120.43989,34.95081
 358848421,2082.0,school,Hillside House Cerebral Palsy School,-119.74264,34.42
+358848029,2082.0,school,George Washington Battles Elementary School,-120.42803,34.93223
+358848036,2082.0,school,Juan Pacifico Ontiveras Elementary School,-120.4469,34.97623
+358848042,2082.0,school,Martin Luther Tunnell Elementary School,-120.41461,34.96431
 358848442,2082.0,school,Marymount School,-119.70958,34.4425
+358848048,2082.0,school,Orange Street Kindergarten,-120.43127,34.94914
 358848446,2082.0,school,Monroe Elementary School,-119.72958,34.40389
 358848452,2082.0,school,Monte Vista Elementary School,-119.74597,34.45028
+358848059,2082.0,school,Saint Marys School,-120.43067,34.95111
+358848072,2082.0,school,William Laird Adam Elementary School,-120.44251,34.93578
+358848073,2082.0,school,William Rice Elementary School,-120.42683,34.96664
 358848507,2082.0,school,Guadalupe School,-119.68374,34.42305
+358848592,2082.0,school,Canalino Elementary School,-119.51512,34.40416
 358848509,2082.0,school,La Cuesta High School,-119.70069,34.40805
+358848599,2082.0,school,Carpinteria Middle School,-119.51484,34.39527
 358848510,2082.0,school,Lawrence M Parma School for Handicapped Children,-119.68236,34.425
+358848605,2082.0,school,College of the Queen of Peace Jesuit Novitiate,-119.58068,34.44194
 358848558,2082.0,school,Howard School,-119.63069,34.42833
+358848620,2082.0,school,Main Elementary School,-119.51818,34.39555
+358858164,2082.0,school,Santa Barbara Business College,-119.80752,34.43536
 358848562,2082.0,school,Music Academy of the West,-119.64846,34.41916
 358848564,2082.0,school,Notre Dame School,-119.70764,34.42722
 358848580,2082.0,school,Saint Marys Seminary,-119.6943,34.45916
 358858304,2082.0,school,Santa Barbara Business College - Santa Maria Branch,-120.43315,34.93768
-358858433,2082.0,school,Santa Barbara College of Oriental Medicine,-119.71399,34.43002
-368168919,2083.0,kindergarten,Montessori Childrens Home,-119.70902,34.42611
 358858640,2081.0,university,Pacifica Graduate Institute,-119.58055,34.42131
 358858662,2082.0,school,Fielding Graduate University,-119.7138,34.43443
+358858433,2082.0,school,Santa Barbara College of Oriental Medicine,-119.71399,34.43002
+368168919,2083.0,kindergarten,Montessori Childrens Home,-119.70902,34.42611
 368171138,2012.0,community_centre,Lompoc Civic Center,-120.45237,34.63761
 448863565,2303.0,cafe,Starbucks,-119.84817,34.41147
 467861362,2501.0,supermarket,Lazy Acres,-119.72166,34.40029
@@ -127,22 +127,22 @@ osm_id,code,fclass,name,lon,lat
 1773956672,2501.0,supermarket,Foods Co,-120.43761,34.93507
 1773962721,2501.0,supermarket,FoodMaxx,-120.43429,34.91526
 1773963248,2501.0,supermarket,FoodMaxx,-120.43393,34.97442
-1774717125,2303.0,cafe,Coffee Time,-120.43517,34.92118
 1777384174,2303.0,cafe,The Natural Cafe,-120.43755,34.91651
 1777395882,2303.0,cafe,Starbucks,-120.43553,34.91551
 1777420101,2303.0,cafe,Starbucks,-120.43443,34.91823
-1780012334,2303.0,cafe,Cafe Noir,-120.43654,34.93212
+1774717125,2303.0,cafe,Coffee Time,-120.43517,34.92118
 1779965513,2303.0,cafe,Blenders in the Grass,-120.41709,34.86629
 1779965514,2303.0,cafe,TnT's Frozen Yogurt,-120.41848,34.86403
 1779965515,2303.0,cafe,Golden Donut,-120.41843,34.8663
+1780012334,2303.0,cafe,Cafe Noir,-120.43654,34.93212
 1781205135,2303.0,cafe,Starbucks,-120.43642,34.93686
-1781243215,2501.0,supermarket,Vallarta Supermarket,-120.43609,34.97455
 1780007605,2303.0,cafe,Starbucks,-120.42692,34.92333
+1781243215,2501.0,supermarket,Vallarta Supermarket,-120.43609,34.97455
 1781278529,2501.0,supermarket,La Princesa Market,-120.43542,34.96246
 1781324333,2303.0,cafe,Starbucks,-120.41622,34.95323
+1814703216,2082.0,school,The Children's House Montessori School,-120.41384,34.88407
 1801528091,2402.0,motel,,-120.4351,34.93348
 1801564941,2402.0,motel,,-120.41945,34.95357
-1814703216,2082.0,school,The Children's House Montessori School,-120.41384,34.88407
 1824028243,2501.0,supermarket,Lassen's Natural Food & Vitamins,-120.43565,34.92768
 2140731742,2501.0,supermarket,Walmart Neighborhood Market,-120.45276,34.94818
 2140731780,2501.0,supermarket,La Perla Market,-120.45335,34.95169
@@ -152,16 +152,16 @@ osm_id,code,fclass,name,lon,lat
 2160172419,2402.0,motel,,-120.43523,34.92676
 2170908724,2013.0,nursing_home,Santa Maria Care Center,-120.44571,34.94906
 2180508894,2082.0,school,,-120.27896,34.73973
-2420435807,2504.0,mall,,-119.74734,34.43882
 2401050176,2504.0,mall,Five Points Shopping Center,-119.75281,34.43919
+2420435807,2504.0,mall,,-119.74734,34.43882
+2420435846,2504.0,mall,,-119.748,34.43806
 2423520772,2303.0,cafe,Starbucks,-119.75256,34.43881
 2423520776,2501.0,supermarket,Whole Foods Market,-119.7453,34.43943
-2420435846,2504.0,mall,,-119.748,34.43806
 2455007694,2082.0,school,La Purisima Catholic Church School,-120.46028,34.63446
 2509930249,2303.0,cafe,Starbucks,-119.70574,34.42411
 2698465159,2303.0,cafe,Starbucks,-119.72342,34.40238
-2817095346,2303.0,cafe,South Side Coffee Company,-120.45811,34.63869
 2968156973,2303.0,cafe,,-119.84476,34.41562
+2817095346,2303.0,cafe,South Side Coffee Company,-120.45811,34.63869
 3119924739,2303.0,cafe,Bagel Café,-119.85702,34.411
 3009214242,2303.0,cafe,Donut Time,-120.43419,34.97397
 3092928359,2082.0,school,,-120.45071,34.92546
@@ -218,22 +218,22 @@ osm_id,code,fclass,name,lon,lat
 6545769186,2501.0,supermarket,Chapala Market,-119.68705,34.42729
 6718303685,2303.0,cafe,Succulent Café,-120.1432,34.59616
 6872264148,2012.0,community_centre,Balfour Beatty,-120.53598,34.75303
+6965140807,2082.0,school,Santa Barbara Middle School,-119.69477,34.437
 6925940293,2303.0,cafe,Starbucks,-119.86812,34.42897
 6949506960,2303.0,cafe,Lucky Hen Larder,-120.07692,34.61225
-6965140807,2082.0,school,Santa Barbara Middle School,-119.69477,34.437
 6979706273,2303.0,cafe,Fresco Cafe,-119.75148,34.43952
 7090604643,2303.0,cafe,Mojo Asian Fusion Café,-119.85489,34.4119
 7113238207,2082.0,school,Harding Elementary School,-119.721,34.41735
 7734549498,2303.0,cafe,Lucky Llama Coffee House,-119.5168,34.39813
+7734751516,2303.0,cafe,Jack's Bistro & Famous Bagels,-119.51764,34.39856
 7729246690,2082.0,school,Howard Carden School,-119.51028,34.40648
 7729313473,2014.0,arts_centre,Carpinteria Arts Center,-119.51987,34.39813
-7734751516,2303.0,cafe,Jack's Bistro & Famous Bagels,-119.51764,34.39856
 8023541085,2501.0,supermarket,Foodland Market,-119.71647,34.41876
 8429627211,2501.0,supermarket,Tri-County Produce,-119.67373,34.41852
 8429741866,2501.0,supermarket,Mesa Produce,-119.72495,34.40252
 8443717304,2303.0,cafe,Ah Juice Organics,-119.69002,34.42179
 8530941196,2303.0,cafe,Montecio Coffee Shop,-119.63223,34.43724
 8530963675,2501.0,supermarket,Montecito Village Grocery,-119.63372,34.43821
-8789962517,2303.0,cafe,Dune Coffee Roasters,-119.69518,34.41878
 8810083393,2303.0,cafe,Good Seed Coffee Roasters,-120.14149,34.59619
+8789962517,2303.0,cafe,Dune Coffee Roasters,-119.69518,34.41878
 8884016492,2501.0,supermarket,Tino's Italian Grocery,-119.70461,34.41923

@@ -1,10 +1,10 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358815429,2005.0,post_office,Cedarville Post Office,-120.17217,41.52739
-1,358815438,2005.0,post_office,Fort Bidwell Post Office,-120.15189,41.856
-2,358821760,2005.0,post_office,Adin Post Office,-120.94386,41.19739
-3,358821772,2005.0,post_office,Canby Post Office,-120.87136,41.44378
-4,358821784,2005.0,post_office,Likely Post Office,-120.50412,41.22962
-5,368167448,2009.0,courthouse,Modoc County Courthouse,-120.54079,41.48323
+0,368167448,2009.0,courthouse,Modoc County Courthouse,-120.54079,41.48323
+1,358815429,2005.0,post_office,Cedarville Post Office,-120.17217,41.52739
+2,358815438,2005.0,post_office,Fort Bidwell Post Office,-120.15189,41.856
+3,358821760,2005.0,post_office,Adin Post Office,-120.94386,41.19739
+4,358821772,2005.0,post_office,Canby Post Office,-120.87136,41.44378
+5,358821784,2005.0,post_office,Likely Post Office,-120.50412,41.22962
 6,1682265480,2005.0,post_office,Lake City Post Office,-120.21632,41.64485
 7,1878686682,2002.0,fire_station,,-121.26621,41.67883
 8,2698387420,2002.0,fire_station,CalFire Alturas Station,-120.53484,41.49128

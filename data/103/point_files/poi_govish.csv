@@ -1,25 +1,25 @@
 ,osm_id,code,fclass,name,lon,lat
 0,358819306,2005.0,post_office,Tehama Post Office,-122.1211,40.0271
-1,368167709,2002.0,fire_station,Fire Station Number 2,-122.24305,40.17682
+1,368167468,2009.0,courthouse,Tehama County Courthouse,-122.23611,40.17627
 2,358823696,2005.0,post_office,Los Molinos Post Office,-122.09999,40.0246
-3,368167468,2009.0,courthouse,Tehama County Courthouse,-122.23611,40.17627
-4,368171490,2008.0,town_hall,Red Bluff City Hall,-122.23522,40.17566
-5,368169076,2007.0,library,Herbert Kraft Free Library,-122.23889,40.17849
+3,368169076,2007.0,library,Herbert Kraft Free Library,-122.23889,40.17849
+4,368167709,2002.0,fire_station,Fire Station Number 2,-122.24305,40.17682
+5,368171490,2008.0,town_hall,Red Bluff City Hall,-122.23522,40.17566
 6,2296347170,2002.0,fire_station,Capay Fire Protection District,-122.08497,39.79915
 7,2296347171,2002.0,fire_station,Corning Volunteer Fire Department,-122.18238,39.92724
 8,2296347172,2002.0,fire_station,Gerber Fire Department,-122.15177,40.05534
 9,2296387475,2002.0,fire_station,Baker CAL FIRE,-122.49259,40.27962
-10,2296633542,2002.0,fire_station,Tehama County Fire Department Station 10 - Los Molinos,-122.09587,40.02668
-11,2296633552,2002.0,fire_station,Tehama County Fire Department Station 12/CAL FIRE - Corning,-122.17826,39.93122
-12,2296633558,2002.0,fire_station,Tehama County Fire Department Station 13 - Rancho Tehama,-122.40039,40.0154
-13,2296387476,2002.0,fire_station,Paskenta CAL FIRE,-122.55476,39.88518
-14,2296633564,2002.0,fire_station,Tehama County Fire Department Station 14 - Dibble Creek,-122.28372,40.22089
-15,2296387477,2002.0,fire_station,Paynes Creek CAL FIRE,-121.92523,40.33217
-16,2296633570,2002.0,fire_station,Tehama County Fire Department Station 16 - Vina,-122.0521,39.92859
-17,2296387478,2002.0,fire_station,Red Bank CAL FIRE,-122.44682,40.10843
-18,2296387480,2002.0,fire_station,Red Bluff Fire Department,-122.23498,40.17544
-19,2296387481,2001.0,police,Red Bluff Police Department,-122.23509,40.17555
-20,2296387482,2002.0,fire_station,Tehama County Fire Department Station 1/CAL FIRE Red Bluff,-122.20434,40.18696
+10,2296387476,2002.0,fire_station,Paskenta CAL FIRE,-122.55476,39.88518
+11,2296387477,2002.0,fire_station,Paynes Creek CAL FIRE,-121.92523,40.33217
+12,2296387478,2002.0,fire_station,Red Bank CAL FIRE,-122.44682,40.10843
+13,2296387480,2002.0,fire_station,Red Bluff Fire Department,-122.23498,40.17544
+14,2296387481,2001.0,police,Red Bluff Police Department,-122.23509,40.17555
+15,2296387482,2002.0,fire_station,Tehama County Fire Department Station 1/CAL FIRE Red Bluff,-122.20434,40.18696
+16,2296633542,2002.0,fire_station,Tehama County Fire Department Station 10 - Los Molinos,-122.09587,40.02668
+17,2296633552,2002.0,fire_station,Tehama County Fire Department Station 12/CAL FIRE - Corning,-122.17826,39.93122
+18,2296633558,2002.0,fire_station,Tehama County Fire Department Station 13 - Rancho Tehama,-122.40039,40.0154
+19,2296633564,2002.0,fire_station,Tehama County Fire Department Station 14 - Dibble Creek,-122.28372,40.22089
+20,2296633570,2002.0,fire_station,Tehama County Fire Department Station 16 - Vina,-122.0521,39.92859
 21,2297436831,2002.0,fire_station,Tehama County Fire Department Station 18 - Manton,-121.86974,40.43521
 22,2297436832,2002.0,fire_station,Tehama County Fire Department Station 2 Lake California,-122.21337,40.35428
 23,2297436833,2002.0,fire_station,Tehama County Fire Department Station 3/CAL FIRE - Bowman,-122.35407,40.3457

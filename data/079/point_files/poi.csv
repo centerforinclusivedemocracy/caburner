@@ -1,17 +1,17 @@
 osm_id,code,fclass,name,lon,lat
-358780037,2082.0,school,Asuncion School,-120.82879,35.54081
-358783335,2082.0,school,East Santa Fe School,-120.64934,35.23581
 358780268,2082.0,school,Banning School,-120.78656,35.35647
 358782067,2082.0,school,Choice Valley School,-120.1682,35.61219
+358780037,2082.0,school,Asuncion School,-120.82879,35.54081
 358782102,2082.0,school,Christian Day School,-120.65239,35.2647
+358786170,2082.0,school,Huasna School,-120.39349,35.12025
+358783335,2082.0,school,East Santa Fe School,-120.64934,35.23581
 358784691,2082.0,school,Geneseo School,-120.54572,35.57164
 358786608,2082.0,school,Jespersen School,-120.65402,35.29477
-358786170,2082.0,school,Huasna School,-120.39349,35.12025
 358788492,2082.0,school,Mammoth Rock School,-120.95546,35.56053
-358801249,2082.0,school,Fairview School,-120.83184,35.44331
 358790207,2082.0,school,San Luis Obispo Classical Academy,-120.65405,35.29564
 358790577,2082.0,school,Phillips School,-120.50572,35.65414
 358793836,2082.0,school,Union School,-120.56544,35.6383
+358801249,2082.0,school,Fairview School,-120.83184,35.44331
 358801585,2082.0,school,West Mall Alternative School,-120.66656,35.49065
 358801953,2082.0,school,Pozo School,-120.35377,35.3347
 358848732,2082.0,school,Atascadero Adult School,-120.66656,35.49053
@@ -71,8 +71,8 @@ osm_id,code,fclass,name,lon,lat
 3070912881,2303.0,cafe,Creekside Garden Cafe,-121.08359,35.56303
 3102952733,2402.0,motel,,-121.0776,35.56634
 3107357329,2303.0,cafe,Cricket's,-120.64821,35.46494
-3148283619,2303.0,cafe,Linn's Easy as Pie Cafe,-121.08199,35.56516
 3179899925,2303.0,cafe,Starbucks,-120.65651,35.47559
+3148283619,2303.0,cafe,Linn's Easy as Pie Cafe,-121.08199,35.56516
 3219202453,2303.0,cafe,Ascendo,-120.82827,35.31088
 3227431322,2082.0,school,Lighthouse Christian School,-120.58251,35.11522
 3227477408,2082.0,school,Heartland Christian Academy,-120.82246,35.3303
@@ -88,8 +88,8 @@ osm_id,code,fclass,name,lon,lat
 3874088183,2303.0,cafe,Jack Ranch Café,-120.29697,35.72334
 3934635627,2082.0,school,Avila Beach Surf School,-120.7326,35.17954
 4006587421,2303.0,cafe,Honeymoon Cafe,-120.64194,35.14314
-4036961937,2303.0,cafe,Starbucks,-120.48648,35.03746
 4013020889,2082.0,school,Almond Acres Charter Academy,-120.6977,35.7579
+4036961937,2303.0,cafe,Starbucks,-120.48648,35.03746
 4075572651,2303.0,cafe,Nautical Bean Espresso Cafe,-120.69081,35.2577
 4101545521,2402.0,motel,,-120.6504,35.28948
 4106340189,2501.0,supermarket,Smart & Final,-120.60575,35.12219
@@ -102,8 +102,8 @@ osm_id,code,fclass,name,lon,lat
 4436986554,2303.0,cafe,Starbucks,-120.66275,35.30334
 4446308336,2303.0,cafe,The Neighborhood,-120.66906,35.29362
 4446333908,2501.0,supermarket,Lassens Natural Foods & Vitamins,-120.67,35.29486
-4675442090,2082.0,school,Boys and Girls club of south san luis obispo county,-120.61039,35.0998
 4660473431,2082.0,school,Coast Unified School District,-121.08993,35.5624
+4675442090,2082.0,school,Boys and Girls club of south san luis obispo county,-120.61039,35.0998
 4744364987,2303.0,cafe,Ragged Point Espresso Bar,-121.32987,35.78108
 4827963422,2303.0,cafe,Starbucks,-120.84432,35.36777
 4915321270,2014.0,arts_centre,Anam-Cre Pottery Studio,-120.65753,35.28388
@@ -111,8 +111,8 @@ osm_id,code,fclass,name,lon,lat
 4917195526,2303.0,cafe,Kreuzberg,-120.66472,35.2786
 4917450065,2303.0,cafe,Scout Coffee Company,-120.66293,35.27895
 4927518680,2014.0,arts_centre,Wushu Taichi Center,-120.66192,35.28222
-4929341318,2504.0,mall,Urban Optics,-120.66036,35.28105
 4919526690,2082.0,school,Old Mission School,-120.6647,35.28137
+4929341318,2504.0,mall,Urban Optics,-120.66036,35.28105
 4929368803,2303.0,cafe,Blackhorse Espresso & Bakery - Uptown,-120.65987,35.28146
 4929556824,2303.0,cafe,Starbucks,-120.66173,35.27988
 4929624654,2504.0,mall,Mission Mall,-120.66397,35.27961
@@ -148,7 +148,6 @@ osm_id,code,fclass,name,lon,lat
 7859217552,2303.0,cafe,Starbucks,-120.66038,35.645
 8664606974,2501.0,supermarket,ALDI,-120.60159,35.11941
 358823423,2005.0,post_office,Los Padres Post Office,-120.69962,35.32609
-368167529,2009.0,courthouse,San Luis Obispo County Courthouse,-120.66156,35.28247
 358848726,2005.0,post_office,Templeton Post Office,-120.70072,35.55748
 358848745,2005.0,post_office,Atascadero Post Office,-120.66989,35.48997
 358848794,2005.0,post_office,Cayucos Post Office,-120.90351,35.44997
@@ -160,6 +159,7 @@ osm_id,code,fclass,name,lon,lat
 358849062,2005.0,post_office,Shell Beach Post Office,-120.67169,35.15734
 358849109,2005.0,post_office,Nipomo Post Office,-120.47433,35.0422
 368170561,2007.0,library,Paso Robles Public Library,-120.69058,35.62537
+368167529,2009.0,courthouse,San Luis Obispo County Courthouse,-120.66156,35.28247
 368170563,2007.0,library,San Miguel Branch San Luis Obispo City-County Library,-120.69823,35.75136
 368170566,2007.0,library,Atascadero Branch San Luis Obispo City-County Library,-120.66628,35.48219
 368170763,2007.0,library,South County Branch San Luis Obispo City-County Library,-120.5897,35.12445

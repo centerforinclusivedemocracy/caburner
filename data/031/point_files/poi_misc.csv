@@ -17,6 +17,7 @@ osm_id,code,fclass,name,lon,lat
 358792082,2082.0,school,San Jose School,-119.88736,36.35301
 358793436,2082.0,school,Thomas McCarthy Memorial School,-119.6443,36.33578
 358794756,2082.0,school,Willow Grove School,-119.54596,36.34384
+368167517,2014.0,arts_centre,Kings Art Center,-119.64568,36.33134
 358833337,2082.0,school,Armona Elementary School,-119.71013,36.31162
 358833340,2082.0,school,Gardenside Elementary School,-119.63013,36.30134
 358833346,2082.0,school,Kings Christian Elementary School,-119.76847,36.30051
@@ -33,9 +34,8 @@ osm_id,code,fclass,name,lon,lat
 358833467,2082.0,school,Hanford High Night Continuation School,-119.64485,36.34328
 358833510,2082.0,school,Kings Lake High School,-119.5729,36.09578
 358833512,2082.0,school,Reef-Sunset Middle School,-120.13847,36.01162
-368167517,2014.0,arts_centre,Kings Art Center,-119.64568,36.33134
-2373922704,2402.0,motel,,-119.7998,36.28522
 2258411478,2303.0,cafe,Starbucks,-119.95904,35.98768
+2373922704,2402.0,motel,,-119.7998,36.28522
 3320792708,2110.0,hospital,Adventist Health Hanford,-119.66695,36.32386
 6071027121,2082.0,school,Akers Elementary School,-119.87539,36.26374
 6456309410,2110.0,hospital,Hanford Medical Pavilion,-119.6668,36.32441

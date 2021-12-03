@@ -1,17 +1,17 @@
 ,osm_id,code,fclass,name,lon,lat
 0,358823423,2005.0,post_office,Los Padres Post Office,-120.69962,35.32609
-1,368167529,2009.0,courthouse,San Luis Obispo County Courthouse,-120.66156,35.28247
-2,358848726,2005.0,post_office,Templeton Post Office,-120.70072,35.55748
-3,358848745,2005.0,post_office,Atascadero Post Office,-120.66989,35.48997
-4,358848794,2005.0,post_office,Cayucos Post Office,-120.90351,35.44997
-5,358848849,2005.0,post_office,Morro Bay Post Office,-120.84733,35.36671
-6,358848882,2005.0,post_office,Santa Margarita Post Office,-120.60819,35.39166
-7,358848999,2005.0,post_office,United States Post Office,-120.61989,35.12167
-8,358849006,2005.0,post_office,Halcyon Post Office,-120.59176,35.10315
-9,358849036,2005.0,post_office,Avila Beach Post Office,-120.7334,35.18067
-10,358849062,2005.0,post_office,Shell Beach Post Office,-120.67169,35.15734
-11,358849109,2005.0,post_office,Nipomo Post Office,-120.47433,35.0422
-12,368170561,2007.0,library,Paso Robles Public Library,-120.69058,35.62537
+1,358848726,2005.0,post_office,Templeton Post Office,-120.70072,35.55748
+2,358848745,2005.0,post_office,Atascadero Post Office,-120.66989,35.48997
+3,358848794,2005.0,post_office,Cayucos Post Office,-120.90351,35.44997
+4,358848849,2005.0,post_office,Morro Bay Post Office,-120.84733,35.36671
+5,358848882,2005.0,post_office,Santa Margarita Post Office,-120.60819,35.39166
+6,358848999,2005.0,post_office,United States Post Office,-120.61989,35.12167
+7,358849006,2005.0,post_office,Halcyon Post Office,-120.59176,35.10315
+8,358849036,2005.0,post_office,Avila Beach Post Office,-120.7334,35.18067
+9,358849062,2005.0,post_office,Shell Beach Post Office,-120.67169,35.15734
+10,358849109,2005.0,post_office,Nipomo Post Office,-120.47433,35.0422
+11,368170561,2007.0,library,Paso Robles Public Library,-120.69058,35.62537
+12,368167529,2009.0,courthouse,San Luis Obispo County Courthouse,-120.66156,35.28247
 13,368170563,2007.0,library,San Miguel Branch San Luis Obispo City-County Library,-120.69823,35.75136
 14,368170566,2007.0,library,Atascadero Branch San Luis Obispo City-County Library,-120.66628,35.48219
 15,368170763,2007.0,library,South County Branch San Luis Obispo City-County Library,-120.5897,35.12445

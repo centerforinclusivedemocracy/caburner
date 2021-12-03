@@ -1,12 +1,12 @@
 osm_id,code,fclass,name,lon,lat
-358762930,2082.0,school,Calumet School,-122.2336,39.79155
 358763470,2082.0,school,Cherokee School,-122.25332,39.66738
-358768560,2082.0,school,Kanawha School,-122.24971,39.52433
+358762930,2082.0,school,Calumet School,-122.2336,39.79155
 358763830,2082.0,school,Codora School,-122.03109,39.45044
-358769285,2082.0,school,Liberty School,-122.23943,39.40738
-358772116,2082.0,school,Ord School,-122.00803,39.64294
 358770457,2082.0,school,McIntosh School,-122.06637,39.78294
+358768560,2082.0,school,Kanawha School,-122.24971,39.52433
+358769285,2082.0,school,Liberty School,-122.23943,39.40738
 358772853,2082.0,school,Plaza Elementary School,-122.10526,39.71044
+358772116,2082.0,school,Ord School,-122.00803,39.64294
 358777870,2082.0,school,Union School,-121.96609,39.421
 358816915,2082.0,school,Seventh-day Adventist School,-122.24721,39.75932
 358821952,2082.0,school,Elk Creek Elementary School,-122.54124,39.60721
@@ -14,16 +14,16 @@ osm_id,code,fclass,name,lon,lat
 358821993,2082.0,school,Hamilton Elementary School,-122.01609,39.7396
 358822016,2082.0,school,Murdock Elementary School,-122.20193,39.5271
 368172652,2012.0,community_centre,Carnegie Community Center,-122.19332,39.74488
+1419409473,2303.0,cafe,Starbucks,-122.21247,39.5264
 1411768357,2501.0,supermarket,Sani Market,-122.19425,39.51509
 1884349116,2303.0,cafe,Nancy's Cafe,-122.2177,39.52189
-1419409473,2303.0,cafe,Starbucks,-122.21247,39.5264
 1948095180,2303.0,cafe,Dutch Bros. Coffee,-122.20203,39.74963
 5436516324,2303.0,cafe,Starbucks,-122.20475,39.74858
+368171498,2008.0,town_hall,Orland City Hall,-122.19387,39.74571
 358821929,2005.0,post_office,Artois Post Office,-122.19471,39.61933
 358821956,2005.0,post_office,Elk Creek Post Office,-122.53749,39.60349
 358821988,2005.0,post_office,Glenn Post Office,-122.01374,39.52196
 358821991,2005.0,post_office,Hamilton City Post Office,-122.01137,39.74016
-368171498,2008.0,town_hall,Orland City Hall,-122.19387,39.74571
 368167444,2009.0,courthouse,Glenn County Courthouse,-122.20026,39.52016
 368168969,2007.0,library,Orland Free Library,-122.1936,39.74488
 368171499,2008.0,town_hall,Willows City Hall,-122.19498,39.52127

@@ -1,11 +1,11 @@
 ,osm_id,code,fclass,name,lon,lat
 0,358820102,2005.0,post_office,Brawley Post Office,-115.53499,32.97893
-1,358844287,2005.0,post_office,Calexico Post Office,-115.49656,32.66744
-2,358844304,2005.0,post_office,Heber Post Office,-115.52777,32.73034
-3,358844396,2005.0,post_office,Imperial Post Office,-115.56972,32.84811
-4,358844435,2005.0,post_office,Seeley Post Office,-115.69111,32.79256
-5,358844223,2005.0,post_office,Calipatria Post Office,-115.5161,33.12587
-6,358844248,2005.0,post_office,Niland Post Office,-115.51873,33.24106
+1,358844223,2005.0,post_office,Calipatria Post Office,-115.5161,33.12587
+2,358844287,2005.0,post_office,Calexico Post Office,-115.49656,32.66744
+3,358844248,2005.0,post_office,Niland Post Office,-115.51873,33.24106
+4,358844304,2005.0,post_office,Heber Post Office,-115.52777,32.73034
+5,358844396,2005.0,post_office,Imperial Post Office,-115.56972,32.84811
+6,358844435,2005.0,post_office,Seeley Post Office,-115.69111,32.79256
 7,358852047,2005.0,post_office,Felicity Post Office,-114.76476,32.7503
 8,368167745,2002.0,fire_station,Niland Fire Station,-115.5129,33.23884
 9,368167746,2002.0,fire_station,Westmorland Fire Station,-115.62333,33.03727

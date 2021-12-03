@@ -1,29 +1,29 @@
 ,osm_id,code,fclass,name,lon,lat
 0,358809699,2005.0,post_office,Blue Canyon Post Office,-120.70966,39.2549
-1,360988514,2005.0,post_office,,-120.22849,39.19958
-2,358823618,2005.0,post_office,Colfax Post Office,-120.95511,39.09929
-3,358823626,2005.0,post_office,Foresthill Post Office,-120.82637,39.01959
-4,358823635,2005.0,post_office,Tahoe City Post Office,-120.13637,39.17395
-5,358823648,2005.0,post_office,Weimar Post Office,-120.97283,39.04355
-6,358823720,2005.0,post_office,Applegate Post Office,-120.99467,38.99767
-7,358823763,2005.0,post_office,Homewood Post Office,-120.15854,39.08152
-8,358823773,2005.0,post_office,Kings Beach Post Office,-120.02092,39.23616
-9,358823778,2005.0,post_office,Lincoln Post Office,-121.29162,38.89156
-10,358823827,2005.0,post_office,Tahoe Vista Post Office,-120.0484,39.23973
-11,358823850,2005.0,post_office,Newcastle Post Office,-121.13328,38.87351
-12,358823861,2005.0,post_office,Penryn Post Office,-121.16884,38.85184
-13,358823869,2005.0,post_office,Rocklin Post Office,-121.23961,38.78491
-14,358823875,2005.0,post_office,United States Post Office,-121.28457,38.74732
+1,358823618,2005.0,post_office,Colfax Post Office,-120.95511,39.09929
+2,358823626,2005.0,post_office,Foresthill Post Office,-120.82637,39.01959
+3,358823635,2005.0,post_office,Tahoe City Post Office,-120.13637,39.17395
+4,358823648,2005.0,post_office,Weimar Post Office,-120.97283,39.04355
+5,358823720,2005.0,post_office,Applegate Post Office,-120.99467,38.99767
+6,358823763,2005.0,post_office,Homewood Post Office,-120.15854,39.08152
+7,358823773,2005.0,post_office,Kings Beach Post Office,-120.02092,39.23616
+8,358823778,2005.0,post_office,Lincoln Post Office,-121.29162,38.89156
+9,358823827,2005.0,post_office,Tahoe Vista Post Office,-120.0484,39.23973
+10,358823850,2005.0,post_office,Newcastle Post Office,-121.13328,38.87351
+11,358823861,2005.0,post_office,Penryn Post Office,-121.16884,38.85184
+12,358823869,2005.0,post_office,Rocklin Post Office,-121.23961,38.78491
+13,358823875,2005.0,post_office,United States Post Office,-121.28457,38.74732
+14,360988514,2005.0,post_office,,-120.22849,39.19958
 15,360988559,2005.0,post_office,Olympic Valley,-120.22849,39.19958
-16,368167717,2002.0,fire_station,Station 20,-121.12437,38.82454
-17,368167720,2002.0,fire_station,Loomis Fire Station Number 2,-121.14113,38.81028
-18,368171447,2008.0,town_hall,Lincoln City Hall,-121.29051,38.89156
-19,368168989,2007.0,library,Applegate Branch Auburn-Placer County Library,-120.99467,38.99767
-20,368168990,2007.0,library,Colfax Branch Auburn-Placer County Library,-120.95482,39.09934
-21,368169548,2007.0,library,Loomis Branch Auburn-Placer County Library,-121.19059,38.81998
-22,368169551,2007.0,library,Kings Beach Branch Auburn-Placer County Library,-120.03006,39.23857
-23,368169553,2007.0,library,Tahoe City Branch Auburn-Placer County Library,-120.13858,39.17259
-24,368169554,2007.0,library,Lincoln Public Library,-121.29135,38.89203
+16,368168989,2007.0,library,Applegate Branch Auburn-Placer County Library,-120.99467,38.99767
+17,368167717,2002.0,fire_station,Station 20,-121.12437,38.82454
+18,368167720,2002.0,fire_station,Loomis Fire Station Number 2,-121.14113,38.81028
+19,368168990,2007.0,library,Colfax Branch Auburn-Placer County Library,-120.95482,39.09934
+20,368169548,2007.0,library,Loomis Branch Auburn-Placer County Library,-121.19059,38.81998
+21,368169551,2007.0,library,Kings Beach Branch Auburn-Placer County Library,-120.03006,39.23857
+22,368169553,2007.0,library,Tahoe City Branch Auburn-Placer County Library,-120.13858,39.17259
+23,368169554,2007.0,library,Lincoln Public Library,-121.29135,38.89203
+24,368171447,2008.0,town_hall,Lincoln City Hall,-121.29051,38.89156
 25,368171448,2008.0,town_hall,Auburn City Hall,-121.07411,38.89768
 26,626997524,2002.0,fire_station,South Placer FPD Station 19,-121.16379,38.76601
 27,638798261,2001.0,police,Roseville Police,-121.29586,38.75982
@@ -46,8 +46,8 @@
 44,2419576955,2002.0,fire_station,,-121.13032,38.90363
 45,2483251324,2009.0,courthouse,,-121.07686,38.89657
 46,2503344036,2002.0,fire_station,Placer Hills Fire Station,-120.97534,39.04454
-47,2533270445,2002.0,fire_station,,-120.94988,39.09838
-48,2533270447,2002.0,fire_station,,-120.9549,39.09984
+47,2533270447,2002.0,fire_station,,-120.9549,39.09984
+48,2533270445,2002.0,fire_station,,-120.94988,39.09838
 49,3143049779,2002.0,fire_station,,-120.51786,39.30681
 50,3184251802,2005.0,post_office,,-121.22232,38.79856
 51,4521168200,2005.0,post_office,The UPS Store,-121.29419,38.87861
