@@ -59,8 +59,8 @@ function initStatewideMap () {
                     //     return BOUNDSTYLE_FULL;
                     case 'lite':
                         return BOUNDSTYLE_LITE;
-                    // case 'inprogress':
-                    //     return BOUNDSTYLE_INPROGRESS;
+                    case 'inprogress':
+                        return BOUNDSTYLE_INPROGRESS;
                     case 'vca':
                         return BOUNDSTYLE_VCA;
                     case 'nonvca':
@@ -87,9 +87,9 @@ function initStatewideMap () {
                         case 'lite':
                             message = 'Community-Level Demographic and Voter Data';
                             break;
-                        // case 'inprogress':
-                        //     message = 'Modeling Update in Progress';
-                        //     break;
+                        case 'inprogress':
+                            message = 'Modeling Update in Progress';
+                            break;
                         case 'vca':
                             message = "Voter's Choice Act Vote Center County";
                             break;
