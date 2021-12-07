@@ -102,11 +102,19 @@ const getParticipatingCountyInfo = function (countyfp) {
     }
 
     // county-specific data hacks; see also special support for "customgeojsonfile" layers
-    /*
-    if (countyfp == '000') {
-        returnme.datalayers.pointsofinterest.splice(1, 0, DATA_LAYERS.somenewthing);
-    }
-   */
+    // use 1/4 mile grid instead of 1/2 mile grid for non-VCA counties in CA
+    // note: profile will change somehow to identify polling place counties rather than inprogress counties
+    if (returnme.profile == 'inprogress') {
+        returnme.datalayers.suggestedareas.forEach(function (layerinfo) {
+            layerinfo.circle.radius = 200;
+        });
+        returnme.datalayers.additionalareas.forEach(function (layerinfo) {
+            layerinfo.circle.radius = 200;
+        });
+        returnme.datalayers.allareas.forEach(function (layerinfo) {
+            layerinfo.circle.radius = 200;
+        });
+    };
 
     // done
     return returnme;
