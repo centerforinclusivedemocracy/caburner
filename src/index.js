@@ -97,7 +97,7 @@ function initStatewideMap () {
                             message = "Polling Place County";
                             break;
                         case 'vbm':
-                            message = "Vote By Mail County";
+                            message = "Vote By Mail Only County";
                             break;
                         case 'butte':
                             message = "No Location Modeling Due to Recent Population Changes";
