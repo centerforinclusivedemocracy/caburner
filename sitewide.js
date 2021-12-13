@@ -71,6 +71,37 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "115", name: "Yuba", profile: 'inprogress', vca: '3 & 4'},
   ];
 
+  const COMPLETED_COUNTIES = [
+    { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "005", name: "Amador", profile: 'vca', vca: '2'},
+    { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
+    { countyfp: "009", name: "Calaveras", profile: 'vca', vca: '2'},
+    { countyfp: "017", name: "El Dorado", profile: 'vca', vca: '2'},
+    { countyfp: "019", name: "Fresno", profile: 'vca', vca: '2'},
+    { countyfp: "023", name: "Humboldt", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "037", name: "Los Angeles", profile: 'vca', vca: '2'},
+    { countyfp: "039", name: "Madera", profile: 'vca', vca: '1'},
+    { countyfp: "041", name: "Marin", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "043", name: "Mariposa", profile: 'vca', vca: '2'},
+    { countyfp: "047", name: "Merced", profile: 'vca', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '2'},
+    { countyfp: "055", name: "Napa", profile: 'vca', vca: '2'},
+    { countyfp: "057", name: "Nevada", profile: 'vca', vca: '2'},
+    { countyfp: "059", name: "Orange", profile: 'vca', vca: '2'},
+    { countyfp: "063", name: "Plumas", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "067", name: "Sacramento", profile: 'vca', vca: '2'},
+    { countyfp: "069", name: "San Benito", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "073", name: "San Diego", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "081", name: "San Mateo", profile: 'vca', vca: '2'},
+    { countyfp: "085", name: "Santa Clara", profile: 'vca', vca: '2'},
+    { countyfp: "087", name: "Santa Cruz", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "091", name: "Sierra", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "097", name: "Sonoma", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "099", name: "Stanislaus", profile: 'vca',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
+    { countyfp: "109", name: "Tuolumne", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "111", name: "Ventura", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "113", name: "Yolo", profile: 'vca', vca: '3 & 4'},
+];
+
 const getParticipatingCountyInfo = function (countyfp) {
     // fetch the county entry, easy; be sure to take a copy because we're about to mutate it
     const entry = PARTICIPATING_COUNTIES.filter(function (c) { return c.countyfp == countyfp; })[0];
@@ -104,17 +135,17 @@ const getParticipatingCountyInfo = function (countyfp) {
     // county-specific data hacks; see also special support for "customgeojsonfile" layers
     // use 1/4 mile grid instead of 1/2 mile grid for non-VCA counties in CA
     // note: profile will change somehow to identify polling place counties rather than inprogress counties
-    if (returnme.profile == 'inprogress') {
-        returnme.datalayers.suggestedareas.forEach(function (layerinfo) {
-            layerinfo.circle.radius = 200;
-        });
-        returnme.datalayers.additionalareas.forEach(function (layerinfo) {
-            layerinfo.circle.radius = 200;
-        });
-        returnme.datalayers.allareas.forEach(function (layerinfo) {
-            layerinfo.circle.radius = 200;
-        });
-    };
+    // if (returnme.profile == 'inprogress') {
+    //     returnme.datalayers.suggestedareas.forEach(function (layerinfo) {
+    //         layerinfo.circle.radius = 200;
+    //     });
+    //     returnme.datalayers.additionalareas.forEach(function (layerinfo) {
+    //         layerinfo.circle.radius = 200;
+    //     });
+    //     returnme.datalayers.allareas.forEach(function (layerinfo) {
+    //         layerinfo.circle.radius = 200;
+    //     });
+    // };
 
     // done
     return returnme;
@@ -122,11 +153,11 @@ const getParticipatingCountyInfo = function (countyfp) {
 
 // the style for drawing counties onto the statewide overview map,
 // with different styles for participating counties vs non-participiating, and the different data profiles
-const BOUNDSTYLE_DEFAULT = { fillColor: 'white', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
+// const BOUNDSTYLE_DEFAULT = { fillColor: 'white', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
 const BOUNDSTYLE_PARTICIPATING = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
 const BOUNDSTYLE_FULL = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
 const BOUNDSTYLE_LITE = { fillColor: '#FFF6D6', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
-const BOUNDSTYLE_INPROGRESS = { fillColor: '#DDDDDD', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
+const BOUNDSTYLE_DEFAULT = { fillColor: '#DDDDDD', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
 const BOUNDSTYLE_MOUSEOVER = { weight: 5, color: 'black', fillOpacity: 0.15 };
 const BOUNDSTYLE_VCA = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.95 };
 const BOUNDSTYLE_NONVCA = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.45 };
@@ -692,7 +723,7 @@ DATA_PROFILES.fullexceptsuggested = Object.assign({}, DATA_PROFILES.fullmodel); 
 DATA_PROFILES.fullexceptsuggested.suggestedareas = [];
 DATA_PROFILES.fullexceptsuggested.additionalareas = [];
 
-DATA_PROFILES.inprogress = Object.assign({}, DATA_PROFILES.inprogress);
+// DATA_PROFILES.inprogress = Object.assign({}, DATA_PROFILES.inprogress);
 
 
 // popup hacks: some counties need random hacks to their popup content, e.g. Los Angeles 2020 Primary Vote Center Locations has a bunch of extra fields

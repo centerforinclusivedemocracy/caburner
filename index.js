@@ -32,7 +32,7 @@ function initStatewideMap () {
     .selectLayer(BASEMAP_OPTIONS[0].label);
 
     // a Select2-based typeahead "select" for picking a county
-    const select2countyoptions = PARTICIPATING_COUNTIES.map(function (countyinfo) {
+    const select2countyoptions = COMPLETED_COUNTIES.map(function (countyinfo) {
         return { id: countyinfo.countyfp, text: countyinfo.name };
     });
     new L.Control.CountyPicker({
@@ -59,14 +59,14 @@ function initStatewideMap () {
                     //     return BOUNDSTYLE_FULL;
                     case 'lite':
                         return BOUNDSTYLE_LITE;
-                    case 'inprogress':
-                        return BOUNDSTYLE_INPROGRESS;
+                    // case 'inprogress':
+                    //     return BOUNDSTYLE_INPROGRESS;
                     case 'vca':
                         return BOUNDSTYLE_VCA;
                     case 'nonvca':
                         return BOUNDSTYLE_NONVCA;
                     default:
-                        console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for styling map`);
+                        // console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for styling map`);
                         return BOUNDSTYLE_DEFAULT;  // not known, so punt with this and the error message
                 }
             },
@@ -78,7 +78,7 @@ function initStatewideMap () {
                 } catch (error) {}  // catch = leave undefined, it's OK
 
 
-                let message = 'Not analyzed';
+                let message = 'Modeling Update in Progress analyzed';
                 if (countyinfo) {
                     switch (countyinfo.profile) {
                         // case 'fullmodel':
@@ -87,19 +87,19 @@ function initStatewideMap () {
                         case 'lite':
                             message = 'Community-Level Demographic and Voter Data';
                             break;
-                        case 'inprogress':
-                            message = 'Modeling Update in Progress';
-                            break;
+                        // case 'inprogress':
+                        //     message = 'Modeling Update in Progress';
+                        //     break;
                         case 'vca':
                             message = "Voter's Choice Act Vote Center County";
                             break;
                         case 'nonvca':
                             message = "Polling Place County";
                             break;
-                        default:
-                            console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for creating tooltip`);
-                            message = 'Unknown status';
-                            break;
+                        // default:
+                        //     console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for creating tooltip`);
+                        //     message = 'Unknown status';
+                        //     break;
                     }
                 }
 

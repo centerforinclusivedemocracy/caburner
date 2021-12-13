@@ -15,8 +15,9 @@ L.Control.StatewideMapLegend = L.Control.extend({
         // this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-nonvca"></span> Suggested Voting Locations for Polling Place Counties</div>';
         this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-lite"></span> Community-Level Demographic and Voter Data</div>';
         // this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-fullmodel"></span> Suggested Voting Locations</div>';
-        this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-inprogress"></span> Modeling Update in Progress</div>';
+        // this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-inprogress"></span> Modeling Update in Progress</div>';
         // this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-none"></span> Not Analyzed</div>';
+        this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-none"></span> Modeling Update in Progress</div>';
 
 
         // absorb some events e.g. don't zoom the map when someone double-clicks this panel
