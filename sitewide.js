@@ -12,9 +12,9 @@
 const PARTICIPATING_COUNTIES = [
     //SSS// We have 3 classes for CA: lite for the 4 VBM counties, fullmodel for polling places, and fullmodel for vote centers
     { countyfp: "001", name: "Alameda", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "003", name: "Alpine", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "005", name: "Amador", profile: 'vca', vca: '2'},
-    { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
+    { countyfp: "007", name: "Butte", profile: 'butte', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
     { countyfp: "009", name: "Calaveras", profile: 'vca', vca: '2'},
     { countyfp: "011", name: "Colusa", profile: 'inprogress', vca: '3 & 4'},
     { countyfp: "013", name: "Contra Costa", profile: 'inprogress', vca: '3 & 4'},
@@ -42,7 +42,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "057", name: "Nevada", profile: 'vca', vca: '2'},
     { countyfp: "059", name: "Orange", profile: 'vca', vca: '2'},
     { countyfp: "061", name: "Placer", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "063", name: "Plumas", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "063", name: "Plumas", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "065", name: "Riverside", profile: 'inprogress', vca: '3 & 4'},
     { countyfp: "067", name: "Sacramento", profile: 'vca', vca: '2'},
     { countyfp: "069", name: "San Benito", profile: 'vca', vca: '3 & 4'},
@@ -56,7 +56,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "085", name: "Santa Clara", profile: 'vca', vca: '2'},
     { countyfp: "087", name: "Santa Cruz", profile: 'vca', vca: '3 & 4'},
     { countyfp: "089", name: "Shasta", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "091", name: "Sierra", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "091", name: "Sierra", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "093", name: "Siskiyou", profile: 'inprogress', vca: '3 & 4'},
     { countyfp: "095", name: "Solano", profile: 'inprogress', vca: '3 & 4'},
     { countyfp: "097", name: "Sonoma", profile: 'vca', vca: '3 & 4'},
@@ -72,9 +72,9 @@ const PARTICIPATING_COUNTIES = [
   ];
 
   const COMPLETED_COUNTIES = [
-    { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "003", name: "Alpine", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "005", name: "Amador", profile: 'vca', vca: '2'},
-    { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
+    { countyfp: "007", name: "Butte", profile: 'butte', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
     { countyfp: "009", name: "Calaveras", profile: 'vca', vca: '2'},
     { countyfp: "017", name: "El Dorado", profile: 'vca', vca: '2'},
     { countyfp: "019", name: "Fresno", profile: 'vca', vca: '2'},
@@ -87,14 +87,14 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "055", name: "Napa", profile: 'vca', vca: '2'},
     { countyfp: "057", name: "Nevada", profile: 'vca', vca: '2'},
     { countyfp: "059", name: "Orange", profile: 'vca', vca: '2'},
-    { countyfp: "063", name: "Plumas", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "063", name: "Plumas", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "067", name: "Sacramento", profile: 'vca', vca: '2'},
     { countyfp: "069", name: "San Benito", profile: 'vca', vca: '3 & 4'},
     { countyfp: "073", name: "San Diego", profile: 'vca', vca: '3 & 4'},
     { countyfp: "081", name: "San Mateo", profile: 'vca', vca: '2'},
     { countyfp: "085", name: "Santa Clara", profile: 'vca', vca: '2'},
     { countyfp: "087", name: "Santa Cruz", profile: 'vca', vca: '3 & 4'},
-    { countyfp: "091", name: "Sierra", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "091", name: "Sierra", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "097", name: "Sonoma", profile: 'vca', vca: '3 & 4'},
     { countyfp: "099", name: "Stanislaus", profile: 'vca',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
     { countyfp: "109", name: "Tuolumne", profile: 'vca', vca: '3 & 4'},
@@ -156,11 +156,13 @@ const getParticipatingCountyInfo = function (countyfp) {
 // const BOUNDSTYLE_DEFAULT = { fillColor: 'white', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
 const BOUNDSTYLE_PARTICIPATING = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
 const BOUNDSTYLE_FULL = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
-const BOUNDSTYLE_LITE = { fillColor: '#FFF6D6', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
+// const BOUNDSTYLE_LITE = { fillColor: '#FFF6D6', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
+const BOUNDSTYLE_VBM = { fillColor: '#FFEE99', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75 };
+const BOUNDSTYLE_BUTTE = { fillColor: '#FFFAE5', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75 };
 const BOUNDSTYLE_DEFAULT = { fillColor: '#DDDDDD', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
 const BOUNDSTYLE_MOUSEOVER = { weight: 5, color: 'black', fillOpacity: 0.15 };
-const BOUNDSTYLE_VCA = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.95 };
-const BOUNDSTYLE_NONVCA = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.45 };
+const BOUNDSTYLE_VCA = { fillColor: '#FFBF00', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
+const BOUNDSTYLE_NONVCA = { fillColor: '#FFE14C', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75 };
 
 // in county.html to view a single county, the style to use for county boundary
 const SINGLECOUNTY_STYLE = { fill: false, weight: 2, opacity: 1, color: 'black' };
@@ -714,10 +716,20 @@ DATA_PROFILES.fullmodel = {
 
 DATA_PROFILES.vca = Object.assign({}, DATA_PROFILES.fullmodel);
 DATA_PROFILES.nonvca = Object.assign({}, DATA_PROFILES.fullmodel);
-DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel);
-DATA_PROFILES.lite.suggestedareas = [];
-DATA_PROFILES.lite.additionalareas = [];
-DATA_PROFILES.lite.allareas = [];
+// DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel);
+// DATA_PROFILES.lite.suggestedareas = [];
+// DATA_PROFILES.lite.additionalareas = [];
+// DATA_PROFILES.lite.allareas = [];
+
+DATA_PROFILES.vbm = Object.assign({}, DATA_PROFILES.fullmodel);
+DATA_PROFILES.vbm.suggestedareas = [];
+DATA_PROFILES.vbm.additionalareas = [];
+DATA_PROFILES.vbm.allareas = [];
+
+DATA_PROFILES.butte = Object.assign({}, DATA_PROFILES.fullmodel);
+DATA_PROFILES.butte.suggestedareas = [];
+DATA_PROFILES.butte.additionalareas = [];
+DATA_PROFILES.butte.allareas = [];
 
 DATA_PROFILES.fullexceptsuggested = Object.assign({}, DATA_PROFILES.fullmodel);  // a specific one that's full but we hide the Suggested Areas, but keep others
 DATA_PROFILES.fullexceptsuggested.suggestedareas = [];

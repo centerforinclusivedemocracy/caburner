@@ -53,14 +53,18 @@ function initStatewideMap () {
                 switch (countyinfo.profile) {
                     // case 'fullmodel':
                     //     return BOUNDSTYLE_FULL;
-                    case 'lite':
-                        return BOUNDSTYLE_LITE;
+                    // case 'lite':
+                    //     return BOUNDSTYLE_LITE;
                     // case 'inprogress':
                     //     return BOUNDSTYLE_INPROGRESS;
                     case 'vca':
                         return BOUNDSTYLE_VCA;
                     case 'nonvca':
                         return BOUNDSTYLE_NONVCA;
+                    case 'vbm':
+                        return BOUNDSTYLE_VBM;
+                    case 'butte':
+                        return BOUNDSTYLE_BUTTE;
                     default:
                         // console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for styling map`);
                         return BOUNDSTYLE_DEFAULT;  // not known, so punt with this and the error message
@@ -74,7 +78,7 @@ function initStatewideMap () {
                 } catch (error) {}  // catch = leave undefined, it's OK
 
 
-                let message = 'Modeling Update in Progress analyzed';
+                let message = 'Modeling Update in Progress';
                 if (countyinfo) {
                     switch (countyinfo.profile) {
                         // case 'fullmodel':
@@ -87,10 +91,16 @@ function initStatewideMap () {
                         //     message = 'Modeling Update in Progress';
                         //     break;
                         case 'vca':
-                            message = "Voter's Choice Act Vote Center County";
+                            message = "Voter's Choice Act County";
                             break;
                         case 'nonvca':
                             message = "Polling Place County";
+                            break;
+                        case 'vbm':
+                            message = "Vote By Mail County";
+                            break;
+                        case 'butte':
+                            message = "No Location Modeling Due to Recent Population Changes";
                             break;
                         // default:
                         //     console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for creating tooltip`);

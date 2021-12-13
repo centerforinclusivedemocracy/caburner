@@ -24,14 +24,20 @@
     background-color: #fecd1b;
     opacity: 0.75;
 }
-.leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-lite {
+/* .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-lite {
     background-color: #FFF6D6;
+} */
+.leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-vbm {
+    background-color: #FFEE99;
+}
+.leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-butte {
+    background-color: #FFFAE5;
 }
 .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-vca {
-    background-color: #fecd1b;
+    background-color: #FFBF00;
 }
 .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-nonvca {
-    background-color: #FEE485;
+    background-color: #FFE14C;
 }
 /* .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-inprogress {
     background-color: #DDDDDD;
