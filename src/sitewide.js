@@ -100,17 +100,17 @@ const getParticipatingCountyInfo = function (countyfp) {
     // county-specific data hacks; see also special support for "customgeojsonfile" layers
     // use 1/4 mile grid instead of 1/2 mile grid for non-VCA counties in CA
     // note: profile will change somehow to identify polling place counties rather than inprogress counties
-    if (returnme.profile == 'inprogress') {
-        returnme.datalayers.suggestedareas.forEach(function (layerinfo) {
-            layerinfo.circle.radius = 200;
-        });
-        returnme.datalayers.additionalareas.forEach(function (layerinfo) {
-            layerinfo.circle.radius = 200;
-        });
-        returnme.datalayers.allareas.forEach(function (layerinfo) {
-            layerinfo.circle.radius = 200;
-        });
-    };
+    // if (returnme.profile == 'inprogress') {
+    //     returnme.datalayers.suggestedareas.forEach(function (layerinfo) {
+    //         layerinfo.circle.radius = 200;
+    //     });
+    //     returnme.datalayers.additionalareas.forEach(function (layerinfo) {
+    //         layerinfo.circle.radius = 200;
+    //     });
+    //     returnme.datalayers.allareas.forEach(function (layerinfo) {
+    //         layerinfo.circle.radius = 200;
+    //     });
+    // };
 
     // done
     return returnme;
@@ -688,7 +688,7 @@ DATA_PROFILES.fullexceptsuggested = Object.assign({}, DATA_PROFILES.fullmodel); 
 DATA_PROFILES.fullexceptsuggested.suggestedareas = [];
 DATA_PROFILES.fullexceptsuggested.additionalareas = [];
 
-DATA_PROFILES.inprogress = Object.assign({}, DATA_PROFILES.fullmodel);
+DATA_PROFILES.inprogress = Object.assign({}, DATA_PROFILES.inprogress);
 
 
 // popup hacks: some counties need random hacks to their popup content, e.g. Los Angeles 2020 Primary Vote Center Locations has a bunch of extra fields
