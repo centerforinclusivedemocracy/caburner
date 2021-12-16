@@ -32,7 +32,7 @@ function initStatewideMap () {
     .selectLayer(BASEMAP_OPTIONS[0].label);
 
     // a Select2-based typeahead "select" for picking a county
-    const select2countyoptions = COMPLETED_COUNTIES.map(function (countyinfo) {
+    const select2countyoptions = PARTICIPATING_COUNTIES.map(function (countyinfo) {
         return { id: countyinfo.countyfp, text: countyinfo.name };
     });
     new L.Control.CountyPicker({
