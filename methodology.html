@@ -75,9 +75,9 @@
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
     <link rel="stylesheet" href="./sitewide.css?cachebust-8a9647ef04" />
-    <script src="./sitewide.js?cachebust-8d1534e640"></script>
+    <script src="./sitewide.js?cachebust-9a4f031e29"></script>
     <link rel="stylesheet" href="./methodology.css?cachebust-8be1f32d75" />
-    <script src="./methodology.js?cachebust-2857eeea2e"></script>
+    <script src="./methodology.js?cachebust-d3156cd328"></script>
 </head>
 <body>
 
@@ -127,7 +127,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <ul id="nonvcaCountyList" class="card-columns">county list filled in via initFillScopeLists()</ul> -->
           
           The Tool provides visualization of demographic and voter data for the following counties:
-          <ul id="liteAnalysisCountyList"><!-- county list filled in via initFillScopeLists() --></ul>
+          <ul>
+            <li>Alpine</li>
+            <li>Butte</li>
+            <li>Plumas</li>
+            <!-- <li>Sierra</li> -->
+          </ul>
         </div>
       </div>
 
@@ -184,20 +189,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <p id="working"><b>Percent of County Workers:</b> The percent of all in-county workers who work in the tracts. Query only records for people who work and live in the same county. Summarize the total number of in-county workers per block, and divide by the total number of in-county workers in the county.</p>
       <ul>
         <li><i>Data sources</i>: Census LEHD Origin-Destination Employment Statistics (LODES) 2018, workplace area characteristics. </li>
-        <li><i>Calculation</i>: The percent of the population in the ract that work in the county out of the total number of workers that work in that county.</li>
+        <li><i>Calculation</i>: The percent of the population in the tract that work in the county out of the total number of workers that work in that county.</li>
         <li><i>Scale</i>: Census Block - Note that although this variable is displayed on the web map at the census tract level, the model input was at the census block level.</li>
         <li><i>Rationale</i>: Voting location/drop off should be proximal to where people work.</li>
-        <li><i>Limitations</i>: Imperfect conversion from precinct to tract level.</li>
-        <li><i>Note</i>: Although the model input was at the census block level, this variable is displayed on the web map at the census tract level by aggregating the proportion of total precinct voters in a block to the census tract level.</li>
+        <li><i>Note</i>: Although the model input was at the census block level, this variable is displayed on the web map at the census tract level by aggregating the proportion of workers in a block to the census tract level.</li>
       </ul>
       
       <p id="nonregistered"><b>Percent of Eligible Voters Not Registered:</b> The percentage of voting age citizens who are not registered to vote.</p>
       <ul>
-          <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election); American Community Survey 5-Year Estimate (2015-2019); Census 2010.</li>
-          <li><i>Calculation</i>: Convert voter data from the precinct to the tract level and average voter registration totals for 2020. Subtract the average number of registered voters from the citizen voting age population (CVAP). Divide by the total CVAP estimate in the tract. Where the incarcerated population is over 25% of the CVAP, use the 2010 Census estimate for non-institutionalized populations instead of CVAP.</li>
+          <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election); American Community Survey 5-Year Estimate (2015-2019); Census 2020.</li>
+          <li><i>Calculation</i>: Convert voter data from the precinct to the tract level and average voter registration totals for 2020. Subtract the average number of registered voters from the citizen voting age population (CVAP). Divide by the total CVAP estimate in the tract. Where the incarcerated population is over 25% of the CVAP, use the 2015-2019 ACS estimate for non-institutionalized populations instead of CVAP.</li>
           <li><i>Scale</i>: Census Tract</li>
           <li><i>Rationale</i>: Voting location/drop off should be proximal to communities of eligible voters who aren’t registered to vote.</li>
-          <li><i>Limitations</i>: Imperfect conversion from precinct to tract level. The 2010 Census is the most recent estimate for incarcerated and non-institutionalized populations at the tract level. Data is unavailable for some tracts.</li>
+          <li><i>Limitations</i>:  Imperfect conversion from precinct to tract level. The 2015-2019 ACS data is the most recent estimate for non-institutionalized populations at the tract level. Data is unavailable for some tracts.</li>
         </ul>
       
       <p id="vehicleaccess"><b>Percent of Population with Vehicle Access:</b> The percentage of the population with access to a vehicle.</p>
@@ -220,11 +224,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
       <p id="popdens"><b>Population Density:</b> The total population density per square kilometer.</p>
       <ul>
-        <li><i>Data sources</i>: Census 2010.</li>
+        <li><i>Data sources</i>: Census 2020.</li>
         <li><i>Calculation</i>: Divide the total block population by the area of the block (square kilometers).</li>
         <li><i>Scale</i>: Census Block - Note that although this variable is displayed on the web map at the census tract level, the model input was at the census block level.</li>
         <li><i>Rationale</i>: Voting location/drop off should be proximal to population centers.</li>
-        <li><i>Limitations</i>: Data shows where people live, not where they work. Most recent block level population estimate is from 2010.</li>
+        <li><i>Limitations</i>: Data shows where people live, not where they work.</li>
         <li><i>Note</i>: Although the model input was at the census block level, this variable is displayed on the web map at the census tract level by aggregating the proportion of total precinct voters in a block to the census tract level.</li>
       </ul>
       
@@ -315,7 +319,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
           <p id="pctasianindian"><b>Asian Indian Percent of Population:</b> The percentage of the population that is Asian Indian.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B02015.</li>
             <li><i>Calculation</i>: The percent of residents that are Asian Indian in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
@@ -324,7 +328,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <p id="pctchinese"><b>Chinese Percent of Population:</b> The percentage of the population that is Chinese.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B02015.</li>
             <li><i>Calculation</i>: The percent of residents that are Chinese in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
@@ -333,7 +337,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <p id="pctfilipino"><b>Filipino Percent of Population:</b> The percentage of the population that is Filipino.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B02015.</li>
             <li><i>Calculation</i>: The percent of residents that are Filipino in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
@@ -342,7 +346,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <p id="pctjapanese"><b>Japanese Percent of Population:</b> The percentage of the population that is Japanese.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B02015.</li>
             <li><i>Calculation</i>: The percent of residents that are Japanese in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
@@ -351,7 +355,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <p id="pctkorean"><b>Korean Percent of Population:</b> The percentage of the population that is Korean.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B02015.</li>
             <li><i>Calculation</i>: The percent of residents that are Korean in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
@@ -360,7 +364,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <p id="pctvietnamese"><b>Vietnamese Percent of Population:</b> The percentage of the population that is Vietnamese.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B02015.</li>
             <li><i>Calculation</i>: The percent of residents that are Vietnamese in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
@@ -378,7 +382,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <p id="pctmexican"><b>Mexican Percent of Population:</b> The percentage of the population that is Mexican.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03001.</li>
             <li><i>Calculation</i>: The percent of residents that are Mexican in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
@@ -387,7 +391,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <p id="pctpuertorican"><b>Puerto Rican Percent of Population:</b> The percentage of the population that is Puerto Rican.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03001.</li>
             <li><i>Calculation</i>: The percent of residents that are Puerto Rican in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
@@ -396,7 +400,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <p id="pctcuban"><b>Cuban Percent of Population:</b> The percentage of the population that is Cuban.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03001.</li>
             <li><i>Calculation</i>: The percent of residents that are Cuban in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
@@ -405,7 +409,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <p id="pctdominican"><b>Dominican Percent of Population:</b> The percentage of the population that is Dominican.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03001.</li>
             <li><i>Calculation</i>: The percent of residents that are Cuban in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
@@ -414,7 +418,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <p id="pctsoutham"><b>South American Percent of Population:</b> The percentage of the population that is South American.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03001.</li>
             <li><i>Calculation</i>: The percent of residents that are South American in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
@@ -423,7 +427,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <p id="pctcentralam"><b>Central American Percent of Population:</b> The percentage of the population that is Central American.</p>
           <ul>
-            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03002.</li>
+            <li><i>Data sources</i>: American Community Survey 5-Year Estimate (2015-2019), Table B03001.</li>
             <li><i>Calculation</i>: The percent of residents that are Central American in a tract out of the total tract population.</li>
             <li><i>Scale</i>: Census Tract</li>
             <li><i>Limitations</i>: Estimates can have high margins of error for small samples.</li>
