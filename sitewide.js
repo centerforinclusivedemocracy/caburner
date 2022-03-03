@@ -845,8 +845,8 @@ DATA_PROFILES.fullmodel = {
         DATA_LAYERS.pollvoter_dens,
         DATA_LAYERS.vbm_tot_2016, DATA_LAYERS.vbm_asn_2016, DATA_LAYERS.vbm_lat_2016, DATA_LAYERS.vbm_youth_2016,
         DATA_LAYERS.vbm_tot_2020, DATA_LAYERS.vbm_asn_2020, DATA_LAYERS.vbm_lat_2020, DATA_LAYERS.vbm_youth_2020,
-        DATA_LAYERS.turnout_tot_2020, DATA_LAYERS.turnout_asn_2020, DATA_LAYERS.turnout_lat_2020, DATA_LAYERS.turnout_youth_2020, 
         DATA_LAYERS.turnout_tot_2016, DATA_LAYERS.turnout_asn_2016, DATA_LAYERS.turnout_lat_2016, DATA_LAYERS.turnout_youth_2016, 
+        DATA_LAYERS.turnout_tot_2020, DATA_LAYERS.turnout_asn_2020, DATA_LAYERS.turnout_lat_2020, DATA_LAYERS.turnout_youth_2020, 
     ],
     populationdata: [
         DATA_LAYERS.prc_latino, 
