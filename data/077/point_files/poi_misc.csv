@@ -1,28 +1,98 @@
 osm_id,code,fclass,name,lon,lat
-358771526,2082.0,school,New Hope Elementary School,-121.42523,38.22936
-358837932,2082.0,school,Collegeville Elementary School,-121.14772,37.90631
+2422039224,2501.0,supermarket,Clements Ridge Produce,-121.06921,38.1985
+358762799,2082.0,school,Burwood School,-120.95521,37.76159
+358769680,2082.0,school,Lone Tree School,-120.97966,37.82743
+358773602,2082.0,school,River School,-121.05494,37.75798
+358809466,2082.0,school,Van Allen Elementary School,-121.0516,37.79882
+3061240233,2501.0,supermarket,Big Boy,-120.98526,37.79494
+7821586451,2082.0,school,West Valley Christian Academy,-121.44968,37.73803
 358773574,2082.0,school,Rindge School,-121.53106,37.94326
+358837541,2082.0,school,Lathrop Elementary School,-121.27967,37.81755
+358837572,2082.0,school,Yosemite Elementary School,-121.27578,37.79548
+1832316004,2501.0,supermarket,Savemart,-121.28814,37.8232
+2774425790,2303.0,cafe,Starbucks,-121.28762,37.8244
+4216515153,2501.0,supermarket,La Reina Supermarket,-121.2764,37.81252
+5164630649,2082.0,school,River Islands Technology Academy,-121.31883,37.79955
+5164654362,2082.0,school,NextGeneration STEAM Academy,-121.31914,37.79673
+358765083,2082.0,school,Liberty High School,-121.28144,38.13118
+358766437,2082.0,school,Heritage Elementary School,-121.26245,38.12825
+358767388,2082.0,school,Henderson Elementary School,-121.31145,38.10068
+358767853,2082.0,school,Houston Elementary School,-121.26106,38.17408
+358768911,2082.0,school,Lafayette School,-121.343,38.11603
+358769389,2082.0,school,Lodi Adult School,-121.26106,38.13353
+358769604,2082.0,school,Lodi Academy High School,-121.26245,38.11853
+358771478,2082.0,school,Needham School,-121.27606,38.12881
+358771581,2082.0,school,Leroy Nichols Elementary School,-121.28334,38.11688
+358773258,2082.0,school,Ray School,-121.37273,38.18992
+358774098,2082.0,school,Saint Annes Academy,-121.27606,38.13131
+358774392,2082.0,school,Saint Peters School,-121.27523,38.13686
+358777574,2082.0,school,Turner Ranch,-121.37162,38.14686
+358778159,2082.0,school,Vinewood Elementary School,-121.29384,38.12603
+358778420,2082.0,school,George Washington Elementary School,-121.28495,38.13881
+358779260,2082.0,school,Woodbridge Middle School,-121.30439,38.1502
+358798479,2082.0,school,Lawrence Elementary School,-121.26634,38.14297
+358837188,2082.0,school,Childrens Center,-121.26606,38.14325
+358837331,2082.0,school,Saint Peter School,-121.3055,38.13381
+358837335,2082.0,school,Seventh Day Adventist Elementary School,-121.26328,38.12131
+358837338,2082.0,school,Washington Development Center,-121.28578,38.13853
+358860994,2082.0,school,Ellerth E. Larson Elementary School,-121.30176,38.10334
+660946004,2501.0,supermarket,S-MART Foods,-121.28117,38.11409
+660946005,2501.0,supermarket,Food-4-Less,-121.30574,38.11401
+3251320447,2402.0,motel,Lodi Lodge,-121.30117,38.15615
+7524933495,2303.0,cafe,Starbucks,-121.266,38.1004
+7524933502,2501.0,supermarket,Sprouts Farmers Market,-121.26856,38.10013
+7525424068,2303.0,cafe,Starbucks,-121.27956,38.11495
+7526815188,2501.0,supermarket,Raley's,-121.3086,38.12895
+7527005055,2501.0,supermarket,Grocery Outlet,-121.25866,38.12896
+7527267417,2501.0,supermarket,S-mart Foods,-121.28112,38.12927
+4173374431,2501.0,supermarket,Food 4 Less,-121.29289,37.91205
+1072940171,2303.0,cafe,Starbucks,-121.46622,37.75604
+358760850,2082.0,school,Alpine School,-121.21522,38.12381
+358761831,2082.0,school,Bidwell School,-121.18328,38.09353
+358763210,2082.0,school,Castle School,-121.19522,37.85215
+358763460,2082.0,school,Chartville School,-121.148,37.97242
+358765575,2082.0,school,Everett School,-121.05633,37.98826
+358766074,2082.0,school,Four Trees School,-121.05272,37.84632
+358766583,2082.0,school,Glenwood Elementary School,-121.19606,37.99131
+358767201,2082.0,school,Harmony Grove School,-121.17828,38.10159
+358777394,2082.0,school,Tokay Colony Elementary School,-121.14939,38.07992
+358778456,2082.0,school,Waterloo Elementary School,-121.19411,38.03159
+358837387,2082.0,school,Clements Elementary School,-121.08328,38.1927
+358837396,2082.0,school,Farmington Elementary School,-121.00466,37.93048
+358837423,2082.0,school,Linden Elementary School,-121.08828,38.0202
+358837425,2082.0,school,Linden High School,-121.08966,38.0202
+358837439,2082.0,school,San Joaquin County Special Education School,-121.23161,38.00603
+358837458,2082.0,school,Victor Elementary School,-121.20495,38.1427
+358837932,2082.0,school,Collegeville Elementary School,-121.14772,37.90631
+2983914299,2303.0,cafe,Gourmet Coffehouse and Cafe,-121.14952,38.16411
+2983921261,2501.0,supermarket,The Farm Bowl,-121.20353,38.02027
+4496870520,2402.0,motel,Valli Inn Motel,-121.23154,37.92826
+358762927,2082.0,school,Calla High School,-121.17945,37.79719
+358765123,2082.0,school,East Union High School,-121.23426,37.82174
+358769370,2082.0,school,Lincoln Elementary School,-121.20677,37.79708
+358773978,2082.0,school,Rustic School,-121.25189,37.76798
+358774569,2082.0,school,San Joaquin School,-121.17744,37.72854
+358777749,2082.0,school,Manteca High School,-121.21186,37.79606
+358778091,2082.0,school,Veritas School,-121.21911,37.75021
+358837539,2082.0,school,Joshua Cowell School,-121.18855,37.80632
+358837545,2082.0,school,Manteca Christian School,-121.19166,37.80253
+358837548,2082.0,school,Neil Hafley Elementary School,-121.22961,37.82052
+358837549,2082.0,school,New Haven Elementary School,-121.18494,37.83104
+358837604,2082.0,school,Colony Oak Elementary School,-121.1066,37.75437
+358837975,2082.0,school,Brock Elliott Elementary School,-121.23855,37.78687
+358837991,2082.0,school,Golden West Elementary School,-121.21785,37.81067
+358838014,2082.0,school,Nile Garden Elementary School,-121.23772,37.75437
+358838022,2082.0,school,Saint Anthonys School,-121.21022,37.80132
+358838032,2082.0,school,Shasta Elementary School,-121.20689,37.80715
+358838035,2082.0,school,Sierra High School,-121.24321,37.79259
+358838039,2082.0,school,Stella Brockman Elementary School,-121.24605,37.80715
+2143393172,2303.0,cafe,Starbucks,-121.19214,37.797
+3248479661,2303.0,cafe,Starbucks,-121.23622,37.8256
+3251650667,2501.0,supermarket,Save Mart,-121.23893,37.79815
 358837724,2082.0,school,Gladys Poet Christian Elementary School,-121.42884,37.71833
 1729192485,2501.0,supermarket,Raley's,-121.43259,37.71248
 1729195947,2303.0,cafe,Peet's Coffee,-121.43249,37.71218
 7132139070,2303.0,cafe,Starbucks,-121.43369,37.71095
-358768318,2082.0,school,Jefferson Elementary School,-121.39758,37.69572
-4124683683,2082.0,school,Tom Hawkins Elementary School,-121.41881,37.70496
-358764665,2082.0,school,Delta Island Elementary School,-121.44578,37.8502
-358765674,2082.0,school,Fairchild School,-121.34161,37.88798
-358766407,2082.0,school,Garden School,-121.343,37.83465
-358768756,2082.0,school,Kingston School,-121.4255,37.90465
-358774168,2082.0,school,Saint Georges School,-121.28717,37.93187
-358837619,2082.0,school,French Camp Elementary School,-121.26994,37.88548
-358837669,2082.0,school,San Joaquin County Juvenile Hall Community School,-121.29106,37.88298
-2961958294,2501.0,supermarket,Arteaga's,-121.28383,37.93256
-4173374431,2501.0,supermarket,Food 4 Less,-121.29289,37.91205
-358837432,2082.0,school,Melville S Jacobson Elementary School,-121.44689,37.75664
-358837747,2082.0,school,Merrill F West High School,-121.45106,37.7466
-1742185279,2082.0,school,Tracy Unified School District,-121.45214,37.74784
-6214944407,2501.0,supermarket,FoodMaxx,-121.45191,37.73745
-7821586451,2082.0,school,West Valley Christian Academy1,-121.44968,37.73803
-358774569,2082.0,school,San Joaquin School,-121.17744,37.72854
 358760630,2082.0,school,Adams Elementary School,-121.31523,38.00909
 358763060,2082.0,school,Carder School,-121.32661,38.0202
 358765272,2082.0,school,El Dorado Elementary School,-121.29856,37.96742
@@ -66,97 +136,25 @@ osm_id,code,fclass,name,lon,lat
 5570874318,2082.0,school,Stockton Educational Center,-121.33549,38.0187
 6199573509,2303.0,cafe,Starbucks,-121.34661,37.98386
 8765718292,2303.0,cafe,Starbucks,-121.24488,37.98738
+358764665,2082.0,school,Delta Island Elementary School,-121.44578,37.8502
+358765674,2082.0,school,Fairchild School,-121.34161,37.88798
+358766407,2082.0,school,Garden School,-121.343,37.83465
+358768756,2082.0,school,Kingston School,-121.4255,37.90465
+358774168,2082.0,school,Saint Georges School,-121.28717,37.93187
+358837619,2082.0,school,French Camp Elementary School,-121.26994,37.88548
+358837669,2082.0,school,San Joaquin County Juvenile Hall Community School,-121.29106,37.88298
+2961958294,2501.0,supermarket,Arteaga's,-121.28383,37.93256
+4124683683,2082.0,school,Tom Hawkins Elementary School,-121.41881,37.70496
+358764684,2082.0,school,Deuel Vocational Institution,-121.32939,37.74798
 358765010,2082.0,school,Duncan-Russell Continuation High School,-121.42717,37.75354
+358837432,2082.0,school,Melville S Jacobson Elementary School,-121.44689,37.75664
 358837512,2082.0,school,Banta Elementary School,-121.37467,37.75493
-358838116,2082.0,school,Tracy Adult School,-121.41883,37.74104
 393645278,2303.0,cafe,Starbucks,-121.43338,37.76224
+1742185279,2082.0,school,Tracy Unified School District,-121.45214,37.74784
 3353528557,2501.0,supermarket,Savemart,-121.43629,37.75104
 3648986333,2501.0,supermarket,Safeway,-121.43302,37.74544
-358762927,2082.0,school,Calla High School,-121.17945,37.79719
-358764684,2082.0,school,Deuel Vocational Institution,-121.32939,37.74798
-358765123,2082.0,school,East Union High School,-121.23426,37.82174
-358769370,2082.0,school,Lincoln Elementary School,-121.20677,37.79708
-358773978,2082.0,school,Rustic School,-121.25189,37.76798
-358777749,2082.0,school,Manteca High School,-121.21186,37.79606
-358778091,2082.0,school,Veritas School,-121.21911,37.75021
-358837539,2082.0,school,Joshua Cowell School,-121.18855,37.80632
-358837541,2082.0,school,Lathrop Elementary School,-121.27967,37.81755
-358837545,2082.0,school,Manteca Christian School,-121.19166,37.80253
-358837548,2082.0,school,Neil Hafley Elementary School,-121.22961,37.82052
-358837549,2082.0,school,New Haven Elementary School,-121.18494,37.83104
-358837572,2082.0,school,Yosemite Elementary School,-121.27578,37.79548
-358837975,2082.0,school,Brock Elliott Elementary School,-121.23855,37.78687
-358837991,2082.0,school,Golden West Elementary School,-121.21785,37.81067
-358838014,2082.0,school,Nile Garden Elementary School,-121.23772,37.75437
-358838022,2082.0,school,Saint Anthonys School,-121.21022,37.80132
-358838032,2082.0,school,Shasta Elementary School,-121.20689,37.80715
-358838035,2082.0,school,Sierra High School,-121.24321,37.79259
-358838039,2082.0,school,Stella Brockman Elementary School,-121.24605,37.80715
-1832316004,2501.0,supermarket,Savemart,-121.28814,37.8232
-2143393172,2303.0,cafe,Starbucks,-121.19214,37.797
-2774425790,2303.0,cafe,Starbucks,-121.28762,37.8244
-3248479661,2303.0,cafe,Starbucks,-121.23622,37.8256
-3251650667,2501.0,supermarket,Save Mart,-121.23893,37.79815
 4173374433,2501.0,supermarket,Denise's Farmers Market,-121.31746,37.77867
-4216515153,2501.0,supermarket,La Reina Supermarket,-121.2764,37.81252
-5164630649,2082.0,school,River Islands Technology Academy,-121.31883,37.79955
-5164654362,2082.0,school,NextGeneration STEAM Academy,-121.31914,37.79673
-2422039224,2501.0,supermarket,Clements Ridge Produce,-121.06921,38.1985
-358765083,2082.0,school,Liberty High School,-121.28144,38.13118
-358766437,2082.0,school,Heritage Elementary School,-121.26245,38.12825
-358767388,2082.0,school,Henderson Elementary School,-121.31145,38.10068
-358767853,2082.0,school,Houston Elementary School,-121.26106,38.17408
-358768911,2082.0,school,Lafayette School,-121.343,38.11603
-358769389,2082.0,school,Lodi Adult School,-121.26106,38.13353
-358769604,2082.0,school,Lodi Academy High School,-121.26245,38.11853
-358771478,2082.0,school,Needham School,-121.27606,38.12881
-358771581,2082.0,school,Leroy Nichols Elementary School,-121.28334,38.11688
-358773258,2082.0,school,Ray School,-121.37273,38.18992
-358774098,2082.0,school,Saint Annes Academy,-121.27606,38.13131
-358774392,2082.0,school,Saint Peters School,-121.27523,38.13686
-358777574,2082.0,school,Turner Ranch,-121.37162,38.14686
-358778159,2082.0,school,Vinewood Elementary School,-121.29384,38.12603
-358778420,2082.0,school,George Washington Elementary School,-121.28495,38.13881
-358779260,2082.0,school,Woodbridge Middle School,-121.30439,38.1502
-358798479,2082.0,school,Lawrence Elementary School,-121.26634,38.14297
-358837188,2082.0,school,Childrens Center,-121.26606,38.14325
-358837331,2082.0,school,Saint Peter School,-121.3055,38.13381
-358837335,2082.0,school,Seventh Day Adventist Elementary School,-121.26328,38.12131
-358837338,2082.0,school,Washington Development Center,-121.28578,38.13853
-358860994,2082.0,school,Ellerth E. Larson Elementary School,-121.30176,38.10334
-660946004,2501.0,supermarket,S-MART Foods,-121.28117,38.11409
-660946005,2501.0,supermarket,Food-4-Less,-121.30574,38.11401
-3251320447,2402.0,motel,Lodi Lodge,-121.30117,38.15615
-7524933495,2303.0,cafe,Starbucks,-121.266,38.1004
-7524933502,2501.0,supermarket,Sprouts Farmers Market,-121.26856,38.10013
-7525424068,2303.0,cafe,Starbucks,-121.27956,38.11495
-7526815188,2501.0,supermarket,Raley's,-121.3086,38.12895
-7527005055,2501.0,supermarket,Grocery Outlet,-121.25866,38.12896
-7527267417,2501.0,supermarket,S-mart Foods,-121.28112,38.12927
-358760850,2082.0,school,Alpine School,-121.21522,38.12381
-358761831,2082.0,school,Bidwell School,-121.18328,38.09353
-358763210,2082.0,school,Castle School,-121.19522,37.85215
-358763460,2082.0,school,Chartville School,-121.148,37.97242
-358765575,2082.0,school,Everett School,-121.05633,37.98826
-358766074,2082.0,school,Four Trees School,-121.05272,37.84632
-358766583,2082.0,school,Glenwood Elementary School,-121.19606,37.99131
-358767201,2082.0,school,Harmony Grove School,-121.17828,38.10159
-358777394,2082.0,school,Tokay Colony Elementary School,-121.14939,38.07992
-358778456,2082.0,school,Waterloo Elementary School,-121.19411,38.03159
-358837387,2082.0,school,Clements Elementary School,-121.08328,38.1927
-358837396,2082.0,school,Farmington Elementary School,-121.00466,37.93048
-358837423,2082.0,school,Linden Elementary School,-121.08828,38.0202
-358837425,2082.0,school,Linden High School,-121.08966,38.0202
-358837439,2082.0,school,San Joaquin County Special Education School,-121.23161,38.00603
-358837458,2082.0,school,Victor Elementary School,-121.20495,38.1427
-2983914299,2303.0,cafe,Gourmet Coffehouse and Cafe,-121.14952,38.16411
-2983921261,2501.0,supermarket,The Farm Bowl,-121.20353,38.02027
-4496870520,2402.0,motel,Valli Inn Motel,-121.23154,37.92826
-1072940171,2303.0,cafe,Starbucks,-121.46622,37.75604
+6214944407,2501.0,supermarket,FoodMaxx,-121.45191,37.73745
+358771526,2082.0,school,New Hope Elementary School,-121.42523,38.22936
+358838116,2082.0,school,Tracy Adult School,-121.41883,37.74104
 2589839882,2110.0,hospital,Tracy Medical Offices,-121.45686,37.75575
-358762799,2082.0,school,Burwood School,-120.95521,37.76159
-358769680,2082.0,school,Lone Tree School,-120.97966,37.82743
-358773602,2082.0,school,River School,-121.05494,37.75798
-358809466,2082.0,school,Van Allen Elementary School,-121.0516,37.79882
-358837604,2082.0,school,Colony Oak Elementary School,-121.1066,37.75437
-3061240233,2501.0,supermarket,Big Boy,-120.98526,37.79494

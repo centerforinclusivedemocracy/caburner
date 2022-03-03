@@ -1,398 +1,531 @@
 osm_id,code,fclass,name,lon,lat
-358761571,2082.0,school,Sol Aureus College Preparatory,-121.5269,38.50768
-358760721,2082.0,school,Albert Einstein Middle School,-121.3519,38.5488
 358760840,2082.0,school,Alpha Technology Middle School,-121.46634,38.73157
-358760935,2082.0,school,American Legion High School,-121.46412,38.54796
-358761079,2082.0,school,Arcohe Elementary School,-121.24189,38.29547
-358761111,2082.0,school,Arlington Heights Elementary School,-121.31384,38.68657
-358761219,2082.0,school,D W Babcook Elementary School,-121.42495,38.60935
-358761236,2082.0,school,Fern Bacon Middle School,-121.45884,38.5038
-358761428,2082.0,school,Hubert H Bancroft Elementary School,-121.38634,38.55352
-358761461,2082.0,school,John Barrett Middle School,-121.31356,38.64296
-358761487,2082.0,school,Bates Elementary School,-121.56495,38.33047
-358761644,2082.0,school,Bell Avenue Elementary School,-121.42051,38.64685
-358761982,2082.0,school,Christian Brothers High School,-121.46301,38.53574
-358763121,2082.0,school,Carmichael Elementary School,-121.32301,38.63463
-358763144,2082.0,school,Carson Creek Junior Senior High School,-121.13467,38.55241
-358763162,2082.0,school,Casa Roble Fundamental High School,-121.21411,38.70101
-358762251,2082.0,school,New Joseph Bonnheim Community Charter School,-121.41829,38.53324
-358763376,2082.0,school,Thomas W Coleman Elementary School,-121.2305,38.68518
-358762329,2082.0,school,Bowling Green Charter School Number 18,-121.4594,38.50185
-358762385,2082.0,school,Sam Brannan Middle School,-121.51607,38.52741
-358762418,2082.0,school,Bret Harte Elementary School,-121.47634,38.54435
-358763597,2082.0,school,Winston Churchill Middle School,-121.35134,38.62685
-358762759,2082.0,school,Peter Burnett Elementary School,-121.43579,38.52102
-358762864,2082.0,school,John Cabrillo Elementary School,-121.51829,38.52574
-358764105,2082.0,school,Cordova Villa Elementary School,-121.29856,38.57963
-358762968,2082.0,school,Cameron Ranch Elementary School,-121.33273,38.64379
-358764159,2082.0,school,Cosumnes River Elementary School,-121.15495,38.49408
-358764228,2082.0,school,Coyle Avenue Elementary School,-121.31662,38.6674
-358762982,2082.0,school,Campos Verdes Adult Education Center,-121.37745,38.67768
-358765670,2082.0,school,Fairbanks Elementary School,-121.46162,38.62657
-358764298,2082.0,school,Creekside Elementary School,-121.3944,38.61268
-358765724,2082.0,school,Fairsite Elementary School,-121.29912,38.25075
-358764612,2082.0,school,Del Dayo Elementary School,-121.33773,38.58852
-358765954,2082.0,school,Florin Elementary School,-121.4044,38.49241
-358764696,2082.0,school,Harry Dewey Fundamental Elementary School,-121.30078,38.65352
-358764739,2082.0,school,C W Dillard Elementary School,-121.2505,38.40408
-358765985,2082.0,school,Foothill Farms Junior High School,-121.34801,38.67574
-358765988,2082.0,school,Foothill High School,-121.34912,38.67963
-358766196,2082.0,school,Capitol Collegiate Academy,-121.49269,38.48074
-358764860,2082.0,school,William Lee College Prep,-121.45273,38.54407
-358765076,2082.0,school,Earl Warren Elementary School,-121.41718,38.5263
-358766315,2082.0,school,Frontier Elementary School,-121.34301,38.68351
-358765202,2083.0,kindergarten,Thomas A Edison Elementary School,-121.38856,38.59268
-358766331,2082.0,school,Frederick C Joyce Elementary School,-121.38162,38.67657
-358765464,2082.0,school,Encina High School,-121.40912,38.59324
-358765528,2082.0,school,O W Erlewine Elementary School,-121.36023,38.56741
-358767591,2082.0,school,Hiram W Johnson High School,-121.42523,38.54074
-358766587,2082.0,school,Gloria Dei Lutheran Elementary School,-121.4469,38.51546
-358767669,2082.0,school,Hollywood Park Elementary School,-121.48996,38.53018
-358766625,2082.0,school,Charles M Goethe Middle School,-121.48607,38.48963
-358767677,2082.0,school,Oliver Wendall Holmes Elementary School,-121.37023,38.70046
-358767681,2082.0,school,John Holst Elementary School,-121.28801,38.64713
-358767707,2082.0,school,Holy Family Elementary School,-121.27495,38.70351
-358767732,2082.0,school,Holy Spirit School,-121.50523,38.54046
-358767803,2082.0,school,Success Academy,-121.48634,38.48713
-358768341,2082.0,school,Thomas Jefferson Elementary School,-121.3994,38.5538
-358766802,2082.0,school,Grant Union High School,-121.43495,38.63574
-358766886,2082.0,school,Green Oaks Fundamental Elementary School,-121.21613,38.69658
-358766924,2082.0,school,Greer Elementary School,-121.40856,38.58935
-358767042,2082.0,school,Hagginwood Elementary School,-121.43388,38.62234
-358767189,2082.0,school,H W Harkness Elementary School,-121.48857,38.50268
-358768367,2082.0,school,Jesuit High School,-121.35106,38.58629
-358767375,2082.0,school,La Entrada Continuation High School,-121.34051,38.66351
-358768467,2082.0,school,Harmon Johnson Elementary School,-121.46162,38.61463
-358767496,2082.0,school,Highlands High School,-121.35884,38.68796
-358767506,2084.0,college,Highway Patrol Academy,-121.47329,38.48046
-358768505,2082.0,school,Theodore Judah Elementary School,-121.45051,38.57741
-358767537,2082.0,school,Hillsdale Elementary School,-121.35634,38.68601
-358768508,2082.0,school,Theodore Judah Elementary School,-121.16356,38.67796
-358769956,2082.0,school,Charles E Mack Elementary School,-121.44551,38.48102
-358768612,2082.0,school,Edward Kemble Elementary School,-121.47357,38.48713
-358770047,2082.0,school,Main Avenue Elementary School,-121.43273,38.65407
-358768759,2082.0,school,Kingswood Elementary School,-121.27745,38.6699
-358768781,2082.0,school,Mather Youth Academy,-121.28856,38.54407
-358770137,2082.0,school,Maple Elementary School,-121.47134,38.51963
-358768814,2082.0,school,Kohler Elementary School,-121.36579,38.67907
-358770196,2082.0,school,Mariposa Avenue Elementary School,-121.28051,38.71074
-358769078,2082.0,school,Larchmont Elementary School,-121.3719,38.68435
-358770208,2082.0,school,Mark Twain Elementary School,-121.43884,38.53046
-358770328,2082.0,school,Mather Heights Elementary School,-121.27745,38.54407
-358769147,2082.0,school,Laurel Ruff Center,-121.3369,38.66324
-358770400,2082.0,school,Michael J Castori Elementary School,-121.42495,38.63324
-358770442,2082.0,school,McGeorge School of Law,-121.47162,38.5488
-358769293,2082.0,school,Lichen Elementary School,-121.30622,38.71841
-358770860,2082.0,school,Mission Avenue Elementary School,-121.35578,38.61852
-358772215,2082.0,school,Our Lady of the Assumption School,-121.3469,38.60379
-358769743,2082.0,school,Loretto High School,-121.40745,38.6099
-358772303,2082.0,school,Pacific Elementary School,-121.4594,38.51352
-358771163,2082.0,school,John Morse Waldorf Methods Magnet School,-121.49412,38.49713
-358772330,2082.0,school,River School,-121.19523,38.67435
-358772462,2082.0,school,Pasadena Avenue Elementary School,-121.36301,38.63768
-358772465,2082.0,school,Louis Pasteur Fundamental Middle School,-121.22245,38.69379
-358772525,2082.0,school,Charles Peck Elementary School,-121.31717,38.6599
-358772585,2082.0,school,Pershing Elementary School,-121.22023,38.6699
-358771461,2082.0,school,Natomas Pacific Pathways Prep,-121.54608,38.65511
-358771554,2082.0,school,Merryhill School Midtown,-121.4769,38.56074
-358772629,2082.0,school,Ethel I Phillips Elementary School,-121.47662,38.53324
-358771629,2082.0,school,Noralto Elementary School,-121.45495,38.61935
-358772860,2082.0,school,Pleasant Grove Elementary School,-121.31301,38.43047
-358771750,2082.0,school,Northridge Elementary School,-121.258,38.66046
-358771784,2082.0,school,Saint John's Notre Dame School,-121.15078,38.6824
-358771824,2082.0,school,Sunrise Tech Center & Creekside Adult Center,-121.27106,38.69935
-358772954,2082.0,school,Pony Express Elementary School,-121.51134,38.50046
-358771885,2082.0,school,Oak Ridge Elementary School,-121.46357,38.53407
-358771938,2082.0,school,Oakview Community Elementary School,-121.23078,38.69796
-358773058,2082.0,school,Our Lady of the Presentation Catholic School,-121.36801,38.62296
-358773204,2082.0,school,Rancho Cordova Elementary School,-121.29578,38.59991
-358772109,2082.0,school,Orangevale Open Elementary School,-121.21523,38.68518
-358774350,2082.0,school,Saint Mary School,-121.43384,38.55935
-358774359,2082.0,school,Saint Mel's Catholic School,-121.27439,38.65185
-358774395,2082.0,school,Saint Peter's Catholic School,-121.43218,38.5188
-358773587,2082.0,school,Rio Tierra Junior High School,-121.48134,38.62546
-358774398,2082.0,school,Saint Philomene School,-121.40856,38.61046
-358774418,2082.0,school,Saint Robert Elementary School,-121.48718,38.53018
-358774471,2082.0,school,Jonas Salk Alternative Middle School,-121.39384,38.58713
-358773637,2082.0,school,Riverview Elementary School,-121.29273,38.61629
-358774838,2082.0,school,Albert Schweitzer Elementary School,-121.29995,38.64435
-358773656,2082.0,school,Orangevale Open K-8,-121.23412,38.66879
-358774949,2082.0,school,Sequoia Elementary School,-121.36301,38.55268
-358774056,2082.0,school,Sacred Heart Parish School,-121.45455,38.57201
-358775239,2082.0,school,Sierra Oaks Elementary School,-121.39412,38.56963
-358774103,2082.0,school,Saint Anne Elementary School,-121.48162,38.47685
-358774121,2082.0,school,Saint Charles Borromeo School,-121.4451,38.48313
-358774159,2082.0,school,Saint Francis Catholic High School,-121.43023,38.55935
-358774165,2082.0,school,Saint Francis of Assisi Elementary School,-121.47301,38.57296
-358775264,2082.0,school,Sierra Enterprise Elementary School,-121.3619,38.52602
-358774181,2082.0,school,Saint Ignatius Elementary School,-121.38801,38.59685
-358774198,2082.0,school,Saint John the Evangelist School,-121.33078,38.64352
-358775364,2082.0,school,Skycrest Elementary School,-121.28551,38.66851
-358775416,2082.0,school,John D Sloat Elementary School,-121.50023,38.48463
-358774214,2082.0,school,Saint John Vianney School,-121.30134,38.60324
-358776603,2082.0,school,John H Still Center,-121.48412,38.47657
-358774279,2082.0,school,Saint Lawrence School,-121.36273,38.68963
-358776650,2082.0,school,Hazel Strauch Elementary School,-121.48107,38.62407
-358776892,2082.0,school,Sutter Middle School,-121.46329,38.57352
-358776906,2082.0,school,Sutterville Elementary School,-121.50079,38.52907
-358777114,2082.0,school,Taylor Street Elementary School,-121.45162,38.64713
-358776145,2082.0,school,Alethea B Smythe Elementary School,-121.47608,38.61546
-358777414,2082.0,school,Town and Country Lutheran School,-121.36967,38.61852
-358779167,2082.0,school,Clayton B Wire Elementary School,-121.44523,38.51324
-358776380,2082.0,school,Cyril Spinelli Elementary School,-121.38745,38.70712
-358776528,2082.0,school,Starr King Elementary and Middle School,-121.3519,38.60018
-358777992,2082.0,school,Valley Oaks Elementary School,-121.31078,38.25186
-358779194,2082.0,school,Will C Wood Middle School,-121.42995,38.51685
-358779203,2082.0,school,Woodbine Elementary School,-121.47965,38.50407
 358778153,2082.0,school,Vineland Elementary School,-121.41884,38.68407
-358778274,2082.0,school,Walnutwood High School,-121.27939,38.60713
 358778682,2082.0,school,Westside Elementary and Charter Schools,-121.4669,38.68657
-358778962,2082.0,school,William Land Elementary School,-121.49718,38.56685
-358779135,2082.0,school,A M Winn Elementary School,-121.32412,38.56602
-358779147,2082.0,school,Herbert Winterstein Adult Center,-121.39106,38.58157
-358835886,2082.0,school,Faith Lutheran Elementary School,-121.29162,38.63685
-358835888,2082.0,school,Freedom Christian School,-121.28051,38.6524
-358835889,2082.0,school,Freedom Christian High School,-121.28023,38.65213
-358835896,2082.0,school,Almondale Academy,-121.23828,38.67824
-358835906,2082.0,school,Carl H Sundahl Elementary School,-121.17328,38.70018
-358835929,2082.0,school,Family Christian Academy,-121.22606,38.68379
-358835569,2082.0,school,Del Paso Heights Elementary School,-121.45329,38.63435
-358835952,2082.0,school,Ottoman Way Elementary School,-121.19883,38.69687
-358835605,2082.0,school,Robla Elementary School,-121.44634,38.66268
-358835976,2082.0,school,Trajan Elementary School,-121.25439,38.68629
-358835979,2082.0,school,Victory Christian School,-121.22523,38.65685
 358835659,2082.0,school,Rio Linda Junior High School,-121.44218,38.68101
 358835686,2082.0,school,Elverta Elementary School,-121.46301,38.71185
-358836070,2082.0,school,Jefferson Elementary School,-121.51054,38.62168
-358836080,2082.0,school,Calvary Christian School,-121.44384,38.5113
-358836081,2082.0,school,Calvary Christian High School,-121.4444,38.51074
-358835753,2082.0,school,American Christian Academy,-121.30856,38.70101
-358835757,2082.0,school,Cambridge Heights Elementary School,-121.29523,38.66629
-358835782,2082.0,school,Los Amigos Continuation High School,-121.28884,38.67935
-358835808,2082.0,school,Pacific Career and Technical High School,-121.37579,38.67768
-358835826,2082.0,school,Woodridge Elementary School,-121.35134,38.67268
-358836138,2082.0,school,Marian Anderson Elementary School,-121.45085,38.54877
-358836139,2082.0,school,Sacramento Country Day School,-121.40023,38.56963
-358836140,2082.0,school,Sacramento Country Day High School,-121.39912,38.56935
-358835849,2082.0,school,Palos Via High School,-121.29773,38.66351
-358836145,2082.0,school,Sierra Nueva Continuation High School,-121.40856,38.59185
-358835875,2082.0,school,Woodside Elementary School,-121.2555,38.70518
-358836168,2082.0,school,Folsom Montessori School,-121.17495,38.67601
-358836728,2082.0,school,Starr King Middle School,-121.35356,38.60018
-358836744,2082.0,school,Victory Christian High School,-121.33745,38.62046
-358836214,2082.0,school,Father Keith B Kenny Elementary School,-121.46412,38.54241
-358836810,2082.0,school,Mount Olive Lutheran Pre-School,-121.15356,38.67574
-358836445,2082.0,school,Abraham Lincoln Elementary School,-121.31328,38.5713
-358836827,2082.0,school,Calvine Alternative High School,-121.37884,38.45352
-358836457,2082.0,school,Golden Empire Elementary School,-121.36717,38.54185
-358836842,2082.0,school,Ellen Feickert Elementary School,-121.38692,38.41747
+358852248,2082.0,school,Calvary Baptist Church School,-121.42856,38.6874
+2014319243,2303.0,cafe,Peet's Coffee,-121.59217,38.69578
+2052202338,2303.0,cafe,Starbucks,-121.59401,38.69579
+2562275944,2501.0,supermarket,Food Source,-121.45528,38.68275
+3042763953,2303.0,cafe,Peet's Coffee,-121.58746,38.69349
+3884434053,2303.0,cafe,Starbucks,-121.58776,38.69288
+5436290649,2082.0,school,,-121.50052,38.68111
+7536251338,2303.0,cafe,Starbucks,-121.45578,38.68431
+358760721,2082.0,school,Albert Einstein Middle School,-121.3519,38.5488
+358761079,2082.0,school,Arcohe Elementary School,-121.24189,38.29547
+358763144,2082.0,school,Carson Creek Junior Senior High School,-121.13467,38.55241
+358764159,2082.0,school,Cosumnes River Elementary School,-121.15495,38.49408
+358764739,2082.0,school,C W Dillard Elementary School,-121.2505,38.40408
+358765724,2082.0,school,Fairsite Elementary School,-121.29912,38.25075
+358768781,2082.0,school,Mather Youth Academy,-121.28856,38.54407
+358770328,2082.0,school,Mather Heights Elementary School,-121.27745,38.54407
+358772860,2082.0,school,Pleasant Grove Elementary School,-121.31301,38.43047
+358777992,2082.0,school,Valley Oaks Elementary School,-121.31078,38.25186
 358836462,2082.0,school,James W Marshall Elementary School,-121.34328,38.55546
-358836859,2082.0,school,Franklin Elementary School,-121.45745,38.37658
-358836464,2082.0,school,Kinney High School,-121.27606,38.60129
-358836864,2082.0,school,Harriet G Eddy Middle School,-121.41554,38.41951
-358836875,2082.0,school,Mary Tsukamoto Elementary School,-121.38023,38.46269
-358836575,2082.0,school,Capital Christian Deaf Center,-121.34635,38.55893
-358836604,2083.0,kindergarten,Common Grounds Preschool and Daycare,-121.47634,38.57296
-358837157,2082.0,school,Elk Grove Adult Education School,-121.37273,38.41408
 358836925,2082.0,school,Estrellita High School,-121.29523,38.25658
 358836927,2082.0,school,Galt High School,-121.29912,38.2563
-358836932,2082.0,school,Isleton Elementary School,-121.60912,38.16131
 358836948,2082.0,school,River Oaks Elementary School,-121.2955,38.27519
 358836958,2082.0,school,Vernon E Greer Middle School,-121.32189,38.2538
 358836967,2082.0,school,Wilton Christian School,-121.25134,38.40547
 358836968,2082.0,school,Wilton Christian High School,-121.25161,38.40491
-358837028,2082.0,school,Rio Cazadero Continuation High School,-121.43272,38.4704
-358837042,2082.0,school,Union House Elementary School,-121.45273,38.47213
-358837078,2082.0,school,Isabelle Jackson Elementary School,-121.3919,38.46241
-358837112,2082.0,school,Empire Oaks Elementary School,-121.10868,38.67781
-358852224,2082.0,school,Al-arqam Islamic School,-121.4394,38.49963
-358852236,2082.0,school,Atkinson Youth Services School,-121.38051,38.57352
 358852239,2082.0,school,Bradshaw Christian School,-121.33551,38.45491
-358852241,2082.0,school,Bright Horizons School,-121.20217,38.66768
-358852242,2082.0,school,Brighton Schools,-121.17745,38.65268
-358852245,2082.0,school,"Brookfield School, Inc",-121.50829,38.54685
-358852248,2082.0,school,Calvary Baptist Church School,-121.42856,38.6874
-358852250,2082.0,school,Camellia Waldorf School,-121.49662,38.5213
-358852252,2082.0,school,Capital City School,-121.4619,38.4988
-358852253,2082.0,school,Capitol Heights Academy,-121.47023,38.55518
-358852255,2082.0,school,Carden School of Sacramento,-121.39273,38.61713
-358852256,2082.0,school,Carden Sunrise Christian School,-121.28051,38.70018
-358852259,2082.0,school,Carousel School,-121.319,38.582
-358852260,2082.0,school,Cesar E Chavez Intermediate School,-121.47218,38.48657
-358852262,2082.0,school,"Childrens Home Connection, Inc",-121.46495,38.49935
-358852266,2082.0,school,Cordova Villa Center,-121.29995,38.57879
-358852269,2082.0,school,Countryside Montessori School,-121.29179,38.67103
-358852271,2082.0,school,Creative Frontiers Elementary School,-121.28856,38.68435
-358852274,2082.0,school,Discovery High School,-121.49412,38.63324
-358852277,2082.0,school,Eastside Charter School,-121.35662,38.68601
 358852282,2082.0,school,El Centro Junior Senior High School,-121.33995,38.54685
-358852285,2082.0,school,El Rancho School,-121.33301,38.60963
-358852290,2082.0,school,Elk Grove Charter School,-121.36374,38.40939
-358852294,2082.0,school,Elk Grove Montessori School,-121.37662,38.4113
-358852298,2082.0,school,Faith Christian Academy,-121.27939,38.68963
-358852301,2082.0,school,Folsom Hills Elementary School,-121.12967,38.68657
-358852302,2082.0,school,Folsom Lake High School,-121.17022,38.6724
-358852308,2082.0,school,Franklin D Roosevelt School,-121.4544,38.49741
-358852309,2082.0,school,Franklin High School,-121.43023,38.39297
 358852311,2082.0,school,Galt Adventist Christian School,-121.30356,38.25742
-358852313,2082.0,school,Glenwood Elementary School,-121.46301,38.64463
-358852316,2082.0,school,Gold River Elementary School,-121.24884,38.62713
-358852318,2082.0,school,Grant Community Outreach Academy,-121.45301,38.61963
-358852323,2082.0,school,Herman Leimbach Elementary School,-121.42301,38.46324
-358852327,2082.0,school,Irene B West Elementary School,-121.41134,38.44435
-358852335,2082.0,school,Joseph Sims Elementary School,-121.46995,38.41824
-358852337,2082.0,school,Kipp Sol Aureus College Preparatory,-121.46662,38.52824
-358852339,2082.0,school,Land Park Academy,-121.50329,38.51018
 358852361,2082.0,school,Marengo Ranch Elementary School,-121.29106,38.28353
-358852362,2082.0,school,"Martin Luther King, Jr Junior High School",-121.45245,38.62379
-358852369,2082.0,school,Martin's Achievement School,-121.37329,38.6624
-358852379,2082.0,school,Matsuyama Elementary School,-121.5369,38.48213
-358852382,2082.0,school,Merryhill Preparatory School,-121.51766,38.49247
-358852383,2082.0,school,Merryhill School - Calvine,-121.36551,38.45185
-358852389,2082.0,school,Miles P Richmond School,-121.36051,38.68463
-358852390,2082.0,school,Mokelumne High School,-121.56884,38.33019
-358852391,2082.0,school,Mustard Seed School,-121.48301,38.59129
-358852393,2082.0,school,Natoma Station Elementary School,-121.17856,38.6499
-358852228,2082.0,school,Alicante School Laguna,-121.46162,38.42685
-358852394,2082.0,school,Natomas Charter School,-121.49412,38.6574
-358852232,2082.0,school,Antelope Meadows Elementary School,-121.35884,38.72185
-358852396,2082.0,school,Natomas High School,-121.49523,38.62852
-358852409,2082.0,school,"Land Park Academy, Pat Anderson Education Center",-121.47829,38.53852
-358852397,2082.0,school,Natomas Park Elementary School,-121.50329,38.66074
-358852398,2082.0,school,New Dimension Learning Academy,-121.46857,38.55074
-358852400,2082.0,school,Northern California Preparatory School,-121.43412,38.51518
-358852412,2082.0,school,Phoenix School,-121.16433,38.6523
-358852401,2082.0,school,Norwood Junior High School,-121.45801,38.6524
-358852414,2082.0,school,Plover Street School,-121.42662,38.61379
-358852415,2082.0,school,South Sacramento Christian Center,-121.42106,38.47713
-358852418,2082.0,school,Ralph Richardson Center,-121.35273,38.60074
-358852420,2082.0,school,Reach Learning Academy,-121.46162,38.49657
 358852422,2082.0,school,Richard A McGee Correctional Training Center,-121.328,38.28908
 358852426,2082.0,school,Robert J Fite Elementary School,-121.34106,38.46602
 358852427,2082.0,school,Rosemont High School,-121.34162,38.54407
-358852429,2082.0,school,Sacramento Adventist Academy,-121.33495,38.64879
-358852433,2082.0,school,Sacramento Valley School,-121.48329,38.55352
-358852436,2082.0,school,Saint Hope Academy,-121.46495,38.53741
-358852437,2082.0,school,Saint John Christian Academy,-121.50746,38.56963
-358852439,2082.0,school,Saint Mark's Lutheran School,-121.27301,38.67101
-358852440,2082.0,school,Saint Michaels Episcopal Day School,-121.35384,38.60407
-358852441,2082.0,school,Saint Patrick School,-121.46936,38.51863
-358852444,2082.0,school,San Juan Choices Charter School,-121.38412,38.59657
-358852453,2082.0,school,Scusd Success Academy,-121.50134,38.56741
-358852457,2082.0,school,Shalom Day School,-121.40801,38.60046
 358852458,2082.0,school,Sheldon High School,-121.34745,38.4563
-358852460,2110.0,hospital,Shriners Hospitals for Children — Northern California,-121.45523,38.55296
-358852461,2082.0,school,Sierra School,-121.3944,38.61102
-358852465,2082.0,school,Southpointe Christian School,-121.4244,38.48435
-358852466,2082.0,school,Stone Lake Elementary School,-121.46162,38.4113
-358852468,2082.0,school,Storybook Cottage,-121.39162,38.60074
-358852469,2082.0,school,Sutter Middle School,-121.17217,38.67435
-358852471,2082.0,school,Sweet Dreams Academy,-121.43829,38.45824
 358852472,2082.0,school,T R Smedgerg Middle School,-121.34745,38.4588
 358852473,2082.0,school,Thortin Youth Center - Esperanza,-121.33856,38.54796
-358852475,2082.0,school,Toby Johnson Middle School,-121.4319,38.39102
-358852479,2082.0,school,Trinity Christian School,-121.3669,38.6624
-358852481,2082.0,school,Valley Christian Academy,-121.29551,38.72157
 358852483,2082.0,school,Valley Christian School of Galt,-121.30439,38.25408
-358852484,2082.0,school,Visions In Education School,-121.32717,38.6524
-358852486,2082.0,school,Visual and Performing Arts Charter School,-121.39301,38.52463
-358852489,2082.0,school,West Campus High School,-121.43968,38.52907
 358852490,2082.0,school,William K Morgan Alternative Center,-121.33856,38.54935
-358858076,2082.0,school,Northwestern College,-121.26267,38.62368
+2983791594,2501.0,supermarket,Davis Ranch,-121.16959,38.49356
+4872587093,2082.0,school,Robert McGarvey Elementary School,-121.23328,38.54454
+5315597756,2501.0,supermarket,Walmart Supercenter,-121.30476,38.28965
+7520346625,2303.0,cafe,Starbucks,-121.31001,38.29031
+7520346631,2501.0,supermarket,Raley's,-121.30723,38.28974
+7523911857,2501.0,supermarket,Galt Supermarket,-121.29979,38.25452
+358771784,2082.0,school,Saint John's Notre Dame School,-121.15078,38.6824
+358836810,2082.0,school,Mount Olive Lutheran Pre-School,-121.15356,38.67574
+358837112,2082.0,school,Empire Oaks Elementary School,-121.10868,38.67781
+358852301,2082.0,school,Folsom Hills Elementary School,-121.12967,38.68657
+1334645717,2110.0,hospital,Kaiser Permanente,-121.13514,38.64422
+1712260342,2303.0,cafe,Starbucks,-121.11353,38.64623
+1719978623,2083.0,kindergarten,KinderCare,-121.1362,38.66622
+1747962844,2303.0,cafe,Peet's Coffee,-121.12288,38.68891
+1748932102,2303.0,cafe,Starbucks,-121.12329,38.65308
+2364184954,2303.0,cafe,Peet's Coffee,-121.15165,38.6692
+4462135998,2303.0,cafe,Starbucks,-121.12082,38.65072
+358760935,2082.0,school,American Legion High School,-121.46412,38.54796
+358761982,2082.0,school,Christian Brothers High School,-121.46301,38.53574
+358762418,2082.0,school,Bret Harte Elementary School,-121.47634,38.54435
+358764860,2082.0,school,William Lee College Prep,-121.45273,38.54407
+358766587,2082.0,school,Gloria Dei Lutheran Elementary School,-121.4469,38.51546
+358767669,2082.0,school,Hollywood Park Elementary School,-121.48996,38.53018
+358767732,2082.0,school,Holy Spirit School,-121.50523,38.54046
+358770137,2082.0,school,Maple Elementary School,-121.47134,38.51963
+358770442,2082.0,school,McGeorge School of Law,-121.47162,38.5488
+358771885,2082.0,school,Oak Ridge Elementary School,-121.46357,38.53407
+358772303,2082.0,school,Pacific Elementary School,-121.4594,38.51352
+358772629,2082.0,school,Ethel I Phillips Elementary School,-121.47662,38.53324
+358774418,2082.0,school,Saint Robert Elementary School,-121.48718,38.53018
+358776906,2082.0,school,Sutterville Elementary School,-121.50079,38.52907
+358779167,2082.0,school,Clayton B Wire Elementary School,-121.44523,38.51324
+358836080,2082.0,school,Calvary Christian School,-121.44384,38.5113
+358836081,2082.0,school,Calvary Christian High School,-121.4444,38.51074
+358836138,2082.0,school,Marian Anderson Elementary School,-121.45085,38.54877
+358836214,2082.0,school,Father Keith B Kenny Elementary School,-121.46412,38.54241
+358852245,2082.0,school,"Brookfield School, Inc",-121.50829,38.54685
+358852250,2082.0,school,Camellia Waldorf School,-121.49662,38.5213
+358852253,2082.0,school,Capitol Heights Academy,-121.47023,38.55518
+358852337,2082.0,school,Kipp Sol Aureus College Preparatory,-121.46662,38.52824
+358852339,2082.0,school,Land Park Academy,-121.50329,38.51018
+358852398,2082.0,school,New Dimension Learning Academy,-121.46857,38.55074
+358852409,2082.0,school,"Land Park Academy, Pat Anderson Education Center",-121.47829,38.53852
+358852433,2082.0,school,Sacramento Valley School,-121.48329,38.55352
+358852436,2082.0,school,Saint Hope Academy,-121.46495,38.53741
+358852441,2082.0,school,Saint Patrick School,-121.46936,38.51863
+358852460,2110.0,hospital,Shriners Hospitals for Children — Northern California,-121.45523,38.55296
+634789944,2012.0,community_centre,Fruitridge Community Center,-121.46035,38.52418
+1946806975,2303.0,cafe,Old Soul Coffee Co. at 40 Acres,-121.46871,38.5515
+2588232404,2110.0,hospital,UC Davis Comprehensive Cancer Center,-121.45264,38.55393
+2588232405,2081.0,university,UC Davis School of Medicine,-121.45273,38.55298
+2617822805,2501.0,supermarket,Food Source,-121.45591,38.54729
+3495964223,2303.0,cafe,Espresso metro,-121.49087,38.54346
+3495969125,2303.0,cafe,Sandwitch Spot,-121.49075,38.54344
+4085843627,2303.0,cafe,Broadway Coffee,-121.47143,38.5546
+4099518985,2402.0,motel,Budget Inn,-121.4433,38.52701
+4489792574,2501.0,supermarket,Oto's Marketplace,-121.49622,38.52899
+4721323900,2303.0,cafe,Starbucks,-121.49444,38.53469
+4827813122,2303.0,cafe,,-121.44451,38.5268
+4827813123,2303.0,cafe,,-121.46452,38.54566
+5072643298,2303.0,cafe,Chocolate Fish,-121.48892,38.55147
+5080748921,2081.0,university,UC Davis School of Nursing,-121.45086,38.55207
+5710022644,2501.0,supermarket,Sprouts Farmers Market,-121.50485,38.53639
+5855350646,2501.0,supermarket,FoodsCo,-121.44465,38.52699
+6265002607,2303.0,cafe,La Bou,-121.50482,38.53691
+6546337133,2303.0,cafe,Starbucks,-121.49013,38.53835
+8777686511,2501.0,supermarket,Raley's,-121.49645,38.53304
+358761219,2082.0,school,D W Babcook Elementary School,-121.42495,38.60935
+358761644,2082.0,school,Bell Avenue Elementary School,-121.42051,38.64685
+358765670,2082.0,school,Fairbanks Elementary School,-121.46162,38.62657
+358766802,2082.0,school,Grant Union High School,-121.43495,38.63574
+358767042,2082.0,school,Hagginwood Elementary School,-121.43388,38.62234
+358768467,2082.0,school,Harmon Johnson Elementary School,-121.46162,38.61463
+358770047,2082.0,school,Main Avenue Elementary School,-121.43273,38.65407
+358770400,2082.0,school,Michael J Castori Elementary School,-121.42495,38.63324
+358771629,2082.0,school,Noralto Elementary School,-121.45495,38.61935
+358773587,2082.0,school,Rio Tierra Junior High School,-121.48134,38.62546
+358776145,2082.0,school,Alethea B Smythe Elementary School,-121.47608,38.61546
+358776650,2082.0,school,Hazel Strauch Elementary School,-121.48107,38.62407
+358777114,2082.0,school,Taylor Street Elementary School,-121.45162,38.64713
+358835569,2082.0,school,Del Paso Heights Elementary School,-121.45329,38.63435
+358835605,2082.0,school,Robla Elementary School,-121.44634,38.66268
+358852313,2082.0,school,Glenwood Elementary School,-121.46301,38.64463
+358852318,2082.0,school,Grant Community Outreach Academy,-121.45301,38.61963
+358852362,2082.0,school,"Martin Luther King, Jr Junior High School",-121.45245,38.62379
+358852401,2082.0,school,Norwood Junior High School,-121.45801,38.6524
+358852414,2082.0,school,Plover Street School,-121.42662,38.61379
+2062508419,2501.0,supermarket,FoodCo,-121.47704,38.63107
+2589900482,2303.0,cafe,Starbucks,-121.45075,38.59841
+3281579647,2501.0,supermarket,Viva,-121.45867,38.64484
+5276287053,2501.0,supermarket,Smart & Final,-121.47704,38.62832
+5309751258,2501.0,supermarket,La Victoria Supermercado,-121.44637,38.61326
+5315663064,2504.0,mall,Market Square at Arden Fair,-121.42367,38.59936
+5828215534,2303.0,cafe,Starbucks,-121.45645,38.64298
+5843170364,2501.0,supermarket,T & Y Market,-121.4577,38.61957
+5843234627,2303.0,cafe,Starbucks,-121.42677,38.60075
+6534451134,2501.0,supermarket,Shan Market,-121.4764,38.60879
+6755477913,2501.0,supermarket,Fiji Market,-121.47474,38.62652
+6791856443,2303.0,cafe,Starbucks,-121.42763,38.59553
+7229119237,2303.0,cafe,Peet's Coffee,-121.42341,38.59886
+8822795316,2303.0,cafe,Dutch Bros. Coffee,-121.4758,38.64434
+358761571,2082.0,school,Sol Aureus College Preparatory,-121.5269,38.50768
+358762385,2082.0,school,Sam Brannan Middle School,-121.51607,38.52741
+358762864,2082.0,school,John Cabrillo Elementary School,-121.51829,38.52574
+4344001952,2501.0,supermarket,Grocery Outlet,-121.54129,38.50961
+4355019129,2082.0,school,Brookfield School,-121.52587,38.51632
+5778410512,2501.0,supermarket,SF Supermarket,-121.51321,38.52074
+358836932,2082.0,school,Isleton Elementary School,-121.60912,38.16131
+358836070,2082.0,school,Jefferson Elementary School,-121.51054,38.62168
+358852274,2082.0,school,Discovery High School,-121.49412,38.63324
+358852394,2082.0,school,Natomas Charter School,-121.49412,38.6574
+358852396,2082.0,school,Natomas High School,-121.49523,38.62852
+358852397,2082.0,school,Natomas Park Elementary School,-121.50329,38.66074
+849761489,2303.0,cafe,Starbucks,-121.50963,38.64074
+2031483845,2501.0,supermarket,Raley's,-121.50995,38.65747
+2103936396,2303.0,cafe,Starbucks,-121.50487,38.63645
+2116536659,2501.0,supermarket,Bel Air,-121.49649,38.61189
+2583206999,2501.0,supermarket,Indian Groceries,-121.50466,38.6701
+2583207782,2501.0,supermarket,Natraj Indian Foods,-121.51047,38.64989
+4579879289,2303.0,cafe,Ms. T's Good To Go Cafe,-121.49904,38.61868
+4852813766,2303.0,cafe,Starbucks,-121.49712,38.61191
+5805622845,2501.0,supermarket,Grocery Outlet,-121.49965,38.61231
+6463241355,2303.0,cafe,Peet's Coffee,-121.49624,38.61191
+6741239629,2303.0,cafe,Sharetea,-121.50328,38.63402
+6764001241,2501.0,supermarket,FoodMaxx,-121.49899,38.62608
+8934828261,2501.0,supermarket,Indian Grocery Outlet,-121.50973,38.64023
+358767707,2082.0,school,Holy Family Elementary School,-121.27495,38.70351
+358768759,2082.0,school,Kingswood Elementary School,-121.27745,38.6699
+358770196,2082.0,school,Mariposa Avenue Elementary School,-121.28051,38.71074
+358771750,2082.0,school,Northridge Elementary School,-121.258,38.66046
+358771824,2082.0,school,Sunrise Tech Center & Creekside Adult Center,-121.27106,38.69935
+358774359,2082.0,school,Saint Mel's Catholic School,-121.27439,38.65185
+358835875,2082.0,school,Woodside Elementary School,-121.2555,38.70518
+358835888,2082.0,school,Freedom Christian School,-121.28051,38.6524
+358835889,2082.0,school,Freedom Christian High School,-121.28023,38.65213
+358835976,2082.0,school,Trajan Elementary School,-121.25439,38.68629
+358852256,2082.0,school,Carden Sunrise Christian School,-121.28051,38.70018
+358852298,2082.0,school,Faith Christian Academy,-121.27939,38.68963
+358852439,2082.0,school,Saint Mark's Lutheran School,-121.27301,38.67101
+1609218362,2303.0,cafe,Starbucks,-121.27154,38.66176
+1609228344,2303.0,cafe,Mr. Pickles,-121.2719,38.66221
+1609230734,2501.0,supermarket,Trader Joe's,-121.27494,38.6621
+1737746314,2501.0,supermarket,Sprouts Farmers Market,-121.27079,38.67981
+6100225685,2082.0,school,Bella Vista High School,-121.251,38.66621
+358761111,2082.0,school,Arlington Heights Elementary School,-121.31384,38.68657
+358761461,2082.0,school,John Barrett Middle School,-121.31356,38.64296
+358762968,2082.0,school,Cameron Ranch Elementary School,-121.33273,38.64379
+358764228,2082.0,school,Coyle Avenue Elementary School,-121.31662,38.6674
+358764696,2082.0,school,Harry Dewey Fundamental Elementary School,-121.30078,38.65352
+358765985,2082.0,school,Foothill Farms Junior High School,-121.34801,38.67574
+358765988,2082.0,school,Foothill High School,-121.34912,38.67963
+358766315,2082.0,school,Frontier Elementary School,-121.34301,38.68351
+358767375,2082.0,school,La Entrada Continuation High School,-121.34051,38.66351
+358767681,2082.0,school,John Holst Elementary School,-121.28801,38.64713
+358769147,2082.0,school,Laurel Ruff Center,-121.3369,38.66324
+358769293,2082.0,school,Lichen Elementary School,-121.30622,38.71841
+358772525,2082.0,school,Charles Peck Elementary School,-121.31717,38.6599
+358774198,2082.0,school,Saint John the Evangelist School,-121.33078,38.64352
+358774838,2082.0,school,Albert Schweitzer Elementary School,-121.29995,38.64435
+358775364,2082.0,school,Skycrest Elementary School,-121.28551,38.66851
+358835753,2082.0,school,American Christian Academy,-121.30856,38.70101
+358835757,2082.0,school,Cambridge Heights Elementary School,-121.29523,38.66629
+358835782,2082.0,school,Los Amigos Continuation High School,-121.28884,38.67935
+358835826,2082.0,school,Woodridge Elementary School,-121.35134,38.67268
+358835849,2082.0,school,Palos Via High School,-121.29773,38.66351
+358852269,2082.0,school,Countryside Montessori School,-121.29179,38.67103
+358852271,2082.0,school,Creative Frontiers Elementary School,-121.28856,38.68435
+358852429,2082.0,school,Sacramento Adventist Academy,-121.33495,38.64879
+358852481,2082.0,school,Valley Christian Academy,-121.29551,38.72157
+358852484,2082.0,school,Visions In Education School,-121.32717,38.6524
 358852491,2082.0,school,Wings Learning Resources,-121.32217,38.68379
-358852493,2082.0,school,Witter Ranch Elementary School,-121.53273,38.63685
-358858102,2082.0,school,University of Phoenix - Sacramento Valley Campus,-121.51931,38.62203
-358852494,2082.0,school,Wonderland School,-121.34551,38.62518
 358858183,2082.0,school,MTI College,-121.34255,38.66124
+702357125,2501.0,supermarket,Save Mart,-121.32611,38.64972
+3052795927,2501.0,supermarket,Walmart Supercenter,-121.29527,38.68949
+3989014158,2501.0,supermarket,Good Neighbor European Deli Market,-121.35103,38.65926
+4089304040,2303.0,cafe,Starbucks,-121.29174,38.69384
+4738237691,2303.0,cafe,ERICA'S CAFE,-121.29081,38.67867
+5001972521,2013.0,nursing_home,,-121.33014,38.69142
+5315596634,2501.0,supermarket,Walmart Neighborhood Market,-121.3249,38.6626
+6355786545,2303.0,cafe,Dutch Bros. Coffee,-121.34218,38.66522
+6567050716,2501.0,supermarket,Raley's,-121.31326,38.70951
+6567068054,2303.0,cafe,Starbucks,-121.32625,38.70629
+6709187258,2082.0,school,El Camino High School,-121.31057,38.65433
+6709187265,2110.0,hospital,,-121.31413,38.66958
+358768505,2082.0,school,Theodore Judah Elementary School,-121.45051,38.57741
+358774056,2082.0,school,Sacred Heart Parish School,-121.45455,38.57201
+358774159,2082.0,school,Saint Francis Catholic High School,-121.43023,38.55935
+358774350,2082.0,school,Saint Mary School,-121.43384,38.55935
+368167515,2014.0,arts_centre,Shepard Garden Art Center,-121.45857,38.57657
+4558011242,2303.0,cafe,Fremont Presbyterian Coffee Bar,-121.43073,38.56794
+4579919149,2303.0,cafe,Starbucks at the Hornet Bookstore Cafe,-121.42046,38.55989
+4579926389,2303.0,cafe,Starbucks,-121.42376,38.56318
+5794960560,2501.0,supermarket,Save Mart,-121.43867,38.55774
+5794960573,2501.0,supermarket,Corti Brothers,-121.43626,38.55723
+7207426198,2501.0,supermarket,Compton's Market,-121.44786,38.57866
+358771554,2082.0,school,Merryhill School Midtown,-121.4769,38.56074
+358774165,2082.0,school,Saint Francis of Assisi Elementary School,-121.47301,38.57296
+358776892,2082.0,school,Sutter Middle School,-121.46329,38.57352
+358836604,2083.0,kindergarten,Common Grounds Preschool and Daycare,-121.47634,38.57296
+1430559465,2303.0,cafe,Temple Coffee,-121.47241,38.56389
+1437045836,2303.0,cafe,Cafe Capricho,-121.46421,38.56775
+2611211330,2303.0,cafe,Old Soul at Weatherstone,-121.47799,38.5781
+4331400989,2303.0,cafe,Temple Coffee,-121.47759,38.57476
+5024779821,2303.0,cafe,Coffee Works,-121.46342,38.56666
+5850795206,2303.0,cafe,Peet's Coffee,-121.46659,38.56925
+8988999281,2501.0,supermarket,Raley's,-121.24497,38.55749
+9027612526,2501.0,supermarket,Grocery Outlet,-121.42544,38.55294
+358761487,2082.0,school,Bates Elementary School,-121.56495,38.33047
+358836859,2082.0,school,Franklin Elementary School,-121.45745,38.37658
+358852390,2082.0,school,Mokelumne High School,-121.56884,38.33019
+358763121,2082.0,school,Carmichael Elementary School,-121.32301,38.63463
+358763597,2082.0,school,Winston Churchill Middle School,-121.35134,38.62685
+358764105,2082.0,school,Cordova Villa Elementary School,-121.29856,38.57963
+358764612,2082.0,school,Del Dayo Elementary School,-121.33773,38.58852
+358765528,2082.0,school,O W Erlewine Elementary School,-121.36023,38.56741
+358768367,2082.0,school,Jesuit High School,-121.35106,38.58629
+358770860,2082.0,school,Mission Avenue Elementary School,-121.35578,38.61852
+358772215,2082.0,school,Our Lady of the Assumption School,-121.3469,38.60379
+358772462,2082.0,school,Pasadena Avenue Elementary School,-121.36301,38.63768
+358773058,2082.0,school,Our Lady of the Presentation Catholic School,-121.36801,38.62296
+358773204,2082.0,school,Rancho Cordova Elementary School,-121.29578,38.59991
+358773637,2082.0,school,Riverview Elementary School,-121.29273,38.61629
+358774214,2082.0,school,Saint John Vianney School,-121.30134,38.60324
+358776528,2082.0,school,Starr King Elementary and Middle School,-121.3519,38.60018
+358777414,2082.0,school,Town and Country Lutheran School,-121.36967,38.61852
+358778274,2082.0,school,Walnutwood High School,-121.27939,38.60713
+358779135,2082.0,school,A M Winn Elementary School,-121.32412,38.56602
+358835886,2082.0,school,Faith Lutheran Elementary School,-121.29162,38.63685
+358836445,2082.0,school,Abraham Lincoln Elementary School,-121.31328,38.5713
+358836464,2082.0,school,Kinney High School,-121.27606,38.60129
+358836575,2082.0,school,Capital Christian Deaf Center,-121.34635,38.55893
+358836728,2082.0,school,Starr King Middle School,-121.35356,38.60018
+358836744,2082.0,school,Victory Christian High School,-121.33745,38.62046
+358852259,2082.0,school,Carousel School,-121.319,38.582
+358852266,2082.0,school,Cordova Villa Center,-121.29995,38.57879
+358852285,2082.0,school,El Rancho School,-121.33301,38.60963
+358852316,2082.0,school,Gold River Elementary School,-121.24884,38.62713
+358852418,2082.0,school,Ralph Richardson Center,-121.35273,38.60074
+358852440,2082.0,school,Saint Michaels Episcopal Day School,-121.35384,38.60407
+358852494,2082.0,school,Wonderland School,-121.34551,38.62518
+358858076,2082.0,school,Northwestern College,-121.26267,38.62368
 358858202,2082.0,school,Heald College - Sacramento,-121.27806,38.59435
 358858361,2082.0,school,High - Tech Institute - Sacramento,-121.33418,38.56143
+358858561,2082.0,school,Western Seminary - Sacramento,-121.37236,38.61884
+1651707078,2082.0,school,George Washington Carver School of Arts and Science,-121.31679,38.56487
+1690636907,2303.0,cafe,Bella Bru Cafe,-121.34535,38.59467
+1928281190,2303.0,cafe,Starbucks,-121.32918,38.63722
+2499140537,2082.0,school,California Montessori Project - Carmichael,-121.3401,38.63513
+2616523976,2303.0,cafe,Starbucks,-121.28452,38.58426
+2983736397,2303.0,cafe,Beach Hut Deli,-121.26366,38.62685
+2983741065,2501.0,supermarket,Bel Air,-121.26356,38.62525
+2984044247,2303.0,cafe,Starbucks,-121.26365,38.62699
+3022763641,2303.0,cafe,Starbucks,-121.22008,38.63203
+3180195249,2501.0,supermarket,Smart & Final,-121.2707,38.61655
+3180197370,2303.0,cafe,Starbucks,-121.27054,38.61331
+4311526614,2303.0,cafe,Starbucks,-121.26601,38.58886
+4311961700,2303.0,cafe,Starbucks,-121.33461,38.55874
+4311966407,2501.0,supermarket,Food 4 Less,-121.33434,38.55844
+4812498215,2012.0,community_centre,Carmichael Park community center,-121.33023,38.62949
+5315599514,2501.0,supermarket,Walmart Supercenter,-121.29181,38.59613
+6709187247,2082.0,school,Waldorf School,-121.28603,38.63183
+6709187263,2303.0,cafe,Lido Cafe,-121.31845,38.63725
+358764298,2082.0,school,Creekside Elementary School,-121.3944,38.61268
+358765202,2083.0,kindergarten,Thomas A Edison Elementary School,-121.38856,38.59268
+358765464,2082.0,school,Encina High School,-121.40912,38.59324
+358766924,2082.0,school,Greer Elementary School,-121.40856,38.58935
+358769743,2082.0,school,Loretto High School,-121.40745,38.6099
+358774181,2082.0,school,Saint Ignatius Elementary School,-121.38801,38.59685
+358774398,2082.0,school,Saint Philomene School,-121.40856,38.61046
+358774471,2082.0,school,Jonas Salk Alternative Middle School,-121.39384,38.58713
+358775239,2082.0,school,Sierra Oaks Elementary School,-121.39412,38.56963
+358779147,2082.0,school,Herbert Winterstein Adult Center,-121.39106,38.58157
+358836139,2082.0,school,Sacramento Country Day School,-121.40023,38.56963
+358836140,2082.0,school,Sacramento Country Day High School,-121.39912,38.56935
+358836145,2082.0,school,Sierra Nueva Continuation High School,-121.40856,38.59185
+358852236,2082.0,school,Atkinson Youth Services School,-121.38051,38.57352
+358852255,2082.0,school,Carden School of Sacramento,-121.39273,38.61713
+358852444,2082.0,school,San Juan Choices Charter School,-121.38412,38.59657
+358852457,2082.0,school,Shalom Day School,-121.40801,38.60046
+358852461,2082.0,school,Sierra School,-121.3944,38.61102
+358852468,2082.0,school,Storybook Cottage,-121.39162,38.60074
+1523944194,2303.0,cafe,American River Cafe,-121.37989,38.56365
+2090575435,2303.0,cafe,Starbucks,-121.40184,38.604
+2616860478,2303.0,cafe,Starbucks,-121.39252,38.59622
+3104444346,2501.0,supermarket,Sprouts Farmers Market,-121.39798,38.61935
+4001273234,2110.0,hospital,Valley Recovery Center of California,-121.41433,38.57518
+4082586124,2303.0,cafe,Starbucks,-121.38247,38.61353
+4099429540,2402.0,motel,Sands Motel,-121.41572,38.62399
+4792626549,2303.0,cafe,Starbucks,-121.40345,38.60069
+5274519618,2501.0,supermarket,Walmart Neighborhood Market,-121.39909,38.61702
+5274568992,2501.0,supermarket,Trader Joe's,-121.40013,38.61868
+5274569003,2303.0,cafe,Starbucks,-121.4009,38.61849
+5315091863,2012.0,community_centre,Richard T Conzelmann Community Center,-121.41224,38.60524
+6562271584,2303.0,cafe,Starbucks,-121.38262,38.57532
+6789685457,2501.0,supermarket,Smart & Final Extra!,-121.3814,38.59701
+358762982,2082.0,school,Campos Verdes Adult Education Center,-121.37745,38.67768
+358766331,2082.0,school,Frederick C Joyce Elementary School,-121.38162,38.67657
+358767496,2082.0,school,Highlands High School,-121.35884,38.68796
+358767537,2082.0,school,Hillsdale Elementary School,-121.35634,38.68601
+358767677,2082.0,school,Oliver Wendall Holmes Elementary School,-121.37023,38.70046
+358768814,2082.0,school,Kohler Elementary School,-121.36579,38.67907
+358769078,2082.0,school,Larchmont Elementary School,-121.3719,38.68435
+358774279,2082.0,school,Saint Lawrence School,-121.36273,38.68963
+358776380,2082.0,school,Cyril Spinelli Elementary School,-121.38745,38.70712
+358835808,2082.0,school,Pacific Career and Technical High School,-121.37579,38.67768
+358852232,2082.0,school,Antelope Meadows Elementary School,-121.35884,38.72185
+358852277,2082.0,school,Eastside Charter School,-121.35662,38.68601
+358852369,2082.0,school,Martin's Achievement School,-121.37329,38.6624
+358852389,2082.0,school,Miles P Richmond School,-121.36051,38.68463
+358852479,2082.0,school,Trinity Christian School,-121.3669,38.6624
 358858380,2082.0,school,Maric College - Sacramento,-121.38286,38.64334
 358858548,2082.0,school,Trinity Life Bible College,-121.3661,38.66182
-358858561,2082.0,school,Western Seminary - Sacramento,-121.37236,38.61884
-358858563,2082.0,school,Western Career College,-121.37154,38.5558
-368167515,2014.0,arts_centre,Shepard Garden Art Center,-121.45857,38.57657
-634789944,2012.0,community_centre,Fruitridge Community Center,-121.46035,38.52418
-702357125,2501.0,supermarket,Save Mart,-121.32611,38.64972
 722634581,2082.0,school,Wildland Fire Training and Conference Center,-121.38729,38.6613
+1131906352,2501.0,supermarket,FoodMaxx,-121.39407,38.71587
+1804193775,2303.0,cafe,,-121.38652,38.66692
+4099429534,2402.0,motel,Courtyard Inn,-121.38411,38.64703
+5828240923,2303.0,cafe,Starbucks,-121.35478,38.66165
+6444037405,2303.0,cafe,Honey Donuts,-121.39284,38.71762
+6536141349,2303.0,cafe,Starbucks,-121.38403,38.65645
+9046934311,2501.0,supermarket,European Delicatessen,-121.36314,38.69552
+358763162,2082.0,school,Casa Roble Fundamental High School,-121.21411,38.70101
+358763376,2082.0,school,Thomas W Coleman Elementary School,-121.2305,38.68518
+358766886,2082.0,school,Green Oaks Fundamental Elementary School,-121.21613,38.69658
+358771938,2082.0,school,Oakview Community Elementary School,-121.23078,38.69796
+358772109,2082.0,school,Orangevale Open Elementary School,-121.21523,38.68518
+358772465,2082.0,school,Louis Pasteur Fundamental Middle School,-121.22245,38.69379
+358772585,2082.0,school,Pershing Elementary School,-121.22023,38.6699
+358773656,2082.0,school,Orangevale Open K-8,-121.23412,38.66879
+358835896,2082.0,school,Almondale Academy,-121.23828,38.67824
+358835929,2082.0,school,Family Christian Academy,-121.22606,38.68379
+358835979,2082.0,school,Victory Christian School,-121.22523,38.65685
+1795171737,2501.0,supermarket,Save Mart,-121.22903,38.67987
+3330042345,2501.0,supermarket,Walmart Supercenter,-121.22257,38.67941
+358761236,2082.0,school,Fern Bacon Middle School,-121.45884,38.5038
+358762329,2082.0,school,Bowling Green Charter School Number 18,-121.4594,38.50185
+358766196,2082.0,school,Capitol Collegiate Academy,-121.49269,38.48074
+358766625,2082.0,school,Charles M Goethe Middle School,-121.48607,38.48963
+358767189,2082.0,school,H W Harkness Elementary School,-121.48857,38.50268
+358767506,2084.0,college,Highway Patrol Academy,-121.47329,38.48046
+358767803,2082.0,school,Success Academy,-121.48634,38.48713
+358768612,2082.0,school,Edward Kemble Elementary School,-121.47357,38.48713
+358769956,2082.0,school,Charles E Mack Elementary School,-121.44551,38.48102
+358771163,2082.0,school,John Morse Waldorf Methods Magnet School,-121.49412,38.49713
+358772954,2082.0,school,Pony Express Elementary School,-121.51134,38.50046
+358774103,2082.0,school,Saint Anne Elementary School,-121.48162,38.47685
+358774121,2082.0,school,Saint Charles Borromeo School,-121.4451,38.48313
+358775416,2082.0,school,John D Sloat Elementary School,-121.50023,38.48463
+358776603,2082.0,school,John H Still Center,-121.48412,38.47657
+358779203,2082.0,school,Woodbine Elementary School,-121.47965,38.50407
+358837042,2082.0,school,Union House Elementary School,-121.45273,38.47213
+358852228,2082.0,school,Alicante School Laguna,-121.46162,38.42685
+358852252,2082.0,school,Capital City School,-121.4619,38.4988
+358852260,2082.0,school,Cesar E Chavez Intermediate School,-121.47218,38.48657
+358852262,2082.0,school,"Childrens Home Connection, Inc",-121.46495,38.49935
+358852308,2082.0,school,Franklin D Roosevelt School,-121.4544,38.49741
+358852335,2082.0,school,Joseph Sims Elementary School,-121.46995,38.41824
+358852379,2082.0,school,Matsuyama Elementary School,-121.5369,38.48213
+358852382,2082.0,school,Merryhill Preparatory School,-121.51766,38.49247
+358852420,2082.0,school,Reach Learning Academy,-121.46162,38.49657
+358852466,2082.0,school,Stone Lake Elementary School,-121.46162,38.4113
 761843487,2501.0,supermarket,Bel Air Supermarket,-121.5352,38.48662
 761845539,2303.0,cafe,Starbucks,-121.52114,38.49508
 761845564,2501.0,supermarket,Nugget Markets,-121.52112,38.49462
 761849540,2303.0,cafe,Cafe Latte,-121.51772,38.48051
 761852375,2303.0,cafe,Starbucks,-121.50322,38.48161
-849761489,2303.0,cafe,Starbucks,-121.50963,38.64074
+1712260517,2501.0,supermarket,Food 4 Less,-121.44923,38.47554
+1777633274,2303.0,cafe,Starbucks,-121.44958,38.40783
+2085502813,2501.0,supermarket,Bel Air,-121.50993,38.49655
+2103501933,2501.0,supermarket,S.F. Supermarket,-121.44876,38.47242
+2143340383,2501.0,supermarket,99 Ranch Market,-121.45704,38.49457
+2617825633,2501.0,supermarket,Food Maxx,-121.46112,38.49487
+4344016579,2303.0,cafe,Starbucks,-121.51677,38.48074
+4349406992,2303.0,cafe,Starbucks,-121.48232,38.42516
+4349411307,2303.0,cafe,Starbucks,-121.4464,38.42288
+4604665371,2303.0,cafe,Dutch Bros. Coffee,-121.45056,38.49552
+4805067272,2501.0,supermarket,Bel Air,-121.44548,38.422
+6265129839,2303.0,cafe,Starbucks,-121.49197,38.46454
+6434323858,2303.0,cafe,Starbucks,-121.41552,38.45936
+6450733580,2012.0,community_centre,Party Palace,-121.46031,38.42673
+6450735575,2082.0,school,Kumon Math & Reading Center,-121.41725,38.42507
+6450736172,2303.0,cafe,Starbucks,-121.41841,38.39387
+6546346101,2303.0,cafe,Starbucks,-121.50765,38.49596
+358771461,2082.0,school,Natomas Pacific Pathways Prep,-121.54608,38.65511
+358852493,2082.0,school,Witter Ranch Elementary School,-121.53273,38.63685
+358858102,2082.0,school,University of Phoenix - Sacramento Valley Campus,-121.51931,38.62203
 955382076,2501.0,supermarket,Bel-air,-121.53355,38.64184
-1131906352,2501.0,supermarket,FoodMaxx,-121.39407,38.71587
 1169003758,2082.0,school,H. Allen Hight Elementary School,-121.53132,38.66637
 1169004192,2082.0,school,Natomas Middle School,-121.53187,38.66605
 1169005300,2082.0,school,Inderkum High School,-121.51719,38.6583
-1309641402,2303.0,cafe,Starbucks,-121.16421,38.65021
-1334645717,2110.0,hospital,Kaiser Permanente,-121.13514,38.64422
-1422619391,2303.0,cafe,Chocolate Fish Coffee,-121.50591,38.57514
-1422622089,2303.0,cafe,Temple Coffee,-121.49507,38.5804
-1523944194,2303.0,cafe,American River Cafe,-121.37989,38.56365
-1430559465,2303.0,cafe,Temple Coffee,-121.47241,38.56389
-1437045836,2303.0,cafe,Cafe Capricho,-121.46421,38.56775
-1609218362,2303.0,cafe,Starbucks,-121.27154,38.66176
-1609228344,2303.0,cafe,Mr. Pickles,-121.2719,38.66221
-1609230734,2501.0,supermarket,Trader Joe's,-121.27494,38.6621
-1651707078,2082.0,school,George Washington Carver School of Arts and Science,-121.31679,38.56487
-1690636907,2303.0,cafe,Bella Bru Cafe,-121.34535,38.59467
-1712260342,2303.0,cafe,Starbucks,-121.11353,38.64623
-1712260517,2501.0,supermarket,Food 4 Less,-121.44923,38.47554
-1719978623,2083.0,kindergarten,KinderCare,-121.1362,38.66622
-1722540976,2082.0,school,Folsom High School,-121.15678,38.64849
-1724441348,2083.0,kindergarten,Phoenix Preschool,-121.1646,38.65195
-1724502142,2303.0,cafe,Starbucks,-121.17943,38.65426
-1737746314,2501.0,supermarket,Sprouts Farmers Market,-121.27079,38.67981
-1737746451,2501.0,supermarket,Save Mart,-121.29769,38.2543
-1744880209,2303.0,cafe,Starbucks,-121.49957,38.58382
-1747962844,2303.0,cafe,Peet's Coffee,-121.12288,38.68891
-1748088291,2303.0,cafe,Folsom Bike & Coffee,-121.17068,38.70495
-1748932102,2303.0,cafe,Starbucks,-121.12329,38.65308
+1787498783,2303.0,cafe,Starbucks,-121.51656,38.61353
+2014247141,2303.0,cafe,Starbucks,-121.53255,38.64194
+2017544672,2082.0,school,Paso Verde School,-121.54722,38.65522
+5766773898,2081.0,university,Universal Technical Institute Sacramento,-121.52979,38.64643
+358761428,2082.0,school,Hubert H Bancroft Elementary School,-121.38634,38.55352
+358762251,2082.0,school,New Joseph Bonnheim Community Charter School,-121.41829,38.53324
+358762759,2082.0,school,Peter Burnett Elementary School,-121.43579,38.52102
+358765076,2082.0,school,Earl Warren Elementary School,-121.41718,38.5263
+358767591,2082.0,school,Hiram W Johnson High School,-121.42523,38.54074
+358768341,2082.0,school,Thomas Jefferson Elementary School,-121.3994,38.5538
+358770208,2082.0,school,Mark Twain Elementary School,-121.43884,38.53046
+358774395,2082.0,school,Saint Peter's Catholic School,-121.43218,38.5188
+358774949,2082.0,school,Sequoia Elementary School,-121.36301,38.55268
+358775264,2082.0,school,Sierra Enterprise Elementary School,-121.3619,38.52602
+358779194,2082.0,school,Will C Wood Middle School,-121.42995,38.51685
+358836457,2082.0,school,Golden Empire Elementary School,-121.36717,38.54185
+358852400,2082.0,school,Northern California Preparatory School,-121.43412,38.51518
+358852486,2082.0,school,Visual and Performing Arts Charter School,-121.39301,38.52463
+358852489,2082.0,school,West Campus High School,-121.43968,38.52907
+358858563,2082.0,school,Western Career College,-121.37154,38.5558
+2588197278,2303.0,cafe,Starbucks,-121.42817,38.54704
+4085828537,2303.0,cafe,Starbucks,-121.4281,38.55408
+4085833498,2303.0,cafe,Dos Coyotes,-121.42827,38.55434
+5819831292,2501.0,supermarket,Smart & Final,-121.43724,38.51172
+6389297011,2501.0,supermarket,Vinh Phat,-121.43739,38.51561
+6562384098,2303.0,cafe,Starbucks,-121.39464,38.54759
+6562384112,2501.0,supermarket,Raley's,-121.39484,38.54859
+358765954,2082.0,school,Florin Elementary School,-121.4044,38.49241
+358836827,2082.0,school,Calvine Alternative High School,-121.37884,38.45352
+358836842,2082.0,school,Ellen Feickert Elementary School,-121.38692,38.41747
+358836864,2082.0,school,Harriet G Eddy Middle School,-121.41554,38.41951
+358836875,2082.0,school,Mary Tsukamoto Elementary School,-121.38023,38.46269
+358837028,2082.0,school,Rio Cazadero Continuation High School,-121.43272,38.4704
+358837078,2082.0,school,Isabelle Jackson Elementary School,-121.3919,38.46241
+358837157,2082.0,school,Elk Grove Adult Education School,-121.37273,38.41408
+358852224,2082.0,school,Al-arqam Islamic School,-121.4394,38.49963
+358852290,2082.0,school,Elk Grove Charter School,-121.36374,38.40939
+358852294,2082.0,school,Elk Grove Montessori School,-121.37662,38.4113
+358852309,2082.0,school,Franklin High School,-121.43023,38.39297
+358852323,2082.0,school,Herman Leimbach Elementary School,-121.42301,38.46324
+358852327,2082.0,school,Irene B West Elementary School,-121.41134,38.44435
+358852383,2082.0,school,Merryhill School - Calvine,-121.36551,38.45185
+358852415,2082.0,school,South Sacramento Christian Center,-121.42106,38.47713
+358852465,2082.0,school,Southpointe Christian School,-121.4244,38.48435
+358852471,2082.0,school,Sweet Dreams Academy,-121.43829,38.45824
+358852475,2082.0,school,Toby Johnson Middle School,-121.4319,38.39102
 1776777196,2501.0,supermarket,Nugget Markets,-121.42006,38.41001
 1776990072,2501.0,supermarket,Trader Joe's,-121.42029,38.40658
 1777010535,2303.0,cafe,It's A Grind,-121.41856,38.4085
 1777028965,2303.0,cafe,Starbucks,-121.41375,38.42387
 1777080652,2501.0,supermarket,Save Mart,-121.41342,38.42524
 1777087009,2501.0,supermarket,Sprouts Farmers Market,-121.40614,38.42356
-1787498783,2303.0,cafe,Starbucks,-121.51656,38.61353
-1777633274,2303.0,cafe,Starbucks,-121.44958,38.40783
-1795171737,2501.0,supermarket,Save Mart,-121.22903,38.67987
-1804193775,2303.0,cafe,,-121.38652,38.66692
-1928281190,2303.0,cafe,Starbucks,-121.32918,38.63722
-1946806975,2303.0,cafe,Old Soul Coffee Co. at 40 Acres,-121.46871,38.5515
-2014247141,2303.0,cafe,Starbucks,-121.53255,38.64194
-2014319243,2303.0,cafe,Peet's Coffee,-121.59217,38.69578
-2017544672,2082.0,school,Paso Verde School,-121.54722,38.65522
-2031483845,2501.0,supermarket,Raley's,-121.50995,38.65747
 2047684786,2501.0,supermarket,SF Supermarket,-121.43321,38.50163
-2052202338,2303.0,cafe,Starbucks,-121.59401,38.69579
-2062508419,2501.0,supermarket,FoodCo,-121.47704,38.63107
-2103501933,2501.0,supermarket,S.F. Supermarket,-121.44876,38.47242
-2085502813,2501.0,supermarket,Bel Air,-121.50993,38.49655
-2090575435,2303.0,cafe,Starbucks,-121.40184,38.604
-2103936396,2303.0,cafe,Starbucks,-121.50487,38.63645
-2116536659,2501.0,supermarket,Bel Air,-121.49649,38.61189
-2143340383,2501.0,supermarket,99 Ranch Market,-121.45704,38.49457
+2591789125,2501.0,supermarket,Grocery Outlet,-121.38764,38.42541
+3748885536,2501.0,supermarket,Walmart,-121.41621,38.39134
+4054550445,2303.0,cafe,Starbucks,-121.37103,38.45478
+4099518979,2402.0,motel,Americas Best Value Inn Sacramento,-121.42166,38.47503
+4785477140,2110.0,hospital,Kaiser Ambulatory Surgery Center,-121.42368,38.46944
+5311527030,2501.0,supermarket,Save Mart,-121.41019,38.48076
+5311615964,2501.0,supermarket,Walmart Supercenter,-121.36901,38.4828
+5312287350,2501.0,supermarket,Save Mart Supermarkets,-121.3731,38.42484
+6434217902,2303.0,cafe,Starbucks,-121.40358,38.45536
+6441034093,2303.0,cafe,Golden Donuts,-121.36992,38.45206
+6448887908,2501.0,supermarket,Smart & Final,-121.37718,38.41012
+6450723604,2082.0,school,Kumon Math & Reading Center,-121.41725,38.42507
+6450724066,2303.0,cafe,Starbucks,-121.41841,38.39387
+6780244157,2303.0,cafe,85°C,-121.43445,38.50061
+358768508,2082.0,school,Theodore Judah Elementary School,-121.16356,38.67796
+358772330,2082.0,school,River School,-121.19523,38.67435
+358835906,2082.0,school,Carl H Sundahl Elementary School,-121.17328,38.70018
+358835952,2082.0,school,Ottoman Way Elementary School,-121.19883,38.69687
+358836168,2082.0,school,Folsom Montessori School,-121.17495,38.67601
+358852241,2082.0,school,Bright Horizons School,-121.20217,38.66768
+358852242,2082.0,school,Brighton Schools,-121.17745,38.65268
+358852302,2082.0,school,Folsom Lake High School,-121.17022,38.6724
+358852393,2082.0,school,Natoma Station Elementary School,-121.17856,38.6499
+358852412,2082.0,school,Phoenix School,-121.16433,38.6523
+358852469,2082.0,school,Sutter Middle School,-121.17217,38.67435
+1309641402,2303.0,cafe,Starbucks,-121.16421,38.65021
+1722540976,2082.0,school,Folsom High School,-121.15678,38.64849
+1724441348,2083.0,kindergarten,Phoenix Preschool,-121.1646,38.65195
+1724502142,2303.0,cafe,Starbucks,-121.17943,38.65426
+1748088291,2303.0,cafe,Folsom Bike & Coffee,-121.17068,38.70495
 2295128397,2501.0,supermarket,Trader Joe's,-121.15589,38.67243
 2295281773,2501.0,supermarket,Walmart Supercenter,-121.16753,38.66836
-2364184954,2303.0,cafe,Peet's Coffee,-121.15165,38.6692
+3065878126,2303.0,cafe,Jack's Donuts,-121.20315,38.67097
+3359167684,2303.0,cafe,TCBY Frozen Yogurt,-121.18726,38.64314
+5115970118,2303.0,cafe,Kingdom Coffee,-121.18911,38.64138
+7705756672,2082.0,school,Saint John Catholic School,-121.1544,38.6819
+8238224686,2082.0,school,Carl Sundahl Elementary School,-121.17458,38.70062
+8464500020,2303.0,cafe,Reset Cafe By Day,-121.17731,38.67708
+8796449951,2303.0,cafe,World Traveller,-121.1635,38.6725
+358778962,2082.0,school,William Land Elementary School,-121.49718,38.56685
+358852391,2082.0,school,Mustard Seed School,-121.48301,38.59129
+1422622089,2303.0,cafe,Temple Coffee,-121.49507,38.5804
 2495634923,2501.0,supermarket,Gold Star Mart,-121.4981,38.57019
-2499140537,2082.0,school,California Montessori Project - Carmichael,-121.3401,38.63513
-2562275944,2501.0,supermarket,Food Source,-121.45528,38.68275
-2588223980,2303.0,cafe,Starbucks,-121.41627,38.59575
-2588232404,2110.0,hospital,UC Davis Comprehensive Cancer Center,-121.45264,38.55393
-2583206999,2501.0,supermarket,Indian Groceries,-121.50466,38.6701
-2588232405,2081.0,university,UC Davis School of Medicine,-121.45273,38.55298
-2583207782,2501.0,supermarket,Natraj Indian Foods,-121.51047,38.64989
-2588197278,2303.0,cafe,Starbucks,-121.42817,38.54704
-2589900482,2303.0,cafe,Starbucks,-121.45075,38.59841
-2591789125,2501.0,supermarket,Grocery Outlet,-121.38764,38.42541
-2611211330,2303.0,cafe,Old Soul at Weatherstone,-121.47799,38.5781
-2616523976,2303.0,cafe,Starbucks,-121.28452,38.58426
-2616860478,2303.0,cafe,Starbucks,-121.39252,38.59622
-2617822805,2501.0,supermarket,Food Source,-121.45591,38.54729
-2617825633,2501.0,supermarket,Food Maxx,-121.46112,38.49487
 2622398830,2303.0,cafe,Shine Cafe,-121.48542,38.58411
 2622415730,2303.0,cafe,Peet's Coffee,-121.48017,38.57656
 2622424273,2303.0,cafe,Yogurtagogo,-121.48233,38.57506
@@ -401,355 +534,223 @@ osm_id,code,fclass,name,lon,lat
 2704677594,2303.0,cafe,Zia's,-121.49003,38.57337
 2704678900,2303.0,cafe,Yellowbill,-121.49001,38.57343
 2968347794,2303.0,cafe,Starbucks,-121.49473,38.58131
-2983791594,2501.0,supermarket,Davis Ranch,-121.16959,38.49356
-2984044247,2303.0,cafe,Starbucks,-121.26365,38.62699
-2983736397,2303.0,cafe,Beach Hut Deli,-121.26366,38.62685
-2983741065,2501.0,supermarket,Bel Air,-121.26356,38.62525
-3022763641,2303.0,cafe,Starbucks,-121.22008,38.63203
-3052795927,2501.0,supermarket,Walmart Supercenter,-121.29527,38.68949
-3042763953,2303.0,cafe,Peet's Coffee,-121.58746,38.69349
-3065878126,2303.0,cafe,Jack's Donuts,-121.20315,38.67097
-3104444346,2501.0,supermarket,Sprouts Farmers Market,-121.39798,38.61935
 3128413777,2303.0,cafe,Old Soul Coffee Co.,-121.48432,38.57485
-3180195249,2501.0,supermarket,Smart & Final,-121.2707,38.61655
-3180197370,2303.0,cafe,Starbucks,-121.27054,38.61331
-3281579647,2501.0,supermarket,Viva,-121.45867,38.64484
-3330042345,2501.0,supermarket,Walmart Supercenter,-121.22257,38.67941
-3359167684,2303.0,cafe,TCBY Frozen Yogurt,-121.18726,38.64314
 3382505780,2303.0,cafe,Estelle's Patisserie,-121.49507,38.57965
 3471674307,2012.0,community_centre,Salvation Army,-121.48548,38.59007
-3495964223,2303.0,cafe,Espresso metro,-121.49087,38.54346
-3495969125,2303.0,cafe,Sandwitch Spot,-121.49075,38.54344
 3506153178,2303.0,cafe,Insight Coffee,-121.49384,38.57994
 3707346234,2303.0,cafe,Starbucks,-121.49142,38.57773
-3748885536,2501.0,supermarket,Walmart,-121.41621,38.39134
-3884434053,2303.0,cafe,Starbucks,-121.58776,38.69288
-3989014158,2501.0,supermarket,Good Neighbor European Deli Market,-121.35103,38.65926
-4054550445,2303.0,cafe,Starbucks,-121.37103,38.45478
-4001273234,2110.0,hospital,Valley Recovery Center of California,-121.41433,38.57518
-4082586124,2303.0,cafe,Starbucks,-121.38247,38.61353
 4085711442,2303.0,cafe,Starbucks,-121.49382,38.5622
-4085828537,2303.0,cafe,Starbucks,-121.4281,38.55408
-4085833498,2303.0,cafe,Dos Coyotes,-121.42827,38.55434
-4085843627,2303.0,cafe,Broadway Coffee,-121.47143,38.5546
-4089304040,2303.0,cafe,Starbucks,-121.29174,38.69384
 4093400969,2303.0,cafe,Starbucks,-121.48789,38.57157
 4093403698,2303.0,cafe,Insight,-121.48809,38.57109
-4099133294,2405.0,hostel,Sacramento International Hostel,-121.49273,38.5828
-4099429534,2402.0,motel,Courtyard Inn,-121.38411,38.64703
-4099429540,2402.0,motel,Sands Motel,-121.41572,38.62399
-4099518979,2402.0,motel,Americas Best Value Inn Sacramento,-121.42166,38.47503
-4099518985,2402.0,motel,Budget Inn,-121.4433,38.52701
 4167777902,2303.0,cafe,Ambrosia Cafe,-121.49283,38.57877
-4311526614,2303.0,cafe,Starbucks,-121.26601,38.58886
-4311961700,2303.0,cafe,Starbucks,-121.33461,38.55874
-4311966407,2501.0,supermarket,Food 4 Less,-121.33434,38.55844
-4331400989,2303.0,cafe,Temple Coffee,-121.47759,38.57476
-4344001952,2501.0,supermarket,Grocery Outlet,-121.54129,38.50961
-4344016579,2303.0,cafe,Starbucks,-121.51677,38.48074
-4349406992,2303.0,cafe,Starbucks,-121.48232,38.42516
-4349411307,2303.0,cafe,Starbucks,-121.4464,38.42288
-4355019129,2082.0,school,Brookfield School,-121.52587,38.51632
-4462135998,2303.0,cafe,Starbucks,-121.12082,38.65072
-4489792574,2501.0,supermarket,Oto's Marketplace,-121.49622,38.52899
-4558011242,2303.0,cafe,Fremont Presbyterian Coffee Bar,-121.43073,38.56794
-4579879289,2303.0,cafe,Ms. T's Good To Go Cafe,-121.49904,38.61868
-4579919149,2303.0,cafe,Starbucks at the Hornet Bookstore Cafe,-121.42046,38.55989
-4579926389,2303.0,cafe,Starbucks,-121.42376,38.56318
-4604665371,2303.0,cafe,Dutch Bros. Coffee,-121.45056,38.49552
-4738237691,2303.0,cafe,ERICA'S CAFE,-121.29081,38.67867
-4721323900,2303.0,cafe,Starbucks,-121.49444,38.53469
-4792626549,2303.0,cafe,Starbucks,-121.40345,38.60069
-4785477140,2110.0,hospital,Kaiser Ambulatory Surgery Center,-121.42368,38.46944
-4805067272,2501.0,supermarket,Bel Air,-121.44548,38.422
-4812498215,2012.0,community_centre,Carmichael Park community center,-121.33023,38.62949
-4827813122,2303.0,cafe,,-121.44451,38.5268
-4827813123,2303.0,cafe,,-121.46452,38.54566
-4852813766,2303.0,cafe,Starbucks,-121.49712,38.61191
-4872587093,2082.0,school,Robert McGarvey Elementary School,-121.23328,38.54454
-5001972521,2013.0,nursing_home,,-121.33014,38.69142
-5024779821,2303.0,cafe,Coffee Works,-121.46342,38.56666
-5072643298,2303.0,cafe,Chocolate Fish,-121.48892,38.55147
-5080748921,2081.0,university,UC Davis School of Nursing,-121.45086,38.55207
-5115970118,2303.0,cafe,Kingdom Coffee,-121.18911,38.64138
-5268108460,2303.0,cafe,The Mill,-121.481,38.57836
 5265811137,2303.0,cafe,Starbucks,-121.48577,38.57729
-5274519618,2501.0,supermarket,Walmart Neighborhood Market,-121.39909,38.61702
-5274568992,2501.0,supermarket,Trader Joe's,-121.40013,38.61868
-5274569003,2303.0,cafe,Starbucks,-121.4009,38.61849
-5276287053,2501.0,supermarket,Smart & Final,-121.47704,38.62832
-5309751258,2501.0,supermarket,La Victoria Supermercado,-121.44637,38.61326
-5315091863,2012.0,community_centre,Richard T Conzelmann Community Center,-121.41224,38.60524
-5311527030,2501.0,supermarket,Save Mart,-121.41019,38.48076
-5311615964,2501.0,supermarket,Walmart Supercenter,-121.36901,38.4828
-5312287350,2501.0,supermarket,Save Mart Supermarkets,-121.3731,38.42484
-5315596634,2501.0,supermarket,Walmart Neighborhood Market,-121.3249,38.6626
-5315597756,2501.0,supermarket,Walmart Supercenter,-121.30476,38.28965
-5315599514,2501.0,supermarket,Walmart Supercenter,-121.29181,38.59613
-5315663064,2504.0,mall,Market Square at Arden Fair,-121.42367,38.59936
-5351333417,2303.0,cafe,Steamers,-121.50566,38.58251
-5436290649,2082.0,school,,-121.50052,38.68111
+5268108460,2303.0,cafe,The Mill,-121.481,38.57836
 5638635583,2303.0,cafe,Starbucks,-121.49423,38.57818
-5710022644,2501.0,supermarket,Sprouts Farmers Market,-121.50485,38.53639
 5756910436,2501.0,supermarket,Asian Food Center,-121.49604,38.56281
-5766773898,2081.0,university,Universal Technical Institute Sacramento,-121.52979,38.64643
-5778410512,2501.0,supermarket,SF Supermarket,-121.51321,38.52074
-5794960560,2501.0,supermarket,Save Mart,-121.43867,38.55774
-5794960573,2501.0,supermarket,Corti Brothers,-121.43626,38.55723
 5811534254,2303.0,cafe,Oblivion - Comics & Coffee,-121.49264,38.57929
-5805622845,2501.0,supermarket,Grocery Outlet,-121.49965,38.61231
-5819831292,2501.0,supermarket,Smart & Final,-121.43724,38.51172
-5828215534,2303.0,cafe,Starbucks,-121.45645,38.64298
-5828240923,2303.0,cafe,Starbucks,-121.35478,38.66165
-5824586652,2303.0,cafe,Fat city,-121.50533,38.5833
-5843170364,2501.0,supermarket,T & Y Market,-121.4577,38.61957
-5843234627,2303.0,cafe,Starbucks,-121.42677,38.60075
-5850795206,2303.0,cafe,Peet's Coffee,-121.46659,38.56925
-5855350646,2501.0,supermarket,FoodsCo,-121.44465,38.52699
 6046614174,2501.0,supermarket,Market 5-ONE-5,-121.49792,38.57185
-6100225685,2082.0,school,Bella Vista High School,-121.251,38.66621
-6265002607,2303.0,cafe,La Bou,-121.50482,38.53691
-6265129839,2303.0,cafe,Starbucks,-121.49197,38.46454
-6355786545,2303.0,cafe,Dutch Bros. Coffee,-121.34218,38.66522
-6389297011,2501.0,supermarket,Vinh Phat,-121.43739,38.51561
-6434217902,2303.0,cafe,Starbucks,-121.40358,38.45536
-6434323858,2303.0,cafe,Starbucks,-121.41552,38.45936
-6441034093,2303.0,cafe,Golden Donuts,-121.36992,38.45206
-6444037405,2303.0,cafe,Honey Donuts,-121.39284,38.71762
-6448887908,2501.0,supermarket,Smart & Final,-121.37718,38.41012
-6450723604,2082.0,school,Kumon Math & Reading Center,-121.41725,38.42507
-6450724066,2303.0,cafe,Starbucks,-121.41841,38.39387
-6450733580,2012.0,community_centre,Party Palace,-121.46031,38.42673
-6450735575,2082.0,school,Kumon Math & Reading Center,-121.41725,38.42507
-6450736172,2303.0,cafe,Starbucks,-121.41841,38.39387
-6463241355,2303.0,cafe,Peet's Coffee,-121.49624,38.61191
-6534451134,2501.0,supermarket,Shan Market,-121.4764,38.60879
-6536141349,2303.0,cafe,Starbucks,-121.38403,38.65645
 6543293473,2303.0,cafe,Naked Lounge,-121.4907,38.58228
-6546337133,2303.0,cafe,Starbucks,-121.49013,38.53835
-6546346101,2303.0,cafe,Starbucks,-121.50765,38.49596
-6567050716,2501.0,supermarket,Raley's,-121.31326,38.70951
-6567068054,2303.0,cafe,Starbucks,-121.32625,38.70629
-6562271584,2303.0,cafe,Starbucks,-121.38262,38.57532
-6562384098,2303.0,cafe,Starbucks,-121.39464,38.54759
-6562384112,2501.0,supermarket,Raley's,-121.39484,38.54859
-6709187247,2082.0,school,Waldorf School,-121.28603,38.63183
-6709187255,2501.0,supermarket,Raley's,-121.29104,38.65391
-6709187258,2082.0,school,El Camino High School,-121.31057,38.65433
-6709187263,2303.0,cafe,Lido Cafe,-121.31845,38.63725
-6709187265,2110.0,hospital,,-121.31413,38.66958
-6741239629,2303.0,cafe,Sharetea,-121.50328,38.63402
-6755477913,2501.0,supermarket,Fiji Market,-121.47474,38.62652
-6764001241,2501.0,supermarket,FoodMaxx,-121.49899,38.62608
-6780244157,2303.0,cafe,85°C,-121.43445,38.50061
-6789685457,2501.0,supermarket,Smart & Final Extra!,-121.3814,38.59701
-6797026260,2303.0,cafe,Selland's Market Café Broadway Sacramento,-121.50091,38.56433
-6791856443,2303.0,cafe,Starbucks,-121.42763,38.59553
 7086858391,2303.0,cafe,Netillo’s Takos,-121.48415,38.57766
-7207426198,2501.0,supermarket,Compton's Market,-121.44786,38.57866
-7229119237,2303.0,cafe,Peet's Coffee,-121.42341,38.59886
-7520346625,2303.0,cafe,Starbucks,-121.31001,38.29031
-7520346631,2501.0,supermarket,Raley's,-121.30723,38.28974
-7523911857,2501.0,supermarket,Galt Supermarket,-121.29979,38.25452
-7536251338,2303.0,cafe,Starbucks,-121.45578,38.68431
-7705756672,2082.0,school,Saint John Catholic School,-121.1544,38.6819
-8238224686,2082.0,school,Carl Sundahl Elementary School,-121.17458,38.70062
 8147301361,2303.0,cafe,Starbucks,-121.481,38.57717
-8464500020,2303.0,cafe,Reset Cafe By Day,-121.17731,38.67708
-8777686511,2501.0,supermarket,Raley's,-121.49645,38.53304
-8796449951,2303.0,cafe,World Traveller,-121.1635,38.6725
-8822795316,2303.0,cafe,Dutch Bros. Coffee,-121.4758,38.64434
-358815715,2005.0,post_office,Folsom Post Office,-121.16603,38.67155
-358815804,2005.0,post_office,Orangevale Post Office,-121.22616,38.67984
-358815827,2005.0,post_office,Repressa Post Office,-121.16167,38.69196
+358852437,2082.0,school,Saint John Christian Academy,-121.50746,38.56963
+358852453,2082.0,school,Scusd Success Academy,-121.50134,38.56741
+1422619391,2303.0,cafe,Chocolate Fish Coffee,-121.50591,38.57514
+1744880209,2303.0,cafe,Starbucks,-121.49957,38.58382
+5351333417,2303.0,cafe,Steamers,-121.50566,38.58251
+5824586652,2303.0,cafe,Fat city,-121.50533,38.5833
+6797026260,2303.0,cafe,Selland's Market Café Broadway Sacramento,-121.50091,38.56433
 358815832,2005.0,post_office,Rio Linda Post Office,-121.44829,38.69129
 358835687,2005.0,post_office,Elverta Post Office,-121.46551,38.7149
-358835730,2005.0,post_office,North Highlands Post Office,-121.38355,38.68454
-358836928,2005.0,post_office,Galt Post Office,-121.30189,38.26603
-358836934,2005.0,post_office,Isleton Post Office,-121.60978,38.16193
-358836969,2005.0,post_office,Wilton Post Office,-121.26967,38.40908
-358852233,2005.0,post_office,Arden Post Office,-121.39773,38.59657
-358852243,2005.0,post_office,Broadway Post Office,-121.48468,38.55991
-358852249,2005.0,post_office,Camellia Post Office,-121.44412,38.56685
-358852264,2005.0,post_office,Colonial Post Office,-121.45607,38.51685
-358852267,2005.0,post_office,Country Club Centre Post Office,-121.38134,38.61157
-358852270,2005.0,post_office,Courtland Post Office,-121.5694,38.33158
-358852273,2005.0,post_office,Del Paso Heights Post Office,-121.43023,38.6374
-358852300,2005.0,post_office,Florin Post Office,-121.37356,38.49435
-358852304,2005.0,post_office,Foothill Farms Post Office,-121.34384,38.66463
-358852307,2005.0,post_office,Fort Sutter Post Office,-121.46912,38.56574
-358852320,2005.0,post_office,Herald Post Office,-121.24189,38.29408
-358852325,2005.0,post_office,Hood Post Office,-121.51912,38.3688
-358852341,2005.0,post_office,Land Park Post Office,-121.51384,38.51935
-358852411,2005.0,post_office,Perkins Post Office,-121.34328,38.54463
-358852405,2005.0,post_office,Oak Park Post Office,-121.46884,38.54991
-358852408,2005.0,post_office,Parkway Post Office,-121.45412,38.48296
-358852419,2005.0,post_office,Rancho Cordova Post Office,-121.28078,38.59935
-358852432,2005.0,post_office,Sacramento Main Post Office,-121.44829,38.60324
-358852462,2005.0,post_office,Sloughhouse - Rancho Murieta Post Office,-121.10022,38.49408
-358852476,2005.0,post_office,Town and Country Post Office,-121.40301,38.61963
-358852487,2005.0,post_office,Walnut Grove Post Office,-121.5144,38.2413
-368167886,2002.0,fire_station,Sacramento Metro Fire Station Number 27,-121.29217,38.71046
 368167887,2002.0,fire_station,Sacramento Metro Fire Station Number 117,-121.4194,38.71407
-368167888,2002.0,fire_station,Sacramento Metro Fire Station Number 21,-121.28356,38.67851
-368167521,2009.0,courthouse,W R Ridgeway Family Relations Courthouse,-121.40745,38.54268
-368167889,2002.0,fire_station,Sacramento Metro Fire Station Number 22,-121.21106,38.6799
 368167892,2002.0,fire_station,Sacramento Metro Fire Station Number 111,-121.44968,38.69046
-368167893,2002.0,fire_station,Sacramento Metro Fire Station Number 112,-121.38773,38.69074
 368167895,2002.0,fire_station,Sacramento Metro Fire Station Number 116,-121.4669,38.71435
-368167522,2009.0,courthouse,Carol Miller Justice Center,-121.40676,38.55051
-368167896,2002.0,fire_station,Sacramento Metro Fire Station Number 106,-121.38495,38.60657
-368167881,2002.0,fire_station,Sacramento Metro Fire Station Number 24,-121.34995,38.65518
-368167897,2002.0,fire_station,Sacramento Metro Fire Station Number 107,-121.37467,38.58213
-368167898,2002.0,fire_station,Sacramento Metro Fire Station Number 108,-121.30801,38.64935
-368167899,2002.0,fire_station,Sacramento Metro Fire Station Number 109,-121.33328,38.62074
-368167900,2002.0,fire_station,Sacramento Metro Fire Station Number 102,-121.3594,38.61796
-368167901,2002.0,fire_station,Sacramento Metro Fire Station Number 101,-121.40106,38.6199
-368167902,2002.0,fire_station,Sacramento Metro Fire Station Number 105,-121.3994,38.58185
-368167903,2002.0,fire_station,Sacramento Metro Fire Station Number 103,-121.38245,38.63518
-368167904,2002.0,fire_station,Sacramento Fire Station Number 7,-121.4269,38.46824
-368167905,2002.0,fire_station,Sacramento Fire Station Number 60,-121.39273,38.5488
-368167906,2002.0,fire_station,Sacramento Metro Fire Department,-121.41745,38.58935
-368167907,2002.0,fire_station,Sacramento Fire Station Number 8,-121.42773,38.56768
-368167909,2002.0,fire_station,Sacramento Fire Station Number 4,-121.46495,38.57102
-368167910,2002.0,fire_station,Sacramento Fire Station Number 57,-121.45384,38.48546
-368167911,2002.0,fire_station,Sacramento Fire Station Number 56,-121.46579,38.50991
-368167912,2002.0,fire_station,Sacramento Fire Station Number 19,-121.42745,38.59602
-368167914,2002.0,fire_station,Sacramento Fire Station Number 18,-121.47996,38.64713
-368167920,2002.0,fire_station,Sacramento Fire Station Number 2,-121.48895,38.58063
-368167925,2002.0,fire_station,Sacramento Fire Station Number 16,-121.47995,38.49074
-368167926,2002.0,fire_station,Sacramento Fire Station Number 17,-121.43551,38.64768
-368167927,2002.0,fire_station,Sacramento Fire Station Number 14,-121.48276,38.59105
-368167929,2002.0,fire_station,Sacramento Fire Station Number 12,-121.48357,38.5338
-368167930,2002.0,fire_station,Sacramento Fire Station Number 13,-121.51829,38.51657
-368167931,2002.0,fire_station,Sacramento Fire Station Number 10,-121.42579,38.5238
-368167932,2002.0,fire_station,Sacramento Fire Station Number 11,-121.53107,38.49796
-368167933,2002.0,fire_station,Sacramento Fire Department,-121.49884,38.52185
-368167934,2002.0,fire_station,Sacramento Fire Station Number 1,-121.50134,38.57352
 368167936,2002.0,fire_station,Sacramento Airport Fire Station,-121.59079,38.69963
-368167938,2002.0,fire_station,Hood Fire Station,-121.51301,38.36658
-368167939,2002.0,fire_station,Isleton City Fire Station,-121.61261,38.16144
+368170359,2007.0,library,Rio Linda Neighborhood Library,-121.45123,38.69024
+6056298710,2001.0,police,,-121.59089,38.69361
+358836928,2005.0,post_office,Galt Post Office,-121.30189,38.26603
+358836969,2005.0,post_office,Wilton Post Office,-121.26967,38.40908
+358852320,2005.0,post_office,Herald Post Office,-121.24189,38.29408
+358852411,2005.0,post_office,Perkins Post Office,-121.34328,38.54463
+358852462,2005.0,post_office,Sloughhouse - Rancho Murieta Post Office,-121.10022,38.49408
 368167943,2002.0,fire_station,Herald Fire Station Number 87,-121.24078,38.2938
 368167944,2002.0,fire_station,Herald Fire Station Number 88,-121.16022,38.33464
 368167945,2002.0,fire_station,Galt Fire Station,-121.30884,38.25408
-368167946,2002.0,fire_station,Folsom Fire Station Number 36,-121.18411,38.69657
-368167947,2002.0,fire_station,Folsom Fire Station Number 38,-121.13661,38.67713
-368167949,2002.0,fire_station,Folsom Fire Station Number 35,-121.1655,38.66824
 368167950,2002.0,fire_station,Florin Fire Station,-121.33162,38.51046
-368167953,2002.0,fire_station,Elk Grove Fire Station Number 76,-121.38773,38.43852
-368167960,2002.0,fire_station,Elk Grove Fire Station Number 75,-121.48162,38.41547
 368167962,2002.0,fire_station,Elk Grove Fire Station Number 73,-121.33884,38.42435
-368167963,2002.0,fire_station,Elk Grove Fire Station Number 72,-121.45662,38.37713
-368167964,2002.0,fire_station,Elk Grove Fire Station Number 71,-121.37801,38.40852
-368167965,2002.0,fire_station,Courtland Fire Station Number 91,-121.57023,38.3288
 368168030,2002.0,fire_station,Wilton Fire Station Number 84,-121.22356,38.37019
 368168031,2002.0,fire_station,Wilton Fire Station,-121.25773,38.4013
-368168032,2002.0,fire_station,Walnut Grove Fire Station,-121.51356,38.24603
-368168033,2002.0,fire_station,Walnut Grove Fire Station,-121.51218,38.24158
 368168037,2002.0,fire_station,Wilton Fire Station Number 83,-121.18828,38.44269
-368168039,2002.0,fire_station,Sacramento Metro Fire Station Number 63,-121.21689,38.62907
-368168040,2002.0,fire_station,Sacramento Metro Fire Station Number 64,-121.35884,38.56352
-368168041,2002.0,fire_station,Sacramento Metro Fire Station Number 61,-121.29551,38.59324
 368168042,2002.0,fire_station,Sacramento Metro Fire Station Number 62,-121.33662,38.55546
-368168043,2002.0,fire_station,Sacramento Metro Fire Station Number 67,-121.30662,38.55907
-368168044,2002.0,fire_station,Sacramento Metro Fire Station Number 114,-121.39662,38.67324
-368167884,2002.0,fire_station,Sacramento Metro Fire Station Number 25,-121.33134,38.70101
-368168045,2002.0,fire_station,Sacramento Metro Fire Station Number 65,-121.26578,38.61907
-368170359,2007.0,library,Rio Linda Neighborhood Library,-121.45123,38.69024
-368168046,2002.0,fire_station,Sacramento Metro Fire Station Number 66,-121.27106,38.58741
-368168047,2002.0,fire_station,Sacramento Metro Fire Station Number 53,-121.42412,38.48713
-368168048,2002.0,fire_station,Sacramento Metro Fire Station Number 51,-121.40356,38.45963
-368168051,2002.0,fire_station,Sacramento Metro Fire Station Number 50,-121.37384,38.4813
 368168052,2002.0,fire_station,Sacramento Metro Fire Station Number 46,-121.28927,38.27985
 368168053,2002.0,fire_station,Sacramento Metro Fire Station Number 59,-121.09939,38.49602
 368168054,2002.0,fire_station,Sacramento Metro Fire Station Number 58,-121.21106,38.49463
 368168055,2002.0,fire_station,Sacramento Metro Fire Station Number 55,-121.29828,38.47546
-368168056,2002.0,fire_station,Sacramento Metro Fire Station Number 54,-121.3719,38.54574
-368168057,2002.0,fire_station,Sacramento Metro Fire Station Number 32,-121.22606,38.65657
-368168060,2002.0,fire_station,Sacramento Metro Fire Station Number 28,-121.25828,38.70074
 368168074,2002.0,fire_station,Sacramento Metro Fire Station Number 45,-121.30412,38.25325
+368170469,2007.0,library,Galt Neighborhood Library,-121.29745,38.25103
+368171171,2001.0,police,Galt Police Station,-121.3055,38.2638
+368171316,2001.0,police,Sacramento County Sheriff - South Division Stationhouse,-121.35467,38.42297
+368171318,2001.0,police,Sacramento County Sheriff - Wilton Safety Center,-121.258,38.4013
+368171709,2008.0,town_hall,Galt City Hall,-121.29578,38.25269
+5317344850,2005.0,post_office,UPS Customer Center - UPS Cordova Building,-121.3254,38.55238
+368167947,2002.0,fire_station,Folsom Fire Station Number 38,-121.13661,38.67713
+1752655297,2005.0,post_office,The UPS Store,-121.12383,38.65239
+358852264,2005.0,post_office,Colonial Post Office,-121.45607,38.51685
+358852405,2005.0,post_office,Oak Park Post Office,-121.46884,38.54991
+368167911,2002.0,fire_station,Sacramento Fire Station Number 56,-121.46579,38.50991
+368167929,2002.0,fire_station,Sacramento Fire Station Number 12,-121.48357,38.5338
+368167933,2002.0,fire_station,Sacramento Fire Department,-121.49884,38.52185
+368170432,2007.0,library,California Highway Patrol Headquarters Library,-121.48168,38.55647
+368170444,2007.0,library,Animal Protection Institute of America Library,-121.47857,38.52518
+368170445,2007.0,library,Gordon D Schaber Law Library,-121.4719,38.54907
+368170448,2007.0,library,Colonial Heights Community Library,-121.44551,38.53241
+368171174,2001.0,police,City of Sacramento Police Department Headquarters,-121.49912,38.52185
+368171186,2001.0,police,Joseph E City of Sacramento Police - Rooney Police Facility,-121.47162,38.52713
+368171202,2001.0,police,California Highway Patrol Headquarters,-121.47955,38.55629
+5072653323,2005.0,post_office,The UPS Store,-121.48896,38.54906
+5854059487,2002.0,fire_station,Sacramento fire station #6,-121.46434,38.54431
+358852273,2005.0,post_office,Del Paso Heights Post Office,-121.43023,38.6374
+358852432,2005.0,post_office,Sacramento Main Post Office,-121.44829,38.60324
+368167912,2002.0,fire_station,Sacramento Fire Station Number 19,-121.42745,38.59602
+368167914,2002.0,fire_station,Sacramento Fire Station Number 18,-121.47996,38.64713
+368167926,2002.0,fire_station,Sacramento Fire Station Number 17,-121.43551,38.64768
+368170438,2007.0,library,Del Paso Heights Neighborhood Library,-121.44551,38.63629
+368170474,2007.0,library,North Sacramento - Hagginwood Neighborhood Library,-121.45142,38.61011
+368171175,2001.0,police,City of Sacramento Police - William J Kinney Police Facility,-121.42995,38.6324
+5309751260,2002.0,fire_station,Fire Station no.20,-121.44756,38.61336
+7229119238,2005.0,post_office,FedEx,-121.42276,38.59856
+358852341,2005.0,post_office,Land Park Post Office,-121.51384,38.51935
+368167930,2002.0,fire_station,Sacramento Fire Station Number 13,-121.51829,38.51657
+358836934,2005.0,post_office,Isleton Post Office,-121.60978,38.16193
+368167939,2002.0,fire_station,Isleton City Fire Station,-121.61261,38.16144
+368170486,2007.0,library,Iselton Neighborhood Library,-121.60863,38.1616
+368171183,2001.0,police,Sacramento County Sheriff - Brannan Island Service Center,-121.56745,38.10159
+368171187,2001.0,police,Isleton Police Station,-121.61273,38.16158
+368172505,2008.0,town_hall,Isleton City Hall,-121.61269,38.16198
+2106325898,2002.0,fire_station,Sacramento City Fire Station 30,-121.5036,38.67113
+4852814840,2005.0,post_office,United States Post Office,-121.49631,38.61194
+5283464291,2005.0,post_office,United States Post Office,-121.50318,38.65154
+6419894892,2005.0,post_office,The UPS Store,-121.49504,38.61196
+8934828262,2005.0,post_office,The UPS Store,-121.50995,38.64055
+368168060,2002.0,fire_station,Sacramento Metro Fire Station Number 28,-121.25828,38.70074
+368170441,2007.0,library,Fair Oaks Community Library,-121.26273,38.66268
+358852304,2005.0,post_office,Foothill Farms Post Office,-121.34384,38.66463
+368167881,2002.0,fire_station,Sacramento Metro Fire Station Number 24,-121.34995,38.65518
+368167884,2002.0,fire_station,Sacramento Metro Fire Station Number 25,-121.33134,38.70101
+368167886,2002.0,fire_station,Sacramento Metro Fire Station Number 27,-121.29217,38.71046
+368167888,2002.0,fire_station,Sacramento Metro Fire Station Number 21,-121.28356,38.67851
+368167898,2002.0,fire_station,Sacramento Metro Fire Station Number 108,-121.30801,38.64935
+368170440,2007.0,library,Sylvan Oaks Community Library,-121.30753,38.68669
+368171176,2001.0,police,Citrus Heights Police Station,-121.29856,38.68074
+368171311,2001.0,police,Sacramento County Sheriff - Garfield Station,-121.33523,38.66657
+1523975255,2007.0,library,,-121.31202,38.65433
+358852249,2005.0,post_office,Camellia Post Office,-121.44412,38.56685
+368167906,2002.0,fire_station,Sacramento Metro Fire Department,-121.41745,38.58935
+368167907,2002.0,fire_station,Sacramento Fire Station Number 8,-121.42773,38.56768
+358852307,2005.0,post_office,Fort Sutter Post Office,-121.46912,38.56574
+368167909,2002.0,fire_station,Sacramento Fire Station Number 4,-121.46495,38.57102
+368170421,2007.0,library,Sacramento Area Council of Governments Library,-121.47051,38.56296
+368170443,2007.0,library,McKinley Neighborhood Library,-121.46261,38.57714
+8430924701,2005.0,post_office,The UPS Store,-121.43693,38.55731
+358852270,2005.0,post_office,Courtland Post Office,-121.5694,38.33158
+358852325,2005.0,post_office,Hood Post Office,-121.51912,38.3688
+358852487,2005.0,post_office,Walnut Grove Post Office,-121.5144,38.2413
+368167938,2002.0,fire_station,Hood Fire Station,-121.51301,38.36658
+368167963,2002.0,fire_station,Elk Grove Fire Station Number 72,-121.45662,38.37713
+368167965,2002.0,fire_station,Courtland Fire Station Number 91,-121.57023,38.3288
+368168032,2002.0,fire_station,Walnut Grove Fire Station,-121.51356,38.24603
+368168033,2002.0,fire_station,Walnut Grove Fire Station,-121.51218,38.24158
+368170466,2007.0,library,Courtland Branch Library,-121.56912,38.3313
+368170824,2007.0,library,Courtland Community Operated Neighborhood Library,-121.56662,38.33047
+368171317,2001.0,police,Sacramento County Sheriff - Walnut Grove Service Center,-121.51245,38.24158
+358852419,2005.0,post_office,Rancho Cordova Post Office,-121.28078,38.59935
+368167897,2002.0,fire_station,Sacramento Metro Fire Station Number 107,-121.37467,38.58213
+368167899,2002.0,fire_station,Sacramento Metro Fire Station Number 109,-121.33328,38.62074
+368167900,2002.0,fire_station,Sacramento Metro Fire Station Number 102,-121.3594,38.61796
+368168039,2002.0,fire_station,Sacramento Metro Fire Station Number 63,-121.21689,38.62907
+368168040,2002.0,fire_station,Sacramento Metro Fire Station Number 64,-121.35884,38.56352
+368168041,2002.0,fire_station,Sacramento Metro Fire Station Number 61,-121.29551,38.59324
+368168043,2002.0,fire_station,Sacramento Metro Fire Station Number 67,-121.30662,38.55907
+368168045,2002.0,fire_station,Sacramento Metro Fire Station Number 65,-121.26578,38.61907
+368168046,2002.0,fire_station,Sacramento Metro Fire Station Number 66,-121.27106,38.58741
+368170400,2007.0,library,Rancho Cordova Community Library,-121.32926,38.57652
+368170412,2007.0,library,Carmichael Regional Library,-121.3344,38.61768
+368171122,2099.0,public_building,Department of Motor Vehicles - Carmichael Office,-121.34328,38.62518
+368171185,2001.0,police,Rancho Cordova Police Station,-121.30606,38.57463
+4586526959,2002.0,fire_station,Sacramento Metro Fire District Station 110,-121.36418,38.59156
+358852233,2005.0,post_office,Arden Post Office,-121.39773,38.59657
+358852267,2005.0,post_office,Country Club Centre Post Office,-121.38134,38.61157
+358852476,2005.0,post_office,Town and Country Post Office,-121.40301,38.61963
+368167896,2002.0,fire_station,Sacramento Metro Fire Station Number 106,-121.38495,38.60657
+368167901,2002.0,fire_station,Sacramento Metro Fire Station Number 101,-121.40106,38.6199
+368167902,2002.0,fire_station,Sacramento Metro Fire Station Number 105,-121.3994,38.58185
+368167903,2002.0,fire_station,Sacramento Metro Fire Station Number 103,-121.38245,38.63518
+368170429,2007.0,library,Kaiser Permanente Medical Center Health Sciences Library,-121.39301,38.60213
+368170447,2007.0,library,Arden-Dimick Community Library,-121.38329,38.58074
+368170479,2007.0,library,United States Department of the Interior Bureau of Reclamation Library,-121.39745,38.60213
+368171312,2001.0,police,Sacramento County Sheriff - Marconi Station,-121.40245,38.61768
+358835730,2005.0,post_office,North Highlands Post Office,-121.38355,38.68454
+368167893,2002.0,fire_station,Sacramento Metro Fire Station Number 112,-121.38773,38.69074
+368168044,2002.0,fire_station,Sacramento Metro Fire Station Number 114,-121.39662,38.67324
 368168084,2002.0,fire_station,Sacramento Metro Fire Station Number 41,-121.37579,38.69268
+368170439,2007.0,library,North Highlands - Antelope Library,-121.38245,38.70462
+368171179,2001.0,police,California Highway Patrol - North Sacramento Office,-121.36023,38.65907
+368171314,2001.0,police,Sacramento County Sheriff - Northwest Service Center,-121.38412,38.70351
+358815804,2005.0,post_office,Orangevale Post Office,-121.22616,38.67984
+368167889,2002.0,fire_station,Sacramento Metro Fire Station Number 22,-121.21106,38.6799
+368168057,2002.0,fire_station,Sacramento Metro Fire Station Number 32,-121.22606,38.65657
+368170821,2007.0,library,Orangevale Neighborhood Library,-121.22994,38.67778
+368171181,2001.0,police,Sacramento County Sheriff - Fair Oaks / Orangevale Service Center,-121.24273,38.6649
+358852408,2005.0,post_office,Parkway Post Office,-121.45412,38.48296
+368167910,2002.0,fire_station,Sacramento Fire Station Number 57,-121.45384,38.48546
+368167925,2002.0,fire_station,Sacramento Fire Station Number 16,-121.47995,38.49074
+368167932,2002.0,fire_station,Sacramento Fire Station Number 11,-121.53107,38.49796
+368167960,2002.0,fire_station,Elk Grove Fire Station Number 75,-121.48162,38.41547
+6434217905,2005.0,post_office,The UPS Store,-121.40265,38.45522
+1169008159,2007.0,library,North Natomas Library,-121.51802,38.65751
+2015394213,2002.0,fire_station,Fire Station 43,-121.54038,38.64479
+7958679022,2005.0,post_office,The UPS Store,-121.52243,38.65676
+368167521,2009.0,courthouse,W R Ridgeway Family Relations Courthouse,-121.40745,38.54268
+368167522,2009.0,courthouse,Carol Miller Justice Center,-121.40676,38.55051
+368167905,2002.0,fire_station,Sacramento Fire Station Number 60,-121.39273,38.5488
+368167931,2002.0,fire_station,Sacramento Fire Station Number 10,-121.42579,38.5238
+368168056,2002.0,fire_station,Sacramento Metro Fire Station Number 54,-121.3719,38.54574
+368171315,2001.0,police,Sacramento County Sheriff - Rosemont Service Center,-121.35828,38.54824
+358852300,2005.0,post_office,Florin Post Office,-121.37356,38.49435
+368167904,2002.0,fire_station,Sacramento Fire Station Number 7,-121.4269,38.46824
+368167953,2002.0,fire_station,Elk Grove Fire Station Number 76,-121.38773,38.43852
+368167964,2002.0,fire_station,Elk Grove Fire Station Number 71,-121.37801,38.40852
+368168047,2002.0,fire_station,Sacramento Metro Fire Station Number 53,-121.42412,38.48713
+368168048,2002.0,fire_station,Sacramento Metro Fire Station Number 51,-121.40356,38.45963
+368168051,2002.0,fire_station,Sacramento Metro Fire Station Number 50,-121.37384,38.4813
+368170475,2007.0,library,Southgate Community Library,-121.43368,38.492
+368170485,2007.0,library,Elk Grove Community Library,-121.37118,38.40875
 368170813,2007.0,library,Valley Hi - North Laguna Library,-121.42829,38.47546
+368170819,2007.0,library,Franklin Comminity Library,-121.43134,38.39213
+368171177,2001.0,police,California Highway Patrol - South Sacramento Office,-121.42079,38.47519
+368171180,2001.0,police,Sacramento County Sheriff - Florin Station,-121.43968,38.4988
+2045389385,2002.0,fire_station,Consumnes CSD Fire Station 72,-121.43747,38.39278
+5843422101,2005.0,post_office,United States Post Office,-121.41687,38.42645
+358815715,2005.0,post_office,Folsom Post Office,-121.16603,38.67155
+358815827,2005.0,post_office,Repressa Post Office,-121.16167,38.69196
+368167946,2002.0,fire_station,Folsom Fire Station Number 36,-121.18411,38.69657
+368167949,2002.0,fire_station,Folsom Fire Station Number 35,-121.1655,38.66824
+368171172,2001.0,police,Folsom Police Station,-121.16272,38.6824
+368171738,2008.0,town_hall,Folsom City Hall,-121.16439,38.68185
+358852243,2005.0,post_office,Broadway Post Office,-121.48468,38.55991
+368167920,2002.0,fire_station,Sacramento Fire Station Number 2,-121.48895,38.58063
+368167927,2002.0,fire_station,Sacramento Fire Station Number 14,-121.48276,38.59105
 368170395,2007.0,library,California Division of Mines and Geology Library,-121.49412,38.57935
 368170396,2007.0,library,California Department of Pesticide Regulation Library,-121.49242,38.57459
 368170397,2007.0,library,California State Department of Transportation Law Library,-121.49324,38.57488
 368170399,2007.0,library,California State Department of Alcohol and Drug Programs Resource Center Library,-121.48412,38.57629
-368170400,2007.0,library,Rancho Cordova Community Library,-121.32926,38.57652
 368170401,2007.0,library,California Attory Generals Law Library,-121.48662,38.57741
 368170402,2007.0,library,California Air Resources Board Library,-121.48051,38.57463
 368170411,2007.0,library,E K McClatchy Neighborhood Library,-121.48301,38.56352
-368170412,2007.0,library,Carmichael Regional Library,-121.3344,38.61768
-368170421,2007.0,library,Sacramento Area Council of Governments Library,-121.47051,38.56296
-368170429,2007.0,library,Kaiser Permanente Medical Center Health Sciences Library,-121.39301,38.60213
 368170430,2007.0,library,California Taxpayers Association Library,-121.4913,38.58071
 368170431,2007.0,library,California State Resources Agency Library,-121.49662,38.57574
-368170432,2007.0,library,California Highway Patrol Headquarters Library,-121.48168,38.55647
 368170433,2007.0,library,California Water Resources Control Board Law Library,-121.49773,38.57296
+4571256143,2005.0,post_office,The UPS Store,-121.48629,38.56752
+368167934,2002.0,fire_station,Sacramento Fire Station Number 1,-121.50134,38.57352
 368170435,2007.0,library,California State Braille and Talking Book Library,-121.50634,38.56518
 368170437,2007.0,library,Architectural-Engineering Library California State Architect,-121.50496,38.57574
-368170438,2007.0,library,Del Paso Heights Neighborhood Library,-121.44551,38.63629
-368170439,2007.0,library,North Highlands - Antelope Library,-121.38245,38.70462
-368170819,2007.0,library,Franklin Comminity Library,-121.43134,38.39213
-368170440,2007.0,library,Sylvan Oaks Community Library,-121.30753,38.68669
-368170821,2007.0,library,Orangevale Neighborhood Library,-121.22994,38.67778
-368170441,2007.0,library,Fair Oaks Community Library,-121.26273,38.66268
-368170824,2007.0,library,Courtland Community Operated Neighborhood Library,-121.56662,38.33047
-368170443,2007.0,library,McKinley Neighborhood Library,-121.46261,38.57714
-368170444,2007.0,library,Animal Protection Institute of America Library,-121.47857,38.52518
-368170445,2007.0,library,Gordon D Schaber Law Library,-121.4719,38.54907
-368170447,2007.0,library,Arden-Dimick Community Library,-121.38329,38.58074
-368170448,2007.0,library,Colonial Heights Community Library,-121.44551,38.53241
-368171122,2099.0,public_building,Department of Motor Vehicles - Carmichael Office,-121.34328,38.62518
-368170466,2007.0,library,Courtland Branch Library,-121.56912,38.3313
-368170469,2007.0,library,Galt Neighborhood Library,-121.29745,38.25103
-368170474,2007.0,library,North Sacramento - Hagginwood Neighborhood Library,-121.45142,38.61011
-368171171,2001.0,police,Galt Police Station,-121.3055,38.2638
-368170475,2007.0,library,Southgate Community Library,-121.43368,38.492
-368170479,2007.0,library,United States Department of the Interior Bureau of Reclamation Library,-121.39745,38.60213
-368171172,2001.0,police,Folsom Police Station,-121.16272,38.6824
-368170485,2007.0,library,Elk Grove Community Library,-121.37118,38.40875
-368170486,2007.0,library,Iselton Neighborhood Library,-121.60863,38.1616
-368171174,2001.0,police,City of Sacramento Police Department Headquarters,-121.49912,38.52185
-368171175,2001.0,police,City of Sacramento Police - William J Kinney Police Facility,-121.42995,38.6324
-368171176,2001.0,police,Citrus Heights Police Station,-121.29856,38.68074
-368171177,2001.0,police,California Highway Patrol - South Sacramento Office,-121.42079,38.47519
-368171179,2001.0,police,California Highway Patrol - North Sacramento Office,-121.36023,38.65907
-368171180,2001.0,police,Sacramento County Sheriff - Florin Station,-121.43968,38.4988
-368171181,2001.0,police,Sacramento County Sheriff - Fair Oaks / Orangevale Service Center,-121.24273,38.6649
-368171183,2001.0,police,Sacramento County Sheriff - Brannan Island Service Center,-121.56745,38.10159
-368171185,2001.0,police,Rancho Cordova Police Station,-121.30606,38.57463
-368171186,2001.0,police,Joseph E City of Sacramento Police - Rooney Police Facility,-121.47162,38.52713
-368171187,2001.0,police,Isleton Police Station,-121.61273,38.16158
-368171202,2001.0,police,California Highway Patrol Headquarters,-121.47955,38.55629
-368171311,2001.0,police,Sacramento County Sheriff - Garfield Station,-121.33523,38.66657
-368171709,2008.0,town_hall,Galt City Hall,-121.29578,38.25269
-368171312,2001.0,police,Sacramento County Sheriff - Marconi Station,-121.40245,38.61768
-368171314,2001.0,police,Sacramento County Sheriff - Northwest Service Center,-121.38412,38.70351
-368171315,2001.0,police,Sacramento County Sheriff - Rosemont Service Center,-121.35828,38.54824
-368171316,2001.0,police,Sacramento County Sheriff - South Division Stationhouse,-121.35467,38.42297
-368171317,2001.0,police,Sacramento County Sheriff - Walnut Grove Service Center,-121.51245,38.24158
-368171318,2001.0,police,Sacramento County Sheriff - Wilton Safety Center,-121.258,38.4013
-368171738,2008.0,town_hall,Folsom City Hall,-121.16439,38.68185
-368172505,2008.0,town_hall,Isleton City Hall,-121.61269,38.16198
-1169008159,2007.0,library,North Natomas Library,-121.51802,38.65751
-1523975255,2007.0,library,,-121.31202,38.65433
-1752655297,2005.0,post_office,The UPS Store,-121.12383,38.65239
-2015394213,2002.0,fire_station,Fire Station 43,-121.54038,38.64479
-2045389385,2002.0,fire_station,Consumnes CSD Fire Station 72,-121.43747,38.39278
-2106325898,2002.0,fire_station,Sacramento City Fire Station 30,-121.5036,38.67113
 4356744574,2007.0,library,California State Board of Equalization Law Library,-121.50285,38.57739
-4571256143,2005.0,post_office,The UPS Store,-121.48629,38.56752
-4586526959,2002.0,fire_station,Sacramento Metro Fire District Station 110,-121.36418,38.59156
-4852814840,2005.0,post_office,United States Post Office,-121.49631,38.61194
-5072653323,2005.0,post_office,The UPS Store,-121.48896,38.54906
-5283464291,2005.0,post_office,United States Post Office,-121.50318,38.65154
-5309751260,2002.0,fire_station,Fire Station no.20,-121.44756,38.61336
-5317344850,2005.0,post_office,UPS Customer Center - UPS Cordova Building,-121.3254,38.55238
-5843422101,2005.0,post_office,United States Post Office,-121.41687,38.42645
-5854059487,2002.0,fire_station,Sacramento fire station #6,-121.46434,38.54431
-6056298710,2001.0,police,,-121.59089,38.69361
-6419894892,2005.0,post_office,The UPS Store,-121.49504,38.61196
-6434217905,2005.0,post_office,The UPS Store,-121.40265,38.45522
-7229119238,2005.0,post_office,FedEx,-121.42276,38.59856
-7958679022,2005.0,post_office,The UPS Store,-121.52243,38.65676
-8430924701,2005.0,post_office,The UPS Store,-121.43693,38.55731

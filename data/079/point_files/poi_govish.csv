@@ -1,63 +1,63 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358848745,2005.0,post_office,Atascadero Post Office,-120.66989,35.48997
-1,358848882,2005.0,post_office,Santa Margarita Post Office,-120.60819,35.39166
-2,368170566,2007.0,library,Atascadero Branch San Luis Obispo City-County Library,-120.66628,35.48219
-3,368170773,2007.0,library,Santa Margarita Branch San Luis Obispo City-County Library,-120.60834,35.38804
-4,368171731,2008.0,town_hall,Atascadero City Hall,-120.66717,35.48991
-5,2401965264,2002.0,fire_station,CAL FIRE / SLO County Fire Station 98,-120.64285,35.66948
-6,5411029806,2002.0,fire_station,City of Atascadero Fire Department,-120.66874,35.49141
-7,5411050718,2001.0,police,Atascadero Police Department,-120.67239,35.49111
-8,5487016603,2002.0,fire_station,CAL FIRE / SLO County Fire North County Auto Shop,-120.64228,35.66974
-9,5794853597,2002.0,fire_station,,-120.60793,35.39125
-10,7859217558,2005.0,post_office,The UPS Store,-120.65966,35.64498
-11,358849036,2005.0,post_office,Avila Beach Post Office,-120.7334,35.18067
-12,358848726,2005.0,post_office,Templeton Post Office,-120.70072,35.55748
-13,3512268402,2001.0,police,Cuesta College Police Department,-120.67075,35.6505
-14,3522971971,2001.0,police,California Highway Patrol,-120.71155,35.55576
-15,368170561,2007.0,library,Paso Robles Public Library,-120.69058,35.62537
-16,368171716,2008.0,town_hall,Paso Robles City Hall,-120.69113,35.62551
-17,1817015751,2005.0,post_office,,-120.68947,35.61985
-18,1863518553,2001.0,police,Paso Robles Police Department,-120.68959,35.62437
-19,2407408558,2005.0,post_office,The UPS Store,-120.68264,35.61673
-20,5258513907,2002.0,fire_station,Paso Robles Fire Department,-120.68943,35.6238
-21,5264126071,2009.0,courthouse,Superior Court,-120.69022,35.62431
-22,5794841043,2002.0,fire_station,,-120.7069,35.54999
-23,1776778360,2005.0,post_office,The UPS Store,-120.64243,35.24925
-24,8487648873,2001.0,police,CHP Coastal Division,-120.64339,35.24614
-25,368167529,2009.0,courthouse,San Luis Obispo County Courthouse,-120.66156,35.28247
-26,368170777,2007.0,library,San Luis Obispo County Law Library,-120.66087,35.28265
-27,368171730,2008.0,town_hall,San Luis Obispo City Hall,-120.66259,35.2828
-28,4927197916,2009.0,courthouse,San Luis Obispo Superior Court,-120.66094,35.28274
-29,4929514987,2005.0,post_office,San Luis Obispo Post Office,-120.66109,35.27949
-30,358823423,2005.0,post_office,Los Padres Post Office,-120.69962,35.32609
-31,3512240650,2001.0,police,Cuesta College Police Department,-120.74148,35.33158
-32,4638291771,2002.0,fire_station,,-120.69004,35.25649
-33,358849109,2005.0,post_office,Nipomo Post Office,-120.47433,35.0422
-34,368170765,2007.0,library,Nipomo Branch San Luis Obispo City-County Library,-120.47963,35.04004
-35,2169543076,2005.0,post_office,Nipomo Post Office,-120.48963,35.03433
-36,4677366838,2007.0,library,Nipomo Regional Library,-120.49708,35.02892
-37,368170563,2007.0,library,San Miguel Branch San Luis Obispo City-County Library,-120.69823,35.75136
-38,358848794,2005.0,post_office,Cayucos Post Office,-120.90351,35.44997
-39,358848849,2005.0,post_office,Morro Bay Post Office,-120.84733,35.36671
-40,368170771,2007.0,library,Cayucos Branch San Luis Obispo City-County Library,-120.90629,35.44942
-41,368170772,2007.0,library,Morro Bay Branch San Luis Obispo City-County Library,-120.84601,35.3672
-42,2684053237,2005.0,post_office,,-120.82884,35.31013
-43,3984716662,2005.0,post_office,Perry's Parcel & Gifts,-120.84233,35.36763
-44,368171729,2008.0,town_hall,Arroyo Grande City Hall,-120.57623,35.1242
-45,3517586924,2002.0,fire_station,Five Cities Fire Authority Station 1,-120.57925,35.12131
-46,993419706,2005.0,post_office,Canyon Post,-120.65944,35.3069
-47,358848999,2005.0,post_office,United States Post Office,-120.61989,35.12167
-48,358849006,2005.0,post_office,Halcyon Post Office,-120.59176,35.10315
-49,358849062,2005.0,post_office,Shell Beach Post Office,-120.67169,35.15734
-50,368170763,2007.0,library,South County Branch San Luis Obispo City-County Library,-120.5897,35.12445
-51,368170764,2007.0,library,Shell Beach Branch San Luis Obispo City-County Library,-120.66962,35.15465
-52,368171727,2008.0,town_hall,Pismo Beach City Hall,-120.64073,35.1447
-53,368171728,2008.0,town_hall,Grover Beach City Hall,-120.62184,35.12081
-54,1641530646,2007.0,library,,-120.61999,35.12294
-55,1641532882,2007.0,library,,-120.61235,35.1026
-56,2213390343,2001.0,police,Grover Beach Police Station,-120.62199,35.12071
-57,2213391736,2002.0,fire_station,Five Cities Fire Authority Station 2,-120.62248,35.12067
-58,3513759578,2001.0,police,Pismo Beach Police Department,-120.64038,35.14425
-59,5258277166,2005.0,post_office,Mail Plus,-120.64078,35.1421
-60,612451285,2008.0,town_hall,San Luis Obispo County Government Center,-120.66023,35.28219
-61,2196724293,2005.0,post_office,The UPS Store,-120.65609,35.28225
+0,358848726,2005.0,post_office,Templeton Post Office,-120.70072,35.55748
+1,1863518553,2001.0,police,Paso Robles Police Department,-120.68959,35.62437
+2,2407408558,2005.0,post_office,The UPS Store,-120.68264,35.61673
+3,3512268402,2001.0,police,Cuesta College Police Department,-120.67075,35.6505
+4,3522971971,2001.0,police,California Highway Patrol,-120.71155,35.55576
+5,5258513907,2002.0,fire_station,Paso Robles Fire Department,-120.68943,35.6238
+6,993419706,2005.0,post_office,Canyon Post,-120.65944,35.3069
+7,368167529,2009.0,courthouse,San Luis Obispo County Courthouse,-120.66156,35.28247
+8,368170777,2007.0,library,San Luis Obispo County Law Library,-120.66087,35.28265
+9,368171730,2008.0,town_hall,San Luis Obispo City Hall,-120.66259,35.2828
+10,612451285,2008.0,town_hall,San Luis Obispo County Government Center,-120.66023,35.28219
+11,4927197916,2009.0,courthouse,San Luis Obispo Superior Court,-120.66094,35.28274
+12,4929514987,2005.0,post_office,San Luis Obispo Post Office,-120.66109,35.27949
+13,1776778360,2005.0,post_office,The UPS Store,-120.64243,35.24925
+14,8487648873,2001.0,police,CHP Coastal Division,-120.64339,35.24614
+15,358849109,2005.0,post_office,Nipomo Post Office,-120.47433,35.0422
+16,368170765,2007.0,library,Nipomo Branch San Luis Obispo City-County Library,-120.47963,35.04004
+17,358848745,2005.0,post_office,Atascadero Post Office,-120.66989,35.48997
+18,358848882,2005.0,post_office,Santa Margarita Post Office,-120.60819,35.39166
+19,368170566,2007.0,library,Atascadero Branch San Luis Obispo City-County Library,-120.66628,35.48219
+20,368170773,2007.0,library,Santa Margarita Branch San Luis Obispo City-County Library,-120.60834,35.38804
+21,368171731,2008.0,town_hall,Atascadero City Hall,-120.66717,35.48991
+22,2401965264,2002.0,fire_station,CAL FIRE / SLO County Fire Station 98,-120.64285,35.66948
+23,5411029806,2002.0,fire_station,City of Atascadero Fire Department,-120.66874,35.49141
+24,5411050718,2001.0,police,Atascadero Police Department,-120.67239,35.49111
+25,5487016603,2002.0,fire_station,CAL FIRE / SLO County Fire North County Auto Shop,-120.64228,35.66974
+26,5794853597,2002.0,fire_station,,-120.60793,35.39125
+27,7859217558,2005.0,post_office,The UPS Store,-120.65966,35.64498
+28,358823423,2005.0,post_office,Los Padres Post Office,-120.69962,35.32609
+29,3512240650,2001.0,police,Cuesta College Police Department,-120.74148,35.33158
+30,4638291771,2002.0,fire_station,,-120.69004,35.25649
+31,2169543076,2005.0,post_office,Nipomo Post Office,-120.48963,35.03433
+32,4677366838,2007.0,library,Nipomo Regional Library,-120.49708,35.02892
+33,2196724293,2005.0,post_office,The UPS Store,-120.65609,35.28225
+34,358848794,2005.0,post_office,Cayucos Post Office,-120.90351,35.44997
+35,358848849,2005.0,post_office,Morro Bay Post Office,-120.84733,35.36671
+36,368170771,2007.0,library,Cayucos Branch San Luis Obispo City-County Library,-120.90629,35.44942
+37,368170772,2007.0,library,Morro Bay Branch San Luis Obispo City-County Library,-120.84601,35.3672
+38,2684053237,2005.0,post_office,,-120.82884,35.31013
+39,3984716662,2005.0,post_office,Perry's Parcel & Gifts,-120.84233,35.36763
+40,358849006,2005.0,post_office,Halcyon Post Office,-120.59176,35.10315
+41,368170763,2007.0,library,South County Branch San Luis Obispo City-County Library,-120.5897,35.12445
+42,368171729,2008.0,town_hall,Arroyo Grande City Hall,-120.57623,35.1242
+43,3517586924,2002.0,fire_station,Five Cities Fire Authority Station 1,-120.57925,35.12131
+44,358848999,2005.0,post_office,United States Post Office,-120.61989,35.12167
+45,358849062,2005.0,post_office,Shell Beach Post Office,-120.67169,35.15734
+46,368170764,2007.0,library,Shell Beach Branch San Luis Obispo City-County Library,-120.66962,35.15465
+47,368171727,2008.0,town_hall,Pismo Beach City Hall,-120.64073,35.1447
+48,368171728,2008.0,town_hall,Grover Beach City Hall,-120.62184,35.12081
+49,1641530646,2007.0,library,,-120.61999,35.12294
+50,1641532882,2007.0,library,,-120.61235,35.1026
+51,2213390343,2001.0,police,Grover Beach Police Station,-120.62199,35.12071
+52,2213391736,2002.0,fire_station,Five Cities Fire Authority Station 2,-120.62248,35.12067
+53,3513759578,2001.0,police,Pismo Beach Police Department,-120.64038,35.14425
+54,5258277166,2005.0,post_office,Mail Plus,-120.64078,35.1421
+55,368170561,2007.0,library,Paso Robles Public Library,-120.69058,35.62537
+56,368170563,2007.0,library,San Miguel Branch San Luis Obispo City-County Library,-120.69823,35.75136
+57,368171716,2008.0,town_hall,Paso Robles City Hall,-120.69113,35.62551
+58,1817015751,2005.0,post_office,,-120.68947,35.61985
+59,5264126071,2009.0,courthouse,Superior Court,-120.69022,35.62431
+60,5794841043,2002.0,fire_station,,-120.7069,35.54999
+61,358849036,2005.0,post_office,Avila Beach Post Office,-120.7334,35.18067

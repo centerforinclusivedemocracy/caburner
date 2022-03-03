@@ -1,68 +1,68 @@
 osm_id,code,fclass,name,lon,lat
-358766308,2082.0,school,Fricot Ranch School,-120.53688,38.17343
-358775895,2082.0,school,Mark Twain Elementary School,-120.55131,38.0752
-358775536,2082.0,school,Bret Harte Union High School,-120.55287,38.07941
+4216517008,2501.0,supermarket,Sierra Hills Natural Foods,-120.45742,38.13822
+4216518100,2402.0,motel,Ebbett's Pass Lodge,-120.35359,38.25425
+5592637518,2082.0,school,Avery Middle School,-120.36475,38.20391
 358817654,2082.0,school,Hazel Fischer Elementary School,-120.34297,38.26436
+4216516485,2303.0,cafe,Bristol's Ranch House Cafe,-120.34943,38.25584
+4216516488,2402.0,motel,Bear's Lair,-120.34676,38.25698
+4216518111,2303.0,cafe,Coop's Coffee House,-120.36921,38.2052
+4543685558,2501.0,supermarket,Big Trees Market,-120.36392,38.23972
+358766308,2082.0,school,Fricot Ranch School,-120.53688,38.17343
+358775536,2082.0,school,Bret Harte Union High School,-120.55287,38.07941
+358775895,2082.0,school,Mark Twain Elementary School,-120.55131,38.0752
+358832915,2082.0,school,West Point Alternative School,-120.52854,38.40213
+358832976,2082.0,school,Altaville Grammar School,-120.56187,38.08298
+358833033,2082.0,school,Copperopolis Elementary School,-120.64132,37.98187
+1904630537,2501.0,supermarket,Sender's Market,-120.54085,38.22848
+2795626710,2501.0,supermarket,Save Mart,-120.55566,38.07866
+4729422391,2501.0,supermarket,Young's Payless IGA,-120.60445,37.93817
+4816153226,2303.0,cafe,Starbucks,-120.55995,38.08215
+4917628765,2402.0,motel,Jumping Frog Motel,-120.55341,38.07972
+4917628961,2303.0,cafe,Angels Creek Cafe,-120.53992,38.06919
+358832900,2082.0,school,Mokelumne Hill Elementary School,-120.69836,38.29909
+358832909,2082.0,school,Rail Road Flat Elementary School,-120.51631,38.33741
+358832917,2082.0,school,West Point Elementary School,-120.52659,38.39908
 358832944,2082.0,school,San Andreas Elementary School,-120.67766,38.19889
 358832947,2082.0,school,Valley Springs Elementary School,-120.83299,38.19075
 358832954,2082.0,school,Albert A Michelson Elementary School,-120.4527,38.13298
 358832959,2082.0,school,California Conservaton Corps Academy,-120.45825,38.14159
 358832975,2082.0,school,Vallecito Union Elementary School,-120.4577,38.13575
-358832976,2082.0,school,Altaville Grammar School,-120.56187,38.08298
 358833025,2082.0,school,Vallecito High School,-120.47575,38.08548
-358833033,2082.0,school,Copperopolis Elementary School,-120.64132,37.98187
-358832900,2082.0,school,Mokelumne Hill Elementary School,-120.69836,38.29909
-358832909,2082.0,school,Rail Road Flat Elementary School,-120.51631,38.33741
-358832915,2082.0,school,West Point Alternative School,-120.52854,38.40213
-358832917,2082.0,school,West Point Elementary School,-120.52659,38.39908
 368167480,2014.0,arts_centre,Metropolitan Cultural Center,-120.68076,38.19742
 990550930,2501.0,supermarket,Food Mart,-120.56582,38.08605
-1904630537,2501.0,supermarket,Sender's Market,-120.54085,38.22848
-2795626710,2501.0,supermarket,Save Mart,-120.55566,38.07866
 4216515113,2303.0,cafe,Gold County Roasters,-120.45987,38.13682
-4216516485,2303.0,cafe,Bristol's Ranch House Cafe,-120.34943,38.25584
-4216516488,2402.0,motel,Bear's Lair,-120.34676,38.25698
 4216517007,2501.0,supermarket,Sierra Hills Market,-120.45709,38.13789
-4216517008,2501.0,supermarket,Sierra Hills Natural Foods,-120.45742,38.13822
-4216518100,2402.0,motel,Ebbett's Pass Lodge,-120.35359,38.25425
-4216518111,2303.0,cafe,Coop's Coffee House,-120.36921,38.2052
-4543685558,2501.0,supermarket,Big Trees Market,-120.36392,38.23972
-4729422391,2501.0,supermarket,Young's Payless IGA,-120.60445,37.93817
-4816153226,2303.0,cafe,Starbucks,-120.55995,38.08215
-4917628765,2402.0,motel,Jumping Frog Motel,-120.55341,38.07972
-4917628961,2303.0,cafe,Angels Creek Cafe,-120.53992,38.06919
-5592637518,2082.0,school,Avery Middle School,-120.36475,38.20391
 358832894,2005.0,post_office,Camp Connell Post Office,-120.27714,38.31019
-358832932,2005.0,post_office,Campo Seco Post Office,-120.85327,38.22797
-358832946,2005.0,post_office,San Andreas Post Office,-120.68677,38.19781
-358832949,2005.0,post_office,Valley Springs Post Office,-120.82994,38.19159
+358832926,2005.0,post_office,Arnold Post Office,-120.34909,38.25714
 358832956,2005.0,post_office,Avery Post Office,-120.36909,38.20436
-358832971,2005.0,post_office,Murphys Post Office,-120.45792,38.13797
+368169905,2007.0,library,Arnold Branch Calaveras County Library,-120.35464,38.25492
+3608363593,2002.0,fire_station,Dorrington Station 22,-120.26104,38.31878
+358832919,2005.0,post_office,West Point Post Office,-120.52882,38.40186
 358832977,2005.0,post_office,Altaville Post Office,-120.55282,38.07833
 358833035,2005.0,post_office,Copperopolis Post Office,-120.6402,37.97992
-358832904,2005.0,post_office,Mokelumne Hill Post Office,-120.70602,38.30159
-358832919,2005.0,post_office,West Point Post Office,-120.52882,38.40186
-358832926,2005.0,post_office,Arnold Post Office,-120.34909,38.25714
-358832929,2005.0,post_office,Burson Post Office,-120.89022,38.18325
-368167618,2009.0,courthouse,Calaveras County Courthouse,-120.68132,38.19603
-368169904,2007.0,library,West Point Branch Calaveras County Library,-120.52965,38.40075
-368169905,2007.0,library,Arnold Branch Calaveras County Library,-120.35464,38.25492
-368169906,2007.0,library,Murphys Branch Calaveras County Library,-120.46341,38.13636
 368169907,2007.0,library,Angels Camp Branch Calaveras County Library,-120.54187,38.07131
-368169908,2007.0,library,Calaveras County Law Library,-120.66604,38.19103
-368169917,2007.0,library,Calaveras County Library,-120.68049,38.19714
 368171902,2008.0,town_hall,Angels Camp City Hall,-120.54937,38.07659
-368171036,2099.0,public_building,Calaveras County Government Center,-120.66604,38.19103
-368171906,2008.0,town_hall,San Andreas Town Hall,-120.68132,38.19575
 2085378874,2002.0,fire_station,,-120.54229,38.22766
-2085378876,2005.0,post_office,,-120.54178,38.22755
 2085378877,2002.0,fire_station,California Department of Forestry Esparanza Forest Fire Station,-120.51581,38.24295
-2085378879,2002.0,fire_station,Central Calaveras Fire Station 1,-120.51167,38.28423
 2085379787,2008.0,town_hall,,-120.54219,38.22785
 3487013445,2005.0,post_office,,-120.54031,38.0694
 3487013446,2002.0,fire_station,"Fire Station, Volunteer",-120.53735,38.06897
 3487013447,2002.0,fire_station,Alta Melones Fire District,-120.55735,38.08061
-3608363593,2002.0,fire_station,Dorrington Station 22,-120.26104,38.31878
-4216517006,2002.0,fire_station,Cal Fire Murphys Forest Fire Station,-120.4513,38.1443
 7027466154,2007.0,library,Angels Camp Branch Library,-120.56647,38.08606
 8335343010,2007.0,library,Calaveras County Library,-120.60381,37.93818
+358832904,2005.0,post_office,Mokelumne Hill Post Office,-120.70602,38.30159
+368169904,2007.0,library,West Point Branch Calaveras County Library,-120.52965,38.40075
+2085378879,2002.0,fire_station,Central Calaveras Fire Station 1,-120.51167,38.28423
+358832929,2005.0,post_office,Burson Post Office,-120.89022,38.18325
+358832932,2005.0,post_office,Campo Seco Post Office,-120.85327,38.22797
+358832946,2005.0,post_office,San Andreas Post Office,-120.68677,38.19781
+358832949,2005.0,post_office,Valley Springs Post Office,-120.82994,38.19159
+358832971,2005.0,post_office,Murphys Post Office,-120.45792,38.13797
+368167618,2009.0,courthouse,Calaveras County Courthouse,-120.68132,38.19603
+368169906,2007.0,library,Murphys Branch Calaveras County Library,-120.46341,38.13636
+368169908,2007.0,library,Calaveras County Law Library,-120.66604,38.19103
+368169917,2007.0,library,Calaveras County Library,-120.68049,38.19714
+368171036,2099.0,public_building,Calaveras County Government Center,-120.66604,38.19103
+368171906,2008.0,town_hall,San Andreas Town Hall,-120.68132,38.19575
+2085378876,2005.0,post_office,,-120.54178,38.22755
+4216517006,2002.0,fire_station,Cal Fire Murphys Forest Fire Station,-120.4513,38.1443

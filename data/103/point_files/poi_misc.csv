@@ -1,4 +1,13 @@
 osm_id,code,fclass,name,lon,lat
+358819287,2082.0,school,Mineral Elementary School,-121.59665,40.34571
+3547624806,2303.0,cafe,,-121.53398,40.43777
+358762335,2082.0,school,Bowman School,-122.37917,40.33654
+358765610,2082.0,school,Evergreen School,-122.4264,40.36015
+358765792,2082.0,school,Farquhar School,-122.46362,40.31293
+2466007649,2082.0,school,Evergreen Elementary School,-122.32703,40.35751
+2466009226,2082.0,school,Evergreen Middle School,-122.33191,40.35788
+358763041,2082.0,school,Capay School,-122.10026,39.81183
+358821938,2082.0,school,Capay Joint Union Elementary School,-122.08443,39.79766
 358819281,2082.0,school,Manton Elementary School,-121.86693,40.43238
 358819295,2082.0,school,Plum Valley Elementary School,-121.91332,40.33543
 358765962,2082.0,school,Flournoy Elementary School,-122.4475,39.92154
@@ -19,7 +28,6 @@ osm_id,code,fclass,name,lon,lat
 358769408,2082.0,school,Lincoln School,-122.28278,40.16516
 358772111,2082.0,school,Orchard Park School,-122.18444,40.13821
 358773465,2082.0,school,Reeds Creek Elementary School,-122.35525,40.15612
-358774059,2082.0,school,Sacred Heart School,-122.2475,40.1896
 358819114,2082.0,school,Academy of Our Lady of Mercy,-122.23232,40.1759
 358819155,2082.0,school,Jackson Heights Elementary School,-122.23944,40.16988
 358819159,2082.0,school,Mercy High School,-122.23055,40.17404
@@ -32,12 +40,3 @@ osm_id,code,fclass,name,lon,lat
 4096873684,2402.0,motel,Gateway Inn,-122.22761,40.1686
 4096873685,2402.0,motel,Crystal Motel,-122.22855,40.16744
 4840420126,2303.0,cafe,From the Hearth,-122.23548,40.17671
-358819287,2082.0,school,Mineral Elementary School,-121.59665,40.34571
-3547624806,2303.0,cafe,,-121.53398,40.43777
-358763041,2082.0,school,Capay School,-122.10026,39.81183
-358821938,2082.0,school,Capay Joint Union Elementary School,-122.08443,39.79766
-358762335,2082.0,school,Bowman School,-122.37917,40.33654
-358765610,2082.0,school,Evergreen School,-122.4264,40.36015
-358765792,2082.0,school,Farquhar School,-122.46362,40.31293
-2466007649,2082.0,school,Evergreen Elementary School,-122.32703,40.35751
-2466009226,2082.0,school,Evergreen Middle School,-122.33191,40.35788

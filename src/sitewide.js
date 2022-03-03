@@ -8,95 +8,123 @@
 const PARTICIPATING_COUNTIES = [
     //SSS// We have 3 classes for CA: lite for the 4 VBM counties, fullmodel for polling places, and fullmodel for vote centers
     { countyfp: "001", name: "Alameda", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "003", name: "Alpine", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "005", name: "Amador", profile: 'vca', vca: '2'},
-    { countyfp: "007", name: "Butte", profile: 'butte', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
+    { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
     { countyfp: "009", name: "Calaveras", profile: 'vca', vca: '2'},
-    { countyfp: "011", name: "Colusa", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "013", name: "Contra Costa", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "015", name: "Del Norte", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "011", name: "Colusa", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "013", name: "Contra Costa", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "015", name: "Del Norte", profile: 'lite', vca: '3 & 4'},
     { countyfp: "017", name: "El Dorado", profile: 'vca', vca: '2'},
     { countyfp: "019", name: "Fresno", profile: 'vca', vca: '2'},
-    { countyfp: "021", name: "Glenn", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "021", name: "Glenn", profile: 'lite', vca: '3 & 4'},
     { countyfp: "023", name: "Humboldt", profile: 'vca', vca: '3 & 4'},
-    { countyfp: "025", name: "Imperial", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "027", name: "Inyo", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "029", name: "Kern", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "031", name: "Kings", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "033", name: "Lake", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "035", name: "Lassen", profile: 'inprogress', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
+    { countyfp: "025", name: "Imperial", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "027", name: "Inyo", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "029", name: "Kern", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "031", name: "Kings", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "033", name: "Lake", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "035", name: "Lassen", profile: 'lite', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
     { countyfp: "037", name: "Los Angeles", profile: 'vca', vca: '2'},
     { countyfp: "039", name: "Madera", profile: 'vca', vca: '1'},
     { countyfp: "041", name: "Marin", profile: 'vca', vca: '3 & 4'},
     { countyfp: "043", name: "Mariposa", profile: 'vca', vca: '2'},
-    { countyfp: "045", name: "Mendocino", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "045", name: "Mendocino", profile: 'lite', vca: '3 & 4'},
     { countyfp: "047", name: "Merced", profile: 'vca', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '2'},
-    { countyfp: "049", name: "Modoc", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "051", name: "Mono", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "053", name: "Monterey", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "049", name: "Modoc", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "051", name: "Mono", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "053", name: "Monterey", profile: 'lite', vca: '3 & 4'},
     { countyfp: "055", name: "Napa", profile: 'vca', vca: '2'},
     { countyfp: "057", name: "Nevada", profile: 'vca', vca: '2'},
     { countyfp: "059", name: "Orange", profile: 'vca', vca: '2'},
-    { countyfp: "061", name: "Placer", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "063", name: "Plumas", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "061", name: "Placer", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "063", name: "Plumas", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "065", name: "Riverside", profile: 'inprogress', vca: '3 & 4'},
     { countyfp: "067", name: "Sacramento", profile: 'vca', vca: '2'},
     { countyfp: "069", name: "San Benito", profile: 'vca', vca: '3 & 4'},
-    { countyfp: "071", name: "San Bernardino", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "071", name: "San Bernardino", profile: 'lite', vca: '3 & 4'},
     { countyfp: "073", name: "San Diego", profile: 'vca', vca: '3 & 4'},
-    { countyfp: "075", name: "San Francisco", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "077", name: "San Joaquin", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "079", name: "San Luis Obispo", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "075", name: "San Francisco", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "077", name: "San Joaquin", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "079", name: "San Luis Obispo", profile: 'lite', vca: '3 & 4'},
     { countyfp: "081", name: "San Mateo", profile: 'vca', vca: '2'},
-    { countyfp: "083", name: "Santa Barbara", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "083", name: "Santa Barbara", profile: 'lite', vca: '3 & 4'},
     { countyfp: "085", name: "Santa Clara", profile: 'vca', vca: '2'},
     { countyfp: "087", name: "Santa Cruz", profile: 'vca', vca: '3 & 4'},
-    { countyfp: "089", name: "Shasta", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "091", name: "Sierra", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
-    { countyfp: "093", name: "Siskiyou", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "095", name: "Solano", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "089", name: "Shasta", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "091", name: "Sierra", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "093", name: "Siskiyou", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "095", name: "Solano", profile: 'lite', vca: '3 & 4'},
     { countyfp: "097", name: "Sonoma", profile: 'vca', vca: '3 & 4'},
     { countyfp: "099", name: "Stanislaus", profile: 'vca',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
-    { countyfp: "101", name: "Sutter", profile: 'inprogress',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
-    { countyfp: "103", name: "Tehama", profile: 'inprogress', vca: '3 & 4'},
-    { countyfp: "105", name: "Trinity", profile: 'inprogress',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
-    { countyfp: "107", name: "Tulare", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "101", name: "Sutter", profile: 'lite',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
+    { countyfp: "103", name: "Tehama", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "105", name: "Trinity", profile: 'lite',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
+    { countyfp: "107", name: "Tulare", profile: 'lite', vca: '3 & 4'},
     { countyfp: "109", name: "Tuolumne", profile: 'vca', vca: '3 & 4'},
     { countyfp: "111", name: "Ventura", profile: 'vca', vca: '3 & 4'},
     { countyfp: "113", name: "Yolo", profile: 'vca', vca: '3 & 4'},
-    { countyfp: "115", name: "Yuba", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "115", name: "Yuba", profile: 'lite', vca: '3 & 4'},
   ];
 
   const COMPLETED_COUNTIES = [
-    { countyfp: "003", name: "Alpine", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "005", name: "Amador", profile: 'vca', vca: '2'},
-    { countyfp: "007", name: "Butte", profile: 'butte', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
+    { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
     { countyfp: "009", name: "Calaveras", profile: 'vca', vca: '2'},
+    { countyfp: "011", name: "Colusa", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "013", name: "Contra Costa", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "015", name: "Del Norte", profile: 'lite', vca: '3 & 4'},
     { countyfp: "017", name: "El Dorado", profile: 'vca', vca: '2'},
     { countyfp: "019", name: "Fresno", profile: 'vca', vca: '2'},
+    { countyfp: "021", name: "Glenn", profile: 'lite', vca: '3 & 4'},
     { countyfp: "023", name: "Humboldt", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "025", name: "Imperial", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "027", name: "Inyo", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "029", name: "Kern", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "031", name: "Kings", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "033", name: "Lake", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "035", name: "Lassen", profile: 'lite', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
     { countyfp: "037", name: "Los Angeles", profile: 'vca', vca: '2'},
     { countyfp: "039", name: "Madera", profile: 'vca', vca: '1'},
     { countyfp: "041", name: "Marin", profile: 'vca', vca: '3 & 4'},
     { countyfp: "043", name: "Mariposa", profile: 'vca', vca: '2'},
+    { countyfp: "045", name: "Mendocino", profile: 'lite', vca: '3 & 4'},
     { countyfp: "047", name: "Merced", profile: 'vca', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '2'},
+    { countyfp: "049", name: "Modoc", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "051", name: "Mono", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "053", name: "Monterey", profile: 'lite', vca: '3 & 4'},
     { countyfp: "055", name: "Napa", profile: 'vca', vca: '2'},
     { countyfp: "057", name: "Nevada", profile: 'vca', vca: '2'},
     { countyfp: "059", name: "Orange", profile: 'vca', vca: '2'},
-    { countyfp: "063", name: "Plumas", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "061", name: "Placer", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "063", name: "Plumas", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "067", name: "Sacramento", profile: 'vca', vca: '2'},
     { countyfp: "069", name: "San Benito", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "071", name: "San Bernardino", profile: 'lite', vca: '3 & 4'},
     { countyfp: "073", name: "San Diego", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "075", name: "San Francisco", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "077", name: "San Joaquin", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "079", name: "San Luis Obispo", profile: 'lite', vca: '3 & 4'},
     { countyfp: "081", name: "San Mateo", profile: 'vca', vca: '2'},
+    { countyfp: "083", name: "Santa Barbara", profile: 'lite', vca: '3 & 4'},
     { countyfp: "085", name: "Santa Clara", profile: 'vca', vca: '2'},
     { countyfp: "087", name: "Santa Cruz", profile: 'vca', vca: '3 & 4'},
-    { countyfp: "091", name: "Sierra", profile: 'vbm', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "089", name: "Shasta", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "091", name: "Sierra", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
+    { countyfp: "093", name: "Siskiyou", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "095", name: "Solano", profile: 'lite', vca: '3 & 4'},
     { countyfp: "097", name: "Sonoma", profile: 'vca', vca: '3 & 4'},
     { countyfp: "099", name: "Stanislaus", profile: 'vca',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
+    { countyfp: "101", name: "Sutter", profile: 'lite',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
+    { countyfp: "103", name: "Tehama", profile: 'lite', vca: '3 & 4'},
+    { countyfp: "105", name: "Trinity", profile: 'lite',  outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
+    { countyfp: "107", name: "Tulare", profile: 'lite', vca: '3 & 4'},
     { countyfp: "109", name: "Tuolumne", profile: 'vca', vca: '3 & 4'},
     { countyfp: "111", name: "Ventura", profile: 'vca', vca: '3 & 4'},
     { countyfp: "113", name: "Yolo", profile: 'vca', vca: '3 & 4'},
-];
+    { countyfp: "115", name: "Yuba", profile: 'lite', vca: '3 & 4'},
+  ];
 
 const getParticipatingCountyInfo = function (countyfp) {
     // fetch the county entry, easy; be sure to take a copy because we're about to mutate it
@@ -126,6 +154,12 @@ const getParticipatingCountyInfo = function (countyfp) {
         returnme.datalayers.sitingcriteria = returnme.datalayers.sitingcriteria.filter(function (layerinfo) {
             return returnme.exceptlayers.indexOf(layerinfo.id) === -1;
         });
+        returnme.datalayers.populationdata = returnme.datalayers.populationdata.filter(function (layerinfo) {
+            return returnme.exceptlayers.indexOf(layerinfo.id) === -1;
+        });
+        returnme.datalayers.voterdata = returnme.datalayers.voterdata.filter(function (layerinfo) {
+            return returnme.exceptlayers.indexOf(layerinfo.id) === -1;
+        });
     }
 
     // county-specific data hacks; see also special support for "customgeojsonfile" layers
@@ -150,15 +184,17 @@ const getParticipatingCountyInfo = function (countyfp) {
 // the style for drawing counties onto the statewide overview map,
 // with different styles for participating counties vs non-participiating, and the different data profiles
 // const BOUNDSTYLE_DEFAULT = { fillColor: 'white', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
-const BOUNDSTYLE_PARTICIPATING = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
-const BOUNDSTYLE_FULL = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
-// const BOUNDSTYLE_LITE = { fillColor: '#FFF6D6', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
-const BOUNDSTYLE_VBM = { fillColor: '#FFEE99', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75 };
-const BOUNDSTYLE_BUTTE = { fillColor: '#FFFAE5', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75 };
-const BOUNDSTYLE_DEFAULT = { fillColor: '#DDDDDD', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
-const BOUNDSTYLE_MOUSEOVER = { weight: 5, color: 'black', fillOpacity: 0.15 };
-const BOUNDSTYLE_VCA = { fillColor: '#FFBF00', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65 };
-const BOUNDSTYLE_NONVCA = { fillColor: '#FFE14C', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75 };
+const BOUNDSTYLE_PARTICIPATING = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5, smoothFactor:0.5 };
+const BOUNDSTYLE_FULL = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor:0.5 };
+// const BOUNDSTYLE_LITE = { fillColor: '#FFF6D6', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor:0.5 };
+const BOUNDSTYLE_LITE = { fillColor: '#FFF6D6', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor:0.5 };
+const BOUNDSTYLE_VBM = { fillColor: '#FFEE99', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75, smoothFactor:0.5 };
+const BOUNDSTYLE_BUTTE = { fillColor: '#FFFAE5', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75, smoothFactor:0.5 };
+const BOUNDSTYLE_DEFAULT = { fillColor: '#DDDDDD', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5, smoothFactor:0.5 };
+const BOUNDSTYLE_MOUSEOVER = { weight: 5, color: 'black', fillOpacity: 0.15, smoothFactor:0.5 };
+// const BOUNDSTYLE_VCA = { fillColor: '#FFBF00', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor:0.5 };
+const BOUNDSTYLE_VCA = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor:0.5 };
+const BOUNDSTYLE_NONVCA = { fillColor: '#FFE14C', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75, smoothFactor:0.5 };
 
 // in county.html to view a single county, the style to use for county boundary
 const SINGLECOUNTY_STYLE = { fill: false, weight: 2, opacity: 1, color: 'black' };
@@ -386,41 +422,165 @@ DATA_LAYERS.popdens = {
     radiogroup: 'tractchoropleths',
     layertype: 'indicators'
 };
-DATA_LAYERS.vbm_rate_tot = {
-    id: 'vbm_rate_tot',
+DATA_LAYERS.vbm_tot_2020 = {
+    id: 'vbm_tot_2020',
     title: "2020 Vote by Mail Rate (Total)",
-    scorefield:  'vbm_rate_tot',
-    quantilefield: 'vbm_rate_tot', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    scorefield:  'vbm_tot_2020',
+    quantilefield: 'vbm_tot_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    background: '#CCCCCC'
 };
-DATA_LAYERS.vbm_rate_asn = {
-    id: 'vbm_rate_asn',
+DATA_LAYERS.vbm_asn_2020 = {
+    id: 'vbm_asn_2020',
     title: "2020 Vote by Mail Rate (Asian-American)",
-    scorefield:  'vbm_rate_asn',
-    quantilefield: 'vbm_rate_asn', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    scorefield:  'vbm_asn_2020',
+    quantilefield: 'vbm_asn_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    background: '#CCCCCC'
 };
-DATA_LAYERS.vbm_rate_lat = {
-    id: 'vbm_rate_lat',
+DATA_LAYERS.vbm_lat_2020 = {
+    id: 'vbm_lat_2020',
     title: "2020 Vote by Mail Rate (Latino)",
-    scorefield:  'vbm_rate_lat',
-    quantilefield: 'vbm_rate_lat', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    scorefield:  'vbm_lat_2020',
+    quantilefield: 'vbm_lat_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    background: '#CCCCCC'
 };
-DATA_LAYERS.vbm_rate_youth = {
-    id: 'vbm_rate_youth',
+DATA_LAYERS.vbm_youth_2020 = {
+    id: 'vbm_youth_2020',
     title: "2020 Vote by Mail Rate (Youth)",
-    scorefield:  'vbm_rate_youth',
-    quantilefield: 'vbm_rate_youth', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    scorefield:  'vbm_youth_2020',
+    quantilefield: 'vbm_youth_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    background: '#CCCCCC'
+};
+DATA_LAYERS.vbm_tot_2016 = {
+    id: 'vbm_tot_2016',
+    title: "2016 Vote by Mail Rate (Total)",
+    scorefield:  'vbm_tot_2016',
+    quantilefield: 'vbm_tot_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#CCCCCC'
+};
+DATA_LAYERS.vbm_asn_2016 = {
+    id: 'vbm_asn_2016',
+    title: "2016 Vote by Mail Rate (Asian-American)",
+    scorefield:  'vbm_asn_2016',
+    quantilefield: 'vbm_asn_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#CCCCCC'
+};
+DATA_LAYERS.vbm_lat_2016 = {
+    id: 'vbm_lat_2016',
+    title: "2016 Vote by Mail Rate (Latino)",
+    scorefield:  'vbm_lat_2016',
+    quantilefield: 'vbm_lat_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#CCCCCC'
+};
+DATA_LAYERS.vbm_youth_2016 = {
+    id: 'vbm_youth_2016',
+    title: "2016 Vote by Mail Rate (Youth)",
+    scorefield:  'vbm_youth_2016',
+    quantilefield: 'vbm_youth_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#CCCCCC'
+};
+DATA_LAYERS.turnout_tot_2020 = {
+    id: 'turnout_tot_2020',
+    title: "2020 Registered Voter Turnout Rate (Total)",
+    scorefield:  'turnout_tot_2020',
+    quantilefield: 'turnout_tot_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#D57F7F',
+};
+DATA_LAYERS.turnout_asn_2020 = {
+    id: 'turnout_asn_2020',
+    title: "2020 Registered Voter Turnout Rate (Asian-American)",
+    scorefield:  'turnout_asn_2020',
+    quantilefield: 'turnout_asn_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#D57F7F',
+};
+DATA_LAYERS.turnout_lat_2020 = {
+    id: 'turnout_lat_2020',
+    title: "2020 Registered Voter Turnout Rate (Latino)",
+    scorefield:  'turnout_lat_2020',
+    quantilefield: 'turnout_lat_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#D57F7F',
+};
+DATA_LAYERS.turnout_youth_2020 = {
+    id: 'turnout_youth_2020',
+    title: "2020 Registered Voter Turnout Rate (Youth)",
+    scorefield:  'turnout_youth_2020',
+    quantilefield: 'turnout_youth_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#D57F7F',
+};
+DATA_LAYERS.turnout_tot_2016 = {
+    id: 'turnout_tot_2016',
+    title: "2016 Registered Voter Turnout Rate (Total)",
+    scorefield:  'turnout_tot_2016',
+    quantilefield: 'turnout_tot_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#D57F7F',
+};
+DATA_LAYERS.turnout_asn_2016 = {
+    id: 'turnout_asn_2016',
+    title: "2016 Registered Voter Turnout Rate (Asian-American)",
+    scorefield:  'turnout_asn_2016',
+    quantilefield: 'turnout_asn_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#D57F7F',
+};
+DATA_LAYERS.turnout_lat_2016 = {
+    id: 'turnout_lat_2016',
+    title: "2016 Registered Voter Turnout Rate (Latino)",
+    scorefield:  'turnout_lat_2016',
+    quantilefield: 'turnout_lat_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#D57F7F',
+};
+DATA_LAYERS.turnout_youth_2016 = {
+    id: 'turnout_youth_2016',
+    title: "2016 Registered Voter Turnout Rate (Youth)",
+    scorefield:  'turnout_youth_2016',
+    quantilefield: 'turnout_youth_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    background: '#D57F7F',
 };
 DATA_LAYERS.prc_black = {
     id: 'prc_black',
@@ -675,13 +835,14 @@ DATA_PROFILES.fullmodel = {
     allareas: [
         DATA_LAYERS.all_sites_scored,
     ],
-    sitingcriteria: [
-        DATA_LAYERS.cvapdens, DATA_LAYERS.job_dens,
+    voterdata: [
+        DATA_LAYERS.cvapdens, 
         DATA_LAYERS.tot_elignonreg_prc,
-        DATA_LAYERS.prc_caraccess_final, DATA_LAYERS.prc_pov_final, 
-        DATA_LAYERS.popdens,
         DATA_LAYERS.pollvoter_dens,
-        DATA_LAYERS.vbm_rate_tot, DATA_LAYERS.vbm_rate_asn, DATA_LAYERS.vbm_rate_lat, DATA_LAYERS.vbm_rate_youth,
+        DATA_LAYERS.vbm_tot_2016, DATA_LAYERS.vbm_asn_2016, DATA_LAYERS.vbm_lat_2016, DATA_LAYERS.vbm_youth_2016,
+        DATA_LAYERS.vbm_tot_2020, DATA_LAYERS.vbm_asn_2020, DATA_LAYERS.vbm_lat_2020, DATA_LAYERS.vbm_youth_2020,
+        DATA_LAYERS.turnout_tot_2020, DATA_LAYERS.turnout_asn_2020, DATA_LAYERS.turnout_lat_2020, DATA_LAYERS.turnout_youth_2020, 
+        DATA_LAYERS.turnout_tot_2016, DATA_LAYERS.turnout_asn_2016, DATA_LAYERS.turnout_lat_2016, DATA_LAYERS.turnout_youth_2016, 
     ],
     populationdata: [
         DATA_LAYERS.prc_latino, 
@@ -692,6 +853,10 @@ DATA_PROFILES.fullmodel = {
         DATA_LAYERS.prc_youth_final,
         DATA_LAYERS.prcdisabled, 
         DATA_LAYERS.prc_nonengprof, 
+        DATA_LAYERS.job_dens,
+        DATA_LAYERS.prc_caraccess_final, 
+        DATA_LAYERS.prc_pov_final, 
+        DATA_LAYERS.popdens,
     ],
     latino: [
         DATA_LAYERS.prc_mexican,
@@ -721,10 +886,10 @@ DATA_PROFILES.fullmodel = {
 
 DATA_PROFILES.vca = Object.assign({}, DATA_PROFILES.fullmodel);
 DATA_PROFILES.nonvca = Object.assign({}, DATA_PROFILES.fullmodel);
-// DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel);
-// DATA_PROFILES.lite.suggestedareas = [];
-// DATA_PROFILES.lite.additionalareas = [];
-// DATA_PROFILES.lite.allareas = [];
+DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel);
+DATA_PROFILES.lite.suggestedareas = [];
+DATA_PROFILES.lite.additionalareas = [];
+DATA_PROFILES.lite.allareas = [];
 
 DATA_PROFILES.vbm = Object.assign({}, DATA_PROFILES.fullmodel);
 DATA_PROFILES.vbm.suggestedareas = [];

@@ -55,12 +55,10 @@ function initStatewideMap () {
                 if (! countyinfo) return BOUNDSTYLE_DEFAULT;  // not participating, default style
 
                 switch (countyinfo.profile) {
-                    // case 'fullmodel':
-                    //     return BOUNDSTYLE_FULL;
-                    // case 'lite':
-                    //     return BOUNDSTYLE_LITE;
-                    // case 'inprogress':
-                    //     return BOUNDSTYLE_INPROGRESS;
+                    case 'fullmodel':
+                        return BOUNDSTYLE_FULL;
+                    case 'lite':
+                        return BOUNDSTYLE_LITE;
                     case 'vca':
                         return BOUNDSTYLE_VCA;
                     case 'nonvca':
@@ -69,6 +67,8 @@ function initStatewideMap () {
                         return BOUNDSTYLE_VBM;
                     case 'butte':
                         return BOUNDSTYLE_BUTTE;
+                    // case 'inprogress':
+                    //     return BOUNDSTYLE_INPROGRESS;
                     default:
                         // console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for styling map`);
                         return BOUNDSTYLE_DEFAULT;  // not known, so punt with this and the error message
@@ -85,15 +85,12 @@ function initStatewideMap () {
                 let message = 'Modeling Update in Progress';
                 if (countyinfo) {
                     switch (countyinfo.profile) {
-                        // case 'fullmodel':
-                        //     message = 'Suggested Voting Locations';
-                        //     break;
+                        case 'fullmodel':
+                            message = 'Suggested Voting Locations';
+                            break;
                         case 'lite':
                             message = 'Community-Level Demographic and Voter Data';
                             break;
-                        // case 'inprogress':
-                        //     message = 'Modeling Update in Progress';
-                        //     break;
                         case 'vca':
                             message = "Voter's Choice Act County";
                             break;
@@ -106,6 +103,9 @@ function initStatewideMap () {
                         case 'butte':
                             message = "No Location Modeling Due to Recent Population Changes";
                             break;
+                        // case 'inprogress':
+                        //     message = 'Modeling Update in Progress';
+                        //     break;
                         // default:
                         //     console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for creating tooltip`);
                         //     message = 'Unknown status';

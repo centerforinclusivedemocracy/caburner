@@ -1,18 +1,18 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358833490,2005.0,post_office,Corcoran Post Office,-119.56096,36.10023
-1,358833506,2005.0,post_office,Kettleman City Post Office,-119.95986,36.00884
-2,368166666,2099.0,public_building,Corcoran Unified School District Office,-119.56735,36.1019
-3,368170343,2007.0,library,Corcoran Branch Kings County Library,-119.55957,36.0994
-4,368170344,2007.0,library,Kettleman City Branch Kings County Library,-119.95986,36.00801
-5,368171876,2008.0,town_hall,Corcoran City Hall,-119.55957,36.09884
-6,358833335,2005.0,post_office,Armona Post Office,-119.70874,36.31717
-7,358833353,2005.0,post_office,Lemoore Post Office,-119.78276,36.3024
-8,358833447,2005.0,post_office,Hanford Post Office,-119.64619,36.32742
-9,358833473,2005.0,post_office,Stratford Post Office,-119.82402,36.18967
-10,368167619,2009.0,courthouse,Kings County Courthouse,-119.6468,36.32801
-11,368170339,2007.0,library,Kings County Free Library,-119.65016,36.32791
-12,368170340,2007.0,library,Hanford Branch Kings County Library,-119.64568,36.32912
-13,368170341,2007.0,library,Stratford Branch Kings County Library,-119.82317,36.18947
+0,358833506,2005.0,post_office,Kettleman City Post Office,-119.95986,36.00884
+1,368170344,2007.0,library,Kettleman City Branch Kings County Library,-119.95986,36.00801
+2,358833335,2005.0,post_office,Armona Post Office,-119.70874,36.31717
+3,358833353,2005.0,post_office,Lemoore Post Office,-119.78276,36.3024
+4,358833447,2005.0,post_office,Hanford Post Office,-119.64619,36.32742
+5,358833473,2005.0,post_office,Stratford Post Office,-119.82402,36.18967
+6,358833490,2005.0,post_office,Corcoran Post Office,-119.56096,36.10023
+7,368166666,2099.0,public_building,Corcoran Unified School District Office,-119.56735,36.1019
+8,368167619,2009.0,courthouse,Kings County Courthouse,-119.6468,36.32801
+9,368170339,2007.0,library,Kings County Free Library,-119.65016,36.32791
+10,368170340,2007.0,library,Hanford Branch Kings County Library,-119.64568,36.32912
+11,368170341,2007.0,library,Stratford Branch Kings County Library,-119.82317,36.18947
+12,368170343,2007.0,library,Corcoran Branch Kings County Library,-119.55957,36.0994
+13,368171876,2008.0,town_hall,Corcoran City Hall,-119.55957,36.09884
 14,368171879,2008.0,town_hall,Hanford City Hall,-119.64687,36.3293
 15,368171880,2008.0,town_hall,Lemoore City Hall,-119.7868,36.30023
 16,358833474,2005.0,post_office,Avenal Post Office,-120.1268,36.00607

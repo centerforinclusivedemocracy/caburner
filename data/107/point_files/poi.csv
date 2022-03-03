@@ -1,5 +1,4 @@
 osm_id,code,fclass,name,lon,lat
-358791190,2082.0,school,Riverdale School,-119.51734,36.03634
 358794544,2082.0,school,West Side Union School,-119.5179,36.01662
 358839899,2082.0,school,Alpaugh Elementary School,-119.48512,35.88662
 358839900,2082.0,school,Alpaugh Junior-Senior High School,-119.48512,35.88523
@@ -75,7 +74,6 @@ osm_id,code,fclass,name,lon,lat
 358839916,2005.0,post_office,Earlimart Post Office,-119.27372,35.88468
 358839927,2005.0,post_office,Pixley Post Office,-119.29317,35.96829
 358852080,2005.0,post_office,Phillips Ranch Post Office,-119.38234,35.88801
-368170164,2007.0,library,Tipton Branch Library,-119.31043,36.06079
 368170177,2007.0,library,Pixley Branch Tulare County Library,-119.28123,35.9735
 368170178,2007.0,library,Earlimart Branch Tulare County Library,-119.26955,35.88606
 2434557440,2002.0,fire_station,Tulare County Fire Station 27 - Pixley,-119.29134,35.9724
@@ -91,6 +89,7 @@ osm_id,code,fclass,name,lon,lat
 358839891,2005.0,post_office,Tulare Post Office,-119.344,36.20869
 368170113,2007.0,library,Orosi Branch Library,-119.29044,36.54498
 368170114,2007.0,library,Dinuba Branch Library,-119.38633,36.54267
+368170164,2007.0,library,Tipton Branch Library,-119.31043,36.06079
 368170171,2007.0,library,Visalia Branch Library,-119.29404,36.33245
 368170174,2007.0,library,Kaweah Delta District Hospital Library,-119.29484,36.32801
 368170175,2007.0,library,Tulare County Law Library,-119.31539,36.32884
@@ -99,7 +98,6 @@ osm_id,code,fclass,name,lon,lat
 368171794,2008.0,town_hall,Dinuba City Hall,-119.39126,36.54605
 368171806,2008.0,town_hall,Visalia City Hall,-119.29928,36.32884
 368171807,2008.0,town_hall,Farmersville City Hall,-119.20691,36.30434
-2093085191,2007.0,library,Tulare Public Library,-119.34532,36.21307
 2166566988,2007.0,library,Ivanhoe Branch Library,-119.2165,36.39124
 358839605,2005.0,post_office,Porterville Post Office,-119.01777,36.06868
 358839929,2005.0,post_office,Poplar Post Office,-119.14344,36.05579

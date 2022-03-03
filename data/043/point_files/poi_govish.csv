@@ -1,11 +1,11 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358816394,2005.0,post_office,Fish Camp Post Office,-119.63855,37.4793
-1,358833536,2005.0,post_office,El Portal Post Office,-119.78517,37.6741
-2,358833554,2005.0,post_office,Hornitos Post Office,-120.23852,37.50244
-3,358833567,2005.0,post_office,Mariposa Post Office,-119.97061,37.48864
-4,825280010,2002.0,fire_station,Lush Meadows Fire,-119.81785,37.50376
-5,1763742092,2005.0,post_office,Wawona,-119.65748,37.5377
-6,3357109820,2002.0,fire_station,Cal Fire Madera Mariposa Merced Unit - Hornitos,-120.23871,37.50973
-7,3614345999,2002.0,fire_station,Kinsley Station 45,-119.9811,37.69628
-8,3614346000,2002.0,fire_station,McDiarmid Station 43,-120.09632,37.72069
-9,3874166601,2002.0,fire_station,Fire Station,-119.64066,37.47496
+0,358833536,2005.0,post_office,El Portal Post Office,-119.78517,37.6741
+1,3614345999,2002.0,fire_station,Kinsley Station 45,-119.9811,37.69628
+2,3614346000,2002.0,fire_station,McDiarmid Station 43,-120.09632,37.72069
+3,358833554,2005.0,post_office,Hornitos Post Office,-120.23852,37.50244
+4,3357109820,2002.0,fire_station,Cal Fire Madera Mariposa Merced Unit - Hornitos,-120.23871,37.50973
+5,358816394,2005.0,post_office,Fish Camp Post Office,-119.63855,37.4793
+6,1763742092,2005.0,post_office,Wawona,-119.65748,37.5377
+7,3874166601,2002.0,fire_station,Fire Station,-119.64066,37.47496
+8,358833567,2005.0,post_office,Mariposa Post Office,-119.97061,37.48864
+9,825280010,2002.0,fire_station,Lush Meadows Fire,-119.81785,37.50376

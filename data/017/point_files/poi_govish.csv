@@ -1,41 +1,41 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358823829,2005.0,post_office,Tahoma Post Office,-120.12878,39.06699
-1,358827551,2005.0,post_office,Cool Post Office,-121.01544,38.88906
-2,358827561,2005.0,post_office,Georgetown Post Office,-120.837,38.907
-3,358827585,2005.0,post_office,Coloma Post Office,-120.8904,38.80013
-4,358827656,2005.0,post_office,Pollock Pines Post Office,-120.59076,38.75935
-5,358827600,2005.0,post_office,Lotus Post Office,-120.90266,38.80801
-6,358827627,2005.0,post_office,El Dorado Hills Post Office,-121.06634,38.64846
-7,358827753,2005.0,post_office,Rescue Post Office,-120.95216,38.71213
-8,358827634,2005.0,post_office,Little Norway Post Office,-120.04457,38.82418
-9,358827767,2005.0,post_office,Shingle Springs Post Office,-120.93526,38.66031
-10,368171044,2099.0,public_building,El Dorado Government Center,-119.97185,38.93352
-11,358827871,2005.0,post_office,Aukum Post Office,-120.7241,38.56213
-12,358827875,2005.0,post_office,Camino Post Office,-120.67437,38.73784
-13,358827948,2005.0,post_office,Grizzly Flat Post Office,-120.52715,38.63602
-14,358828024,2005.0,post_office,Smith Flat Post Office,-120.75382,38.73379
-15,368167552,2009.0,courthouse,El Dorado County Courthouse,-120.79882,38.73101
-16,368169854,2007.0,library,El Dorado County Library,-120.8291,38.72851
-17,368169855,2007.0,library,El Dorado County Law Library,-120.79882,38.73101
-18,368169880,2007.0,library,Oakridge-Eldorado Hills Branch El Dorado County Library,-121.0705,38.68185
-19,368169881,2007.0,library,Pollock Pines Branch El Dorado County Library,-120.58798,38.7599
-20,368169883,2007.0,library,Georgetown Branch El Dorado County Library,-120.83827,38.9074
-21,1610932525,2002.0,fire_station,Rescue volunteer,-120.95191,38.71205
-22,2102097923,2002.0,fire_station,El Dorado Fire Protection Disctict,-120.85567,38.63534
-23,2428832158,2005.0,post_office,Camp Richardson Post Office,-120.03899,38.93302
-24,2480645936,2002.0,fire_station,Station 85,-121.07539,38.66802
-25,3369841094,2005.0,post_office,FedEx Office Print & Ship Services,-121.0672,38.64675
-26,3618399942,2002.0,fire_station,Sierra Springs Fire Station,-120.59492,38.71033
-27,4173064811,2002.0,fire_station,Lumberyard,-120.30922,38.54805
-28,4217828500,2005.0,post_office,United States Post Office,-119.97441,38.93357
-29,6252256779,2002.0,fire_station,,-120.83902,38.90677
-30,6709264713,2002.0,fire_station,,-120.9393,38.66714
-31,7258423161,2002.0,fire_station,South Lake Tahoe Fire Station #2,-119.9777,38.93655
-32,7261425097,2002.0,fire_station,South Lake Tahoe Fire Station #4,-119.99727,38.897
-33,7261425100,2008.0,town_hall,South Lake Tahoe City Hall,-119.99865,38.89255
-34,7261430270,2002.0,fire_station,Meyers Fire Station,-120.01954,38.84892
-35,7426765496,2005.0,post_office,Mail Boxes Etc.,-120.94184,38.79062
-36,7426765498,2005.0,post_office,Mail Boxes Etc.,-120.9374,38.79067
-37,7426765499,2005.0,post_office,Mail Boxes Etc.,-120.93266,38.78493
-38,8092637119,2009.0,courthouse,"Wedding August 21, 2021",-120.11317,39.05331
-39,8273435023,2005.0,post_office,FedEx,-119.94436,38.95482
+0,358827627,2005.0,post_office,El Dorado Hills Post Office,-121.06634,38.64846
+1,368169880,2007.0,library,Oakridge-Eldorado Hills Branch El Dorado County Library,-121.0705,38.68185
+2,2480645936,2002.0,fire_station,Station 85,-121.07539,38.66802
+3,3369841094,2005.0,post_office,FedEx Office Print & Ship Services,-121.0672,38.64675
+4,358827551,2005.0,post_office,Cool Post Office,-121.01544,38.88906
+5,358827561,2005.0,post_office,Georgetown Post Office,-120.837,38.907
+6,368169883,2007.0,library,Georgetown Branch El Dorado County Library,-120.83827,38.9074
+7,358827656,2005.0,post_office,Pollock Pines Post Office,-120.59076,38.75935
+8,3618399942,2002.0,fire_station,Sierra Springs Fire Station,-120.59492,38.71033
+9,358827585,2005.0,post_office,Coloma Post Office,-120.8904,38.80013
+10,358827600,2005.0,post_office,Lotus Post Office,-120.90266,38.80801
+11,358827753,2005.0,post_office,Rescue Post Office,-120.95216,38.71213
+12,358827767,2005.0,post_office,Shingle Springs Post Office,-120.93526,38.66031
+13,358827871,2005.0,post_office,Aukum Post Office,-120.7241,38.56213
+14,358827875,2005.0,post_office,Camino Post Office,-120.67437,38.73784
+15,358828024,2005.0,post_office,Smith Flat Post Office,-120.75382,38.73379
+16,368167552,2009.0,courthouse,El Dorado County Courthouse,-120.79882,38.73101
+17,368169854,2007.0,library,El Dorado County Library,-120.8291,38.72851
+18,368169855,2007.0,library,El Dorado County Law Library,-120.79882,38.73101
+19,1610932525,2002.0,fire_station,Rescue volunteer,-120.95191,38.71205
+20,2102097923,2002.0,fire_station,El Dorado Fire Protection Disctict,-120.85567,38.63534
+21,6252256779,2002.0,fire_station,,-120.83902,38.90677
+22,7426765496,2005.0,post_office,Mail Boxes Etc.,-120.94184,38.79062
+23,7426765498,2005.0,post_office,Mail Boxes Etc.,-120.9374,38.79067
+24,7426765499,2005.0,post_office,Mail Boxes Etc.,-120.93266,38.78493
+25,368171044,2099.0,public_building,El Dorado Government Center,-119.97185,38.93352
+26,4217828500,2005.0,post_office,United States Post Office,-119.97441,38.93357
+27,7258423161,2002.0,fire_station,South Lake Tahoe Fire Station #2,-119.9777,38.93655
+28,7261425097,2002.0,fire_station,South Lake Tahoe Fire Station #4,-119.99727,38.897
+29,7261425100,2008.0,town_hall,South Lake Tahoe City Hall,-119.99865,38.89255
+30,7261430270,2002.0,fire_station,Meyers Fire Station,-120.01954,38.84892
+31,8273435023,2005.0,post_office,FedEx,-119.94436,38.95482
+32,358827948,2005.0,post_office,Grizzly Flat Post Office,-120.52715,38.63602
+33,368169881,2007.0,library,Pollock Pines Branch El Dorado County Library,-120.58798,38.7599
+34,4173064811,2002.0,fire_station,Lumberyard,-120.30922,38.54805
+35,6709264713,2002.0,fire_station,,-120.9393,38.66714
+36,358827634,2005.0,post_office,Little Norway Post Office,-120.04457,38.82418
+37,2428832158,2005.0,post_office,Camp Richardson Post Office,-120.03899,38.93302
+38,358823829,2005.0,post_office,Tahoma Post Office,-120.12878,39.06699
+39,8092637119,2009.0,courthouse,"Wedding August 21, 2021",-120.11317,39.05331

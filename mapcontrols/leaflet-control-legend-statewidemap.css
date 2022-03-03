@@ -20,25 +20,33 @@
     border: 1px solid black;
     vertical-align: text-top;
 }
-.leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-fullmodel {
+/* .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-fullmodel {
     background-color: #fecd1b;
     opacity: 0.75;
-}
+} */
 /* .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-lite {
     background-color: #FFF6D6;
 } */
-.leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-vbm {
+.leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-lite {
+    background-color: #FFF6D6;
+    opacity: 0.65;
+}
+.leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-vca {
+    background-color: #fecd1b;
+    opacity: 0.75;
+}
+/* .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-vbm {
     background-color: #FFEE99;
 }
 .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-butte {
     background-color: #FFFAE5;
-}
-.leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-vca {
+} */
+/* .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-vca {
     background-color: #FFBF00;
-}
-.leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-nonvca {
+} */
+/* .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-nonvca {
     background-color: #FFE14C;
-}
+} */
 /* .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-inprogress {
     background-color: #DDDDDD;
     opacity: 0.75;
@@ -48,5 +56,5 @@
 } */
 .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-none {
     background-color: #DDDDDD;
-    opacity: 0.75;
+    opacity: 0.85;
 }

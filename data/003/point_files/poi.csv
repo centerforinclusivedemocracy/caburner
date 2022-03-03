@@ -1,19 +1,19 @@
 osm_id,code,fclass,name,lon,lat
-358764719,2082.0,school,Diamond Valley Elementary School,-119.80907,38.76657
 358827460,2082.0,school,Bear Valley Elementary School,-120.0388,38.46824
-358857524,2082.0,school,Woodfords High School,-119.80821,38.76615
-358857527,2082.0,school,Alpine County Early Learning Center,-119.78082,38.81
-358857529,2082.0,school,Alpine County Elementary Community Day School,-119.80732,38.76558
 3749725274,2012.0,community_centre,Perry Walther Community Center,-120.03851,38.46547
 4611258612,2303.0,cafe,Meadow Café,-120.03907,38.45905
 5921105805,2303.0,cafe,Alps Haus Cafe,-119.78012,38.695
+358764719,2082.0,school,Diamond Valley Elementary School,-119.80907,38.76657
+358857524,2082.0,school,Woodfords High School,-119.80821,38.76615
+358857527,2082.0,school,Alpine County Early Learning Center,-119.78082,38.81
+358857529,2082.0,school,Alpine County Elementary Community Day School,-119.80732,38.76558
 301896420,2007.0,library,Markleeville Library,-119.78229,38.6933
 358827462,2005.0,post_office,Markleeville Post Office,-119.78018,38.69507
 368169885,2007.0,library,Alpine County Law Library,-119.77919,38.69413
 1586561261,2002.0,fire_station,Markleeville Volunteer Fire Department,-119.79542,38.69091
 1586561764,2002.0,fire_station,Kirkwood Volunteer Fire Department,-120.07133,38.69
-1586562782,2002.0,fire_station,Woodfords Fire Station,-119.8165,38.76974
 3548140311,2001.0,police,Alpine County Sheriff's Office,-119.77907,38.69444
 3548667732,2002.0,fire_station,Markleeville Guard Station,-119.80317,38.72517
 3749725273,2007.0,library,Bear Valley Library,-120.0387,38.4659
 3749725284,2001.0,police,Bear Vally Sheriff Substation and Fire Department,-120.04174,38.46254
+1586562782,2002.0,fire_station,Woodfords Fire Station,-119.8165,38.76974

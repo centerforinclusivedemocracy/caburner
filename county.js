@@ -35,7 +35,7 @@ function initCountyInfo () {
     $('#mobile');
 
     // if there is an Out Of Order message, fill in the explanation why the county is broken
-    const $outoforder = $('#outoforder')
+    // const $outoforder = $('#outoforder')
     // if ((COUNTYINFO.outoforder) && (COUNTYINFO.vca)) {
     //     $outoforder.text(COUNTYINFO.outoforder);
     //     $outoforder.append('<br></br>');
@@ -156,7 +156,7 @@ function initDownloadModal () {
         $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
     });
 
-    COUNTYINFO.datalayers.sitingcriteria.forEach(function (layerinfo) {
+    COUNTYINFO.datalayers.voterdata.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
 
         const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
@@ -194,7 +194,7 @@ function initLayerControls () {
     const $section_sugg = $sections.filter('[data-section="suggestedareas"]');
     const $section_addl = $sections.filter('[data-section="additionalareas"]');
     const $section_all = $sections.filter('[data-section="allareas"]');
-    const $section_site = $sections.filter('[data-section="sitingcriteria"]');
+    const $section_vote = $sections.filter('[data-section="voterdata"]');
     const $section_popn = $sections.filter('[data-section="populationdata"]');
     const $section_poi = $sections.filter('[data-section="pointsofinterest"]');
 
@@ -210,9 +210,9 @@ function initLayerControls () {
         const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
         $section_all.append($cb);
     });
-    COUNTYINFO.datalayers.sitingcriteria.forEach(function (layerinfo) {
+    COUNTYINFO.datalayers.voterdata.forEach(function (layerinfo) {
         const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-        $section_site.append($cb);
+        $section_vote.append($cb);
     });
     COUNTYINFO.datalayers.populationdata.forEach(function (layerinfo) {
         if (layerinfo.id == 'prc_latino') {
@@ -295,9 +295,9 @@ function initLayerControls () {
     if (! COUNTYINFO.datalayers.allareas.length) {
         $section_all.parents('div').first().remove();
     }
-    if (! COUNTYINFO.datalayers.sitingcriteria.length) {
-        $section_site.prev('button').remove();
-        $section_site.remove();
+    if (! COUNTYINFO.datalayers.voterdata.length) {
+        $section_vote.prev('button').remove();
+        $section_vote.remove();
     }
     if (! COUNTYINFO.datalayers.populationdata.length) {
         $section_popn.prev('button').remove();

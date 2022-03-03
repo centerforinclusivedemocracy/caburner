@@ -1,168 +1,479 @@
 provider,lat,lon,num_stops_per_week,score
-City of San Luis Obispo Transit,35.27612,-120.65488,12.0,1.0
-City of San Luis Obispo Transit,35.27288,-120.64773,12.0,1.0
-City of San Luis Obispo Transit,35.26974,-120.64499,12.0,1.0
-City of San Luis Obispo Transit,35.2671,-120.64016,12.0,1.0
-City of San Luis Obispo Transit,35.2438,-120.64067,26.0,1.0
-City of San Luis Obispo Transit,35.26889,-120.65564,14.0,1.0
-City of San Luis Obispo Transit,35.25469,-120.64601,14.0,1.0
-City of San Luis Obispo Transit,35.2667,-120.6543,12.0,1.0
-City of San Luis Obispo Transit,35.269,-120.65613,12.0,1.0
-City of San Luis Obispo Transit,35.26486,-120.6525,14.0,1.0
-City of San Luis Obispo Transit,35.25359,-120.64576,12.0,1.0
-City of San Luis Obispo Transit,35.25023,-120.64389,14.0,1.0
-City of San Luis Obispo Transit,35.27465,-120.66077,12.0,1.0
-City of San Luis Obispo Transit,35.27457,-120.66052,14.0,1.0
-City of San Luis Obispo Transit,35.25797,-120.64753,14.0,1.0
-City of San Luis Obispo Transit,35.27023,-120.65672,14.0,1.0
-City of San Luis Obispo Transit,35.26276,-120.65124,12.0,1.0
-City of San Luis Obispo Transit,35.26273,-120.65087,14.0,1.0
-City of San Luis Obispo Transit,35.24725,-120.64262,26.0,1.0
-City of San Luis Obispo Transit,35.29208,-120.66135,14.0,1.0
-City of San Luis Obispo Transit,35.29133,-120.66052,12.0,1.0
-City of San Luis Obispo Transit,35.26149,-120.67813,52.0,2.0
-City of San Luis Obispo Transit,35.26312,-120.70191,26.0,1.0
-City of San Luis Obispo Transit,35.28293,-120.66243,228.0,4.0
-City of San Luis Obispo Transit,35.29438,-120.66588,12.0,1.0
-City of San Luis Obispo Transit,35.29402,-120.66618,14.0,1.0
-City of San Luis Obispo Transit,35.29394,-120.6699,31.0,1.0
-City of San Luis Obispo Transit,35.29423,-120.67702,31.0,1.0
-City of San Luis Obispo Transit,35.29421,-120.67372,31.0,1.0
-City of San Luis Obispo Transit,35.29403,-120.68208,31.0,1.0
-City of San Luis Obispo Transit,35.28265,-120.70646,14.0,1.0
-City of San Luis Obispo Transit,35.28279,-120.70654,12.0,1.0
-City of San Luis Obispo Transit,35.29426,-120.68277,19.0,1.0
-City of San Luis Obispo Transit,35.29424,-120.68443,12.0,1.0
-City of San Luis Obispo Transit,35.2942,-120.67018,31.0,1.0
-City of San Luis Obispo Transit,35.29127,-120.65304,29.0,1.0
+City of San Luis Obispo Transit,35.27612,-120.65488,18.0,1.0
+City of San Luis Obispo Transit,35.2438,-120.64067,16.0,1.0
+City of San Luis Obispo Transit,35.26889,-120.65564,16.0,1.0
+City of San Luis Obispo Transit,35.25469,-120.64601,16.0,1.0
+City of San Luis Obispo Transit,35.26486,-120.6525,16.0,1.0
+City of San Luis Obispo Transit,35.25023,-120.64389,16.0,1.0
+City of San Luis Obispo Transit,35.27457,-120.66052,16.0,1.0
+City of San Luis Obispo Transit,35.25797,-120.64753,16.0,1.0
+City of San Luis Obispo Transit,35.27023,-120.65672,16.0,1.0
+City of San Luis Obispo Transit,35.26273,-120.65087,16.0,1.0
+City of San Luis Obispo Transit,35.24725,-120.64262,16.0,1.0
+City of San Luis Obispo Transit,35.29208,-120.66135,23.0,1.0
+City of San Luis Obispo Transit,35.29133,-120.66052,18.0,1.0
+City of San Luis Obispo Transit,35.26056,-120.67913,57.0,2.0
+City of San Luis Obispo Transit,35.26149,-120.67813,57.0,2.0
+City of San Luis Obispo Transit,35.26312,-120.70191,16.0,1.0
+City of San Luis Obispo Transit,35.28293,-120.66243,226.0,4.0
+City of San Luis Obispo Transit,35.29438,-120.66588,18.0,1.0
+City of San Luis Obispo Transit,35.29402,-120.66618,23.0,1.0
+City of San Luis Obispo Transit,35.29394,-120.6699,40.0,1.0
+City of San Luis Obispo Transit,35.29423,-120.67702,41.0,1.0
+City of San Luis Obispo Transit,35.29421,-120.67372,41.0,1.0
+City of San Luis Obispo Transit,35.29403,-120.68208,40.0,1.0
+City of San Luis Obispo Transit,35.28265,-120.70646,23.0,1.0
+City of San Luis Obispo Transit,35.28279,-120.70654,18.0,1.0
+City of San Luis Obispo Transit,35.29426,-120.68277,23.0,1.0
+City of San Luis Obispo Transit,35.29424,-120.68443,18.0,1.0
+City of San Luis Obispo Transit,35.2942,-120.67018,41.0,1.0
+City of San Luis Obispo Transit,35.29127,-120.65304,35.0,1.0
 City of San Luis Obispo Transit,35.29407,-120.65301,17.0,1.0
-City of San Luis Obispo Transit,35.29431,-120.65332,19.0,1.0
-City of San Luis Obispo Transit,35.28918,-120.65239,19.0,1.0
+City of San Luis Obispo Transit,35.29431,-120.65332,23.0,1.0
+City of San Luis Obispo Transit,35.28918,-120.65239,23.0,1.0
 City of San Luis Obispo Transit,35.28941,-120.65228,17.0,1.0
-City of San Luis Obispo Transit,35.2911,-120.65338,33.0,1.0
-City of San Luis Obispo Transit,35.29817,-120.67779,19.0,1.0
+City of San Luis Obispo Transit,35.2911,-120.65338,46.0,1.0
+City of San Luis Obispo Transit,35.29817,-120.67779,23.0,1.0
 City of San Luis Obispo Transit,35.2983,-120.67775,17.0,1.0
 City of San Luis Obispo Transit,35.29831,-120.68071,17.0,1.0
 City of San Luis Obispo Transit,35.30255,-120.66758,17.0,1.0
-City of San Luis Obispo Transit,35.2672,-120.67057,14.0,1.0
-City of San Luis Obispo Transit,35.25959,-120.66867,12.0,1.0
-City of San Luis Obispo Transit,35.26484,-120.67033,12.0,1.0
-City of San Luis Obispo Transit,35.25154,-120.67101,14.0,1.0
-City of San Luis Obispo Transit,35.249,-120.67215,12.0,1.0
-City of San Luis Obispo Transit,35.25649,-120.66852,12.0,1.0
-City of San Luis Obispo Transit,35.25394,-120.66921,12.0,1.0
-City of San Luis Obispo Transit,35.25413,-120.66947,14.0,1.0
-City of San Luis Obispo Transit,35.24848,-120.6728,14.0,1.0
-City of San Luis Obispo Transit,35.27039,-120.67003,26.0,1.0
-City of San Luis Obispo Transit,35.27111,-120.67014,26.0,1.0
-City of San Luis Obispo Transit,35.2443,-120.67532,14.0,1.0
-City of San Luis Obispo Transit,35.24436,-120.67498,12.0,1.0
-City of San Luis Obispo Transit,35.27471,-120.64655,12.0,1.0
-City of San Luis Obispo Transit,35.2748,-120.64693,14.0,1.0
-City of San Luis Obispo Transit,35.2639,-120.63567,12.0,1.0
-City of San Luis Obispo Transit,35.26978,-120.64244,14.0,1.0
-City of San Luis Obispo Transit,35.27867,-120.65007,12.0,1.0
-City of San Luis Obispo Transit,35.27852,-120.6502,14.0,1.0
-City of San Luis Obispo Transit,35.28293,-120.65568,12.0,1.0
-City of San Luis Obispo Transit,35.27169,-120.64418,14.0,1.0
-City of San Luis Obispo Transit,35.30229,-120.66324,45.0,1.0
+City of San Luis Obispo Transit,35.2672,-120.67057,16.0,1.0
+City of San Luis Obispo Transit,35.25154,-120.67101,16.0,1.0
+City of San Luis Obispo Transit,35.25413,-120.66947,16.0,1.0
+City of San Luis Obispo Transit,35.24848,-120.6728,16.0,1.0
+City of San Luis Obispo Transit,35.27039,-120.67003,16.0,1.0
+City of San Luis Obispo Transit,35.27111,-120.67014,16.0,1.0
+City of San Luis Obispo Transit,35.2443,-120.67532,16.0,1.0
+City of San Luis Obispo Transit,35.2748,-120.64693,16.0,1.0
+City of San Luis Obispo Transit,35.26978,-120.64244,16.0,1.0
+City of San Luis Obispo Transit,35.27852,-120.6502,16.0,1.0
+City of San Luis Obispo Transit,35.27169,-120.64418,16.0,1.0
+City of San Luis Obispo Transit,35.30229,-120.66324,64.0,2.0
 City of San Luis Obispo Transit,35.30235,-120.66358,17.0,1.0
-City of San Luis Obispo Transit,35.26648,-120.63988,14.0,1.0
-City of San Luis Obispo Transit,35.26342,-120.64218,14.0,1.0
-City of San Luis Obispo Transit,35.26615,-120.63987,12.0,1.0
-City of San Luis Obispo Transit,35.26507,-120.64091,14.0,1.0
-City of San Luis Obispo Transit,35.25069,-120.68567,14.0,1.0
-City of San Luis Obispo Transit,35.24706,-120.68307,14.0,1.0
-City of San Luis Obispo Transit,35.26524,-120.70026,14.0,1.0
-City of San Luis Obispo Transit,35.26465,-120.69995,38.0,1.0
-City of San Luis Obispo Transit,35.26749,-120.70292,14.0,1.0
-City of San Luis Obispo Transit,35.26693,-120.7027,12.0,1.0
-City of San Luis Obispo Transit,35.252,-120.68736,12.0,1.0
-City of San Luis Obispo Transit,35.24227,-120.67797,12.0,1.0
-City of San Luis Obispo Transit,35.24248,-120.6784,14.0,1.0
-City of San Luis Obispo Transit,35.26162,-120.69641,38.0,1.0
-City of San Luis Obispo Transit,35.26244,-120.69696,40.0,1.0
-City of San Luis Obispo Transit,35.25801,-120.69175,40.0,1.0
-City of San Luis Obispo Transit,35.25761,-120.6918,38.0,1.0
-City of San Luis Obispo Transit,35.25616,-120.69065,12.0,1.0
-City of San Luis Obispo Transit,35.25976,-120.69376,40.0,1.0
-City of San Luis Obispo Transit,35.25999,-120.69443,38.0,1.0
-City of San Luis Obispo Transit,35.27393,-120.70888,14.0,1.0
-City of San Luis Obispo Transit,35.27378,-120.7091,12.0,1.0
-City of San Luis Obispo Transit,35.25932,-120.68398,26.0,1.0
-City of San Luis Obispo Transit,35.25952,-120.6841,26.0,1.0
-City of San Luis Obispo Transit,35.26429,-120.67628,26.0,1.0
-City of San Luis Obispo Transit,35.26382,-120.67639,26.0,1.0
-City of San Luis Obispo Transit,35.27498,-120.66874,26.0,1.0
-City of San Luis Obispo Transit,35.27772,-120.66432,38.0,1.0
-City of San Luis Obispo Transit,35.27917,-120.66196,40.0,1.0
-City of San Luis Obispo Transit,35.28232,-120.65668,14.0,1.0
-City of San Luis Obispo Transit,35.2804,-120.65984,40.0,1.0
-City of San Luis Obispo Transit,35.28935,-120.65273,12.0,1.0
-City of San Luis Obispo Transit,35.28578,-120.65882,12.0,1.0
-City of San Luis Obispo Transit,35.28587,-120.65895,14.0,1.0
-City of San Luis Obispo Transit,35.28931,-120.65317,14.0,1.0
-City of San Luis Obispo Transit,35.2869,-120.6572,14.0,1.0
-City of San Luis Obispo Transit,35.2868,-120.65708,12.0,1.0
-City of San Luis Obispo Transit,35.2846,-120.66083,12.0,1.0
+City of San Luis Obispo Transit,35.26648,-120.63988,16.0,1.0
+City of San Luis Obispo Transit,35.26342,-120.64218,16.0,1.0
+City of San Luis Obispo Transit,35.26507,-120.64091,16.0,1.0
+City of San Luis Obispo Transit,35.25069,-120.68567,16.0,1.0
+City of San Luis Obispo Transit,35.24706,-120.68307,16.0,1.0
+City of San Luis Obispo Transit,35.26524,-120.70026,23.0,1.0
+City of San Luis Obispo Transit,35.26465,-120.69995,34.0,1.0
+City of San Luis Obispo Transit,35.26749,-120.70292,23.0,1.0
+City of San Luis Obispo Transit,35.26693,-120.7027,18.0,1.0
+City of San Luis Obispo Transit,35.24248,-120.6784,16.0,1.0
+City of San Luis Obispo Transit,35.26162,-120.69641,34.0,1.0
+City of San Luis Obispo Transit,35.26244,-120.69696,39.0,1.0
+City of San Luis Obispo Transit,35.25801,-120.69175,39.0,1.0
+City of San Luis Obispo Transit,35.25761,-120.6918,34.0,1.0
+City of San Luis Obispo Transit,35.25976,-120.69376,39.0,1.0
+City of San Luis Obispo Transit,35.25999,-120.69443,34.0,1.0
+City of San Luis Obispo Transit,35.27393,-120.70888,23.0,1.0
+City of San Luis Obispo Transit,35.27378,-120.7091,18.0,1.0
+City of San Luis Obispo Transit,35.25932,-120.68398,34.0,1.0
+City of San Luis Obispo Transit,35.25952,-120.6841,23.0,1.0
+City of San Luis Obispo Transit,35.26429,-120.67628,23.0,1.0
+City of San Luis Obispo Transit,35.26382,-120.67639,34.0,1.0
+City of San Luis Obispo Transit,35.26116,-120.68053,23.0,1.0
+City of San Luis Obispo Transit,35.27498,-120.66874,16.0,1.0
+City of San Luis Obispo Transit,35.27772,-120.66432,16.0,1.0
+City of San Luis Obispo Transit,35.27917,-120.66196,32.0,1.0
+City of San Luis Obispo Transit,35.28232,-120.65668,16.0,1.0
+City of San Luis Obispo Transit,35.2804,-120.65984,32.0,1.0
+City of San Luis Obispo Transit,35.28935,-120.65273,18.0,1.0
+City of San Luis Obispo Transit,35.28578,-120.65882,18.0,1.0
+City of San Luis Obispo Transit,35.28587,-120.65895,23.0,1.0
+City of San Luis Obispo Transit,35.28931,-120.65317,23.0,1.0
+City of San Luis Obispo Transit,35.2869,-120.6572,23.0,1.0
+City of San Luis Obispo Transit,35.2868,-120.65708,18.0,1.0
+City of San Luis Obispo Transit,35.2846,-120.66083,18.0,1.0
 City of San Luis Obispo Transit,35.28577,-120.65495,17.0,1.0
-City of San Luis Obispo Transit,35.28599,-120.65489,19.0,1.0
+City of San Luis Obispo Transit,35.28599,-120.65489,23.0,1.0
 City of San Luis Obispo Transit,35.28714,-120.65315,17.0,1.0
-City of San Luis Obispo Transit,35.28733,-120.65318,19.0,1.0
-City of San Luis Obispo Transit,35.28359,-120.65847,31.0,1.0
+City of San Luis Obispo Transit,35.28733,-120.65318,23.0,1.0
+City of San Luis Obispo Transit,35.28359,-120.65847,23.0,1.0
 City of San Luis Obispo Transit,35.28327,-120.65863,17.0,1.0
-City of San Luis Obispo Transit,35.27861,-120.66623,38.0,1.0
-City of San Luis Obispo Transit,35.27601,-120.66389,26.0,1.0
-City of San Luis Obispo Transit,35.26141,-120.63631,14.0,1.0
-City of San Luis Obispo Transit,35.26126,-120.64317,14.0,1.0
+City of San Luis Obispo Transit,35.27861,-120.66623,16.0,1.0
+City of San Luis Obispo Transit,35.27601,-120.66389,16.0,1.0
+City of San Luis Obispo Transit,35.26133,-120.63776,16.0,1.0
+City of San Luis Obispo Transit,35.26126,-120.64317,16.0,1.0
+City of San Luis Obispo Transit,35.25878,-120.63319,16.0,1.0
 City of San Luis Obispo Transit,35.29443,-120.68357,17.0,1.0
 City of San Luis Obispo Transit,35.29791,-120.68356,17.0,1.0
 City of San Luis Obispo Transit,35.30042,-120.65749,17.0,1.0
-City of San Luis Obispo Transit,35.30026,-120.65776,19.0,1.0
-City of San Luis Obispo Transit,35.27339,-120.66787,26.0,1.0
-City of San Luis Obispo Transit,35.25605,-120.67294,14.0,1.0
-City of San Luis Obispo Transit,35.2618,-120.70069,26.0,1.0
-City of San Luis Obispo Transit,35.29271,-120.67401,50.0,2.0
-City of San Luis Obispo Transit,35.29284,-120.67747,50.0,2.0
-City of San Luis Obispo Transit,35.23926,-120.63751,26.0,1.0
-City of San Luis Obispo Transit,35.27574,-120.65634,12.0,1.0
-City of San Luis Obispo Transit,35.27528,-120.65638,14.0,1.0
-City of San Luis Obispo Transit,35.27243,-120.65607,12.0,1.0
-City of San Luis Obispo Transit,35.27258,-120.65627,14.0,1.0
-City of San Luis Obispo Transit,35.27883,-120.65652,12.0,1.0
-City of San Luis Obispo Transit,35.29311,-120.66775,17.0,1.0
-City of San Luis Obispo Transit,35.28182,-120.65917,52.0,2.0
-City of San Luis Obispo Transit,35.27751,-120.65536,12.0,1.0
-City of San Luis Obispo Transit,35.28093,-120.65859,14.0,1.0
-City of San Luis Obispo Transit,35.29155,-120.66701,19.0,1.0
+City of San Luis Obispo Transit,35.30026,-120.65776,23.0,1.0
+City of San Luis Obispo Transit,35.27339,-120.66787,16.0,1.0
+City of San Luis Obispo Transit,35.25605,-120.67294,16.0,1.0
+City of San Luis Obispo Transit,35.2618,-120.70069,16.0,1.0
+City of San Luis Obispo Transit,35.29271,-120.67401,63.0,2.0
+City of San Luis Obispo Transit,35.29284,-120.67747,63.0,2.0
+City of San Luis Obispo Transit,35.25063,-120.63374,16.0,1.0
+City of San Luis Obispo Transit,35.23934,-120.63754,16.0,1.0
+City of San Luis Obispo Transit,35.27574,-120.65634,18.0,1.0
+City of San Luis Obispo Transit,35.27528,-120.65638,23.0,1.0
+City of San Luis Obispo Transit,35.27243,-120.65607,18.0,1.0
+City of San Luis Obispo Transit,35.27258,-120.65627,23.0,1.0
+City of San Luis Obispo Transit,35.27883,-120.65652,18.0,1.0
+City of San Luis Obispo Transit,35.29311,-120.66776,17.0,1.0
+City of San Luis Obispo Transit,35.28182,-120.65917,50.0,1.0
+City of San Luis Obispo Transit,35.27751,-120.65536,18.0,1.0
+City of San Luis Obispo Transit,35.28093,-120.65859,23.0,1.0
+City of San Luis Obispo Transit,35.29155,-120.66701,23.0,1.0
 City of San Luis Obispo Transit,35.29002,-120.66666,17.0,1.0
-City of San Luis Obispo Transit,35.28945,-120.66582,19.0,1.0
-City of San Luis Obispo Transit,35.27971,-120.65745,14.0,1.0
-City of San Luis Obispo Transit,35.26942,-120.662,12.0,1.0
-City of San Luis Obispo Transit,35.26961,-120.6615,14.0,1.0
-City of San Luis Obispo Transit,35.26942,-120.65902,12.0,1.0
-City of San Luis Obispo Transit,35.2696,-120.65904,14.0,1.0
-City of San Luis Obispo Transit,35.26941,-120.66873,12.0,1.0
-City of San Luis Obispo Transit,35.26962,-120.66916,14.0,1.0
-City of San Luis Obispo Transit,35.26513,-120.64021,12.0,1.0
-City of San Luis Obispo Transit,35.26495,-120.63861,12.0,1.0
-City of San Luis Obispo Transit,35.24979,-120.63722,14.0,1.0
-City of San Luis Obispo Transit,35.2493,-120.64086,14.0,1.0
-City of San Luis Obispo Transit,35.24936,-120.64024,12.0,1.0
-City of San Luis Obispo Transit,35.25039,-120.63186,14.0,1.0
-City of San Luis Obispo Transit,35.2503,-120.62705,14.0,1.0
-Monterey-Salinas Transit,35.7525,-120.69623,20.0,1.0
-Monterey-Salinas Transit,35.63884,-120.69252,20.0,1.0
-Monterey-Salinas Transit,35.61519,-120.68232,20.0,1.0
-Monterey-Salinas Transit,35.62269,-120.68789,40.0,1.0
-Monterey-Salinas Transit,35.63955,-120.6924,20.0,1.0
-Monterey-Salinas Transit,35.61756,-120.68034,20.0,1.0
-Monterey-Salinas Transit,35.75311,-120.69601,20.0,1.0
-Monterey-Salinas Transit,35.79078,-120.74712,0.0,0.0
-Monterey-Salinas Transit,35.78795,-120.74429,0.0,0.0
-Monterey-Salinas Transit,35.78517,-120.74152,0.0,0.0
-Monterey-Salinas Transit,35.73528,-120.7529,0.0,0.0
-Monterey-Salinas Transit,35.71508,-120.76303,0.0,0.0
-Monterey-Salinas Transit,35.73526,-120.75279,0.0,0.0
-Monterey-Salinas Transit,35.55478,-120.72001,0.0,0.0
-Monterey-Salinas Transit,35.55407,-120.7139,0.0,0.0
+City of San Luis Obispo Transit,35.28945,-120.66582,23.0,1.0
+City of San Luis Obispo Transit,35.27971,-120.65745,23.0,1.0
+City of San Luis Obispo Transit,35.26942,-120.662,18.0,1.0
+City of San Luis Obispo Transit,35.26961,-120.6615,23.0,1.0
+City of San Luis Obispo Transit,35.26942,-120.65902,18.0,1.0
+City of San Luis Obispo Transit,35.2696,-120.65904,23.0,1.0
+City of San Luis Obispo Transit,35.26941,-120.66873,18.0,1.0
+City of San Luis Obispo Transit,35.26962,-120.66916,23.0,1.0
+City of San Luis Obispo Transit,35.24979,-120.63722,16.0,1.0
+City of San Luis Obispo Transit,35.2493,-120.64086,16.0,1.0
+City of San Luis Obispo Transit,35.256,-120.63828,16.0,1.0
+Monterey-Salinas Transit,35.7525,-120.69623,12.0,1.0
+Monterey-Salinas Transit,35.63884,-120.69252,12.0,1.0
+Monterey-Salinas Transit,35.61519,-120.68232,12.0,1.0
+Monterey-Salinas Transit,35.62269,-120.68789,24.0,1.0
+Monterey-Salinas Transit,35.63955,-120.6924,12.0,1.0
+Monterey-Salinas Transit,35.61756,-120.68034,12.0,1.0
+Monterey-Salinas Transit,35.75311,-120.69601,12.0,1.0
+RTA - SCT - Paso,35.11941,-120.61553,39.0,2.0
+RTA - SCT - Paso,35.11531,-120.61584,39.0,2.0
+RTA - SCT - Paso,35.11075,-120.6165,39.0,2.0
+RTA - SCT - Paso,35.10488,-120.616,39.0,2.0
+RTA - SCT - Paso,35.11251,-120.60044,39.0,2.0
+RTA - SCT - Paso,35.11262,-120.59118,39.0,2.0
+RTA - SCT - Paso,35.11701,-120.58142,39.0,2.0
+RTA - SCT - Paso,35.61503,-120.6929,23.0,1.0
+RTA - SCT - Paso,35.61539,-120.69147,23.0,1.0
+RTA - SCT - Paso,35.61713,-120.69048,45.0,2.0
+RTA - SCT - Paso,35.61944,-120.69069,45.0,2.0
+RTA - SCT - Paso,35.6225,-120.68829,51.0,2.0
+RTA - SCT - Paso,35.65134,-120.67087,23.0,1.0
+RTA - SCT - Paso,35.75251,-120.69627,15.0,1.0
+RTA - SCT - Paso,35.6187,-120.69083,46.0,2.0
+RTA - SCT - Paso,35.61583,-120.69186,22.0,1.0
+RTA - SCT - Paso,35.61489,-120.68155,22.0,1.0
+RTA - SCT - Paso,35.61568,-120.67488,22.0,1.0
+RTA - SCT - Paso,35.61566,-120.67048,22.0,1.0
+RTA - SCT - Paso,35.61273,-120.66924,22.0,1.0
+RTA - SCT - Paso,35.60677,-120.66885,22.0,1.0
+RTA - SCT - Paso,35.60518,-120.66005,22.0,1.0
+RTA - SCT - Paso,35.6053,-120.66023,22.0,1.0
+RTA - SCT - Paso,35.60643,-120.65887,22.0,1.0
+RTA - SCT - Paso,35.60842,-120.65525,22.0,1.0
+RTA - SCT - Paso,35.60843,-120.65012,22.0,1.0
+RTA - SCT - Paso,35.60855,-120.65031,22.0,1.0
+RTA - SCT - Paso,35.60822,-120.64332,22.0,1.0
+RTA - SCT - Paso,35.60806,-120.64361,22.0,1.0
+RTA - SCT - Paso,35.61043,-120.64396,22.0,1.0
+RTA - SCT - Paso,35.61581,-120.65389,22.0,1.0
+RTA - SCT - Paso,35.61664,-120.659,22.0,1.0
+RTA - SCT - Paso,35.62333,-120.66249,22.0,1.0
+RTA - SCT - Paso,35.62503,-120.6696,22.0,1.0
+RTA - SCT - Paso,35.62727,-120.67349,22.0,1.0
+RTA - SCT - Paso,35.62897,-120.6772,22.0,1.0
+RTA - SCT - Paso,35.62899,-120.68087,22.0,1.0
+RTA - SCT - Paso,35.63263,-120.6873,22.0,1.0
+RTA - SCT - Paso,35.635,-120.68747,22.0,1.0
+RTA - SCT - Paso,35.64102,-120.6883,44.0,2.0
+RTA - SCT - Paso,35.64198,-120.68742,44.0,2.0
+RTA - SCT - Paso,35.63824,-120.68796,22.0,1.0
+RTA - SCT - Paso,35.63294,-120.68749,22.0,1.0
+RTA - SCT - Paso,35.62924,-120.68718,42.0,2.0
+RTA - SCT - Paso,35.6285,-120.69146,24.0,1.0
+RTA - SCT - Paso,35.63176,-120.69173,24.0,1.0
+RTA - SCT - Paso,35.63647,-120.69215,24.0,1.0
+RTA - SCT - Paso,35.63913,-120.69156,22.0,1.0
+RTA - SCT - Paso,35.63963,-120.69239,46.0,2.0
+RTA - SCT - Paso,35.64294,-120.69266,46.0,2.0
+RTA - SCT - Paso,35.64514,-120.69286,46.0,2.0
+RTA - SCT - Paso,35.64941,-120.69449,46.0,2.0
+RTA - SCT - Paso,35.64917,-120.69338,48.0,2.0
+RTA - SCT - Paso,35.64762,-120.69326,46.0,2.0
+RTA - SCT - Paso,35.64512,-120.69302,46.0,2.0
+RTA - SCT - Paso,35.6435,-120.69292,46.0,2.0
+RTA - SCT - Paso,35.63845,-120.69249,24.0,1.0
+RTA - SCT - Paso,35.6368,-120.69236,24.0,1.0
+RTA - SCT - Paso,35.63251,-120.69198,24.0,1.0
+RTA - SCT - Paso,35.63046,-120.69183,24.0,1.0
+RTA - SCT - Paso,35.4587,-120.64261,23.0,1.0
+RTA - SCT - Paso,35.43968,-120.62778,23.0,1.0
+RTA - SCT - Paso,35.43273,-120.61415,23.0,1.0
+RTA - SCT - Paso,35.42915,-120.60642,23.0,1.0
+RTA - SCT - Paso,35.41796,-120.60447,23.0,1.0
+RTA - SCT - Paso,35.39211,-120.60712,23.0,1.0
+RTA - SCT - Paso,35.392,-120.60685,23.0,1.0
+RTA - SCT - Paso,35.38853,-120.61331,23.0,1.0
+RTA - SCT - Paso,35.41834,-120.60427,23.0,1.0
+RTA - SCT - Paso,35.42927,-120.60628,23.0,1.0
+RTA - SCT - Paso,35.43308,-120.61454,23.0,1.0
+RTA - SCT - Paso,35.4403,-120.62834,23.0,1.0
+RTA - SCT - Paso,35.44956,-120.63256,23.0,1.0
+RTA - SCT - Paso,35.44994,-120.63271,23.0,1.0
+RTA - SCT - Paso,35.45452,-120.63784,23.0,1.0
+RTA - SCT - Paso,35.45435,-120.63775,23.0,1.0
+RTA - SCT - Paso,35.45748,-120.64129,23.0,1.0
+RTA - SCT - Paso,35.46154,-120.64468,23.0,1.0
+RTA - SCT - Paso,35.46494,-120.64755,23.0,1.0
+RTA - SCT - Paso,35.46748,-120.65004,23.0,1.0
+RTA - SCT - Paso,35.47196,-120.65329,23.0,1.0
+RTA - SCT - Paso,35.47537,-120.65475,23.0,1.0
+RTA - SCT - Paso,35.48036,-120.65799,23.0,1.0
+RTA - SCT - Paso,35.48499,-120.66308,23.0,1.0
+RTA - SCT - Paso,35.48914,-120.66483,47.0,2.0
+RTA - SCT - Paso,35.48965,-120.67074,23.0,1.0
+RTA - SCT - Paso,35.49079,-120.67305,23.0,1.0
+RTA - SCT - Paso,35.49553,-120.67961,23.0,1.0
+RTA - SCT - Paso,35.49984,-120.68352,23.0,1.0
+RTA - SCT - Paso,35.50223,-120.68706,23.0,1.0
+RTA - SCT - Paso,35.50752,-120.69305,23.0,1.0
+RTA - SCT - Paso,35.51333,-120.69737,23.0,1.0
+RTA - SCT - Paso,35.55419,-120.71389,47.0,2.0
+RTA - SCT - Paso,35.5872,-120.69715,23.0,1.0
+RTA - SCT - Paso,35.58708,-120.69686,23.0,1.0
+RTA - SCT - Paso,35.58392,-120.69683,23.0,1.0
+RTA - SCT - Paso,35.5761,-120.69788,23.0,1.0
+RTA - SCT - Paso,35.36646,-120.84451,77.0,2.0
+RTA - SCT - Paso,35.4289,-120.88136,13.0,1.0
+RTA - SCT - Paso,35.44429,-120.89503,13.0,1.0
+RTA - SCT - Paso,35.44592,-120.89823,13.0,1.0
+RTA - SCT - Paso,35.36165,-120.82468,25.0,1.0
+RTA - SCT - Paso,35.36204,-120.82424,26.0,1.0
+RTA - SCT - Paso,35.32992,-120.82669,32.0,1.0
+RTA - SCT - Paso,35.33001,-120.82707,51.0,2.0
+RTA - SCT - Paso,35.32646,-120.83109,32.0,1.0
+RTA - SCT - Paso,35.3206,-120.83111,32.0,1.0
+RTA - SCT - Paso,35.31484,-120.83227,32.0,1.0
+RTA - SCT - Paso,35.31183,-120.83229,32.0,1.0
+RTA - SCT - Paso,35.31191,-120.83607,32.0,1.0
+RTA - SCT - Paso,35.31308,-120.84478,32.0,1.0
+RTA - SCT - Paso,35.31818,-120.84481,32.0,1.0
+RTA - SCT - Paso,35.32063,-120.83585,32.0,1.0
+RTA - SCT - Paso,35.32604,-120.83538,32.0,1.0
+RTA - SCT - Paso,35.32832,-120.84088,32.0,1.0
+RTA - SCT - Paso,35.32996,-120.83499,32.0,1.0
+RTA - SCT - Paso,35.30231,-120.66358,3.0,1.0
+RTA - SCT - Paso,35.30232,-120.66321,10.0,1.0
+RTA - SCT - Paso,35.30027,-120.65767,9.0,1.0
+RTA - SCT - Paso,35.3004,-120.65752,2.0,1.0
+RTA - SCT - Paso,35.29156,-120.66701,27.0,1.0
+RTA - SCT - Paso,35.64112,-120.6927,46.0,2.0
+RTA - SCT - Paso,35.6271,-120.69154,24.0,1.0
+RTA - SCT - Paso,35.62528,-120.69117,24.0,1.0
+RTA - SCT - Paso,35.62482,-120.69134,24.0,1.0
+RTA - SCT - Paso,35.62146,-120.68987,46.0,2.0
+RTA - SCT - Paso,35.62881,-120.68085,22.0,1.0
+RTA - SCT - Paso,35.62746,-120.67414,22.0,1.0
+RTA - SCT - Paso,35.62451,-120.66826,22.0,1.0
+RTA - SCT - Paso,35.62306,-120.66233,22.0,1.0
+RTA - SCT - Paso,35.61936,-120.65929,22.0,1.0
+RTA - SCT - Paso,35.61565,-120.6586,22.0,1.0
+RTA - SCT - Paso,35.61573,-120.65318,22.0,1.0
+RTA - SCT - Paso,35.61355,-120.65025,22.0,1.0
+RTA - SCT - Paso,35.61125,-120.6444,22.0,1.0
+RTA - SCT - Paso,35.60853,-120.65623,22.0,1.0
+RTA - SCT - Paso,35.60689,-120.65912,22.0,1.0
+RTA - SCT - Paso,35.60649,-120.66843,22.0,1.0
+RTA - SCT - Paso,35.61587,-120.67072,22.0,1.0
+RTA - SCT - Paso,35.52407,-120.7036,23.0,1.0
+RTA - SCT - Paso,35.52032,-120.70314,23.0,1.0
+RTA - SCT - Paso,35.52024,-120.70292,23.0,1.0
+RTA - SCT - Paso,35.5129,-120.69741,23.0,1.0
+RTA - SCT - Paso,35.50687,-120.69269,23.0,1.0
+RTA - SCT - Paso,35.50198,-120.68714,23.0,1.0
+RTA - SCT - Paso,35.49956,-120.68355,23.0,1.0
+RTA - SCT - Paso,35.49755,-120.68166,23.0,1.0
+RTA - SCT - Paso,35.49058,-120.67305,23.0,1.0
+RTA - SCT - Paso,35.48883,-120.66955,23.0,1.0
+RTA - SCT - Paso,35.48471,-120.66309,23.0,1.0
+RTA - SCT - Paso,35.48005,-120.65808,23.0,1.0
+RTA - SCT - Paso,35.47586,-120.65532,23.0,1.0
+RTA - SCT - Paso,35.47283,-120.65392,23.0,1.0
+RTA - SCT - Paso,35.46748,-120.65039,23.0,1.0
+RTA - SCT - Paso,35.46446,-120.64747,23.0,1.0
+RTA - SCT - Paso,35.46169,-120.64512,23.0,1.0
+RTA - SCT - Paso,35.29409,-120.65301,2.0,1.0
+RTA - SCT - Paso,35.29429,-120.65328,8.0,1.0
+RTA - SCT - Paso,35.29108,-120.65334,8.0,1.0
+RTA - SCT - Paso,35.12072,-120.58588,120.0,3.0
+RTA - SCT - Paso,35.11886,-120.59128,36.0,2.0
+RTA - SCT - Paso,35.11893,-120.59441,36.0,2.0
+RTA - SCT - Paso,35.12067,-120.60081,36.0,2.0
+RTA - SCT - Paso,35.121,-120.60722,36.0,2.0
+RTA - SCT - Paso,35.12119,-120.61183,75.0,2.0
+RTA - SCT - Paso,35.12137,-120.61559,90.0,2.0
+RTA - SCT - Paso,35.12177,-120.62384,36.0,2.0
+RTA - SCT - Paso,35.12199,-120.62859,36.0,2.0
+RTA - SCT - Paso,35.12415,-120.63072,36.0,2.0
+RTA - SCT - Paso,35.12391,-120.63081,36.0,2.0
+RTA - SCT - Paso,35.12172,-120.6273,36.0,2.0
+RTA - SCT - Paso,35.1215,-120.62285,36.0,2.0
+RTA - SCT - Paso,35.12116,-120.61574,89.0,2.0
+RTA - SCT - Paso,35.12098,-120.61195,50.0,2.0
+RTA - SCT - Paso,35.1208,-120.60823,36.0,2.0
+RTA - SCT - Paso,35.1205,-120.60179,36.0,2.0
+RTA - SCT - Paso,35.11855,-120.59341,36.0,2.0
+RTA - SCT - Paso,35.12201,-120.58203,50.0,2.0
+RTA - SCT - Paso,35.12114,-120.57768,39.0,2.0
+RTA - SCT - Paso,35.12423,-120.5772,36.0,2.0
+RTA - SCT - Paso,35.12197,-120.58242,39.0,2.0
+RTA - SCT - Paso,35.12276,-120.58981,85.0,2.0
+RTA - SCT - Paso,35.12179,-120.60923,39.0,2.0
+RTA - SCT - Paso,35.11965,-120.60937,39.0,2.0
+RTA - SCT - Paso,35.10426,-120.60054,15.0,1.0
+RTA - SCT - Paso,35.09822,-120.6021,15.0,1.0
+RTA - SCT - Paso,35.09824,-120.60893,15.0,1.0
+RTA - SCT - Paso,35.10166,-120.61581,54.0,2.0
+RTA - SCT - Paso,35.12262,-120.62001,185.0,4.0
+RTA - SCT - Paso,35.13413,-120.63566,36.0,2.0
+RTA - SCT - Paso,35.1285,-120.63195,36.0,2.0
+RTA - SCT - Paso,35.1347,-120.63654,36.0,2.0
+RTA - SCT - Paso,35.14055,-120.64114,36.0,2.0
+RTA - SCT - Paso,35.13975,-120.64046,36.0,2.0
+RTA - SCT - Paso,35.14358,-120.644,36.0,2.0
+RTA - SCT - Paso,35.14537,-120.64489,36.0,2.0
+RTA - SCT - Paso,35.14058,-120.63889,36.0,2.0
+RTA - SCT - Paso,35.1409,-120.63897,36.0,2.0
+RTA - SCT - Paso,35.14372,-120.64212,36.0,2.0
+RTA - SCT - Paso,35.14721,-120.64603,36.0,2.0
+RTA - SCT - Paso,35.14957,-120.65174,36.0,2.0
+RTA - SCT - Paso,35.16302,-120.6862,36.0,2.0
+RTA - SCT - Paso,35.15967,-120.67744,36.0,2.0
+RTA - SCT - Paso,35.1588,-120.67525,36.0,2.0
+RTA - SCT - Paso,35.15523,-120.66607,36.0,2.0
+RTA - SCT - Paso,35.1538,-120.6606,36.0,2.0
+RTA - SCT - Paso,35.15701,-120.66859,36.0,2.0
+RTA - SCT - Paso,35.16185,-120.68069,36.0,2.0
+RTA - SCT - Paso,35.13731,-120.62104,36.0,2.0
+RTA - SCT - Paso,35.13708,-120.61473,36.0,2.0
+RTA - SCT - Paso,35.13414,-120.60642,36.0,2.0
+RTA - SCT - Paso,35.12246,-120.58502,36.0,2.0
+RTA - SCT - Paso,35.12389,-120.59034,36.0,2.0
+RTA - SCT - Paso,35.13026,-120.60482,75.0,2.0
+RTA - SCT - Paso,35.13432,-120.60646,36.0,2.0
+RTA - SCT - Paso,35.1372,-120.61472,36.0,2.0
+RTA - SCT - Paso,35.13743,-120.62139,36.0,2.0
+RTA - SCT - Paso,35.18142,-120.7039,17.0,1.0
+RTA - SCT - Paso,35.18067,-120.73581,17.0,1.0
+RTA - SCT - Paso,35.17228,-120.75654,17.0,1.0
+RTA - SCT - Paso,35.18063,-120.7355,17.0,1.0
+RTA - SCT - Paso,35.44988,-120.90545,13.0,1.0
+RTA - SCT - Paso,35.55034,-121.07264,13.0,1.0
+RTA - SCT - Paso,35.55036,-121.0724,13.0,1.0
+RTA - SCT - Paso,35.55129,-121.0801,13.0,1.0
+RTA - SCT - Paso,35.55092,-121.08004,13.0,1.0
+RTA - SCT - Paso,35.55618,-121.08276,13.0,1.0
+RTA - SCT - Paso,35.55718,-121.08216,13.0,1.0
+RTA - SCT - Paso,35.558,-121.08071,13.0,1.0
+RTA - SCT - Paso,35.56374,-121.08253,13.0,1.0
+RTA - SCT - Paso,35.56362,-121.08263,13.0,1.0
+RTA - SCT - Paso,35.56328,-121.08569,13.0,1.0
+RTA - SCT - Paso,35.56331,-121.08614,13.0,1.0
+RTA - SCT - Paso,35.56294,-121.09206,13.0,1.0
+RTA - SCT - Paso,35.56281,-121.09208,13.0,1.0
+RTA - SCT - Paso,35.56466,-121.09639,13.0,1.0
+RTA - SCT - Paso,35.56483,-121.09639,13.0,1.0
+RTA - SCT - Paso,35.56796,-121.1009,13.0,1.0
+RTA - SCT - Paso,35.56719,-121.10009,13.0,1.0
+RTA - SCT - Paso,35.56893,-121.10493,13.0,1.0
+RTA - SCT - Paso,35.5688,-121.10488,13.0,1.0
+RTA - SCT - Paso,35.57209,-121.11224,13.0,1.0
+RTA - SCT - Paso,35.57228,-121.11248,13.0,1.0
+RTA - SCT - Paso,35.57762,-121.11514,13.0,1.0
+RTA - SCT - Paso,35.57866,-121.11598,13.0,1.0
+RTA - SCT - Paso,35.58348,-121.12056,13.0,1.0
+RTA - SCT - Paso,35.58464,-121.12114,13.0,1.0
+RTA - SCT - Paso,35.61302,-121.14365,20.0,1.0
+RTA - SCT - Paso,35.65039,-121.18659,12.0,1.0
+RTA - SCT - Paso,35.6124,-121.14397,13.0,1.0
+RTA - SCT - Paso,35.44979,-120.90651,13.0,1.0
+RTA - SCT - Paso,35.44596,-120.89872,13.0,1.0
+RTA - SCT - Paso,35.44381,-120.8943,13.0,1.0
+RTA - SCT - Paso,35.42921,-120.88184,13.0,1.0
+RTA - SCT - Paso,35.39326,-120.86052,13.0,1.0
+RTA - SCT - Paso,35.13858,-120.62991,58.0,2.0
+RTA - SCT - Paso,35.27043,-120.67005,22.0,1.0
+RTA - SCT - Paso,35.27796,-120.66393,23.0,1.0
+RTA - SCT - Paso,35.27106,-120.67013,23.0,1.0
+RTA - SCT - Paso,35.25638,-120.66882,23.0,1.0
+RTA - SCT - Paso,35.05229,-120.4864,23.0,1.0
+RTA - SCT - Paso,35.04381,-120.4771,23.0,1.0
+RTA - SCT - Paso,35.03965,-120.48052,23.0,1.0
+RTA - SCT - Paso,35.03962,-120.48035,22.0,1.0
+RTA - SCT - Paso,35.04405,-120.47708,22.0,1.0
+RTA - SCT - Paso,35.05244,-120.48629,22.0,1.0
+RTA - SCT - Paso,35.24441,-120.67508,22.0,1.0
+RTA - SCT - Paso,35.25639,-120.66856,22.0,1.0
+RTA - SCT - Paso,35.28266,-120.66203,146.0,3.0
+RTA - SCT - Paso,35.2956,-120.66894,27.0,1.0
+RTA - SCT - Paso,35.32314,-120.69501,51.0,2.0
+RTA - SCT - Paso,35.3248,-120.74441,2.0,1.0
+RTA - SCT - Paso,35.32061,-120.71675,51.0,2.0
+RTA - SCT - Paso,35.29304,-120.66771,30.0,1.0
+RTA - SCT - Paso,35.12806,-120.59658,125.0,3.0
+RTA - SCT - Paso,35.55481,-120.71999,46.0,2.0
+RTA - SCT - Paso,35.61291,-120.66908,22.0,1.0
+RTA - SCT - Paso,35.61508,-120.6825,22.0,1.0
+RTA - SCT - Paso,35.60795,-120.64693,22.0,1.0
+RTA - SCT - Paso,35.60803,-120.64694,22.0,1.0
+RTA - SCT - Paso,35.61982,-120.6591,22.0,1.0
+RTA - SCT - Paso,35.38216,-120.63085,23.0,1.0
+RTA - SCT - Paso,35.55287,-120.71306,23.0,1.0
+RTA - SCT - Paso,35.29025,-120.64972,3.0,1.0
+RTA - SCT - Paso,35.38872,-120.61326,23.0,1.0
+RTA - SCT - Paso,35.29199,-120.6476,24.0,1.0
+RTA - SCT - Paso,35.28954,-120.65086,24.0,1.0
+RTA - SCT - Paso,35.29139,-120.65305,2.0,1.0
+RTA - SCT - Paso,35.62242,-120.68807,92.0,2.0
+RTA - SCT - Paso,35.24453,-120.67527,23.0,1.0
+RTA - SCT - Paso,35.13627,-120.62646,190.0,4.0
+RTA - SCT - Paso,35.07177,-120.51357,23.0,1.0
+RTA - SCT - Paso,35.03602,-120.48318,22.0,1.0
+RTA - SCT - Paso,35.12112,-120.58186,22.0,1.0
+RTA - SCT - Paso,35.22178,-120.69183,22.0,1.0
+RTA - SCT - Paso,35.12179,-120.58609,23.0,1.0
+RTA - SCT - Paso,35.36696,-120.83719,51.0,2.0
+RTA - SCT - Paso,35.44978,-120.91795,13.0,1.0
+RTA - SCT - Paso,35.42118,-120.87727,13.0,1.0
+RTA - SCT - Paso,35.5508,-121.07095,13.0,1.0
+RTA - SCT - Paso,35.55479,-120.71118,23.0,1.0
+RTA - SCT - Paso,35.52579,-120.70473,23.0,1.0
+RTA - SCT - Paso,35.55562,-120.71145,24.0,1.0
+RTA - SCT - Paso,35.63363,-120.68639,20.0,1.0
+RTA - SCT - Paso,35.18558,-120.70305,17.0,1.0
+RTA - SCT - Paso,35.10459,-120.62479,54.0,2.0
+RTA - SCT - Paso,35.10423,-120.61578,15.0,1.0
+RTA - SCT - Paso,35.13753,-120.62467,37.0,2.0
+RTA - SCT - Paso,35.2819,-120.65925,2.0,1.0
+RTA - SCT - Paso,35.2907,-120.66712,28.0,1.0
+RTA - SCT - Paso,35.27845,-120.66607,23.0,1.0
+RTA - SCT - Paso,35.13659,-120.62746,34.0,2.0
+RTA - SCT - Paso,35.18192,-120.70408,17.0,1.0
+RTA - SCT - Paso,35.18531,-120.70334,17.0,1.0
+RTA - SCT - Paso,35.1826,-120.72326,17.0,1.0
+RTA - SCT - Paso,35.17904,-120.73883,17.0,1.0
+RTA - SCT - Paso,35.10408,-120.61094,39.0,2.0
+RTA - SCT - Paso,35.09808,-120.60869,39.0,2.0
+RTA - SCT - Paso,35.09808,-120.60152,39.0,2.0
+RTA - SCT - Paso,35.10667,-120.60047,39.0,2.0
+RTA - SCT - Paso,35.12519,-120.60889,39.0,2.0
+RTA - SCT - Paso,35.12141,-120.60897,14.0,1.0
+RTA - SCT - Paso,35.12469,-120.60875,14.0,1.0
+RTA - SCT - Paso,35.1195,-120.57707,14.0,1.0
+RTA - SCT - Paso,35.11625,-120.583,14.0,1.0
+RTA - SCT - Paso,35.11281,-120.59134,14.0,1.0
+RTA - SCT - Paso,35.11247,-120.60067,14.0,1.0
+RTA - SCT - Paso,35.10603,-120.60058,15.0,1.0
+RTA - SCT - Paso,35.10386,-120.61069,15.0,1.0
+RTA - SCT - Paso,35.10417,-120.61564,15.0,1.0
+RTA - SCT - Paso,35.11208,-120.61583,15.0,1.0
+RTA - SCT - Paso,35.11646,-120.61554,15.0,1.0
+RTA - SCT - Paso,35.32718,-120.74088,47.0,2.0
+RTA - SCT - Paso,35.41227,-120.60535,23.0,1.0
+RTA - SCT - Paso,35.13736,-120.6283,40.0,2.0
+RTA - SCT - Paso,35.61042,-121.14113,13.0,1.0
+RTA - SCT - Paso,35.58585,-121.12152,13.0,1.0
+RTA - SCT - Paso,35.40412,-120.86792,13.0,1.0
+RTA - SCT - Paso,35.739,-120.69992,7.0,1.0
+RTA - SCT - Paso,35.25404,-120.66924,22.0,1.0
+RTA - SCT - Paso,35.25412,-120.66941,23.0,1.0

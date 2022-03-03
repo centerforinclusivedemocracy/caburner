@@ -1,8 +1,13 @@
 osm_id,code,fclass,name,lon,lat
-358763812,2082.0,school,Cobb Valley School,-122.73499,38.83213
-358771325,2082.0,school,Mountain School,-122.76582,38.91157
 358830220,2082.0,school,Middletown Middle School,-122.61415,38.75518
 358830223,2082.0,school,Minnie Cannon Elementary School,-122.61304,38.75518
+358777763,2082.0,school,Lower Lake High School,-122.60837,38.91469
+358830177,2082.0,school,Lower Lake Elementary School,-122.60832,38.91629
+358830205,2082.0,school,William C Carle Continuation School,-122.60471,38.91462
+6502791186,2303.0,cafe,Catfish Coffeehouse,-122.63892,38.95079
+8931846962,2501.0,supermarket,Grocery Outlet,-122.63424,38.96274
+358763812,2082.0,school,Cobb Valley School,-122.73499,38.83213
+358771325,2082.0,school,Mountain School,-122.76582,38.91157
 358777765,2082.0,school,Clear Lake High School,-122.91638,39.05378
 358777819,2082.0,school,Upper Lake Union High School,-122.90194,39.16489
 358778659,2082.0,school,Westlake School,-122.90416,39.121
@@ -20,7 +25,3 @@ osm_id,code,fclass,name,lon,lat
 7491573503,2303.0,cafe,Howling Dog Cafe,-122.91125,39.01749
 7491573508,2303.0,cafe,Jitter Bean,-122.91232,39.01824
 8657018700,2012.0,community_centre,Lucerne Alpine Senior Center,-122.79274,39.09113
-358777763,2082.0,school,Lower Lake High School,-122.60804,38.91379
-358830177,2082.0,school,Lower Lake Elementary School,-122.60832,38.91629
-358830205,2082.0,school,William C Carle Continuation School,-122.60471,38.91462
-6502791186,2303.0,cafe,Catfish Coffeehouse,-122.63892,38.95079

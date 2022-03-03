@@ -1,42 +1,4 @@
 osm_id,code,fclass,name,lon,lat
-358821350,2082.0,school,Dunsmuir High School,-122.2764,41.21015
-1882792107,2303.0,cafe,White Mountain Cafe,-122.13945,41.25356
-1883299299,2082.0,school,Golden Eagle charter School,-122.30251,41.28659
-1883299495,2303.0,cafe,Bistro 107,-122.31124,41.31265
-2634690780,2303.0,cafe,Cornerstone Cafe,-122.27204,41.21118
-2634690887,2501.0,supermarket,Thriftway,-122.27205,41.21323
-2991585259,2303.0,cafe,Yaks,-122.31364,41.31388
-3297733763,2303.0,cafe,Seven Suns Coffee,-122.30974,41.30493
-5742348321,2012.0,community_centre,Eagles Club,-122.27204,41.20872
-5772091599,2303.0,cafe,All Aboard Espresso,-122.27293,41.21574
-5938102947,2501.0,supermarket,Mount Shasta Supermarket,-122.31438,41.31563
-8860853329,2303.0,cafe,Mud Creek Café,-122.2036,41.321
-8899415822,2303.0,cafe,Savory Cafe,-122.13941,41.25338
-358800673,2082.0,school,Winema School,-121.53083,41.97654
-358821423,2082.0,school,Tulelake High School,-121.47574,41.95038
-358821425,2082.0,school,Tulelake Middle School,-121.4786,41.95516
-2726489087,2501.0,supermarket,Jocks supermarket,-121.47621,41.9579
-358762219,2082.0,school,Bogus Elementary School,-122.36446,41.92681
-358765755,2082.0,school,Fall Creek School,-122.35752,41.98486
-358767857,2082.0,school,Hovey Gulch School,-122.35944,41.74861
-358772005,2082.0,school,Oklahoma School,-121.77639,41.91654
-358773388,2082.0,school,Red Rock School,-121.79778,41.76599
-358776422,2082.0,school,Spring School,-122.11779,41.90181
-358796878,2082.0,school,Big Springs Elementary School,-122.40724,41.62459
-358797531,2082.0,school,Delphic Elementary School,-122.56364,41.70514
-358800641,2082.0,school,Willow Creek Elementary School,-122.46796,41.84874
-358802732,2082.0,school,Oak Grove School,-122.21613,41.96514
-358805714,2082.0,school,Fall Creek School,-122.36224,41.97125
-358805752,2082.0,school,Snowden School,-122.49947,41.80403
-358809311,2082.0,school,Grenada Elementary School,-122.52474,41.64514
-358809318,2082.0,school,Montague Elementary School,-122.52169,41.72792
-358821334,2082.0,school,Butteville Union Elementary School,-122.43141,41.45737
-358821365,2082.0,school,Gazelle Elementary School,-122.52391,41.52042
-358821385,2082.0,school,Little Shasta Elementary School,-122.38807,41.71209
-358821430,2082.0,school,Weed Elementary School,-122.38085,41.42765
-358821433,2082.0,school,Weed High School,-122.37307,41.42821
-3833053349,2303.0,cafe,,-122.37907,41.39807
-4946185216,2303.0,cafe,A Slice of Heaven,-121.91847,41.96332
 358765090,2082.0,school,East Fork School,-122.71642,41.36542
 358768531,2082.0,school,Junction Elementary School,-123.49645,41.39235
 358770576,2082.0,school,Meamber School,-122.95365,41.63152
@@ -62,3 +24,43 @@ osm_id,code,fclass,name,lon,lat
 5659719974,2303.0,cafe,South Forks,-122.89558,41.46244
 6373247685,2402.0,motel,Relax Inn,-122.63879,41.7206
 8854754746,2402.0,motel,Motel Etna,-122.89545,41.45985
+358800673,2082.0,school,Winema School,-121.53083,41.97654
+358821423,2082.0,school,Tulelake High School,-121.47574,41.95038
+358821425,2082.0,school,Tulelake Middle School,-121.4786,41.95516
+2726489087,2501.0,supermarket,Jocks supermarket,-121.47621,41.9579
+358821350,2082.0,school,Dunsmuir High School,-122.2764,41.21015
+1882792107,2303.0,cafe,White Mountain Cafe,-122.13945,41.25356
+1883299299,2082.0,school,Golden Eagle charter School,-122.30251,41.28659
+1883299495,2303.0,cafe,Bistro 107,-122.31124,41.31265
+2634690780,2303.0,cafe,Cornerstone Cafe,-122.27204,41.21118
+2634690887,2501.0,supermarket,Thriftway,-122.27205,41.21323
+2991585259,2303.0,cafe,Yaks,-122.31364,41.31388
+3297733763,2303.0,cafe,Seven Suns Coffee,-122.30974,41.30493
+5742348321,2012.0,community_centre,Eagles Club,-122.27204,41.20872
+5772091599,2303.0,cafe,All Aboard Espresso,-122.27293,41.21574
+5938102947,2501.0,supermarket,Mount Shasta Supermarket,-122.31438,41.31563
+8860853329,2303.0,cafe,Mud Creek Café,-122.2036,41.321
+8899415822,2303.0,cafe,Savory Cafe,-122.13941,41.25338
+358762219,2082.0,school,Bogus Elementary School,-122.36446,41.92681
+358765755,2082.0,school,Fall Creek School,-122.35752,41.98486
+358767857,2082.0,school,Hovey Gulch School,-122.35944,41.74861
+358772005,2082.0,school,Oklahoma School,-121.77639,41.91654
+358773388,2082.0,school,Red Rock School,-121.79778,41.76599
+358776422,2082.0,school,Spring School,-122.11779,41.90181
+358796878,2082.0,school,Big Springs Elementary School,-122.40724,41.62459
+358797531,2082.0,school,Delphic Elementary School,-122.56364,41.70514
+358800641,2082.0,school,Willow Creek Elementary School,-122.46796,41.84874
+358802732,2082.0,school,Oak Grove School,-122.21613,41.96514
+358805714,2082.0,school,Fall Creek School,-122.36224,41.97125
+358805752,2082.0,school,Snowden School,-122.49947,41.80403
+358809311,2082.0,school,Grenada Elementary School,-122.52474,41.64514
+358809318,2082.0,school,Montague Elementary School,-122.52169,41.72792
+358821334,2082.0,school,Butteville Union Elementary School,-122.43141,41.45737
+358821365,2082.0,school,Gazelle Elementary School,-122.52391,41.52042
+358821385,2082.0,school,Little Shasta Elementary School,-122.38807,41.71209
+358821430,2082.0,school,Weed Elementary School,-122.38085,41.42765
+358821433,2082.0,school,Weed High School,-122.37307,41.42821
+3833053349,2303.0,cafe,,-122.37907,41.39807
+4946185216,2303.0,cafe,A Slice of Heaven,-121.91847,41.96332
+8937058331,2012.0,community_centre,Weed Community Center,-122.38374,41.43709
+8937058351,2012.0,community_centre,Family and Community Resource Center of Weed,-122.38461,41.4245

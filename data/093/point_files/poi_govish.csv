@@ -1,45 +1,47 @@
 ,osm_id,code,fclass,name,lon,lat
 0,8857733885,2002.0,fire_station,Petersburg Ranger Station Fire Station,-123.09316,41.12296
-1,358805912,2005.0,post_office,Mount Shasta Post Office,-122.31196,41.31182
-2,358821392,2005.0,post_office,McCloud Post Office,-122.13896,41.25404
-3,368168978,2007.0,library,Dunsmuir Branch Siskiyou County Public Library,-122.27146,41.21171
-4,1991819228,2001.0,police,,-122.32217,41.31175
-5,4742207829,2002.0,fire_station,McCloud Fire Department,-122.13839,41.25859
-6,4742285521,2002.0,fire_station,McCloud Fire Department,-122.13853,41.25858
-7,4894095724,2007.0,library,McCloud library,-122.13192,41.25598
-8,5742348222,2002.0,fire_station,Dunsmuir Fire Department,-122.27261,41.2096
-9,358821427,2005.0,post_office,Tulelake Post Office,-121.47582,41.95682
-10,368168984,2007.0,library,Tulelake Branch Siskiyou County Public Library,-121.47721,41.95543
-11,368171504,2008.0,town_hall,Tulelake City Hall,-121.47555,41.95599
-12,358805901,2005.0,post_office,Edgewood Post Office,-122.4328,41.46015
-13,358805924,2005.0,post_office,Weed Post Office,-122.38505,41.42767
-14,358809313,2005.0,post_office,Grenada Post Office,-122.52363,41.64542
-15,358809320,2005.0,post_office,Montague Post Office,-122.52836,41.72764
-16,358818518,2005.0,post_office,Macdoel Post Office,-122.00723,41.82737
-17,358821346,2005.0,post_office,Dorris Post Office,-121.91973,41.96431
-18,358821367,2005.0,post_office,Gazelle Post Office,-122.52002,41.52181
-19,368168810,2007.0,library,Montague Branch Siskiyou County Public Library,-122.52641,41.72653
-20,368169030,2007.0,library,Dorris Branch Siskiyou County Public Library,-121.92112,41.9632
-21,368171328,2008.0,town_hall,Montague City Hall,-122.52641,41.72653
-22,368171480,2008.0,town_hall,Dorris City Hall,-121.91792,41.96388
-23,368171505,2008.0,town_hall,Weed City Hall,-122.37779,41.42876
-24,1683667993,2002.0,fire_station,Gazelle FIre Station,-122.52028,41.52273
-25,2726489085,2002.0,fire_station,,-121.91808,41.96321
-26,358805891,2005.0,post_office,Callahan Post Office,-122.80114,41.30959
-27,358809342,2005.0,post_office,Yreka Post Office,-122.63725,41.72931
-28,358821356,2005.0,post_office,Etna Post Office,-122.89476,41.45625
-29,358821369,2005.0,post_office,Greenview Post Office,-122.90726,41.54792
-30,358821375,2005.0,post_office,Happy Camp Post Office,-123.37594,41.79941
-31,368167476,2009.0,courthouse,Siskiyou County Courthouse,-122.63827,41.7302
-32,368168811,2007.0,library,Siskiyou County Law Library,-122.63864,41.73014
-33,368168812,2007.0,library,Siskiyou County Public Library,-122.63975,41.72653
-34,368168977,2007.0,library,Happy Camp Branch Siskiyou County Public Library,-123.38006,41.79346
-35,368168979,2007.0,library,Etna Branch Siskiyou County Public Library,-122.89476,41.45597
-36,368171327,2008.0,town_hall,Yreka City Hall,-122.63953,41.72714
-37,368171477,2008.0,town_hall,Etna City Hall,-122.89364,41.45625
-38,368171516,2099.0,public_building,Salmon River Ranger Office,-123.13615,41.29986
-39,4269212795,2005.0,post_office,United States Post Office,-123.19614,41.84214
-40,5591644316,2002.0,fire_station,Seiad Valley Fire Dept,-123.19386,41.84158
-41,8873388448,2008.0,town_hall,Sawyers Bar Town Hall,-123.13019,41.29701
-42,8873388449,2005.0,post_office,Sawyers Bar Post Office,-123.13074,41.29709
-43,8873388455,2002.0,fire_station,Klamath National Forest Sawyers Bar Fire Station,-123.13244,41.29988
+1,358805891,2005.0,post_office,Callahan Post Office,-122.80114,41.30959
+2,358809342,2005.0,post_office,Yreka Post Office,-122.63725,41.72931
+3,358821356,2005.0,post_office,Etna Post Office,-122.89476,41.45625
+4,358821369,2005.0,post_office,Greenview Post Office,-122.90726,41.54792
+5,358821375,2005.0,post_office,Happy Camp Post Office,-123.37594,41.79941
+6,368167476,2009.0,courthouse,Siskiyou County Courthouse,-122.63827,41.7302
+7,368168811,2007.0,library,Siskiyou County Law Library,-122.63864,41.73014
+8,368168812,2007.0,library,Siskiyou County Public Library,-122.63975,41.72653
+9,368168977,2007.0,library,Happy Camp Branch Siskiyou County Public Library,-123.38006,41.79346
+10,368168979,2007.0,library,Etna Branch Siskiyou County Public Library,-122.89476,41.45597
+11,368171327,2008.0,town_hall,Yreka City Hall,-122.63953,41.72714
+12,368171477,2008.0,town_hall,Etna City Hall,-122.89364,41.45625
+13,368171516,2099.0,public_building,Salmon River Ranger Office,-123.13615,41.29986
+14,4269212795,2005.0,post_office,United States Post Office,-123.19614,41.84214
+15,5591644316,2002.0,fire_station,Seiad Valley Fire Dept,-123.19386,41.84158
+16,8873388448,2008.0,town_hall,Sawyers Bar Town Hall,-123.13019,41.29701
+17,8873388449,2005.0,post_office,Sawyers Bar Post Office,-123.13074,41.29709
+18,8873388455,2002.0,fire_station,Klamath National Forest Sawyers Bar Fire Station,-123.13244,41.29988
+19,358821427,2005.0,post_office,Tulelake Post Office,-121.47582,41.95682
+20,368168984,2007.0,library,Tulelake Branch Siskiyou County Public Library,-121.47721,41.95543
+21,368171504,2008.0,town_hall,Tulelake City Hall,-121.47555,41.95599
+22,358805912,2005.0,post_office,Mount Shasta Post Office,-122.31196,41.31182
+23,358821392,2005.0,post_office,McCloud Post Office,-122.13896,41.25404
+24,368168978,2007.0,library,Dunsmuir Branch Siskiyou County Public Library,-122.27146,41.21171
+25,1991819228,2001.0,police,,-122.32217,41.31175
+26,4742207829,2002.0,fire_station,McCloud Fire Department,-122.13839,41.25859
+27,4742285521,2002.0,fire_station,McCloud Fire Department,-122.13853,41.25858
+28,4894095724,2007.0,library,McCloud library,-122.13192,41.25598
+29,5742348222,2002.0,fire_station,Dunsmuir Fire Department,-122.27261,41.2096
+30,358805901,2005.0,post_office,Edgewood Post Office,-122.4328,41.46015
+31,358805924,2005.0,post_office,Weed Post Office,-122.38505,41.42767
+32,358809313,2005.0,post_office,Grenada Post Office,-122.52363,41.64542
+33,358809320,2005.0,post_office,Montague Post Office,-122.52836,41.72764
+34,358818518,2005.0,post_office,Macdoel Post Office,-122.00723,41.82737
+35,358821346,2005.0,post_office,Dorris Post Office,-121.91973,41.96431
+36,358821367,2005.0,post_office,Gazelle Post Office,-122.52002,41.52181
+37,368168810,2007.0,library,Montague Branch Siskiyou County Public Library,-122.52641,41.72653
+38,368169030,2007.0,library,Dorris Branch Siskiyou County Public Library,-121.92112,41.9632
+39,368171328,2008.0,town_hall,Montague City Hall,-122.52641,41.72653
+40,368171480,2008.0,town_hall,Dorris City Hall,-121.91792,41.96388
+41,368171505,2008.0,town_hall,Weed City Hall,-122.37779,41.42876
+42,1683667993,2002.0,fire_station,Gazelle FIre Station,-122.52028,41.52273
+43,2726489085,2002.0,fire_station,,-121.91808,41.96321
+44,8937058325,2008.0,town_hall,Weed City Hall,-122.38443,41.42735
+45,8979508717,2007.0,library,Weed Library,-122.38542,41.42712

@@ -36,7 +36,6 @@ osm_id,code,fclass,name,lon,lat
 368169900,2007.0,library,Northern Inyo Hospital Medical Library,-118.40619,37.36172
 358816117,2005.0,post_office,Darwin Post Office,-117.59201,36.26966
 4112650009,2005.0,post_office,Death Valley Post Office,-116.86629,36.45724
-4812365373,2005.0,post_office,United States Post Office,-116.22762,35.84849
 1941034794,2005.0,post_office,,-118.28921,37.16704
 1941035616,2002.0,fire_station,,-118.28986,37.16738
 4927843769,2008.0,town_hall,,-118.29116,37.16436

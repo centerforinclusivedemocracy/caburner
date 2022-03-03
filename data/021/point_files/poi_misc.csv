@@ -3,14 +3,6 @@ osm_id,code,fclass,name,lon,lat
 358772116,2082.0,school,Ord School,-122.00803,39.64294
 358772853,2082.0,school,Plaza Elementary School,-122.10526,39.71044
 358821993,2082.0,school,Hamilton Elementary School,-122.01609,39.7396
-358762930,2082.0,school,Calumet School,-122.2336,39.79155
-358763470,2082.0,school,Cherokee School,-122.25332,39.66738
-358816915,2082.0,school,Seventh-day Adventist School,-122.24721,39.75932
-358821952,2082.0,school,Elk Creek Elementary School,-122.54124,39.60721
-358821954,2082.0,school,Elk Creek Junior-Senior High School,-122.53888,39.6071
-368172652,2012.0,community_centre,Carnegie Community Center,-122.19332,39.74488
-1948095180,2303.0,cafe,Dutch Bros. Coffee,-122.20203,39.74963
-5436516324,2303.0,cafe,Starbucks,-122.20475,39.74858
 358763830,2082.0,school,Codora School,-122.03109,39.45044
 358768560,2082.0,school,Kanawha School,-122.24971,39.52433
 358769285,2082.0,school,Liberty School,-122.23943,39.40738
@@ -19,3 +11,11 @@ osm_id,code,fclass,name,lon,lat
 1411768357,2501.0,supermarket,Sani Market,-122.19425,39.51509
 1419409473,2303.0,cafe,Starbucks,-122.21247,39.5264
 1884349116,2303.0,cafe,Nancy's Cafe,-122.2177,39.52189
+358762930,2082.0,school,Calumet School,-122.2336,39.79155
+358763470,2082.0,school,Cherokee School,-122.25332,39.66738
+358816915,2082.0,school,Seventh-day Adventist School,-122.24721,39.75932
+358821952,2082.0,school,Elk Creek Elementary School,-122.54124,39.60721
+358821954,2082.0,school,Elk Creek Junior-Senior High School,-122.53888,39.6071
+368172652,2012.0,community_centre,Carnegie Community Center,-122.19332,39.74488
+1948095180,2303.0,cafe,Dutch Bros. Coffee,-122.20203,39.74963
+5436516324,2303.0,cafe,Starbucks,-122.20475,39.74858

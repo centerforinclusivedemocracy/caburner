@@ -1,6 +1,10 @@
 provider,lat,lon,num_stops_per_week,score
 Alcatraz Cruises (Hornblower),37.87294,-122.45545,103,4.0
+Alcatraz Cruises (Hornblower),37.8688,-122.43522,79,3.0
+Alcatraz Cruises (Hornblower),37.85664,-122.47828,28,2.0
 Alcatraz Cruises (Hornblower),37.87294,-122.45545,103,4.0
+Alcatraz Cruises (Hornblower),37.8688,-122.43522,79,3.0
+Alcatraz Cruises (Hornblower),37.85664,-122.47828,28,2.0
 Marin Transit,37.96278,-122.50201,513,4.0
 Marin Transit,37.96442,-122.50124,288,3.0
 Marin Transit,37.96789,-122.49945,288,3.0
@@ -556,5 +560,6 @@ Sonoma Marin Area Rail Transit,38.05628,-122.52387,38,1.0
 Sonoma Marin Area Rail Transit,38.12088,-122.56606,38,1.0
 Sonoma Marin Area Rail Transit,37.97196,-122.52267,38,1.0
 Golden Gate Ferry,37.94532,-122.50874,34,2.0
+Golden Gate Ferry,37.8564,-122.47825,28,2.0
 Golden Gate Ferry,37.87277,-122.45593,4,1.0
 Sonoma County Airport Express,37.97109,-122.52267,50,1.0

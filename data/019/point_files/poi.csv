@@ -1,95 +1,141 @@
 osm_id,code,fclass,name,lon,lat
-358762685,2082.0,school,Bullard High School,-119.80987,36.81717
-358760876,2082.0,school,Alta Elementary School,-119.39818,36.61078
-358764437,2082.0,school,Dailey Elementary School,-119.81126,36.77856
-358763310,2082.0,school,Centennial Elementary School,-119.7607,36.78828
-358764619,2082.0,school,Del Mar Elementary School,-119.79431,36.793
-358766807,2082.0,school,Granville School,-119.58291,36.73551
-358763951,2501.0,supermarket,Kearney Palms Shopping Mall,-119.80153,36.73134
-358764018,2082.0,school,Conejo Middle School,-119.71375,36.51884
-358764024,2082.0,school,Confucius School,-119.80376,36.72356
-358765711,2082.0,school,Fairmount Union School,-119.56569,36.78051
-358766034,2082.0,school,Fort Miller Middle School,-119.79515,36.7855
-358766140,2082.0,school,Franklin School,-119.61041,36.51828
-358767101,2082.0,school,Fresno Adult School,-119.8107,36.77162
-358766239,2082.0,school,Fremont Middle School,-119.67903,36.63273
-358766289,2082.0,school,Fresno High School,-119.80515,36.76773
-358766295,2082.0,school,Fresno Union Academy,-119.82098,36.74995
-358766424,2082.0,school,James Garfield Elementary School,-119.60874,36.57162
-358768610,2082.0,school,Kelso Village School,-119.83709,36.73884
 358768653,2082.0,school,Kerman Union High School (Former Site),-120.06099,36.77217
-358768845,2082.0,school,La Fayette School,-119.79098,36.77578
-358768039,2082.0,school,Indianola Elementary School,-119.58235,36.59106
-358768118,2082.0,school,Edison Computech School,-119.80514,36.71689
-358768205,2082.0,school,Andrew Jackson Elementary School,-119.6143,36.58439
-358768293,2082.0,school,Heartland High School,-119.61902,36.56967
-358768302,2082.0,school,Jefferson Elementary School,-119.77848,36.74523
-358769669,2082.0,school,Lone Star Elementary School,-119.6818,36.69856
-358771260,2082.0,school,Mount Olive School,-119.37068,36.61828
-358770234,2082.0,school,Marshall Elementary School,-119.67379,36.63556
-358771363,2082.0,school,Muir Elementary School,-119.80681,36.75523
-358773461,2084.0,college,Reedley College,-119.4616,36.60745
-358772235,2082.0,school,Our Lady of Victory School,-119.83015,36.77606
-358773730,2082.0,school,Roeding Elementary School,-119.82515,36.78606
-358773762,2082.0,school,Roosevelt High School,-119.75348,36.74217
-358773785,2082.0,school,Roosevelt School,-119.60847,36.57662
-358774066,2082.0,school,Sacred Heart School,-119.75292,36.77078
-358774178,2082.0,school,Saint Helens School,-119.7332,36.75023
-358774431,2082.0,school,Saint Therese School,-119.80042,36.76217
-358774218,2082.0,school,Saint Johns School,-119.78292,36.74106
-358775439,2082.0,school,Smith Mountain School,-119.37623,36.58884
-358778270,2082.0,school,Walnut School,-119.60986,36.61273
 358776803,2082.0,school,Sun Empire School,-120.08766,36.77356
 358776849,2082.0,school,Sunset School,-120.13211,36.76911
-358776868,2082.0,school,Sunshine School,-119.77876,36.74412
-358777074,2082.0,school,Tarpey Elementary School,-119.71014,36.80217
-358777144,2082.0,school,Tenaya Middle School,-119.81376,36.82412
-358777566,2082.0,school,Turner Elementary School,-119.71764,36.75523
+358833911,2082.0,school,Firebaugh-Las Deltas Adult Education School,-120.44597,36.84666
+358833926,2082.0,school,Mendota Continuation High School,-120.39066,36.75467
+358833935,2082.0,school,Riverview Alternative School,-120.44609,36.84662
+358834008,2082.0,school,Kerman Adult School,-120.0611,36.72355
+2948075108,2501.0,supermarket,Star Super Market,-120.388,36.75205
+2948076184,2501.0,supermarket,Garcia's Market,-120.3877,36.74857
+358765711,2082.0,school,Fairmount Union School,-119.56569,36.78051
+358766807,2082.0,school,Granville School,-119.58291,36.73551
 358796668,2082.0,school,Auberry School,-119.56486,37.03106
-358779175,2082.0,school,Wishon Elementary School,-119.7607,36.77467
+358833912,2082.0,school,Foothill Middle School,-119.49097,37.06606
+2835978675,2402.0,motel,,-119.24685,36.74083
+2956894515,2303.0,cafe,,-119.31968,37.10631
+3549410925,2402.0,motel,Elliot House Bed & Breakfast,-119.31977,37.10995
+3549410958,2402.0,motel,The Village Suites,-119.32018,37.11061
+4698196090,2402.0,motel,,-119.56282,36.7094
+358763951,2501.0,supermarket,Kearney Palms Shopping Mall,-119.80153,36.73134
+358764024,2082.0,school,Confucius School,-119.80376,36.72356
+358764437,2082.0,school,Dailey Elementary School,-119.81126,36.77856
+358766289,2082.0,school,Fresno High School,-119.80515,36.76773
+358766295,2082.0,school,Fresno Union Academy,-119.82098,36.74995
+358767101,2082.0,school,Fresno Adult School,-119.8107,36.77162
+358768118,2082.0,school,Edison Computech School,-119.80514,36.71689
+358768302,2082.0,school,Jefferson Elementary School,-119.77848,36.74523
+358768610,2082.0,school,Kelso Village School,-119.83709,36.73884
+358768845,2082.0,school,La Fayette School,-119.79098,36.77578
+358771363,2082.0,school,Muir Elementary School,-119.80681,36.75523
+358772235,2082.0,school,Our Lady of Victory School,-119.83015,36.77606
+358774218,2082.0,school,Saint Johns School,-119.78292,36.74106
+358774431,2082.0,school,Saint Therese School,-119.80042,36.76217
+358776868,2082.0,school,Sunshine School,-119.77876,36.74412
+358833807,2082.0,school,Addams Elementary School,-119.78656,36.76908
+358833858,2082.0,school,Ryan Preparatory Seminary,-119.77959,36.76439
+358834050,2082.0,school,California School of Professional Psychology,-119.79042,36.73967
+358834064,2082.0,school,Emerson School,-119.77987,36.72856
+1716873244,2402.0,motel,,-119.84114,36.7725
+1737981188,2402.0,motel,Econo Lodge North Parkway Drive,-119.82517,36.74885
+1755119755,2303.0,cafe,Fresno Brewing Company,-119.79321,36.73644
+1755119758,2303.0,cafe,Fulton Kabob L,-119.79285,36.73615
+1755119768,2303.0,cafe,Parsley Cafe,-119.79317,36.7364
+2693034905,2303.0,cafe,Raizana Teas,-119.79434,36.73819
+2784724426,2303.0,cafe,Starbucks,-119.78668,36.78007
+2948125574,2303.0,cafe,Rolinda Cafe,-119.9565,36.73569
+3146681807,2501.0,supermarket,Grocery Outlet,-119.78151,36.73973
+3994763762,2303.0,cafe,Starbucks,-119.78519,36.73579
+6392077592,2303.0,cafe,Valparaiso Cafe & Roastery,-119.78592,36.73193
+6392085433,2303.0,cafe,Starbucks,-119.7839,36.73222
+402286732,2303.0,cafe,Port of Sus,-119.86205,36.80771
+2699043111,2501.0,supermarket,Savemart Supermarket,-119.88104,36.83636
+2699043112,2303.0,cafe,Starbucks,-119.87931,36.83479
+4551369991,2303.0,cafe,Starbucks,-119.91868,36.83471
+2527019243,2402.0,motel,,-120.62633,36.63994
+358815009,2082.0,school,Garfield School (Original),-119.71153,36.86689
+626135667,2082.0,school,Granite Ridge Intermediate School,-119.73455,36.88956
+626135668,2082.0,school,Clovis North High School,-119.73295,36.88963
+4987015121,2501.0,supermarket,Lassens Natural Food & Vitamins,-119.77801,36.87329
+5087505112,2501.0,supermarket,Grocery Outlet,-119.74014,36.86537
+358764018,2082.0,school,Conejo Middle School,-119.71375,36.51884
+358766140,2082.0,school,Franklin School,-119.61041,36.51828
+358766239,2082.0,school,Fremont Middle School,-119.67903,36.63273
+358766424,2082.0,school,James Garfield Elementary School,-119.60874,36.57162
+358768039,2082.0,school,Indianola Elementary School,-119.58235,36.59106
+358768205,2082.0,school,Andrew Jackson Elementary School,-119.6143,36.58439
+358768293,2082.0,school,Heartland High School,-119.61902,36.56967
+358770234,2082.0,school,Marshall Elementary School,-119.67379,36.63556
+358773785,2082.0,school,Roosevelt School,-119.60847,36.57662
+358778270,2082.0,school,Walnut School,-119.60986,36.61273
 358780612,2082.0,school,Bender Union School,-119.95764,36.44884
 358785029,2082.0,school,Grant School,-119.7443,36.43134
 358787272,2082.0,school,Laguna School,-119.78652,36.41689
-358797251,2082.0,school,Chawanakee School Number One,-119.32318,37.20384
-358797254,2082.0,school,Chawanakee School,-119.39596,37.14773
-358798835,2082.0,school,Miramonte Elementary School,-119.05455,36.6905
-358794596,2082.0,school,Westside School,-120.14292,36.39995
-358815009,2082.0,school,Garfield School (Original),-119.71153,36.86689
-358833066,2082.0,school,Clovis Adult School,-119.68986,36.83421
-358833074,2082.0,school,Gateway High School,-119.68734,36.83676
-358833111,2082.0,school,Gymnastic Academy,-119.69868,36.78833
-358833121,2082.0,school,Miramonte Elementary School,-119.6873,36.79063
-358833133,2082.0,school,California Christian College,-119.73257,36.76721
-358833143,2082.0,school,Mickey Cox Elementary School,-119.67361,36.8308
-358833160,2082.0,school,Phillips Junior College Fresno Campus,-119.72598,36.77023
-358833170,2082.0,school,Valley Christian School,-119.70653,36.81544
-358833807,2082.0,school,Addams Elementary School,-119.78656,36.76908
-358833917,2082.0,school,Ginsburg Physically and Educationally Handicapped School,-119.80931,36.79439
-358833921,2082.0,school,Kastner Intermediate School,-119.77296,36.84918
-358833926,2082.0,school,Mendota Continuation High School,-120.39066,36.75467
-358833935,2082.0,school,Riverview Alternative School,-120.44609,36.84662
 358833985,2082.0,school,Easton Continuation High School,-119.7957,36.6505
-358834008,2082.0,school,Kerman Adult School,-120.0611,36.72355
-358834024,2082.0,school,Rowell Elementary School,-119.76653,36.74634
-358834050,2082.0,school,California School of Professional Psychology,-119.79042,36.73967
-358834064,2082.0,school,Emerson School,-119.77987,36.72856
-358834105,2082.0,school,Juvenile Hall School,-119.75875,36.73467
 358834258,2082.0,school,Fowler High School,-119.67208,36.63273
-358834263,2082.0,school,Malaga Elementary School,-119.73236,36.68051
 358834283,2082.0,school,Del Rey Elementary School,-119.59819,36.65689
 358834363,2082.0,school,Cathedral Christian School,-119.61013,36.58245
 358834396,2082.0,school,Kingsburg Joint Alternative Education School,-119.55244,36.51408
 358834406,2082.0,school,Oasis Continuation School,-119.55272,36.51436
 358834413,2082.0,school,Selma Adult School,-119.61763,36.58162
 358834423,2082.0,school,Assembly of God School,-119.84875,36.43078
+358834514,2082.0,school,Oak View Continuation High School,-119.68208,36.43523
+2376640021,2402.0,motel,Villager Inn,-119.61356,36.563
+3483479949,2501.0,supermarket,Mr. G's Country Store,-119.8316,36.54296
+6557460172,2082.0,school,Pacific Union Elementary School,-119.75348,36.60109
+358794596,2082.0,school,Westside School,-120.14292,36.39995
 358834440,2082.0,school,Coalinga High School,-120.36237,36.1444
 358834450,2082.0,school,Coalinga-Huron Adult School,-120.36121,36.15006
 358834462,2082.0,school,Cowell Child Development Center,-120.3585,36.15042
+2651172761,2501.0,supermarket,Save Mart,-120.36066,36.13603
+2651175675,2402.0,motel,,-120.35811,36.13808
+358798835,2082.0,school,Miramonte Elementary School,-119.05455,36.6905
+3892262742,2303.0,cafe,Hume 'n Beans,-118.91206,36.78703
+6422021587,2303.0,cafe,,-119.17098,36.75425
+358769669,2082.0,school,Lone Star Elementary School,-119.6818,36.69856
+358773762,2082.0,school,Roosevelt High School,-119.75348,36.74217
+358774066,2082.0,school,Sacred Heart School,-119.75292,36.77078
+358774178,2082.0,school,Saint Helens School,-119.7332,36.75023
+358777566,2082.0,school,Turner Elementary School,-119.71764,36.75523
+358779175,2082.0,school,Wishon Elementary School,-119.7607,36.77467
+358833133,2082.0,school,California Christian College,-119.73257,36.76721
+358833160,2082.0,school,Phillips Junior College Fresno Campus,-119.72598,36.77023
+358834024,2082.0,school,Rowell Elementary School,-119.76653,36.74634
+358834105,2082.0,school,Juvenile Hall School,-119.75875,36.73467
+358834263,2082.0,school,Malaga Elementary School,-119.73236,36.68051
+358858242,2082.0,school,Alliant International University,-119.72171,36.76679
+368167508,2014.0,arts_centre,Tenri Cultural Center,-119.69958,36.72884
+1918053663,2501.0,supermarket,El Super,-119.771,36.74231
+2277852329,2501.0,supermarket,Save Mart,-119.69605,36.7369
+3671054038,2082.0,school,C.L. McLane High,-119.75638,36.77468
+4077386453,2402.0,motel,Piccadilly Inn Express,-119.72178,36.76579
+4633455258,2501.0,supermarket,Win Co,-119.7197,36.73333
+4633455263,2501.0,supermarket,Vallarta,-119.73499,36.72964
+4664760803,2501.0,supermarket,Cell Pros,-119.71799,36.73629
+5400759017,2303.0,cafe,Test cafe1,-119.69361,36.72561
+358760876,2082.0,school,Alta Elementary School,-119.39818,36.61078
+358771260,2082.0,school,Mount Olive School,-119.37068,36.61828
+358773461,2084.0,college,Reedley College,-119.4616,36.60745
+358775439,2082.0,school,Smith Mountain School,-119.37623,36.58884
 358834494,2082.0,school,Kings Canyon Adult School,-119.45568,36.60245
 358834495,2082.0,school,Kings Canyon Mountain View School,-119.45235,36.60384
-358834514,2082.0,school,Oak View Continuation High School,-119.68208,36.43523
 358834524,2082.0,school,Reedley High School,-119.45571,36.60235
-358833858,2082.0,school,Ryan Preparatory Seminary,-119.77959,36.76439
+6456309423,2110.0,hospital,Adventist Health Reedley - Birth Center,-119.45365,36.60873
+358797251,2082.0,school,Chawanakee School Number One,-119.32318,37.20384
+358797254,2082.0,school,Chawanakee School,-119.39596,37.14773
+358762685,2082.0,school,Bullard High School,-119.80987,36.81717
+358763310,2082.0,school,Centennial Elementary School,-119.7607,36.78828
+358764619,2082.0,school,Del Mar Elementary School,-119.79431,36.793
+358766034,2082.0,school,Fort Miller Middle School,-119.79515,36.7855
+358773730,2082.0,school,Roeding Elementary School,-119.82515,36.78606
+358777074,2082.0,school,Tarpey Elementary School,-119.71014,36.80217
+358777144,2082.0,school,Tenaya Middle School,-119.81376,36.82412
+358833066,2082.0,school,Clovis Adult School,-119.68986,36.83421
+358833074,2082.0,school,Gateway High School,-119.68734,36.83676
+358833111,2082.0,school,Gymnastic Academy,-119.69868,36.78833
+358833121,2082.0,school,Miramonte Elementary School,-119.6873,36.79063
+358833143,2082.0,school,Mickey Cox Elementary School,-119.67361,36.8308
+358833170,2082.0,school,Valley Christian School,-119.70653,36.81544
 358833861,2082.0,school,Saint James Cathedral School,-119.7557,36.78717
 358833875,2082.0,school,The Learning Tree Pre-School and Day Care,-119.78209,36.81662
 358833879,2082.0,school,Fresno Christian School,-119.75375,36.78523
@@ -98,185 +144,138 @@ osm_id,code,fclass,name,lon,lat
 358833890,2082.0,school,Rata School,-119.81654,36.82412
 358833895,2082.0,school,San Joaquin College of Law,-119.69757,36.82458
 358833898,2082.0,school,West Coast Christian College,-119.75264,36.83606
-358833911,2082.0,school,Firebaugh-Las Deltas Adult Education School,-120.44597,36.84666
-358833912,2082.0,school,Foothill Middle School,-119.49097,37.06606
-358858576,2082.0,school,Maric College - Fresno,-119.70848,36.8081
-368167508,2014.0,arts_centre,Tenri Cultural Center,-119.69958,36.72884
+358833917,2082.0,school,Ginsburg Physically and Educationally Handicapped School,-119.80931,36.79439
+358833921,2082.0,school,Kastner Intermediate School,-119.77296,36.84918
 358858118,2082.0,school,University of Phoenix - Central Valley Campus,-119.78457,36.85618
-358858242,2082.0,school,Alliant International University,-119.72171,36.76679
+358858576,2082.0,school,Maric College - Fresno,-119.70848,36.8081
 368167516,2014.0,arts_centre,Clovis Art Gallery,-119.70931,36.82273
-402286732,2303.0,cafe,Port of Sus,-119.86205,36.80771
 626133754,2082.0,school,Clovis East High School,-119.64033,36.7988
 626133757,2082.0,school,Reagan Elementary School,-119.63938,36.79471
 626133779,2082.0,school,CART,-119.69895,36.78928
 626133918,2082.0,school,Garfield Elementary School,-119.71924,36.85315
-626135667,2082.0,school,Granite Ridge Intermediate School,-119.73455,36.88956
-626135668,2082.0,school,Clovis North High School,-119.73295,36.88963
 626980323,2082.0,school,Clovis Community Day School,-119.6862,36.83493
-1716873244,2402.0,motel,,-119.84114,36.7725
-1737981188,2402.0,motel,Econo Lodge North Parkway Drive,-119.82517,36.74885
-1755119755,2303.0,cafe,Fresno Brewing Company,-119.79321,36.73644
-1755119758,2303.0,cafe,Fulton Kabob L,-119.79285,36.73615
-1755119768,2303.0,cafe,Parsley Cafe,-119.79317,36.7364
-1918053663,2501.0,supermarket,El Super,-119.771,36.74231
-2277852329,2501.0,supermarket,Save Mart,-119.69605,36.7369
-2376640021,2402.0,motel,Villager Inn,-119.61356,36.563
 2653323103,2501.0,supermarket,Walmart Neighborhood Market,-119.68083,36.80713
-2527019243,2402.0,motel,,-120.62633,36.63994
-2651172761,2501.0,supermarket,Save Mart,-120.36066,36.13603
-2651175675,2402.0,motel,,-120.35811,36.13808
-2693034905,2303.0,cafe,Raizana Teas,-119.79434,36.73819
-2699043111,2501.0,supermarket,Savemart Supermarket,-119.88104,36.83636
-2699043112,2303.0,cafe,Starbucks,-119.87931,36.83479
-2784724426,2303.0,cafe,Starbucks,-119.78668,36.78007
-2835978675,2402.0,motel,,-119.24685,36.74083
-2948075108,2501.0,supermarket,Star Super Market,-120.388,36.75205
-2948076184,2501.0,supermarket,Garcia's Market,-120.3877,36.74857
-2948125574,2303.0,cafe,Rolinda Cafe,-119.9565,36.73569
-2956894515,2303.0,cafe,,-119.31968,37.10631
-3146681807,2501.0,supermarket,Grocery Outlet,-119.78151,36.73973
-3483479949,2501.0,supermarket,Mr. G's Country Store,-119.8316,36.54296
-3549410925,2402.0,motel,Elliot House Bed & Breakfast,-119.31977,37.10995
-3549410958,2402.0,motel,The Village Suites,-119.32018,37.11061
 3545960955,2303.0,cafe,Starbucks,-119.68199,36.83786
 3591036450,2303.0,cafe,Dutch Bros. Coffee,-119.72854,36.79381
-3671054038,2082.0,school,C.L. McLane High,-119.75638,36.77468
 3743513627,2303.0,cafe,Starbucks,-119.72778,36.83796
-3994763762,2303.0,cafe,Starbucks,-119.78519,36.73579
-3892262742,2303.0,cafe,Hume 'n Beans,-118.91206,36.78703
 4004486094,2501.0,supermarket,Vons,-119.68425,36.79532
 4005055083,2501.0,supermarket,SaveMart,-119.67377,36.81012
-4077386453,2402.0,motel,Piccadilly Inn Express,-119.72178,36.76579
 4063680336,2504.0,mall,River Park Shopping Center,-119.78894,36.84976
 4106086328,2303.0,cafe,Starbucks,-119.68261,36.79433
-4551369991,2303.0,cafe,Starbucks,-119.91868,36.83471
 4553174205,2082.0,school,University High School - Fresno,-119.74402,36.81016
-4633455258,2501.0,supermarket,Win Co,-119.7197,36.73333
-4633455263,2501.0,supermarket,Vallarta,-119.73499,36.72964
-4698196090,2402.0,motel,,-119.56282,36.7094
-4664760803,2501.0,supermarket,Cell Pros,-119.71799,36.73629
 4962939722,2501.0,supermarket,Sprouts Farmers Market,-119.79325,36.84483
-4987015121,2501.0,supermarket,Lassens Natural Food & Vitamins,-119.77801,36.87329
 4995716225,2501.0,supermarket,Trader Joe's,-119.72809,36.84907
-5087505112,2501.0,supermarket,Grocery Outlet,-119.74014,36.86537
 5110280021,2303.0,cafe,Butterfish California Poke,-119.78336,36.85862
 5286545810,2303.0,cafe,Starbucks,-119.72899,36.84907
-5400759017,2303.0,cafe,Test cafe1,-119.69361,36.72561
 5568515982,2501.0,supermarket,Vallarta Supermarket,-119.75261,36.7874
 5810444753,2501.0,supermarket,Whole Foods Market,-119.80568,36.8094
-6392077592,2303.0,cafe,Valparaiso Cafe & Roastery,-119.78592,36.73193
-6392085433,2303.0,cafe,Starbucks,-119.7839,36.73222
-6422021587,2303.0,cafe,,-119.17098,36.75425
-6456309423,2110.0,hospital,Adventist Health Reedley - Birth Center,-119.45365,36.60873
-6557460172,2082.0,school,Pacific Union Elementary School,-119.75348,36.60109
 6709217770,2402.0,motel,The Hotel Fresno,-119.79229,36.78593
 7341536339,2110.0,hospital,Fresno Heart & Surgical Hospital,-119.78928,36.86087
 8663571767,2501.0,supermarket,ALDI,-119.82832,36.80911
 8663633215,2501.0,supermarket,ALDI,-119.68617,36.83787
-270622781,2099.0,public_building,Ranger Station,-119.15582,37.06632
-150941004,2005.0,post_office,Piedra Post Office,-119.36494,36.82286
-358823439,2005.0,post_office,Raisin Post Office,-119.90403,36.60245
-358833915,2005.0,post_office,Friant Post Office,-119.71459,36.98467
-358833928,2005.0,post_office,Mendota Post Office,-120.37989,36.75495
-358833931,2005.0,post_office,Pinedale Post Office,-119.79126,36.84273
-358833941,2005.0,post_office,Shaver Lake Post Office,-119.32065,37.11139
-358833951,2005.0,post_office,Biola Post Office,-120.01627,36.803
-358833987,2005.0,post_office,Easton Post Office,-119.7907,36.65134
-358834016,2005.0,post_office,Kerman Post Office,-120.0596,36.72384
-358834034,2005.0,post_office,Tranquillity Post Office,-120.25377,36.64856
-358834296,2005.0,post_office,Sanger Post Office,-119.55819,36.70523
-358834303,2005.0,post_office,Caruthers Post Office,-119.83375,36.53967
-358834329,2005.0,post_office,Raisin Post Office,-119.90403,36.60078
-358834335,2005.0,post_office,San Joaquin Post Office,-120.18766,36.60856
-358834400,2005.0,post_office,Kingsburg Post Office,-119.55217,36.51381
-358834415,2005.0,post_office,Selma Post Office,-119.61291,36.56995
-358834504,2005.0,post_office,Laton Post Office,-119.68597,36.43439
-358834517,2005.0,post_office,Orange Cove Post Office,-119.31179,36.62467
-358834526,2005.0,post_office,Reedley Post Office,-119.44901,36.59773
-358834535,2005.0,post_office,Riverdale Post Office,-119.8601,36.43175
-358833901,2005.0,post_office,Auberry Post Office,-119.48624,37.07439
 358833910,2005.0,post_office,Firebaugh Post Office,-120.45539,36.85916
-368167644,2002.0,fire_station,Coalinga Fire Station,-120.36237,36.13773
-368166625,2099.0,public_building,Clovis School District Office,-119.69042,36.83689
-368167645,2002.0,fire_station,Fire Station Number 2,-119.60985,36.57606
-368169933,2007.0,library,Clovis Regional Library,-119.69486,36.82439
-368167180,2099.0,public_building,State Center Community College District Office,-119.79289,36.76892
-368171873,2008.0,town_hall,Mendota City Hall,-120.38157,36.75362
-368170303,2007.0,library,Fresno County Law Library,-119.7893,36.73717
-368170312,2007.0,library,Fresno County Free Library,-119.80959,36.80912
-368170313,2007.0,library,Community Hospitals of Central California Medical Library,-119.78431,36.743
-368170314,2007.0,library,Fresno Central Library and California History & Genealogy Room,-119.78627,36.73796
-368170318,2007.0,library,Selma Branch Fresno County Free Library,-119.6093,36.56745
-368170319,2007.0,library,Huron Branch Coalinga-Huron Library,-120.09903,36.2094
-368170320,2007.0,library,First Mennonite Church Library,-119.45485,36.5919
-368170321,2007.0,library,Reedley Branch Fresno County Free Library,-119.44929,36.59828
-368170326,2007.0,library,Kings River Community College Library,-119.45957,36.60773
-368171032,2099.0,public_building,Fresno City and County Historical Society Archives,-119.9193,36.72373
-368171874,2008.0,town_hall,Firebaugh City Hall,-120.45585,36.85954
-368171749,2008.0,town_hall,Parlier City Hall,-119.53485,36.61162
-368171750,2008.0,town_hall,Orange Cove City Hall,-119.31317,36.62467
-368171751,2008.0,town_hall,Huron City Hall,-120.10403,36.20495
-368171753,2008.0,town_hall,Reedley City Hall,-119.45318,36.59828
-368171864,2008.0,town_hall,Kingsburg City Hall,-119.55272,36.51519
-368171866,2008.0,town_hall,Selma City Hall,-119.61041,36.56745
-368171867,2008.0,town_hall,San Joaquin City Hall,-120.18543,36.60578
-368171869,2008.0,town_hall,Fowler City Hall,-119.67708,36.63023
+358833928,2005.0,post_office,Mendota Post Office,-120.37989,36.75495
+358833951,2005.0,post_office,Biola Post Office,-120.01627,36.803
+358834016,2005.0,post_office,Kerman Post Office,-120.0596,36.72384
 368171871,2008.0,town_hall,Kerman City Hall,-120.0596,36.72161
-1751617521,2001.0,police,Clovis Police Headquarters,-119.69387,36.82442
-1751618611,2002.0,fire_station,Clovis Fire Department Headquarters,-119.69342,36.82437
-1788009784,2002.0,fire_station,Fresno County Fire Department Station #72,-119.70691,36.99262
+368171873,2008.0,town_hall,Mendota City Hall,-120.38157,36.75362
+368171874,2008.0,town_hall,Firebaugh City Hall,-120.45585,36.85954
+1980804599,2002.0,fire_station,North Central FPD Station #21,-120.07678,36.72786
+1980824825,2002.0,fire_station,North Central FPD Station #23,-120.01685,36.8013
+150941004,2005.0,post_office,Piedra Post Office,-119.36494,36.82286
+358833901,2005.0,post_office,Auberry Post Office,-119.48624,37.07439
+358833941,2005.0,post_office,Shaver Lake Post Office,-119.32065,37.11139
+358834296,2005.0,post_office,Sanger Post Office,-119.55819,36.70523
 1788014847,2002.0,fire_station,Fresno County Fire Department Station #74,-119.52889,36.98886
 1788021208,2002.0,fire_station,Blasingame Fire Station,-119.44719,36.95998
 1788022004,2002.0,fire_station,CAL FIRE Fire Station,-119.22225,36.74931
-1788023883,2002.0,fire_station,CAL FIRE Fire Station,-119.17754,36.68212
 1788024326,2002.0,fire_station,CAL FIRE Fire Station,-119.38221,36.81282
-1794087110,2002.0,fire_station,Fresno County Fire Department Station #93,-120.10412,36.2046
-1794104775,2002.0,fire_station,Fresno County Fire Department Station #89,-119.78143,36.65062
-1794107488,2002.0,fire_station,Fresno County Fire Department Station #87,-119.74183,36.70582
 1794109866,2002.0,fire_station,Fresno County Fire Department Station #86,-119.57921,36.80772
-1794114301,2002.0,fire_station,Fresno County Fire Department Station #82,-119.61529,36.66357
-1794118579,2002.0,fire_station,Fresno County Fire Department Station #83,-119.58361,36.54742
-1794089588,2002.0,fire_station,Fresno County Fire Department Station #94,-120.23119,36.25411
 1794120758,2002.0,fire_station,Fresno County Fire Department Station #84,-119.555,36.73262
-1794094949,2002.0,fire_station,CAL Fire Coalinga Fire Station,-120.27321,36.1377
 1794120819,2002.0,fire_station,CAL FIRE/Fresno County Fire Department Headquarters,-119.55542,36.73256
-1794098246,2002.0,fire_station,Fresno County Fire Department Station #90,-119.83974,36.53665
-1980828460,2002.0,fire_station,Clovis Fire Department Station #1,-119.70175,36.82232
-1980830060,2002.0,fire_station,Clovis Fire Department Station #2,-119.70954,36.8057
-1980834886,2002.0,fire_station,Clovis Fire Department Station #4,-119.6727,36.80442
-1980838043,2002.0,fire_station,Clovis Fire Department Station #5,-119.66571,36.84479
-1980448826,2002.0,fire_station,Fresno Fire Department Station #1,-119.7474,36.75877
-1980451781,2002.0,fire_station,Fresno Fire Department Station #2,-119.82602,36.83931
-1980463391,2002.0,fire_station,Fresno Fire Department Station #3,-119.79771,36.73172
-1980771494,2002.0,fire_station,Fresno Fire Department Station #5,-119.78199,36.77891
-1980776732,2002.0,fire_station,Fresno Fire Department Station #7,-119.78136,36.70799
-1980779097,2002.0,fire_station,Fresno Fire Department Station #8,-119.75495,36.72799
-1980782338,2002.0,fire_station,Fresno Fire Department Station #9,-119.81626,36.77174
-1980782911,2002.0,fire_station,Fresno Fire Department Station #10,-119.70444,36.77496
-1980784090,2002.0,fire_station,Fresno Fire Department Station #11,-119.78092,36.81788
-1980785775,2002.0,fire_station,Fresno Fire Department Station #12,-119.84406,36.80446
-1980789011,2002.0,fire_station,Fresno Fire Department Station #14,-119.89008,36.82664
-1980791713,2002.0,fire_station,Fresno Fire Department Station #15,-119.69906,36.73088
-1980792065,2002.0,fire_station,Fresno Fire Department Station #16,-119.88884,36.77228
-1980792607,2002.0,fire_station,Fresno Fire Department Station #17,-119.74699,36.88878
-1980795943,2002.0,fire_station,Fresno Fire Department Station #18,-119.91428,36.822
-1980797307,2002.0,fire_station,Fresno Fire Department Station #19,-119.8492,36.74968
-1980800732,2002.0,fire_station,Fresno Fire Department Station #20,-119.80298,36.80012
-1980804599,2002.0,fire_station,North Central FPD Station #21,-120.07678,36.72786
-1980804978,2002.0,fire_station,North Central FPD Station #22,-119.92514,36.72315
-1980824825,2002.0,fire_station,North Central FPD Station #23,-120.01685,36.8013
-2277866151,2005.0,post_office,Post Office (93727),-119.70217,36.74357
-3483479950,2007.0,library,Caruthers Library,-119.83145,36.5422
-3998339376,2007.0,library,Buchanan High School Library,-119.71401,36.85881
-4622537301,2007.0,library,Mosqueda Library,-119.74292,36.72808
-4638622998,2001.0,police,Fresno Police Department South East,-119.75414,36.72662
-4961086122,2007.0,library,Woodward Park Regional Library,-119.76644,36.87156
-4962939524,2005.0,post_office,United States Post Office,-119.77091,36.85113
-5009363145,2005.0,post_office,US Post office,-118.9142,36.78725
-5436693829,2008.0,town_hall,Coalinga City Hall,-120.36197,36.13955
-5436693830,2001.0,police,Coalinga Police Department,-120.36184,36.13932
 6422020568,2007.0,library,,-119.2509,36.73859
 6422023357,2005.0,post_office,,-119.24964,36.74017
 6422023358,2099.0,public_building,,-119.25117,36.73852
 6422023359,2001.0,police,,-119.25234,36.73831
+368167180,2099.0,public_building,State Center Community College District Office,-119.79289,36.76892
+368170303,2007.0,library,Fresno County Law Library,-119.7893,36.73717
+368170313,2007.0,library,Community Hospitals of Central California Medical Library,-119.78431,36.743
+368170314,2007.0,library,Fresno Central Library and California History & Genealogy Room,-119.78627,36.73796
+368171032,2099.0,public_building,Fresno City and County Historical Society Archives,-119.9193,36.72373
+1980463391,2002.0,fire_station,Fresno Fire Department Station #3,-119.79771,36.73172
+1980771494,2002.0,fire_station,Fresno Fire Department Station #5,-119.78199,36.77891
+1980776732,2002.0,fire_station,Fresno Fire Department Station #7,-119.78136,36.70799
+1980782338,2002.0,fire_station,Fresno Fire Department Station #9,-119.81626,36.77174
+1980792065,2002.0,fire_station,Fresno Fire Department Station #16,-119.88884,36.77228
+1980797307,2002.0,fire_station,Fresno Fire Department Station #19,-119.8492,36.74968
+1980804978,2002.0,fire_station,North Central FPD Station #22,-119.92514,36.72315
+1980785775,2002.0,fire_station,Fresno Fire Department Station #12,-119.84406,36.80446
+1980789011,2002.0,fire_station,Fresno Fire Department Station #14,-119.89008,36.82664
+1980795943,2002.0,fire_station,Fresno Fire Department Station #18,-119.91428,36.822
 7929815573,2005.0,post_office,The UPS Store,-119.91012,36.83356
+358833915,2005.0,post_office,Friant Post Office,-119.71459,36.98467
+1788009784,2002.0,fire_station,Fresno County Fire Department Station #72,-119.70691,36.99262
+1980792607,2002.0,fire_station,Fresno Fire Department Station #17,-119.74699,36.88878
+4961086122,2007.0,library,Woodward Park Regional Library,-119.76644,36.87156
+358823439,2005.0,post_office,Raisin Post Office,-119.90403,36.60245
+358833987,2005.0,post_office,Easton Post Office,-119.7907,36.65134
+358834303,2005.0,post_office,Caruthers Post Office,-119.83375,36.53967
+358834329,2005.0,post_office,Raisin Post Office,-119.90403,36.60078
+358834400,2005.0,post_office,Kingsburg Post Office,-119.55217,36.51381
+358834415,2005.0,post_office,Selma Post Office,-119.61291,36.56995
+358834504,2005.0,post_office,Laton Post Office,-119.68597,36.43439
+358834535,2005.0,post_office,Riverdale Post Office,-119.8601,36.43175
+368167645,2002.0,fire_station,Fire Station Number 2,-119.60985,36.57606
+368170318,2007.0,library,Selma Branch Fresno County Free Library,-119.6093,36.56745
+368171749,2008.0,town_hall,Parlier City Hall,-119.53485,36.61162
+368171864,2008.0,town_hall,Kingsburg City Hall,-119.55272,36.51519
+368171866,2008.0,town_hall,Selma City Hall,-119.61041,36.56745
+368171869,2008.0,town_hall,Fowler City Hall,-119.67708,36.63023
+1794098246,2002.0,fire_station,Fresno County Fire Department Station #90,-119.83974,36.53665
+1794104775,2002.0,fire_station,Fresno County Fire Department Station #89,-119.78143,36.65062
+1794114301,2002.0,fire_station,Fresno County Fire Department Station #82,-119.61529,36.66357
+1794118579,2002.0,fire_station,Fresno County Fire Department Station #83,-119.58361,36.54742
+3483479950,2007.0,library,Caruthers Library,-119.83145,36.5422
+358834034,2005.0,post_office,Tranquillity Post Office,-120.25377,36.64856
+358834335,2005.0,post_office,San Joaquin Post Office,-120.18766,36.60856
+368167644,2002.0,fire_station,Coalinga Fire Station,-120.36237,36.13773
+368170319,2007.0,library,Huron Branch Coalinga-Huron Library,-120.09903,36.2094
+368171751,2008.0,town_hall,Huron City Hall,-120.10403,36.20495
+368171867,2008.0,town_hall,San Joaquin City Hall,-120.18543,36.60578
+1794087110,2002.0,fire_station,Fresno County Fire Department Station #93,-120.10412,36.2046
+1794089588,2002.0,fire_station,Fresno County Fire Department Station #94,-120.23119,36.25411
+1794094949,2002.0,fire_station,CAL Fire Coalinga Fire Station,-120.27321,36.1377
+5436693829,2008.0,town_hall,Coalinga City Hall,-120.36197,36.13955
+5436693830,2001.0,police,Coalinga Police Department,-120.36184,36.13932
+1788023883,2002.0,fire_station,CAL FIRE Fire Station,-119.17754,36.68212
+5009363145,2005.0,post_office,US Post office,-118.9142,36.78725
+1794107488,2002.0,fire_station,Fresno County Fire Department Station #87,-119.74183,36.70582
+1980448826,2002.0,fire_station,Fresno Fire Department Station #1,-119.7474,36.75877
+1980779097,2002.0,fire_station,Fresno Fire Department Station #8,-119.75495,36.72799
+1980782911,2002.0,fire_station,Fresno Fire Department Station #10,-119.70444,36.77496
+1980791713,2002.0,fire_station,Fresno Fire Department Station #15,-119.69906,36.73088
+2277866151,2005.0,post_office,Post Office (93727),-119.70217,36.74357
+4622537301,2007.0,library,Mosqueda Library,-119.74292,36.72808
+4638622998,2001.0,police,Fresno Police Department South East,-119.75414,36.72662
+358834517,2005.0,post_office,Orange Cove Post Office,-119.31179,36.62467
+358834526,2005.0,post_office,Reedley Post Office,-119.44901,36.59773
+368170320,2007.0,library,First Mennonite Church Library,-119.45485,36.5919
+368170321,2007.0,library,Reedley Branch Fresno County Free Library,-119.44929,36.59828
+368170326,2007.0,library,Kings River Community College Library,-119.45957,36.60773
+368171750,2008.0,town_hall,Orange Cove City Hall,-119.31317,36.62467
+368171753,2008.0,town_hall,Reedley City Hall,-119.45318,36.59828
+358833931,2005.0,post_office,Pinedale Post Office,-119.79126,36.84273
+368166625,2099.0,public_building,Clovis School District Office,-119.69042,36.83689
+368169933,2007.0,library,Clovis Regional Library,-119.69486,36.82439
+368170312,2007.0,library,Fresno County Free Library,-119.80959,36.80912
+1751617521,2001.0,police,Clovis Police Headquarters,-119.69387,36.82442
+1751618611,2002.0,fire_station,Clovis Fire Department Headquarters,-119.69342,36.82437
+1980451781,2002.0,fire_station,Fresno Fire Department Station #2,-119.82602,36.83931
+1980784090,2002.0,fire_station,Fresno Fire Department Station #11,-119.78092,36.81788
+1980800732,2002.0,fire_station,Fresno Fire Department Station #20,-119.80298,36.80012
+1980828460,2002.0,fire_station,Clovis Fire Department Station #1,-119.70175,36.82232
+1980830060,2002.0,fire_station,Clovis Fire Department Station #2,-119.70954,36.8057
+1980834886,2002.0,fire_station,Clovis Fire Department Station #4,-119.6727,36.80442
+1980838043,2002.0,fire_station,Clovis Fire Department Station #5,-119.66571,36.84479
+3998339376,2007.0,library,Buchanan High School Library,-119.71401,36.85881
+4962939524,2005.0,post_office,United States Post Office,-119.77091,36.85113

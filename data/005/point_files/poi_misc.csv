@@ -1,16 +1,17 @@
 osm_id,code,fclass,name,lon,lat
+358772671,2082.0,school,Pigeon Creek School,-120.75104,38.53185
+358775094,2082.0,school,Shenandoah School,-120.80438,38.52213
+358827163,2082.0,school,Pioneer Elementary School,-120.57104,38.43241
+6899127485,2303.0,cafe,Pearl’s,-120.51279,38.49163
 358760654,2082.0,school,Aetna School,-120.75382,38.33075
 358760914,2082.0,school,Amador County High School,-120.80966,38.39852
 358770779,2082.0,school,Milligan School,-120.70077,38.34797
 358771538,2082.0,school,New York Ranch School,-120.72549,38.40352
-358772671,2082.0,school,Pigeon Creek School,-120.75104,38.53185
 358773068,2082.0,school,Preston School of Industry,-120.93466,38.35964
-358775094,2082.0,school,Shenandoah School,-120.80438,38.52213
 358779044,2082.0,school,Willow Springs School,-120.91355,38.45297
 358827129,2082.0,school,Amador City School,-120.82494,38.42102
 358827132,2082.0,school,California Department of Forestry Fire Academy,-120.94525,38.36539
 358827154,2082.0,school,Ione High School (Historical),-120.93444,38.3487
-358827163,2082.0,school,Pioneer Elementary School,-120.57104,38.43241
 358827172,2082.0,school,Plymouth Elementary School,-120.85188,38.47963
 358827175,2082.0,school,Plymouth Primary School,-120.83938,38.48213
 358827191,2082.0,school,Argonaut High School,-120.7916,38.35686
@@ -21,12 +22,10 @@ osm_id,code,fclass,name,lon,lat
 358827225,2082.0,school,Sutter Creek Elementary School,-120.81077,38.39908
 358827229,2082.0,school,Sutter Creek Primary School,-120.80132,38.39519
 990538208,2303.0,cafe,Back Roads Coffee House,-120.80311,38.39402
-990550922,2501.0,supermarket,Cost Less,-120.76921,38.34288
 1923884554,2501.0,supermarket,One Stop,-120.93604,38.35266
 3245704838,2501.0,supermarket,Pokerville Market,-120.85081,38.472
 3245704839,2501.0,supermarket,Grocery Outlet,-120.77573,38.34706
 3964177105,2012.0,community_centre,Evelynn Bishop Hall,-120.9326,38.34443
 3964182698,2012.0,community_centre,VFW Hall,-120.93041,38.35167
 4748478158,2402.0,motel,Linda Vista Motel,-120.78988,38.36607
-6899127485,2303.0,cafe,Pearl’s,-120.51279,38.49163
 5921074442,2303.0,cafe,Rosebud's Cafe,-120.7736,38.34859

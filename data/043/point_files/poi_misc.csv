@@ -1,31 +1,31 @@
 osm_id,code,fclass,name,lon,lat
-358763252,2082.0,school,Catheys Valley Elementary School,-120.10157,37.42355
-358761707,2082.0,school,Ben Hur School,-119.9685,37.37133
-358763570,2082.0,school,Chowchilla School,-119.78016,37.46299
-358767819,2082.0,school,Hornitos School,-120.23546,37.49799
-358766881,2082.0,school,Green Mountain School,-119.97517,37.25772
-358768022,2082.0,school,Indian Peak School,-119.82961,37.39911
-358774908,2082.0,school,Sebastopol School,-119.89628,37.46077
-358771915,2082.0,school,Oakgrove School,-119.88748,37.37139
-358771935,2082.0,school,Oakvale School,-119.976,37.30522
-358775488,2082.0,school,Bear Valley School,-120.11713,37.56882
-358776033,2082.0,school,Quartzburg School,-120.20768,37.5341
-358799759,2082.0,school,Bear Creek School,-119.91851,37.52577
-358795338,2082.0,school,Yosemite School,-119.59085,37.74871
-358797083,2082.0,school,Bull Creek School,-120.00268,37.72798
-358799804,2082.0,school,Colorado School,-119.96906,37.5591
 358799843,2082.0,school,Greeley School,-120.13269,37.74632
 358833524,2082.0,school,Coulterville High School,-120.19602,37.71437
 358833528,2082.0,school,Coulterville-Greenley Elementary School,-120.12991,37.7466
+358797083,2082.0,school,Bull Creek School,-120.00268,37.72798
+358763252,2082.0,school,Catheys Valley Elementary School,-120.10157,37.42355
+358767819,2082.0,school,Hornitos School,-120.23546,37.49799
+358775488,2082.0,school,Bear Valley School,-120.11713,37.56882
+358776033,2082.0,school,Quartzburg School,-120.20768,37.5341
+4868818800,2303.0,cafe,The Oasis Market & Cafe,-120.09811,37.43263
+358761707,2082.0,school,Ben Hur School,-119.9685,37.37133
+358763570,2082.0,school,Chowchilla School,-119.78016,37.46299
+358766881,2082.0,school,Green Mountain School,-119.97517,37.25772
+358768022,2082.0,school,Indian Peak School,-119.82961,37.39911
+358771915,2082.0,school,Oakgrove School,-119.88748,37.37139
+358771935,2082.0,school,Oakvale School,-119.976,37.30522
+358774908,2082.0,school,Sebastopol School,-119.89628,37.46077
+358799759,2082.0,school,Bear Creek School,-119.91851,37.52577
+358799804,2082.0,school,Colorado School,-119.96906,37.5591
 358833559,2082.0,school,Mariposa Elementary School,-119.96434,37.48716
 358833563,2082.0,school,Mariposa Junior High School,-119.89822,37.47827
 358833579,2082.0,school,Spring Hill High School,-119.96254,37.4712
-4134865320,2501.0,supermarket,Half Dome Village Gift & Grocery,-119.57116,37.73763
 4178134996,2303.0,cafe,Pony Expresso,-119.97386,37.49322
 4224033638,2405.0,hostel,Yosemite Bug,-119.95109,37.57443
 4643171206,2082.0,school,Mariposa County High School,-119.96386,37.4894
 4643611997,2303.0,cafe,Deli Garden Cafe,-119.96549,37.48584
-4793638225,2303.0,cafe,Starbucks,-119.59883,37.74326
-4868818800,2303.0,cafe,The Oasis Market & Cafe,-120.09811,37.43263
 6819126484,2303.0,cafe,,-119.97213,37.4926
 7903298276,2303.0,cafe,Steves Sportsman Cafe,-119.85167,37.44979
+358795338,2082.0,school,Yosemite School,-119.59085,37.74871
+4134865320,2501.0,supermarket,Half Dome Village Gift & Grocery,-119.57116,37.73763
+4793638225,2303.0,cafe,Starbucks,-119.59883,37.74326
