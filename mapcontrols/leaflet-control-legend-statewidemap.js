@@ -12,7 +12,7 @@ L.Control.StatewideMapLegend = L.Control.extend({
 
         this.container.innerHTML = '';
         this.container.innerHTML += `<div class="legend-entry"><span class="legend-swatch legend-swatch-vca"></span> Suggested Voting Locations for Voter's Choice Act County</div>`;
-        this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-nonvca"></span> Suggested Voting Locations for Polling Place County</div>';
+        // this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-nonvca"></span> Suggested Voting Locations for Polling Place Counties</div>';
         // this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-lite"></span> Community-Level Demographic and Voter Data</div>';
         this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-vbm"></span> Vote By Mail Only County</div>';
         this.container.innerHTML += '<div class="legend-entry"><span class="legend-swatch legend-swatch-butte"></span> No Location Modeling Due to Recent Population Changes</div>';

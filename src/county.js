@@ -168,9 +168,14 @@ function initDownloadModal () {
 
     COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
-
-        const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
-        $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
+        if (layerinfo.downloadfile.includes('zip')) {
+            const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
+            $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
+        }
+        else {
+            const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (CSV)</a>`);
+            $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
+        }
     });
     {
         const $link = $(`<a href="data/crosswalk.pdf" target="_blank">Metadata Dictionary (PDF)</a>`);
@@ -236,29 +241,35 @@ function initLayerControls () {
         }
     });
     COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
-        const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"><label class="form-check-label" style="align-self: flex-start;" for="layercheckbox-${layerinfo.id}"><i class="fa fa-circle" aria-hidden="true" style="color: ${layerinfo.circle.fillColor};  align-items: flex-start;"></i>&nbsp;${layerinfo.title}</label></div>`);
-        $section_poi.append($cb);
+        if (layerinfo.id == 'precincts') {
+            const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}"><line><span>${layerinfo.title}</span></line></label></div>`);
+            $section_poi.append($cb); ; 
+        }
+        else {
+            const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"><label class="form-check-label" style="align-self: flex-start;" for="layercheckbox-${layerinfo.id}"><i class="fa fa-circle" aria-hidden="true" style="color: ${layerinfo.circle.fillColor};  align-items: flex-start;"></i>&nbsp;${layerinfo.title}</label></div>`);
+            $section_poi.append($cb);
 
-        // only include button if file exists or has data
-        var pathToFile = `data/${COUNTYINFO.countyfp}/` + layerinfo.csvfile;
-        Papa.parse(pathToFile, {
-            download: true,
-            header: true,
-            skipEmptyLines: 'greedy',
-            complete: function (results) {
-                const numrows = parseInt(results.data.length);
-                if (numrows == 0) {
+            // only include button if file exists or has data
+            var pathToFile = `data/${COUNTYINFO.countyfp}/` + layerinfo.csvfile;
+            Papa.parse(pathToFile, {
+                download: true,
+                header: true,
+                skipEmptyLines: 'greedy',
+                complete: function (results) {
+                    const numrows = parseInt(results.data.length);
+                    if (numrows == 0) {
+                        const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
+                        $dllink.remove();
+                        $cb.remove();
+                    };
+                },
+                error: function (e) {
                     const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
                     $dllink.remove();
                     $cb.remove();
-                };
-            },
-            error: function (e) {
-                const $dllink = $(`#modal-download-filedownloads li[data-layer-id="${layerinfo.id}"]`);
-                $dllink.remove();
-                $cb.remove();
-            }
-        });
+                }
+            });
+        };
     });
 
     // check-change behavior on those checkboxes, to toggle layers
@@ -866,15 +877,42 @@ function addCsvPointFileToMap (layerinfo) {
 function addCustomGeoJsonFileToMap (layerinfo) {
     // fetch the custom GeoJSON file and add it to the map, using the given style
     busySpinner(true);
+    
     $.getJSON(`data/${COUNTYINFO.countyfp}/${layerinfo.customgeojsonfile}`, function (gjdata) {
         busySpinner(false);
-
         const featuregroup = L.geoJson(gjdata, {
             style: function (feature) {
                 return layerinfo.style;  // just use the supplied layerinfo.style... for now
             },
+            pane: 'low',
+            onEachFeature: function (feature, layer) { 
+                if (layerinfo.id == 'precincts') { 
+                    layer.on('click', function (e){
+                        // fill the polygon on the map
+                        featuregroup.resetStyle();
+                        const highlightoptions = { fill: '#969696', fillOpacity: 0.2, opacity: 5, color: 'black', weight: 1, interactive: true };
+                        layer.setStyle(highlightoptions);
+                        MAP.on('click', function() {featuregroup.resetStyle();});
+                    });
+                    if ('PRECINCT_NAME' in feature.properties) {
+                        layer.bindPopup(`<b>Precinct Name</b>: ${feature.properties['PRECINCT_NAME']}<br><b>Precinct Number</b>: ${feature.properties['PRECINCT_NUM']}`);
+                    }
+                    else {
+                        layer.bindPopup(`<b>Precinct Number</b>: ${feature.properties['PRECINCT_NUM']}`);
+                    }
+                    
+                    layer.on('popupclose', function (e) {
+                        featuregroup.resetStyle();
+                    });   
+                }
+                else {
+                    if (layerinfo.popupnamefield) {
+                        layer.bindPopup(`<b>${layerinfo.popuptypetext}</b>: ${feature.properties[layerinfo.popupnamefield]}`);
+                    };
+                }; 
+            },
         });
-
+ 
         // add to the map and to the registry
         MAP.OVERLAYS[layerinfo.id] = featuregroup;
         featuregroup.addTo(MAP);

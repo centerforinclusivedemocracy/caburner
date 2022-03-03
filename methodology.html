@@ -75,7 +75,7 @@
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
     <link rel="stylesheet" href="./sitewide.css?cachebust-8a9647ef04" />
-    <script src="./sitewide.js?cachebust-5b7185781a"></script>
+    <script src="./sitewide.js?cachebust-4ef2ebfcb3"></script>
     <link rel="stylesheet" href="./methodology.css?cachebust-8be1f32d75" />
     <script src="./methodology.js?cachebust-d3156cd328"></script>
 </head>
@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="col">
       <h1 id="purpose">Purpose</h1>
       <p>
-        The Voting Location Siting Tool is designed to help California county election officials identify optimal sites for potential voting locations and vote-by-mail drop box locations, as well provide visualization of demographic and voter data at the community level.
+        The Voting Location Siting Tool is designed to help California county election officials identify optimal sites for potential voting locations and vote-by-mail drop box locations, as well as provide visualization of demographic and voter data at the community level.
       </p>
       <p>
         Please see the Siting Tool's current methodology below. For more details, see
@@ -131,6 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li>Alpine</li>
             <li>Butte</li>
             <li>Plumas</li>
+            <li>Sierra</li>
             <!-- <li>Sierra</li> -->
           </ul>
         </div>
@@ -198,10 +199,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <p id="nonregistered"><b>Percent of Eligible Voters Not Registered:</b> The percentage of voting age citizens who are not registered to vote.</p>
       <ul>
           <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election); American Community Survey 5-Year Estimate (2015-2019); Census 2020.</li>
-          <li><i>Calculation</i>: Convert voter data from the precinct to the tract level and average voter registration totals for 2020. Subtract the average number of registered voters from the citizen voting age population (CVAP). Divide by the total CVAP estimate in the tract. Where the incarcerated population is over 25% of the CVAP, use the 2015-2019 ACS estimate for non-institutionalized populations instead of CVAP.</li>
+          <li><i>Calculation</i>: Convert 2020 voter data from the precinct to the tract level. Subtract the number of registered voters per tract from the citizen voting age population (CVAP). Divide by the total CVAP estimate in the tract. Where the incarcerated population is over 25% of the CVAP, use the 2015-2019 ACS 5-year estimate for non-institutionalized populations instead of CVAP.</li>
           <li><i>Scale</i>: Census Tract</li>
           <li><i>Rationale</i>: Voting location/drop off should be proximal to communities of eligible voters who aren’t registered to vote.</li>
-          <li><i>Limitations</i>:  Imperfect conversion from precinct to tract level. The 2015-2019 ACS data is the most recent estimate for non-institutionalized populations at the tract level. Data is unavailable for some tracts.</li>
+          <li><i>Limitations</i>: Imperfect conversion from precinct to tract level. The 2015-2019 ACS data is the most recent estimate for non-institutionalized populations at the tract level. Data is unavailable for some tracts.</li>
         </ul>
       
       <p id="vehicleaccess"><b>Percent of Population with Vehicle Access:</b> The percentage of the population with access to a vehicle.</p>
@@ -505,6 +506,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><i>Limitations</i>: The accuracy of the prior voting locations used in the Tool is subject to the integrity of the data reported by counties to the Voting Information Project.</li>
           </ul>
 
+          <p id="precincts"><b>2020 General Election Precinct Boundaries:</b> 2020 General Election precincts for the state of California.</p>
+          <ul>
+            <li><i>Data sources</i>: Harvard Dataverse Voting and Election Science Team.</li>
+          </ul>
+
           <h2 id="weighting">Variable Weights</h3>
           <p>
             Variables were weighted equally with the exception of several variables that received additional weight due to being flagged as high priority. The variables that received higher weighting were voters with disabilities, voters with limited English proficiency, areas with high populations of eligible non-registered voters, areas with low VBM use for Latino and Youth voters, and areas with relatively high worker density. The variables that received the highest weight were areas with low total VBM use, areas close to public transit stops, and areas with relatively high population density.
@@ -526,6 +532,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h2 id="clipping">Water Boundaries</h3>
             <p>
               The shapefiles used for both modeling and web mapping are clipped to coastlines using the <a href="https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html" target="_blank">Census Bureau's cartographic boundary files</a> in places where the county or census tract boundary extends over the ocean or large lakes. Census tracts that are entirely made up of water are also excluded. Please note that cartographic boundaries do not necessarily match base map layers, particularly in tidal zones and areas with wetlands. 
+            </p>
+
+          <h2 id="votinglocations">Voting Location Areas</h3>
+            <p>
+              Due to the limitations of data and the need to incorporate local on-the-ground knowledge, this tool does not identify exact sites to be used. Instead, voting locations are suggested within 0.5 square mile areas, which in some cases may not visually align with the census block data used to determine that area's siting score due to differences in scale.  
             </p>
 
     </div>

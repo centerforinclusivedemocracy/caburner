@@ -1,51 +1,57 @@
 osm_id,code,fclass,name,lon,lat
-358765755,2082.0,school,Fall Creek School,-122.35752,41.98486
-358762219,2082.0,school,Bogus Elementary School,-122.36446,41.92681
-358765090,2082.0,school,East Fork School,-122.71642,41.36542
-358767857,2082.0,school,Hovey Gulch School,-122.35944,41.74861
-358768531,2082.0,school,Junction Elementary School,-123.49645,41.39235
-358770576,2082.0,school,Meamber School,-122.95365,41.63152
-358773388,2082.0,school,Red Rock School,-121.79778,41.76599
-358772005,2082.0,school,Oklahoma School,-121.77639,41.91654
-358802732,2082.0,school,Oak Grove School,-122.21613,41.96514
-358776422,2082.0,school,Spring School,-122.11779,41.90181
-358796878,2082.0,school,Big Springs Elementary School,-122.40724,41.62459
-358797531,2082.0,school,Delphic Elementary School,-122.56364,41.70514
-358798140,2082.0,school,Highland School,-122.70419,41.58098
-358799277,2082.0,school,Quartz Valley Elementary School,-122.95615,41.57708
-358802813,2082.0,school,Quartz Valley School,-122.95781,41.55736
-358799854,2082.0,school,Honolulu School,-122.73614,41.86625
-358799909,2082.0,school,Mono School,-122.72475,41.77486
-358800385,2082.0,school,Ti Bar School,-123.52839,41.52401
-358800641,2082.0,school,Willow Creek Elementary School,-122.46796,41.84874
-358800673,2082.0,school,Winema School,-121.53083,41.97654
-358805714,2082.0,school,Fall Creek School,-122.36224,41.97125
-358805752,2082.0,school,Snowden School,-122.49947,41.80403
-358809311,2082.0,school,Grenada Elementary School,-122.52474,41.64514
-358809318,2082.0,school,Montague Elementary School,-122.52169,41.72792
-358821373,2082.0,school,Happy Camp High School,-123.37812,41.79513
-358821385,2082.0,school,Little Shasta Elementary School,-122.38807,41.71209
-358821405,2082.0,school,Sawyers Bar Elementary School,-123.14088,41.30125
-358821423,2082.0,school,Tulelake High School,-121.47574,41.95038
-358821425,2082.0,school,Tulelake Middle School,-121.4786,41.95516
-358821430,2082.0,school,Weed Elementary School,-122.38085,41.42765
-358821433,2082.0,school,Weed High School,-122.37307,41.42821
-358821334,2082.0,school,Butteville Union Elementary School,-122.43141,41.45737
 358821350,2082.0,school,Dunsmuir High School,-122.2764,41.21015
-358821352,2082.0,school,Etna Elementary School,-122.89503,41.4582
-358821355,2082.0,school,Etna High School,-122.89892,41.46097
-358821358,2082.0,school,Forks Elementary School,-123.32755,41.2593
-358821365,2082.0,school,Gazelle Elementary School,-122.52391,41.52042
 1882792107,2303.0,cafe,White Mountain Cafe,-122.13945,41.25356
 1883299299,2082.0,school,Golden Eagle charter School,-122.30251,41.28659
 1883299495,2303.0,cafe,Bistro 107,-122.31124,41.31265
 2634690780,2303.0,cafe,Cornerstone Cafe,-122.27204,41.21118
 2634690887,2501.0,supermarket,Thriftway,-122.27205,41.21323
-2726489087,2501.0,supermarket,Jocks supermarket,-121.47621,41.9579
 2991585259,2303.0,cafe,Yaks,-122.31364,41.31388
 3297733763,2303.0,cafe,Seven Suns Coffee,-122.30974,41.30493
-3649738566,2501.0,supermarket,Raley's,-122.64414,41.70048
+5742348321,2012.0,community_centre,Eagles Club,-122.27204,41.20872
+5772091599,2303.0,cafe,All Aboard Espresso,-122.27293,41.21574
+5938102947,2501.0,supermarket,Mount Shasta Supermarket,-122.31438,41.31563
+8860853329,2303.0,cafe,Mud Creek Café,-122.2036,41.321
+8899415822,2303.0,cafe,Savory Cafe,-122.13941,41.25338
+358800673,2082.0,school,Winema School,-121.53083,41.97654
+358821423,2082.0,school,Tulelake High School,-121.47574,41.95038
+358821425,2082.0,school,Tulelake Middle School,-121.4786,41.95516
+2726489087,2501.0,supermarket,Jocks supermarket,-121.47621,41.9579
+358762219,2082.0,school,Bogus Elementary School,-122.36446,41.92681
+358765755,2082.0,school,Fall Creek School,-122.35752,41.98486
+358767857,2082.0,school,Hovey Gulch School,-122.35944,41.74861
+358772005,2082.0,school,Oklahoma School,-121.77639,41.91654
+358773388,2082.0,school,Red Rock School,-121.79778,41.76599
+358776422,2082.0,school,Spring School,-122.11779,41.90181
+358796878,2082.0,school,Big Springs Elementary School,-122.40724,41.62459
+358797531,2082.0,school,Delphic Elementary School,-122.56364,41.70514
+358800641,2082.0,school,Willow Creek Elementary School,-122.46796,41.84874
+358802732,2082.0,school,Oak Grove School,-122.21613,41.96514
+358805714,2082.0,school,Fall Creek School,-122.36224,41.97125
+358805752,2082.0,school,Snowden School,-122.49947,41.80403
+358809311,2082.0,school,Grenada Elementary School,-122.52474,41.64514
+358809318,2082.0,school,Montague Elementary School,-122.52169,41.72792
+358821334,2082.0,school,Butteville Union Elementary School,-122.43141,41.45737
+358821365,2082.0,school,Gazelle Elementary School,-122.52391,41.52042
+358821385,2082.0,school,Little Shasta Elementary School,-122.38807,41.71209
+358821430,2082.0,school,Weed Elementary School,-122.38085,41.42765
+358821433,2082.0,school,Weed High School,-122.37307,41.42821
 3833053349,2303.0,cafe,,-122.37907,41.39807
+4946185216,2303.0,cafe,A Slice of Heaven,-121.91847,41.96332
+358765090,2082.0,school,East Fork School,-122.71642,41.36542
+358768531,2082.0,school,Junction Elementary School,-123.49645,41.39235
+358770576,2082.0,school,Meamber School,-122.95365,41.63152
+358798140,2082.0,school,Highland School,-122.70419,41.58098
+358799277,2082.0,school,Quartz Valley Elementary School,-122.95615,41.57708
+358799854,2082.0,school,Honolulu School,-122.73614,41.86625
+358799909,2082.0,school,Mono School,-122.72475,41.77486
+358800385,2082.0,school,Ti Bar School,-123.52839,41.52401
+358802813,2082.0,school,Quartz Valley School,-122.95781,41.55736
+358821352,2082.0,school,Etna Elementary School,-122.89503,41.4582
+358821355,2082.0,school,Etna High School,-122.89892,41.46097
+358821358,2082.0,school,Forks Elementary School,-123.32755,41.2593
+358821373,2082.0,school,Happy Camp High School,-123.37812,41.79513
+358821405,2082.0,school,Sawyers Bar Elementary School,-123.14088,41.30125
+3649738566,2501.0,supermarket,Raley's,-122.64414,41.70048
 4269012855,2501.0,supermarket,Rays Food Place,-122.89389,41.45731
 4269016550,2303.0,cafe,Wildwood Crossing,-122.8933,41.457
 4269016551,2501.0,supermarket,Mean Gene's Market,-122.90201,41.55122
@@ -53,56 +59,50 @@ osm_id,code,fclass,name,lon,lat
 4269212796,2501.0,supermarket,Seaid Valley Store,-123.19626,41.84219
 4269212797,2303.0,cafe,Seaid Cafe,-123.19637,41.84226
 4270432386,2501.0,supermarket,Parry's Market,-123.37684,41.79987
-4946185216,2303.0,cafe,A Slice of Heaven,-121.91847,41.96332
 5659719974,2303.0,cafe,South Forks,-122.89558,41.46244
-5742348321,2012.0,community_centre,Eagles Club,-122.27204,41.20872
-5772091599,2303.0,cafe,All Aboard Espresso,-122.27293,41.21574
-5938102947,2501.0,supermarket,Mount Shasta Supermarket,-122.31438,41.31563
 6373247685,2402.0,motel,Relax Inn,-122.63879,41.7206
 8854754746,2402.0,motel,Motel Etna,-122.89545,41.45985
-8860853329,2303.0,cafe,Mud Creek Café,-122.2036,41.321
-8899415822,2303.0,cafe,Savory Cafe,-122.13941,41.25338
-358805891,2005.0,post_office,Callahan Post Office,-122.80114,41.30959
-358805901,2005.0,post_office,Edgewood Post Office,-122.4328,41.46015
+8857733885,2002.0,fire_station,Petersburg Ranger Station Fire Station,-123.09316,41.12296
 358805912,2005.0,post_office,Mount Shasta Post Office,-122.31196,41.31182
-358805924,2005.0,post_office,Weed Post Office,-122.38505,41.42767
-358809313,2005.0,post_office,Grenada Post Office,-122.52363,41.64542
-358809320,2005.0,post_office,Montague Post Office,-122.52836,41.72764
-358809342,2005.0,post_office,Yreka Post Office,-122.63725,41.72931
-358818518,2005.0,post_office,Macdoel Post Office,-122.00723,41.82737
-358821367,2005.0,post_office,Gazelle Post Office,-122.52002,41.52181
-358821369,2005.0,post_office,Greenview Post Office,-122.90726,41.54792
-358821375,2005.0,post_office,Happy Camp Post Office,-123.37594,41.79941
 358821392,2005.0,post_office,McCloud Post Office,-122.13896,41.25404
-358821427,2005.0,post_office,Tulelake Post Office,-121.47582,41.95682
-368168977,2007.0,library,Happy Camp Branch Siskiyou County Public Library,-123.38006,41.79346
-358821346,2005.0,post_office,Dorris Post Office,-121.91973,41.96431
-358821356,2005.0,post_office,Etna Post Office,-122.89476,41.45625
-368167476,2009.0,courthouse,Siskiyou County Courthouse,-122.63827,41.7302
 368168978,2007.0,library,Dunsmuir Branch Siskiyou County Public Library,-122.27146,41.21171
-368168979,2007.0,library,Etna Branch Siskiyou County Public Library,-122.89476,41.45597
-368168984,2007.0,library,Tulelake Branch Siskiyou County Public Library,-121.47721,41.95543
-368169030,2007.0,library,Dorris Branch Siskiyou County Public Library,-121.92112,41.9632
-368168810,2007.0,library,Montague Branch Siskiyou County Public Library,-122.52641,41.72653
-368168811,2007.0,library,Siskiyou County Law Library,-122.63864,41.73014
-368168812,2007.0,library,Siskiyou County Public Library,-122.63975,41.72653
-368171327,2008.0,town_hall,Yreka City Hall,-122.63953,41.72714
-368171328,2008.0,town_hall,Montague City Hall,-122.52641,41.72653
-368171477,2008.0,town_hall,Etna City Hall,-122.89364,41.45625
-368171480,2008.0,town_hall,Dorris City Hall,-121.91792,41.96388
-368171504,2008.0,town_hall,Tulelake City Hall,-121.47555,41.95599
-368171505,2008.0,town_hall,Weed City Hall,-122.37779,41.42876
-368171516,2099.0,public_building,Salmon River Ranger Office,-123.13615,41.29986
-1683667993,2002.0,fire_station,Gazelle FIre Station,-122.52028,41.52273
 1991819228,2001.0,police,,-122.32217,41.31175
-2726489085,2002.0,fire_station,,-121.91808,41.96321
-4269212795,2005.0,post_office,United States Post Office,-123.19614,41.84214
 4742207829,2002.0,fire_station,McCloud Fire Department,-122.13839,41.25859
 4742285521,2002.0,fire_station,McCloud Fire Department,-122.13853,41.25858
 4894095724,2007.0,library,McCloud library,-122.13192,41.25598
-5591644316,2002.0,fire_station,Seiad Valley Fire Dept,-123.19386,41.84158
 5742348222,2002.0,fire_station,Dunsmuir Fire Department,-122.27261,41.2096
-8857733885,2002.0,fire_station,Petersburg Ranger Station Fire Station,-123.09316,41.12296
+358821427,2005.0,post_office,Tulelake Post Office,-121.47582,41.95682
+368168984,2007.0,library,Tulelake Branch Siskiyou County Public Library,-121.47721,41.95543
+368171504,2008.0,town_hall,Tulelake City Hall,-121.47555,41.95599
+358805901,2005.0,post_office,Edgewood Post Office,-122.4328,41.46015
+358805924,2005.0,post_office,Weed Post Office,-122.38505,41.42767
+358809313,2005.0,post_office,Grenada Post Office,-122.52363,41.64542
+358809320,2005.0,post_office,Montague Post Office,-122.52836,41.72764
+358818518,2005.0,post_office,Macdoel Post Office,-122.00723,41.82737
+358821346,2005.0,post_office,Dorris Post Office,-121.91973,41.96431
+358821367,2005.0,post_office,Gazelle Post Office,-122.52002,41.52181
+368168810,2007.0,library,Montague Branch Siskiyou County Public Library,-122.52641,41.72653
+368169030,2007.0,library,Dorris Branch Siskiyou County Public Library,-121.92112,41.9632
+368171328,2008.0,town_hall,Montague City Hall,-122.52641,41.72653
+368171480,2008.0,town_hall,Dorris City Hall,-121.91792,41.96388
+368171505,2008.0,town_hall,Weed City Hall,-122.37779,41.42876
+1683667993,2002.0,fire_station,Gazelle FIre Station,-122.52028,41.52273
+2726489085,2002.0,fire_station,,-121.91808,41.96321
+358805891,2005.0,post_office,Callahan Post Office,-122.80114,41.30959
+358809342,2005.0,post_office,Yreka Post Office,-122.63725,41.72931
+358821356,2005.0,post_office,Etna Post Office,-122.89476,41.45625
+358821369,2005.0,post_office,Greenview Post Office,-122.90726,41.54792
+358821375,2005.0,post_office,Happy Camp Post Office,-123.37594,41.79941
+368167476,2009.0,courthouse,Siskiyou County Courthouse,-122.63827,41.7302
+368168811,2007.0,library,Siskiyou County Law Library,-122.63864,41.73014
+368168812,2007.0,library,Siskiyou County Public Library,-122.63975,41.72653
+368168977,2007.0,library,Happy Camp Branch Siskiyou County Public Library,-123.38006,41.79346
+368168979,2007.0,library,Etna Branch Siskiyou County Public Library,-122.89476,41.45597
+368171327,2008.0,town_hall,Yreka City Hall,-122.63953,41.72714
+368171477,2008.0,town_hall,Etna City Hall,-122.89364,41.45625
+368171516,2099.0,public_building,Salmon River Ranger Office,-123.13615,41.29986
+4269212795,2005.0,post_office,United States Post Office,-123.19614,41.84214
+5591644316,2002.0,fire_station,Seiad Valley Fire Dept,-123.19386,41.84158
 8873388448,2008.0,town_hall,Sawyers Bar Town Hall,-123.13019,41.29701
 8873388449,2005.0,post_office,Sawyers Bar Post Office,-123.13074,41.29709
 8873388455,2002.0,fire_station,Klamath National Forest Sawyers Bar Fire Station,-123.13244,41.29988

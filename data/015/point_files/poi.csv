@@ -1,20 +1,20 @@
 osm_id,code,fclass,name,lon,lat
 358764625,2082.0,school,Del Norte High School,-124.20953,41.76956
 358765380,2082.0,school,Elk Valley School,-124.15397,41.80956
-358773441,2082.0,school,Redwood Elementary School,-124.14925,41.86984
 358772719,2082.0,school,Pine Grove Elementary School,-124.19425,41.78511
-358798383,2082.0,school,Margaret Keating Elementary School,-124.05257,41.55623
+358773441,2082.0,school,Redwood Elementary School,-124.14925,41.86984
 358805549,2082.0,school,Mountain School,-123.96313,41.8465
 358818290,2082.0,school,Smith River Elementary School,-124.15231,41.92706
-410909810,2303.0,cafe,Klamath River Cafe,-124.03909,41.53051
 2417346567,2303.0,cafe,She she's,-123.97646,41.84584
 2882824853,2303.0,cafe,Starbucks,-124.19796,41.76173
 4075278703,2402.0,motel,Town House Motel,-124.18421,41.75159
 4238016414,2501.0,supermarket,Grocery Outlet,-124.19537,41.7543
 4489681489,2012.0,community_centre,Community Center,-124.14771,41.92635
 5243177221,2303.0,cafe,Vita Cucina Bakery,-124.19268,41.7534
+358798383,2082.0,school,Margaret Keating Elementary School,-124.05257,41.55623
+410909810,2303.0,cafe,Klamath River Cafe,-124.03909,41.53051
 368167471,2009.0,courthouse,Del Norte County Courthouse,-124.19952,41.75289
-2522444818,2005.0,post_office,United States Post Office,-124.04122,41.53191
 2877006166,2005.0,post_office,mailroomcc.com dhl,-124.19899,41.76953
 4492798995,2007.0,library,Library,-124.14771,41.92591
 4492799799,2007.0,library,Library,-124.19564,41.75203
+2522444818,2005.0,post_office,United States Post Office,-124.04122,41.53191

@@ -1,29 +1,29 @@
 ,osm_id,code,fclass,name,lon,lat
-0,358820102,2005.0,post_office,Brawley Post Office,-115.53499,32.97893
-1,358844223,2005.0,post_office,Calipatria Post Office,-115.5161,33.12587
-2,358844287,2005.0,post_office,Calexico Post Office,-115.49656,32.66744
-3,358844248,2005.0,post_office,Niland Post Office,-115.51873,33.24106
-4,358844304,2005.0,post_office,Heber Post Office,-115.52777,32.73034
-5,358844396,2005.0,post_office,Imperial Post Office,-115.56972,32.84811
-6,358844435,2005.0,post_office,Seeley Post Office,-115.69111,32.79256
-7,358852047,2005.0,post_office,Felicity Post Office,-114.76476,32.7503
-8,368167745,2002.0,fire_station,Niland Fire Station,-115.5129,33.23884
-9,368167746,2002.0,fire_station,Westmorland Fire Station,-115.62333,33.03727
-10,368167759,2002.0,fire_station,Heber Fire Station,-115.52444,32.73089
-11,368167784,2002.0,fire_station,Seeley Fire Station,-115.69222,32.79089
-12,368170913,2007.0,library,Brawley Public LIbrary,-115.53488,32.97839
-13,368170914,2007.0,library,Calipatria Branch Imperial County Free Library,-115.51777,33.1256
-14,368170916,2007.0,library,Camarena Memorial Library,-115.48765,32.67526
-15,368170919,2007.0,library,El Centro Community Center Branch el Centro Public Library,-115.54361,32.79006
-16,368170920,2007.0,library,El Centro Public Library,-115.55583,32.79144
-17,368171153,2099.0,public_building,Imperial County Building,-115.5361,32.97921
-18,368171694,2008.0,town_hall,Imperial City Hall,-115.5696,32.84362
-19,368171698,2008.0,town_hall,Calipatria City Hall,-115.51608,33.12652
-20,368171699,2008.0,town_hall,Brawley City Hall,-115.53513,32.97834
-21,3853946527,2005.0,post_office,Correo Pronto,-115.49506,32.66546
-22,5194684004,2001.0,police,Quechan Police Department,-114.616,32.73166
-23,5194684005,2008.0,town_hall,Quechan Tribal Administration,-114.6159,32.73397
-24,5341627675,2007.0,library,Slab City Public Library,-115.45212,33.25571
-25,5683494757,2002.0,fire_station,Fire Station No. 2,-115.53579,32.78513
-26,5700329323,2007.0,library,Public Library,-115.57163,32.80293
-27,6390094987,2005.0,post_office,USPS,-114.73272,33.43258
+0,358852047,2005.0,post_office,Felicity Post Office,-114.76476,32.7503
+1,5194684004,2001.0,police,Quechan Police Department,-114.616,32.73166
+2,5194684005,2008.0,town_hall,Quechan Tribal Administration,-114.6159,32.73397
+3,6390094987,2005.0,post_office,USPS,-114.73272,33.43258
+4,358844435,2005.0,post_office,Seeley Post Office,-115.69111,32.79256
+5,368167746,2002.0,fire_station,Westmorland Fire Station,-115.62333,33.03727
+6,368167784,2002.0,fire_station,Seeley Fire Station,-115.69222,32.79089
+7,358844287,2005.0,post_office,Calexico Post Office,-115.49656,32.66744
+8,358844304,2005.0,post_office,Heber Post Office,-115.52777,32.73034
+9,368167759,2002.0,fire_station,Heber Fire Station,-115.52444,32.73089
+10,368170916,2007.0,library,Camarena Memorial Library,-115.48765,32.67526
+11,3853946527,2005.0,post_office,Correo Pronto,-115.49506,32.66546
+12,358844396,2005.0,post_office,Imperial Post Office,-115.56972,32.84811
+13,368170919,2007.0,library,El Centro Community Center Branch el Centro Public Library,-115.54361,32.79006
+14,368170920,2007.0,library,El Centro Public Library,-115.55583,32.79144
+15,368171694,2008.0,town_hall,Imperial City Hall,-115.5696,32.84362
+16,5683494757,2002.0,fire_station,Fire Station No. 2,-115.53579,32.78513
+17,5700329323,2007.0,library,Public Library,-115.57163,32.80293
+18,358820102,2005.0,post_office,Brawley Post Office,-115.53499,32.97893
+19,358844223,2005.0,post_office,Calipatria Post Office,-115.5161,33.12587
+20,358844248,2005.0,post_office,Niland Post Office,-115.51873,33.24106
+21,368167745,2002.0,fire_station,Niland Fire Station,-115.5129,33.23884
+22,368170913,2007.0,library,Brawley Public LIbrary,-115.53488,32.97839
+23,368170914,2007.0,library,Calipatria Branch Imperial County Free Library,-115.51777,33.1256
+24,368171153,2099.0,public_building,Imperial County Building,-115.5361,32.97921
+25,368171698,2008.0,town_hall,Calipatria City Hall,-115.51608,33.12652
+26,368171699,2008.0,town_hall,Brawley City Hall,-115.53513,32.97834
+27,5341627675,2007.0,library,Slab City Public Library,-115.45212,33.25571

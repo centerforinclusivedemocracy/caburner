@@ -1,12 +1,12 @@
 ,osm_id,code,fclass,name,lon,lat
-0,368171494,2008.0,town_hall,Susanville City Hall,-120.66162,40.41962
-1,358819903,2005.0,post_office,Bieber Post Office,-121.14335,41.1212
-2,358820009,2005.0,post_office,Nubieber Post Office,-121.18017,41.09715
-3,358820062,2005.0,post_office,Susanville Post Office,-120.66121,40.41933
-4,358820068,2005.0,post_office,Wendel Post Office,-120.23208,40.34773
-5,358820073,2005.0,post_office,Westwood Post Office,-121.00079,40.30294
-6,368167449,2009.0,courthouse,Lassen County Courthouse,-120.66328,40.41601
-7,368169032,2007.0,library,Lassen County Free Library,-120.66356,40.41656
-8,5860137479,2001.0,police,Susanville Police Department,-120.64696,40.41527
-9,5860137484,2007.0,library,Lassen Library District,-120.64941,40.41475
-10,8336552962,2005.0,post_office,One Stop Office,-120.63752,40.41251
+0,358820062,2005.0,post_office,Susanville Post Office,-120.66121,40.41933
+1,358820068,2005.0,post_office,Wendel Post Office,-120.23208,40.34773
+2,368167449,2009.0,courthouse,Lassen County Courthouse,-120.66328,40.41601
+3,368169032,2007.0,library,Lassen County Free Library,-120.66356,40.41656
+4,368171494,2008.0,town_hall,Susanville City Hall,-120.66162,40.41962
+5,5860137479,2001.0,police,Susanville Police Department,-120.64696,40.41527
+6,5860137484,2007.0,library,Lassen Library District,-120.64941,40.41475
+7,8336552962,2005.0,post_office,One Stop Office,-120.63752,40.41251
+8,358819903,2005.0,post_office,Bieber Post Office,-121.14335,41.1212
+9,358820009,2005.0,post_office,Nubieber Post Office,-121.18017,41.09715
+10,358820073,2005.0,post_office,Westwood Post Office,-121.00079,40.30294

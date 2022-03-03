@@ -1,39 +1,39 @@
 ,osm_id,code,fclass,name,lon,lat
-0,290364608,2002.0,fire_station,,-123.20377,39.26541
-1,314506595,2008.0,town_hall,Ukiah Civic Center,-123.21015,39.14691
-2,358824708,2005.0,post_office,Calpella Post Office,-123.20278,39.23433
-3,358824755,2005.0,post_office,Hopland Post Office,-123.11667,38.97295
-4,358824855,2005.0,post_office,Willits Post Office,-123.35307,39.40905
-5,358824801,2005.0,post_office,Redwood Valley Post Office,-123.20449,39.26493
-6,358824840,2005.0,post_office,Ukiah Post Office,-123.21006,39.15045
-7,368167594,2009.0,courthouse,Mendocino County Courthouse,-123.20817,39.1502
-8,368167716,2002.0,fire_station,Laytonville Fire Control Station,-123.48668,39.7021
+0,8098413719,2005.0,post_office,Gualala Post Office,-123.52736,38.76701
+1,8098413722,2002.0,fire_station,South Coast Fire District Gualala Firehouse,-123.5291,38.76983
+2,290364608,2002.0,fire_station,,-123.20377,39.26541
+3,314506595,2008.0,town_hall,Ukiah Civic Center,-123.21015,39.14691
+4,358824708,2005.0,post_office,Calpella Post Office,-123.20278,39.23433
+5,358824755,2005.0,post_office,Hopland Post Office,-123.11667,38.97295
+6,358824801,2005.0,post_office,Redwood Valley Post Office,-123.20449,39.26493
+7,358824840,2005.0,post_office,Ukiah Post Office,-123.21006,39.15045
+8,368167594,2009.0,courthouse,Mendocino County Courthouse,-123.20817,39.1502
 9,368169576,2007.0,library,Held-Poage Memorial Home and Research Library,-123.21265,39.14898
 10,368169580,2007.0,library,Mendocino County Law Library,-123.20819,39.15029
 11,368169582,2007.0,library,Mendocino County Library,-123.20647,39.15055
-12,368171461,2008.0,town_hall,Fort Bragg City Hall,-123.80418,39.44572
-13,534349408,2002.0,fire_station,Cal Fire Leggett Station,-123.72179,39.87631
-14,469603010,2002.0,fire_station,Leggett Valley Fire Dept.,-123.71378,39.84991
-15,534353181,2002.0,fire_station,Cal Fire Howard Forest,-123.31888,39.34603
-16,541343524,2005.0,post_office,Manchester Post Office,-123.68668,38.97027
-17,1328779484,2002.0,fire_station,CAL Fire Hopland Station,-123.12047,39.00309
-18,1610987223,2005.0,post_office,Ukiah Post Office,-123.19776,39.14569
-19,1675708539,2002.0,fire_station,Laytonville Fire Dept.,-123.48526,39.68718
-20,2075065337,2002.0,fire_station,Ukiah Fire Department,-123.21038,39.14655
-21,2075066172,2001.0,police,Ukiah Police Department,-123.21008,39.14658
-22,2812593737,2005.0,post_office,,-123.78892,39.27082
-23,3358859739,2001.0,police,Mendocino County Sheriff's Department,-123.21964,39.16095
-24,4578420075,2005.0,post_office,Mendo Pack & Ship,-123.79562,39.30548
-25,5187589144,2005.0,post_office,United States Post Office,-123.48215,39.68569
-26,5127710510,2005.0,post_office,United States Post Office,-123.16658,39.1334
-27,6039648885,2002.0,fire_station,Fort bragg fire department,-123.80635,39.44247
-28,6169458991,2005.0,post_office,North Coast Packing and Shipping,-123.80619,39.4434
-29,6947276840,2007.0,library,,-123.22902,39.18896
-30,7106404645,2005.0,post_office,United States Post Office,-123.7171,39.13059
-31,7717447935,2002.0,fire_station,Westport Volunteer Fire Department,-123.78278,39.64178
-32,8097779930,2009.0,courthouse,Arena Justice Court,-123.70364,38.91659
-33,8097779954,2008.0,town_hall,Point Arena City Hall,-123.70385,38.91658
-34,8098366253,2002.0,fire_station,Redwood Coast Fire Department Manchester Station,-123.68637,38.96762
-35,8098413719,2005.0,post_office,Gualala Post Office,-123.52736,38.76701
-36,8098413722,2002.0,fire_station,South Coast Fire District Gualala Firehouse,-123.5291,38.76983
+12,1328779484,2002.0,fire_station,CAL Fire Hopland Station,-123.12047,39.00309
+13,1610987223,2005.0,post_office,Ukiah Post Office,-123.19776,39.14569
+14,2075065337,2002.0,fire_station,Ukiah Fire Department,-123.21038,39.14655
+15,2075066172,2001.0,police,Ukiah Police Department,-123.21008,39.14658
+16,3358859739,2001.0,police,Mendocino County Sheriff's Department,-123.21964,39.16095
+17,5127710510,2005.0,post_office,United States Post Office,-123.16658,39.1334
+18,6947276840,2007.0,library,,-123.22902,39.18896
+19,368167716,2002.0,fire_station,Laytonville Fire Control Station,-123.48668,39.7021
+20,469603010,2002.0,fire_station,Leggett Valley Fire Dept.,-123.71378,39.84991
+21,534349408,2002.0,fire_station,Cal Fire Leggett Station,-123.72179,39.87631
+22,1675708539,2002.0,fire_station,Laytonville Fire Dept.,-123.48526,39.68718
+23,5187589144,2005.0,post_office,United States Post Office,-123.48215,39.68569
+24,7717447935,2002.0,fire_station,Westport Volunteer Fire Department,-123.78278,39.64178
+25,358824855,2005.0,post_office,Willits Post Office,-123.35307,39.40905
+26,368171461,2008.0,town_hall,Fort Bragg City Hall,-123.80418,39.44572
+27,534353181,2002.0,fire_station,Cal Fire Howard Forest,-123.31888,39.34603
+28,2812593737,2005.0,post_office,,-123.78892,39.27082
+29,4578420075,2005.0,post_office,Mendo Pack & Ship,-123.79562,39.30548
+30,6039648885,2002.0,fire_station,Fort bragg fire department,-123.80635,39.44247
+31,6169458991,2005.0,post_office,North Coast Packing and Shipping,-123.80619,39.4434
+32,541343524,2005.0,post_office,Manchester Post Office,-123.68668,38.97027
+33,7106404645,2005.0,post_office,United States Post Office,-123.7171,39.13059
+34,8097779930,2009.0,courthouse,Arena Justice Court,-123.70364,38.91659
+35,8097779954,2008.0,town_hall,Point Arena City Hall,-123.70385,38.91658
+36,8098366253,2002.0,fire_station,Redwood Coast Fire Department Manchester Station,-123.68637,38.96762
 37,8336649423,2002.0,fire_station,Cal Fire Boonville Station Mendocino Unit,-123.35134,38.98617

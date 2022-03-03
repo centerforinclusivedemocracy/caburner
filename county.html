@@ -75,9 +75,9 @@
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
     <link rel="stylesheet" href="./sitewide.css?cachebust-8a9647ef04" />
-    <script src="./sitewide.js?cachebust-5b7185781a"></script>
-    <link rel="stylesheet" href="./county.css?cachebust-c25b6b6d59" />
-    <script src="./county.js?cachebust-91f3f632e3"></script>
+    <script src="./sitewide.js?cachebust-4ef2ebfcb3"></script>
+    <link rel="stylesheet" href="./county.css?cachebust-920d3bccf9" />
+    <script src="./county.js?cachebust-8220b161f2"></script>
 </head>
 <body>
 
@@ -112,6 +112,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div id="sidebar">
             <h1 data-field="countyname" class="pl-2">&nbsp;</h1>
             <div><!-- scrolling content, height is sidebar minus h1 -->
+                <div id="mobile" class="alert alert-info">Optimal user experience is on a desktop. To view the map, minimize the sidebar by clicking the upper right arrow.</div>
+                
                 <p id="outoforder" class="p-2"></p>
                 <!-- <p>lalalalalalal find my link <a href=https://elections.cdn.sos.ca.gov/ccrov/2021/july/21091jl.pdf>here</a></p>p -->
 
@@ -171,7 +173,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="tooltips" class="d-none">
     <!-- see i icons with data-tooltip+ attributes, and initTooltips() -->
     <div data-tooltip="suggestedareas">
-        <b>Suggested Areas</b> based on the minimum number requirement established by the County. Suggested areas for 11 day voting locations are included in suggested areas for 4 day voting locations.
+        <b>Suggested Areas</b> based on the minimum number requirement established by the County. Suggested areas for 11 day voting locations are included in suggested areas for 4 day voting locations. In some cases, suggested areas may not visually align with the census block data used to determine siting scores due to differences in scale. 
     </div>
     <div data-tooltip="additionalareas">
         <b>Additional Voting Location Options</b> are areas that can be considered beyond the minimum number requirement established by the County.
@@ -187,9 +189,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
     <div data-tooltip="pois">
         <b>Points of Interest include:</b>
-        <br><b>1) Voting Locations:</b> Previous voting locations sited by counties sourced from the Voting Information Project (VIP). Voting locations reported by counties to VIP may be inaccurate or incomplete.
-        <br><b>2) Transit Stops:</b> Transit stops sourced from regional <a target="_blank" rel="nofollow" href="http://gtfs.org/" style="color:rgb(248, 240, 197);">GTFS</a> data feeds.
-        <br><b>3) OpenStreetMap Points of Interest:</b> <a target="_blank" rel="nofollow" href="https://www.openstreetmap.org/" style="color:rgb(248, 240, 197);"> OpenStreetMap</a> is a crowdsourced database of buildings and other points of interest.
+        <br><b>1) <a target="_blank" rel="nofollow" href="https://dataverse.harvard.edu/dataverse/electionscience" style="color:rgb(248, 240, 197);">2020 General Election Precinct Boundaries</a></b>
+        <br><b>2) Voting Locations:</b> Previous voting locations sited by counties sourced from the Voting Information Project (VIP). Voting locations reported by counties to VIP may be inaccurate or incomplete.
+        <br><b>3) Transit Stops:</b> Transit stops sourced from regional <a target="_blank" rel="nofollow" href="http://gtfs.org/" style="color:rgb(248, 240, 197);">GTFS</a> data feeds.
+        <br><b>4) OpenStreetMap Points of Interest:</b> <a target="_blank" rel="nofollow" href="https://www.openstreetmap.org/" style="color:rgb(248, 240, 197);"> OpenStreetMap</a> is a crowdsourced database of buildings and other points of interest.
     </div>
     <div data-tooltip="legend">
         Zero value estimates may not be accurate due to high margins of error for small samples. 
@@ -266,6 +269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <h5>Points of Interest</h5>
                 <ul>
+                    <li><b>2020 General Election Precinct Boundaries:</b> 2020 General Election precincts sourced from the Harvard Dataverse Voting and Election Science Team.</li>
                     <li><b>Voting Locations:</b> Voting locations may include several layers, including 2020 General Election and/or 2020 Presidential Primary voting locations. This data is sourced from the Voting Information Project. The presence of a prior voting location should indicate a potentially suitable voting site area.</li>
                     <li><b>Transit Stops:</b> Transit stops indicate the location of transit stops in the county and are sourced from regional <a target="_blank" rel="nofollow" href="http://gtfs.org/">GTFS</a> data feeds. Transit stops have been ranked in the model from low to high use based on the frequency of service to the individual stop.</li>
                     <li><b>OpenStreetMap Points of Interest:</b> <a target="_blank" rel="nofollow" href="https://www.openstreetmap.org/"> OpenStreetMap</a> Points of Interest (POIs) are intended to help identify potential voting sites, or highlight that an area has some concentration of activity.</li>

@@ -58,7 +58,15 @@
     color: black;
 }
 
-@media screen and (max-width: 700px) {  /* mobile, Sidebar isn't on the side but full-size */
+/* only show mobile alert on mobile */
+/* mobile, Sidebar isn't on the side but full-size */
+#mobile {display: none;} 
+  
+@media only screen and (max-device-width : 700px){ 
+    #mobile {
+        display: block;
+        font-style: italic;
+    }
     #sidebar {
         width: 100%;
     }
@@ -68,16 +76,6 @@
     #sidebar-and-map div.sidebar-closer {
         right: 0;
         left: auto;
-    }
-}
-
-/* only show mobile alert on mobile */
-#mobile {display: none;} 
-  
-@media only screen and (max-device-width : 700px){ 
-    #mobile {
-        display: block;
-        font-style: italic;
     }
 }
 
@@ -158,6 +156,10 @@
     font-style: italic;
 }
 
+#datafootnote {
+    font-weight: bold;
+    font-style: italic;
+}
 
 /**
  * Bootstrap modals, give a max height and scrolling
@@ -192,48 +194,20 @@ div.modal-body {
     line-height:0em;
   } 
 
-  line:before {
+ line:before {
     content:'';
     position:absolute;
     display:block;
     height:1.5px;
     width: 20px;
     background:#000;
-    top:20%;
-  }
+    top:40%;
+}
 
-  line span {
+line span {
     display:block;
     position: absolute;
     height:1px;
     left: 45px;
-    top:20%;
-  }
-
-  hr {
-    border: none;
-    border-top: 1.5px dashed black;
-    text-align:center;
-    line-height:0em;
-    position: absolute;
-    height: 1.5px;
-    width: 20px;
-  } 
-
-  /* hr:before {
-    content:'';
-    position:absolute;
-    display:block;
-    top:50%;
-    height:1.5px;
-    width: 20px;
-    background:#000;
-  } */
-
-  hr span {
-    text-align:center;
-    display:block;
-    position: absolute;
-    height:1px;
-    left: 45px;
-  }
+    top:40%;
+}
