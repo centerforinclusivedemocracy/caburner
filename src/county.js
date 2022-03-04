@@ -784,7 +784,7 @@ function addIndicatorChoroplethToMap (layerinfo) {
     // fetch the tracts GeoJSON file and look up scores from the cached indicator data
     // add the vector features to the map, styled by their score
     // don't worry about "downloading" these files with every request; in reality they'll be cached
-    const tractsurl = `data/${COUNTYINFO.countyfp}/tracts.json`;
+    const tractsurl = `data/${COUNTYINFO.countyfp}/${layerinfo.tracts}`;
     busySpinner(true);
     $.getJSON(tractsurl, function (gjdata) {
         busySpinner(false);

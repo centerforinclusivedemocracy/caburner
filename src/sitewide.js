@@ -339,7 +339,8 @@ DATA_LAYERS.cvapdens = {
     quantilefield: 'cvapdens', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.job_dens = {
     id: 'job_dens',
@@ -348,7 +349,8 @@ DATA_LAYERS.job_dens = {
     quantilefield: 'job_dens', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.tot_elignonreg_prc = {
     id: 'tot_elignonreg_prc',
@@ -357,7 +359,8 @@ DATA_LAYERS.tot_elignonreg_prc = {
     quantilefield: 'tot_elignonreg_prc_final' , quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prcdisabled = {
     id: 'prcdisabled',
@@ -366,7 +369,8 @@ DATA_LAYERS.prcdisabled = {
     quantilefield: 'prcdisabled_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_nonengprof = {
     id: 'prc_nonengprof',
@@ -375,7 +379,8 @@ DATA_LAYERS.prc_nonengprof = {
     quantilefield: 'prc_nonengprof_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_caraccess_final = {
     id: 'prc_caraccess_final',
@@ -384,7 +389,8 @@ DATA_LAYERS.prc_caraccess_final = {
     quantilefield: 'prc_caraccess_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_pov_final = {
     id: 'prc_pov_final',
@@ -393,7 +399,8 @@ DATA_LAYERS.prc_pov_final = {
     quantilefield: 'prc_pov_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_youth_final = {
     id: 'prc_youth_final',
@@ -402,7 +409,8 @@ DATA_LAYERS.prc_youth_final = {
     quantilefield: 'prc_youth_final', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.pollvoter_dens = {
     id: 'pollvoter_dens',
@@ -411,7 +419,8 @@ DATA_LAYERS.pollvoter_dens = {
     quantilefield: 'pollvoter_dens', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.popdens = {
     id: 'popdens',
@@ -420,7 +429,8 @@ DATA_LAYERS.popdens = {
     quantilefield: 'popdens', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'integer',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.vbm_tot_2020 = {
     id: 'vbm_tot_2020',
@@ -430,7 +440,7 @@ DATA_LAYERS.vbm_tot_2020 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#CCCCCC'
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.vbm_asn_2020 = {
     id: 'vbm_asn_2020',
@@ -440,7 +450,7 @@ DATA_LAYERS.vbm_asn_2020 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#CCCCCC'
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.vbm_lat_2020 = {
     id: 'vbm_lat_2020',
@@ -450,7 +460,7 @@ DATA_LAYERS.vbm_lat_2020 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#CCCCCC'
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.vbm_youth_2020 = {
     id: 'vbm_youth_2020',
@@ -460,7 +470,7 @@ DATA_LAYERS.vbm_youth_2020 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#CCCCCC'
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.vbm_tot_2016 = {
     id: 'vbm_tot_2016',
@@ -470,7 +480,7 @@ DATA_LAYERS.vbm_tot_2016 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#CCCCCC'
+    tracts: 'tracts_2016.json'
 };
 DATA_LAYERS.vbm_asn_2016 = {
     id: 'vbm_asn_2016',
@@ -480,7 +490,7 @@ DATA_LAYERS.vbm_asn_2016 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#CCCCCC'
+    tracts: 'tracts_2016.json'
 };
 DATA_LAYERS.vbm_lat_2016 = {
     id: 'vbm_lat_2016',
@@ -490,7 +500,7 @@ DATA_LAYERS.vbm_lat_2016 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#CCCCCC'
+    tracts: 'tracts_2016.json'
 };
 DATA_LAYERS.vbm_youth_2016 = {
     id: 'vbm_youth_2016',
@@ -500,7 +510,7 @@ DATA_LAYERS.vbm_youth_2016 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#CCCCCC'
+    tracts: 'tracts_2016.json'
 };
 DATA_LAYERS.turnout_tot_2020 = {
     id: 'turnout_tot_2020',
@@ -510,7 +520,7 @@ DATA_LAYERS.turnout_tot_2020 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#D57F7F',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.turnout_asn_2020 = {
     id: 'turnout_asn_2020',
@@ -520,7 +530,7 @@ DATA_LAYERS.turnout_asn_2020 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#D57F7F',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.turnout_lat_2020 = {
     id: 'turnout_lat_2020',
@@ -530,7 +540,7 @@ DATA_LAYERS.turnout_lat_2020 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#D57F7F',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.turnout_youth_2020 = {
     id: 'turnout_youth_2020',
@@ -540,7 +550,7 @@ DATA_LAYERS.turnout_youth_2020 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#D57F7F',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.turnout_tot_2016 = {
     id: 'turnout_tot_2016',
@@ -550,7 +560,7 @@ DATA_LAYERS.turnout_tot_2016 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#D57F7F',
+    tracts: 'tracts_2016.json'
 };
 DATA_LAYERS.turnout_asn_2016 = {
     id: 'turnout_asn_2016',
@@ -560,7 +570,7 @@ DATA_LAYERS.turnout_asn_2016 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#D57F7F',
+    tracts: 'tracts_2016.json'
 };
 DATA_LAYERS.turnout_lat_2016 = {
     id: 'turnout_lat_2016',
@@ -570,7 +580,7 @@ DATA_LAYERS.turnout_lat_2016 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#D57F7F',
+    tracts: 'tracts_2016.json'
 };
 DATA_LAYERS.turnout_youth_2016 = {
     id: 'turnout_youth_2016',
@@ -580,7 +590,7 @@ DATA_LAYERS.turnout_youth_2016 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    background: '#D57F7F',
+    tracts: 'tracts_2016.json'
 };
 DATA_LAYERS.prc_black = {
     id: 'prc_black',
@@ -589,7 +599,8 @@ DATA_LAYERS.prc_black = {
     quantilefield: 'prc_black', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_asian = {
     id: 'prc_asian',
@@ -598,7 +609,8 @@ DATA_LAYERS.prc_asian = {
     quantilefield: 'prc_asian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_asianindian = {
     id: 'prc_asianindian',
@@ -607,7 +619,8 @@ DATA_LAYERS.prc_asianindian = {
     quantilefield: 'prc_asianindian', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_chinese = {
     id: 'prc_chinese',
@@ -616,7 +629,8 @@ DATA_LAYERS.prc_chinese = {
     quantilefield: 'prc_chinese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_filipino = {
     id: 'prc_filipino',
@@ -625,7 +639,8 @@ DATA_LAYERS.prc_filipino = {
     quantilefield: 'prc_filipino', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_japanese = {
     id: 'prc_japanese',
@@ -634,7 +649,8 @@ DATA_LAYERS.prc_japanese = {
     quantilefield: 'prc_japanese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_korean = {
     id: 'prc_korean',
@@ -643,7 +659,8 @@ DATA_LAYERS.prc_korean = {
     quantilefield: 'prc_korean', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_vietnamese = {
     id: 'prc_vietnamese',
@@ -652,7 +669,8 @@ DATA_LAYERS.prc_vietnamese = {
     quantilefield: 'prc_vietnamese', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_latino = {
     id: 'prc_latino',
@@ -661,7 +679,8 @@ DATA_LAYERS.prc_latino = {
     quantilefield: 'prc_latino', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_mexican = {
     id: 'prc_mexican',
@@ -670,7 +689,8 @@ DATA_LAYERS.prc_mexican = {
     quantilefield: 'prc_mexican', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_puertorican = {
     id: 'prc_puertorican',
@@ -679,7 +699,8 @@ DATA_LAYERS.prc_puertorican = {
     quantilefield: 'prc_puertorican', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_cuban = {
     id: 'prc_cuban',
@@ -688,7 +709,8 @@ DATA_LAYERS.prc_cuban = {
     quantilefield: 'prc_cuban', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_dominican = {
     id: 'prc_dominican',
@@ -697,7 +719,8 @@ DATA_LAYERS.prc_dominican = {
     quantilefield: 'prc_dominican', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_southam = {
     id: 'prc_southam',
@@ -706,7 +729,8 @@ DATA_LAYERS.prc_southam = {
     quantilefield: 'prc_southam', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_centralamerican = {
     id: 'prc_centralamerican',
@@ -715,7 +739,8 @@ DATA_LAYERS.prc_centralamerican = {
     quantilefield: 'prc_centralamerican', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_white = {
     id: 'prc_white',
@@ -724,7 +749,8 @@ DATA_LAYERS.prc_white = {
     quantilefield: 'prc_white', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.prc_native = {
     id: 'prc_native',
@@ -733,7 +759,8 @@ DATA_LAYERS.prc_native = {
     quantilefield: 'prc_native', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
-    layertype: 'indicators'
+    layertype: 'indicators',
+    tracts: 'tracts.json'
 };
 DATA_LAYERS.gen2020 = {
     id: 'gen2020',
