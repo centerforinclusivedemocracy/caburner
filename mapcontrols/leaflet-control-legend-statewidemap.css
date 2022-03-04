@@ -28,8 +28,8 @@
     background-color: #FFF6D6;
 } */
 .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-lite {
-    background-color: #FFF6D6;
-    opacity: 0.65;
+    background-color: #fecd1b;
+    opacity: 0.4;
 }
 .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-vca {
     background-color: #fecd1b;

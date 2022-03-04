@@ -188,17 +188,17 @@ const getParticipatingCountyInfo = function (countyfp) {
 // the style for drawing counties onto the statewide overview map,
 // with different styles for participating counties vs non-participiating, and the different data profiles
 // const BOUNDSTYLE_DEFAULT = { fillColor: 'white', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5 };
-const BOUNDSTYLE_PARTICIPATING = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5, smoothFactor:0.5 };
-const BOUNDSTYLE_FULL = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor:0.5 };
-// const BOUNDSTYLE_LITE = { fillColor: '#FFF6D6', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor:0.5 };
-const BOUNDSTYLE_LITE = { fillColor: '#FFF6D6', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor:0.5 };
-const BOUNDSTYLE_VBM = { fillColor: '#FFEE99', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75, smoothFactor:0.5 };
-const BOUNDSTYLE_BUTTE = { fillColor: '#FFFAE5', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75, smoothFactor:0.5 };
-const BOUNDSTYLE_DEFAULT = { fillColor: '#DDDDDD', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5, smoothFactor:0.5 };
+const BOUNDSTYLE_PARTICIPATING = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5, smoothFactor: 0.5 };
+const BOUNDSTYLE_FULL = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor: 0.5 };
+// const BOUNDSTYLE_LITE = { fillColor: '#FFF6D6', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor: 0.5 };
+const BOUNDSTYLE_VBM = { fillColor: '#FFEE99', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75, smoothFactor: 0.5 };
+const BOUNDSTYLE_BUTTE = { fillColor: '#FFFAE5', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75, smoothFactor: 0.5 };
+const BOUNDSTYLE_DEFAULT = { fillColor: '#DDDDDD', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.5, smoothFactor: 0.5 };
 const BOUNDSTYLE_MOUSEOVER = { weight: 5, color: 'black', fillOpacity: 0.15, smoothFactor:0.5 };
 // const BOUNDSTYLE_VCA = { fillColor: '#FFBF00', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor:0.5 };
-const BOUNDSTYLE_VCA = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.65, smoothFactor:0.5 };
-const BOUNDSTYLE_NONVCA = { fillColor: '#FFE14C', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75, smoothFactor:0.5 };
+const BOUNDSTYLE_NONVCA = { fillColor: '#FFE14C', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75, smoothFactor: 0.5 };
+const BOUNDSTYLE_VCA = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.75, smoothFactor: 0.5 };
+const BOUNDSTYLE_LITE = { fillColor: '#fecd1b', weight: 1, opacity: 0.5, color: 'black', fillOpacity: 0.33, smoothFactor: 0.5 };
 
 // in county.html to view a single county, the style to use for county boundary
 const SINGLECOUNTY_STYLE = { fill: false, weight: 2, opacity: 1, color: 'black' };
