@@ -1,186 +1,186 @@
 ,osm_id,code,fclass,name,lon,lat
-0,2286104937,2007.0,library,Sheldon Marten Public Health Library,-122.26671,37.87207
-1,3938249986,2005.0,post_office,The UPS Store,-122.26973,37.8819
-2,4675911575,2005.0,post_office,Mail Boxes & More,-122.28259,37.87015
-3,368168027,2002.0,fire_station,Berkeley Engine Company Number 6,-122.29696,37.87481
-4,368169274,2007.0,library,Alameda County Library,-122.29341,37.88792
-5,8787315033,2001.0,police,Albany Police Department,-122.29846,37.88763
-6,368168029,2002.0,fire_station,Emeryville Fire Station Number 34,-122.30329,37.83694
-7,368169294,2007.0,library,Golden Gate Branch Oakland Public Library,-122.28226,37.83922
-8,1463143054,2002.0,fire_station,Berkeley Fire Dept Station No 1,-122.29327,37.86069
-9,2506608313,2001.0,police,Emeryville Police Department,-122.30385,37.83694
-10,358817779,2005.0,post_office,Hayward Post Office,-122.0958,37.65577
-11,358817849,2005.0,post_office,Mount Eden Station Hayward Post Office,-122.09357,37.63327
-12,358819556,2005.0,post_office,San Lorenzo Post Office,-122.12691,37.6816
-13,358851595,2005.0,post_office,South San Leandro Station San Leandro Post Office,-122.13358,37.70854
-14,368168582,2002.0,fire_station,Hayward Fire Station  Number 8,-122.03003,37.67508
-15,368168614,2002.0,fire_station,Hayward Fire Station Number 7,-122.06417,37.63278
-16,368168721,2002.0,fire_station,Hayward Fire Station Number 2,-122.08667,37.6475
-17,368168727,2002.0,fire_station,Alameda County Fire Department Station 2,-122.1075,37.675
-18,368168728,2002.0,fire_station,Alameda County Fire Department Station 1,-122.12611,37.68
-19,368169019,2007.0,library,San Lorenzo Branch Alameda County Library,-122.12586,37.67888
-20,368169334,2007.0,library,George Weeks Branch Hayward Public Library,-122.07885,37.63354
-21,1729958935,2001.0,police,Hayward Police Department,-122.08178,37.67157
-22,4308042129,2001.0,police,Alameda County Sheriff's Department,-122.09464,37.65734
-23,4610704917,2002.0,fire_station,,-122.02777,37.71509
-24,368168729,2002.0,fire_station,Alameda County Fire Department Station 4,-122.08048,37.69712
-25,2959314986,2007.0,library,Castro Valley Library,-122.07103,37.69297
-26,3123168466,2001.0,police,Alameda County Sheriff's Office,-122.12345,37.70964
-27,358819462,2005.0,post_office,Irvington Station Fremont Post Office,-121.96147,37.53221
-28,358819495,2005.0,post_office,Mission San Jose Station Fremont Post Office,-121.92051,37.53049
-29,368168734,2002.0,fire_station,Fremont Fire Station 3,-121.96099,37.53588
-30,1366405151,2002.0,fire_station,Fremont fire station 11,-121.93443,37.47695
-31,2480681074,2005.0,post_office,The UPS Store,-121.95066,37.55558
-32,6576221913,2005.0,post_office,The UPS Store,-121.95856,37.53193
-33,368169073,2007.0,library,Centerville Branch Alameda County Library,-122.02223,37.568
-34,2509675399,2005.0,post_office,United States Post Office,-121.98638,37.54579
-35,4055046196,2001.0,police,Newark Police Department,-122.02955,37.53546
-36,368171330,2008.0,town_hall,Livermore City Hall,-121.75595,37.67512
-37,434121691,2002.0,fire_station,Fire Station Number 8,-121.72691,37.7173
-38,3622275077,2002.0,fire_station,Fire Station No. 6,-121.73952,37.68025
-39,368168555,2002.0,fire_station,Newark Fire Station 3,-122.00972,37.52028
-40,368169016,2007.0,library,Newark Branch Alameda County Library,-122.03038,37.53458
-41,4055046194,2008.0,town_hall,Newark,-122.02972,37.53527
-42,368168554,2002.0,fire_station,Newark Fire Station 2,-122.04033,37.54607
-43,368168557,2002.0,fire_station,Newark Fire Station 1,-122.04219,37.52849
-44,368168738,2002.0,fire_station,Fremont Fire Station 8,-122.03722,37.57583
-45,4346737290,2005.0,post_office,The UPS Store,-121.86962,37.69978
-46,4418304722,2009.0,courthouse,Gale-Schenone Hall of Justice,-121.88847,37.69022
-47,368168603,2002.0,fire_station,Hayward Fire Station Number 6,-122.11889,37.65361
-48,368171565,2099.0,public_building,Alameda County Building,-122.09532,37.65781
-49,4308041368,2007.0,library,Alameda County Law Library,-122.09487,37.65772
-50,358819592,2005.0,post_office,Union City Post Office,-122.04103,37.59311
-51,368168720,2002.0,fire_station,Hayward Fire Station Number 3,-122.03019,37.61462
-52,368168723,2002.0,fire_station,Union City Fire Station 1,-122.03908,37.5942
-53,1080170870,2005.0,post_office,The UPS Store,-122.01889,37.58914
-54,6601976159,2005.0,post_office,LBC,-122.07099,37.59176
-55,2467275620,2005.0,post_office,United States Post Office,-121.92445,37.7078
-56,3432490465,2001.0,police,Dublin Police,-121.91806,37.70398
-57,358815209,2005.0,post_office,Livermore Post Office,-121.76706,37.68142
-58,3622229914,2002.0,fire_station,Fire Station 8,-121.77375,37.67424
-59,368167169,2099.0,public_building,Peralta Community College System Office,-122.26096,37.79258
-60,1421106375,2007.0,library,Alameda County Law Library,-122.26443,37.79978
-61,8572592667,2005.0,post_office,The UPS Store,-122.25545,37.80909
-62,3711137998,2005.0,post_office,Grand Lake Station Oakland Post Office,-122.24726,37.8109
-63,4098752769,2001.0,police,BART Police Department,-122.26561,37.79717
-64,368171356,2008.0,town_hall,Dublin City Hall,-121.91752,37.70415
-65,434551586,2007.0,library,Alameda County Library Dublin,-121.9188,37.70281
-66,2467283065,2002.0,fire_station,ACFD Station 18,-121.85443,37.71495
-67,2875040919,2005.0,post_office,The UPS Store,-121.85123,37.70382
-68,4418304721,2001.0,police,Alameda County Sheriff,-121.88828,37.68999
-69,6835340939,2005.0,post_office,The UPS Store,-121.90183,37.693
-70,7042991100,2005.0,post_office,The UPS Store,-121.87517,37.67818
-71,358819516,2005.0,post_office,Niles Station Fremont Post Office,-121.97696,37.57556
-72,368168726,2002.0,fire_station,Union City Fire Station 3,-122.01569,37.59775
-73,368168732,2002.0,fire_station,Fremont Fire Station 1,-121.99065,37.54492
-74,368168736,2002.0,fire_station,Fremont Fire Station 6,-122.00556,37.55778
-75,5833583448,2007.0,library,James Logan Library,-122.02584,37.5926
-76,7044435919,2002.0,fire_station,,-122.00785,37.55219
-77,6373083530,2002.0,fire_station,Fremont Fire Station 10,-122.05156,37.56605
-78,2427751948,2007.0,library,Environmental Design Library,-122.25458,37.8708
-79,4121844989,2007.0,library,Environmental Design Archives,-122.25442,37.87023
-80,4124184020,2007.0,library,Institute for Research on Labor and Employment Library,-122.25784,37.86718
-81,4124184021,2007.0,library,Ethnic Studies Library,-122.25743,37.87157
-82,4124184027,2007.0,library,Optometry and Health Sciences Library,-122.25475,37.87168
-83,307513415,2001.0,police,Berkeley Police Department,-122.27304,37.86998
-84,368168737,2002.0,fire_station,Fremont Fire Station 7,-121.96194,37.50861
-85,2993275534,2005.0,post_office,Fedex,-121.97574,37.50431
-86,358851597,2005.0,post_office,Webster Street Station Alameda Post Office,-122.27703,37.77196
-87,368167541,2002.0,fire_station,Alameda Fire Station 3,-122.25452,37.77497
-88,368168558,2002.0,fire_station,Alameda Fire Station 1,-122.24389,37.7625
-89,8064824695,2005.0,post_office,Coast Guard Island Post Office,-122.24787,37.78043
-90,358851590,2005.0,post_office,Estudillo Station San Leandro Post Office,-122.15671,37.72435
-91,358851592,2005.0,post_office,Marcus Foster Station Oakland Post Office,-122.17371,37.74815
-92,368168716,2002.0,fire_station,Alameda County Fire Department Station 12,-122.14111,37.70917
-93,368169020,2007.0,library,South Branch San Leandro Community Library,-122.13413,37.70882
-94,368169064,2007.0,library,Elmhurst Branch Oakland Public Library,-122.17491,37.75154
-95,368169068,2007.0,library,Mulford-Marina Branch San Leandro Community Library,-122.18231,37.69786
-96,368169425,2007.0,library,Martin Luther King Junior Branch Oakland Public Library,-122.19077,37.76061
-97,368171495,2008.0,town_hall,San Leandro City Hall,-122.15913,37.72854
-98,246294774,2002.0,fire_station,Oakland Fire Station 24,-122.20341,37.82349
-99,3593734418,2002.0,fire_station,,-122.14362,37.80032
-100,358817966,2005.0,post_office,Dimond Station Oakland Post Office,-122.21543,37.80027
-101,358819615,2005.0,post_office,Fruitvale Station Oakland Post Office,-122.22358,37.77771
-102,368169426,2007.0,library,Latin American Branch Oakland Public Library,-122.22247,37.78354
-103,916952804,2002.0,fire_station,Oakland Fire Station 17,-122.19722,37.78579
-104,2630773079,2005.0,post_office,The UPS Store,-122.2328,37.76912
-105,4098677195,2007.0,library,César E. Chávez Branch Oakland Public Library,-122.22505,37.77602
-106,4159732335,2007.0,library,Patten University Library,-122.21961,37.78586
-107,5456207770,2005.0,post_office,The Mailbox,-122.21572,37.80106
-108,5938114979,2005.0,post_office,Diamond Market UPS,-122.20522,37.79736
-109,310972976,2005.0,post_office,Park Central Station,-122.24281,37.76299
-110,368168556,2002.0,fire_station,Alameda Fire Station 5,-122.303,37.78455
-111,2119952590,2008.0,town_hall,City Hall West,-122.30288,37.78622
-112,358819346,2005.0,post_office,Alvarado Station Union City Post Office,-122.07774,37.5966
-113,695532096,2001.0,police,Union City Police,-122.06835,37.59989
-114,6645904746,2005.0,post_office,The UPS Store,-122.06846,37.5902
-115,6721683473,2007.0,library,,-122.07513,37.59419
-116,368168735,2002.0,fire_station,Fremont Fire Station 5,-121.92639,37.48472
+0,246294774,2002.0,fire_station,Oakland Fire Station 24,-122.20341,37.82349
+1,263217812,2002.0,fire_station,Fire Station No. 10,-121.81245,37.69573
+2,288988876,2002.0,fire_station,Hills Fire Station,-122.25148,37.89094
+3,307513415,2001.0,police,Berkeley Police Department,-122.27304,37.86998
+4,310972976,2005.0,post_office,Park Central Station,-122.24281,37.76299
+5,358815209,2005.0,post_office,Livermore Post Office,-121.76706,37.68142
+6,358817779,2005.0,post_office,Hayward Post Office,-122.0958,37.65577
+7,358817849,2005.0,post_office,Mount Eden Station Hayward Post Office,-122.09357,37.63327
+8,358817919,2005.0,post_office,Landscape Station Berkeley Post Office,-122.27896,37.89153
+9,358817928,2005.0,post_office,North Berkeley Station Berkeley Post Office,-122.26901,37.87939
+10,358817966,2005.0,post_office,Dimond Station Oakland Post Office,-122.21543,37.80027
+11,358817973,2005.0,post_office,Piedmont Station Oakland Post Office,-122.25389,37.82728
+12,358817977,2005.0,post_office,Eastmont Station Oakland Post Office,-122.16602,37.76327
+13,358819592,2005.0,post_office,Union City Post Office,-122.04103,37.59311
+14,358819615,2005.0,post_office,Fruitvale Station Oakland Post Office,-122.22358,37.77771
+15,358819669,2005.0,post_office,Kaiser Center Station Oakland Post Office,-122.26386,37.80882
+16,358819738,2005.0,post_office,Station 3 Oakland Post Office,-122.20913,37.82687
+17,358819346,2005.0,post_office,Alvarado Station Union City Post Office,-122.07774,37.5966
+18,358819462,2005.0,post_office,Irvington Station Fremont Post Office,-121.96147,37.53221
+19,358819495,2005.0,post_office,Mission San Jose Station Fremont Post Office,-121.92051,37.53049
+20,358819516,2005.0,post_office,Niles Station Fremont Post Office,-121.97696,37.57556
+21,358819556,2005.0,post_office,San Lorenzo Post Office,-122.12691,37.6816
+22,358851590,2005.0,post_office,Estudillo Station San Leandro Post Office,-122.15671,37.72435
+23,358851592,2005.0,post_office,Marcus Foster Station Oakland Post Office,-122.17371,37.74815
+24,358851593,2005.0,post_office,San Leandro Main Post Office,-122.1708,37.71049
+25,358851595,2005.0,post_office,South San Leandro Station San Leandro Post Office,-122.13358,37.70854
+26,358851596,2005.0,post_office,Washington Manor Station San Leandro Post Office,-122.14691,37.69104
+27,358851597,2005.0,post_office,Webster Street Station Alameda Post Office,-122.27703,37.77196
+28,368167169,2099.0,public_building,Peralta Community College System Office,-122.26096,37.79258
+29,368167536,2002.0,fire_station,Fire Station Number 4,-121.78468,37.66104
+30,368167538,2002.0,fire_station,Fire Station No. 7,-121.78377,37.68869
+31,368167541,2002.0,fire_station,Alameda Fire Station 3,-122.25452,37.77497
+32,368168027,2002.0,fire_station,Berkeley Engine Company Number 6,-122.29696,37.87481
+33,368168029,2002.0,fire_station,Emeryville Fire Station Number 34,-122.30329,37.83694
+34,368168716,2002.0,fire_station,Alameda County Fire Department Station 12,-122.14111,37.70917
+35,368168554,2002.0,fire_station,Newark Fire Station 2,-122.04033,37.54607
+36,368168717,2002.0,fire_station,Alameda County Fire Department Station 9,-122.15076,37.72671
+37,368168719,2002.0,fire_station,Alameda County Fire Department Station 13,-122.13944,37.68833
+38,368168720,2002.0,fire_station,Hayward Fire Station Number 3,-122.03019,37.61462
+39,368168721,2002.0,fire_station,Hayward Fire Station Number 2,-122.08667,37.6475
+40,368168723,2002.0,fire_station,Union City Fire Station 1,-122.03908,37.5942
+41,368168726,2002.0,fire_station,Union City Fire Station 3,-122.01569,37.59775
+42,368168727,2002.0,fire_station,Alameda County Fire Department Station 2,-122.1075,37.675
+43,368168728,2002.0,fire_station,Alameda County Fire Department Station 1,-122.12611,37.68
+44,368168729,2002.0,fire_station,Alameda County Fire Department Station 4,-122.08048,37.69712
+45,368168732,2002.0,fire_station,Fremont Fire Station 1,-121.99065,37.54492
+46,368168734,2002.0,fire_station,Fremont Fire Station 3,-121.96099,37.53588
+47,368168735,2002.0,fire_station,Fremont Fire Station 5,-121.92639,37.48472
+48,368168736,2002.0,fire_station,Fremont Fire Station 6,-122.00556,37.55778
+49,368168737,2002.0,fire_station,Fremont Fire Station 7,-121.96194,37.50861
+50,368168738,2002.0,fire_station,Fremont Fire Station 8,-122.03722,37.57583
+51,368168824,2007.0,library,Livermore Public Library,-121.75444,37.67409
+52,368168555,2002.0,fire_station,Newark Fire Station 3,-122.00972,37.52028
+53,368168556,2002.0,fire_station,Alameda Fire Station 5,-122.303,37.78455
+54,368168557,2002.0,fire_station,Newark Fire Station 1,-122.04219,37.52849
+55,368168558,2002.0,fire_station,Alameda Fire Station 1,-122.24389,37.7625
+56,368168569,2002.0,fire_station,Alameda Fire Station 2,-122.27779,37.77639
+57,368168582,2002.0,fire_station,Hayward Fire Station  Number 8,-122.03003,37.67508
+58,368168603,2002.0,fire_station,Hayward Fire Station Number 6,-122.11889,37.65361
+59,368168614,2002.0,fire_station,Hayward Fire Station Number 7,-122.06417,37.63278
+60,368169069,2007.0,library,Manor Branch San Leandro Community Library,-122.15302,37.69132
+61,368169016,2007.0,library,Newark Branch Alameda County Library,-122.03038,37.53458
+62,368169019,2007.0,library,San Lorenzo Branch Alameda County Library,-122.12586,37.67888
+63,368169020,2007.0,library,South Branch San Leandro Community Library,-122.13413,37.70882
+64,368169070,2007.0,library,J A Freitas Library,-122.15691,37.72632
+65,368169073,2007.0,library,Centerville Branch Alameda County Library,-122.02223,37.568
+66,368169274,2007.0,library,Alameda County Library,-122.29341,37.88792
+67,368169064,2007.0,library,Elmhurst Branch Oakland Public Library,-122.17491,37.75154
+68,368169068,2007.0,library,Mulford-Marina Branch San Leandro Community Library,-122.18231,37.69786
+69,368169294,2007.0,library,Golden Gate Branch Oakland Public Library,-122.28226,37.83922
+70,368169334,2007.0,library,George Weeks Branch Hayward Public Library,-122.07885,37.63354
+71,368169423,2007.0,library,Eastmont Branch Oakland Public Library,-122.1762,37.76856
+72,368169425,2007.0,library,Martin Luther King Junior Branch Oakland Public Library,-122.19077,37.76061
+73,368169426,2007.0,library,Latin American Branch Oakland Public Library,-122.22247,37.78354
+74,368169433,2007.0,library,Asian Branch Oakland Public Library,-122.27109,37.8009
+75,368170825,2007.0,library,West End Branch Alameda Free Library,-122.27304,37.77305
+76,368171565,2099.0,public_building,Alameda County Building,-122.09532,37.65781
+77,368171574,2099.0,public_building,University of California System Administration Central Office,-122.27139,37.80221
+78,368171330,2008.0,town_hall,Livermore City Hall,-121.75595,37.67512
+79,368171356,2008.0,town_hall,Dublin City Hall,-121.91752,37.70415
+80,368171495,2008.0,town_hall,San Leandro City Hall,-122.15913,37.72854
+81,434121691,2002.0,fire_station,Fire Station Number 8,-121.72691,37.7173
+82,434551586,2007.0,library,Alameda County Library Dublin,-121.9188,37.70281
+83,462705820,2001.0,police,UC Berkeley Campus Police,-122.2587,37.86924
+84,651063673,2005.0,post_office,Temescal Post Office - 94609,-122.26351,37.83646
+85,695532096,2001.0,police,Union City Police,-122.06835,37.59989
+86,916952804,2002.0,fire_station,Oakland Fire Station 17,-122.19722,37.78579
+87,1064600787,2007.0,library,African American Museum and Library at Oakland,-122.27642,37.80611
+88,1080170870,2005.0,post_office,The UPS Store,-122.01889,37.58914
+89,1250624743,2007.0,library,David Gardner Stacks (underground),-122.25932,37.87295
+90,1328041811,2007.0,library,Harmer E. Davis Transportation Library,-122.25886,37.87393
+91,1328042658,2007.0,library,Earth Sciences and Map Library,-122.25966,37.87403
+92,1357985356,2009.0,courthouse,Federal Courthouse,-122.27459,37.80426
+93,1357985360,2005.0,post_office,Byron Rumford US Post Office,-122.27405,37.8051
+94,1366405151,2002.0,fire_station,Fremont fire station 11,-121.93443,37.47695
+95,1421106375,2007.0,library,Alameda County Law Library,-122.26443,37.79978
+96,1425318117,2005.0,post_office,USPS West Grand Carrier Annex,-122.27109,37.81206
+97,1463143054,2002.0,fire_station,Berkeley Fire Dept Station No 1,-122.29327,37.86069
+98,1491599907,2008.0,town_hall,Emeryville City Hall,-122.28545,37.83105
+99,1633459013,2007.0,library,Berkeley Law Library,-122.25337,37.86977
+100,1707553971,2002.0,fire_station,Oakland Fire Station 21,-122.14963,37.78947
+101,1729958935,2001.0,police,Hayward Police Department,-122.08178,37.67157
+102,1944793960,2005.0,post_office,FedEx,-122.26897,37.87578
+103,2066705865,2007.0,library,College of Alameda Library,-122.27819,37.78053
+104,2104820990,2001.0,police,Livermore Police Station,-121.7554,37.6748
+105,2119952590,2008.0,town_hall,City Hall West,-122.30288,37.78622
+106,2185044657,2007.0,library,Meyer Library,-122.25075,37.83551
+107,2286104937,2007.0,library,Sheldon Marten Public Health Library,-122.26671,37.87207
+108,2399757049,2005.0,post_office,United States Post Office,-122.27154,37.80038
+109,2427751948,2007.0,library,Environmental Design Library,-122.25458,37.8708
+110,2427751968,2007.0,library,Anthropology Library,-122.2551,37.86981
+111,2467275620,2005.0,post_office,United States Post Office,-121.92445,37.7078
+112,2467283065,2002.0,fire_station,ACFD Station 18,-121.85443,37.71495
+113,2480681074,2005.0,post_office,The UPS Store,-121.95066,37.55558
+114,2506608313,2001.0,police,Emeryville Police Department,-122.30385,37.83694
+115,2509675399,2005.0,post_office,United States Post Office,-121.98638,37.54579
+116,2630773079,2005.0,post_office,The UPS Store,-122.2328,37.76912
 117,2672383547,2005.0,post_office,Warm Springs Post Office,-121.92645,37.48973
-118,6373083535,2002.0,fire_station,Sunol Fire Station 14,-121.88097,37.59665
-119,368168569,2002.0,fire_station,Alameda Fire Station 2,-122.27779,37.77639
-120,368170825,2007.0,library,West End Branch Alameda Free Library,-122.27304,37.77305
-121,2066705865,2007.0,library,College of Alameda Library,-122.27819,37.78053
-122,5843184775,2005.0,post_office,The UPS Store,-122.27245,37.78376
-123,358851593,2005.0,post_office,San Leandro Main Post Office,-122.1708,37.71049
-124,358851596,2005.0,post_office,Washington Manor Station San Leandro Post Office,-122.14691,37.69104
-125,368168717,2002.0,fire_station,Alameda County Fire Department Station 9,-122.15076,37.72671
-126,368169070,2007.0,library,J A Freitas Library,-122.15691,37.72632
-127,6241187790,2001.0,police,Alameda County Sheriff,-122.20852,37.72962
-128,6566898369,2005.0,post_office,The UPS Store,-122.15734,37.72476
-129,263217812,2002.0,fire_station,Fire Station No. 10,-121.81245,37.69573
-130,368167536,2002.0,fire_station,Fire Station Number 4,-121.78468,37.66104
-131,368167538,2002.0,fire_station,Fire Station No. 7,-121.78377,37.68869
-132,368168824,2007.0,library,Livermore Public Library,-121.75444,37.67409
-133,2104820990,2001.0,police,Livermore Police Station,-121.7554,37.6748
-134,6833566594,2005.0,post_office,The UPS Store,-121.74235,37.69621
-135,368168719,2002.0,fire_station,Alameda County Fire Department Station 13,-122.13944,37.68833
-136,368169069,2007.0,library,Manor Branch San Leandro Community Library,-122.15302,37.69132
-137,4381516771,2005.0,post_office,The UPS Store,-122.1384,37.68885
-138,358817977,2005.0,post_office,Eastmont Station Oakland Post Office,-122.16602,37.76327
-139,368169423,2007.0,library,Eastmont Branch Oakland Public Library,-122.1762,37.76856
-140,1707553971,2002.0,fire_station,Oakland Fire Station 21,-122.14963,37.78947
-141,288988876,2002.0,fire_station,Hills Fire Station,-122.25148,37.89094
-142,4757358257,2005.0,post_office,The UPS Store,-122.28527,37.89116
-143,1064600787,2007.0,library,African American Museum and Library at Oakland,-122.27642,37.80611
-144,5567449835,2005.0,post_office,Oakland Main Post Office,-122.30028,37.80617
-145,1425318117,2005.0,post_office,USPS West Grand Carrier Annex,-122.27109,37.81206
-146,1491599907,2008.0,town_hall,Emeryville City Hall,-122.28545,37.83105
-147,358817928,2005.0,post_office,North Berkeley Station Berkeley Post Office,-122.26901,37.87939
-148,1944793960,2005.0,post_office,FedEx,-122.26897,37.87578
-149,4121837398,2007.0,library,Marian Koshland Bioscience & Natural Resources Library,-122.26268,37.87137
-150,4124184017,2007.0,library,Kresge Engineering Library,-122.2582,37.87416
-151,4124184019,2007.0,library,Physics-Astronomy Library,-122.2569,37.87266
-152,4124184022,2007.0,library,Mathematics Statistics Library,-122.25767,37.87365
-153,4124184025,2007.0,library,Institute of Governmental Studies Library,-122.25791,37.87104
-154,4253128648,2007.0,library,Howison Philosophy Library,-122.25797,37.87086
-155,8197268029,2007.0,library,Sleepy cat books,-122.25829,37.86491
-156,368169433,2007.0,library,Asian Branch Oakland Public Library,-122.27109,37.8009
-157,368171574,2099.0,public_building,University of California System Administration Central Office,-122.27139,37.80221
-158,1357985356,2009.0,courthouse,Federal Courthouse,-122.27459,37.80426
-159,1357985360,2005.0,post_office,Byron Rumford US Post Office,-122.27405,37.8051
-160,2399757049,2005.0,post_office,United States Post Office,-122.27154,37.80038
-161,3969664023,2005.0,post_office,The UPS Store,-122.26821,37.80637
-162,358817973,2005.0,post_office,Piedmont Station Oakland Post Office,-122.25389,37.82728
-163,651063673,2005.0,post_office,Temescal Post Office - 94609,-122.26351,37.83646
-164,2185044657,2007.0,library,Meyer Library,-122.25075,37.83551
-165,6053166085,2005.0,post_office,US Post Office - Crestmont Station,-122.25091,37.82741
-166,8883627027,2005.0,post_office,The UPS Store,-122.25209,37.82651
-167,462705820,2001.0,police,UC Berkeley Campus Police,-122.2587,37.86924
-168,1250624743,2007.0,library,David Gardner Stacks (underground),-122.25932,37.87295
-169,1328041811,2007.0,library,Harmer E. Davis Transportation Library,-122.25886,37.87393
-170,1328042658,2007.0,library,Earth Sciences and Map Library,-122.25966,37.87403
-171,1633459013,2007.0,library,Berkeley Law Library,-122.25337,37.86977
-172,2427751968,2007.0,library,Anthropology Library,-122.2551,37.86981
-173,4124184018,2007.0,library,Chemistry and Chemical Engineering Library,-122.2558,37.87284
-174,4124184024,2007.0,library,Social Research Library,-122.26114,37.87388
-175,4124184028,2007.0,library,Thomas J. Long Business Library,-122.25344,37.87138
+118,2794679680,2007.0,library,Temescal Tool Lending Library,-122.26261,37.83819
+119,2875040919,2005.0,post_office,The UPS Store,-121.85123,37.70382
+120,2959314986,2007.0,library,Castro Valley Library,-122.07103,37.69297
+121,2993275534,2005.0,post_office,Fedex,-121.97574,37.50431
+122,3123168466,2001.0,police,Alameda County Sheriff's Office,-122.12345,37.70964
+123,3432490465,2001.0,police,Dublin Police,-121.91806,37.70398
+124,3593734418,2002.0,fire_station,,-122.14362,37.80032
+125,3622229914,2002.0,fire_station,Fire Station 8,-121.77375,37.67424
+126,3622275077,2002.0,fire_station,Fire Station No. 6,-121.73952,37.68025
+127,3711137998,2005.0,post_office,Grand Lake Station Oakland Post Office,-122.24726,37.8109
+128,3938249986,2005.0,post_office,The UPS Store,-122.26973,37.8819
+129,3969664023,2005.0,post_office,The UPS Store,-122.26821,37.80637
+130,4055046194,2008.0,town_hall,Newark,-122.02972,37.53527
+131,4055046196,2001.0,police,Newark Police Department,-122.02955,37.53546
+132,4098677195,2007.0,library,César E. Chávez Branch Oakland Public Library,-122.22505,37.77602
+133,4098752769,2001.0,police,BART Police Department,-122.26561,37.79717
+134,4124184019,2007.0,library,Physics-Astronomy Library,-122.2569,37.87266
+135,4124184020,2007.0,library,Institute for Research on Labor and Employment Library,-122.25784,37.86718
+136,4124184021,2007.0,library,Ethnic Studies Library,-122.25743,37.87157
+137,4124184022,2007.0,library,Mathematics Statistics Library,-122.25767,37.87365
+138,4124184024,2007.0,library,Social Research Library,-122.26114,37.87388
+139,4124184025,2007.0,library,Institute of Governmental Studies Library,-122.25791,37.87104
+140,4124184027,2007.0,library,Optometry and Health Sciences Library,-122.25475,37.87168
+141,4124184028,2007.0,library,Thomas J. Long Business Library,-122.25344,37.87138
+142,4121837398,2007.0,library,Marian Koshland Bioscience & Natural Resources Library,-122.26268,37.87137
+143,4121844989,2007.0,library,Environmental Design Archives,-122.25442,37.87023
+144,4124184017,2007.0,library,Kresge Engineering Library,-122.2582,37.87416
+145,4124184018,2007.0,library,Chemistry and Chemical Engineering Library,-122.2558,37.87284
+146,4159732335,2007.0,library,Patten University Library,-122.21961,37.78586
+147,4253128648,2007.0,library,Howison Philosophy Library,-122.25797,37.87086
+148,4308041368,2007.0,library,Alameda County Law Library,-122.09487,37.65772
+149,4308042129,2001.0,police,Alameda County Sheriff's Department,-122.09464,37.65734
+150,4316619331,2007.0,library,Laney College Library,-122.26261,37.79668
+151,4346737290,2005.0,post_office,The UPS Store,-121.86962,37.69978
+152,4381516771,2005.0,post_office,The UPS Store,-122.1384,37.68885
+153,4418304721,2001.0,police,Alameda County Sheriff,-121.88828,37.68999
+154,4418304722,2009.0,courthouse,Gale-Schenone Hall of Justice,-121.88847,37.69022
+155,4610704917,2002.0,fire_station,,-122.02777,37.71509
+156,4675911575,2005.0,post_office,Mail Boxes & More,-122.28259,37.87015
+157,4757358257,2005.0,post_office,The UPS Store,-122.28527,37.89116
+158,5456207770,2005.0,post_office,The Mailbox,-122.21572,37.80106
+159,5567449835,2005.0,post_office,Oakland Main Post Office,-122.30028,37.80617
+160,5833583448,2007.0,library,James Logan Library,-122.02584,37.5926
+161,5843184775,2005.0,post_office,The UPS Store,-122.27245,37.78376
+162,5938114979,2005.0,post_office,Diamond Market UPS,-122.20522,37.79736
+163,6053166085,2005.0,post_office,US Post Office - Crestmont Station,-122.25091,37.82741
+164,6241187790,2001.0,police,Alameda County Sheriff,-122.20852,37.72962
+165,6373083530,2002.0,fire_station,Fremont Fire Station 10,-122.05156,37.56605
+166,6373083535,2002.0,fire_station,Sunol Fire Station 14,-121.88097,37.59665
+167,6566898369,2005.0,post_office,The UPS Store,-122.15734,37.72476
+168,6576221913,2005.0,post_office,The UPS Store,-121.95856,37.53193
+169,6601976159,2005.0,post_office,LBC,-122.07099,37.59176
+170,6645904746,2005.0,post_office,The UPS Store,-122.06846,37.5902
+171,6721683473,2007.0,library,,-122.07513,37.59419
+172,6833566594,2005.0,post_office,The UPS Store,-121.74235,37.69621
+173,6835340939,2005.0,post_office,The UPS Store,-121.90183,37.693
+174,7042991100,2005.0,post_office,The UPS Store,-121.87517,37.67818
+175,7044435919,2002.0,fire_station,,-122.00785,37.55219
 176,7967683291,2005.0,post_office,FedEx,-122.25229,37.85168
-177,2794679680,2007.0,library,Temescal Tool Lending Library,-122.26261,37.83819
-178,8014829825,2005.0,post_office,UPS,-122.25293,37.85131
-179,8014839185,2005.0,post_office,UPS,-122.25293,37.85131
-180,358817919,2005.0,post_office,Landscape Station Berkeley Post Office,-122.27896,37.89153
-181,358819669,2005.0,post_office,Kaiser Center Station Oakland Post Office,-122.26386,37.80882
-182,4316619331,2007.0,library,Laney College Library,-122.26261,37.79668
-183,8343655572,2007.0,library,,-122.23368,37.85315
-184,358819738,2005.0,post_office,Station 3 Oakland Post Office,-122.20913,37.82687
+177,8014829825,2005.0,post_office,UPS,-122.25293,37.85131
+178,8014839185,2005.0,post_office,UPS,-122.25293,37.85131
+179,8064824695,2005.0,post_office,Coast Guard Island Post Office,-122.24787,37.78043
+180,8197268029,2007.0,library,Sleepy cat books,-122.25829,37.86491
+181,8343655572,2007.0,library,,-122.23368,37.85315
+182,8572592667,2005.0,post_office,The UPS Store,-122.25545,37.80909
+183,8787315033,2001.0,police,Albany Police Department,-122.29846,37.88763
+184,8883627027,2005.0,post_office,The UPS Store,-122.25209,37.82651
