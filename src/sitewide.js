@@ -7,7 +7,7 @@
 // exceptlayers = skip these layers when loading the data profile, for counties to opt-out from individual layers
 const PARTICIPATING_COUNTIES = [
     //SSS// We have 3 classes for CA: lite for the 4 VBM counties, fullmodel for polling places, and fullmodel for vote centers
-    { countyfp: "001", name: "Alameda", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "001", name: "Alameda", profile: 'vca', vca: '3 & 4'},
     { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "005", name: "Amador", profile: 'vca', vca: '2'},
     { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Voting location modeling is currently in development for this county."},
@@ -39,7 +39,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "059", name: "Orange", profile: 'vca', vca: '2'},
     { countyfp: "061", name: "Placer", profile: 'lite', vca: '3 & 4', outoforder: "Voting location modeling is currently in development for this county."},
     { countyfp: "063", name: "Plumas", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
-    { countyfp: "065", name: "Riverside", profile: 'inprogress', vca: '3 & 4'},
+    { countyfp: "065", name: "Riverside", profile: 'vca', vca: '3 & 4'},
     { countyfp: "067", name: "Sacramento", profile: 'vca', vca: '2'},
     { countyfp: "069", name: "San Benito", profile: 'vca', vca: '3 & 4'},
     { countyfp: "071", name: "San Bernardino", profile: 'lite', vca: '3 & 4', outoforder: "Voting location modeling is currently in development for this county."},
