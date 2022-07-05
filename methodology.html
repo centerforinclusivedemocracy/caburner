@@ -75,7 +75,7 @@
 
     <!-- Sitewide styles and code; more for additional pages, will be included below -->
     <link rel="stylesheet" href="./sitewide.css?cachebust-8a9647ef04" />
-    <script src="./sitewide.js?cachebust-b84ca22a31"></script>
+    <script src="./sitewide.js?cachebust-4db51ede38"></script>
     <link rel="stylesheet" href="./methodology.css?cachebust-8be1f32d75" />
     <script src="./methodology.js?cachebust-d3156cd328"></script>
 </head>
@@ -242,8 +242,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Limitations</i>: Imperfect conversion from precinct to tract level.</li>
         <li><i>Note</i>: Although the model input was at the census block level, this variable is displayed on the web map at the census tract level by aggregating the proportion of total precinct voters in a block to the census tract level.</li>
       </ul>
-            
-      <p id="vbm"><b>2020 Vote by Mail Rate (Total):</b> The percentage of voters who voted by mail out of total voters in the 2020 General Election.</p>
+      
+      <p id="vbm-20"><b>2020 Vote by Mail Rate (Total):</b> The percentage of voters who voted by mail out of total voters in the 2020 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the total vote by dividing the number of voters who voted by mail by the total number of voters who voted. The direction of this variable is inverted before it enters the model score, so that areas with a high VBM rate receive lower priority for siting.</li>
@@ -253,7 +253,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: Although the model input was at the census block level, this variable is displayed on the web map at the census tract level by aggregating the proportion of total precinct voters in a block to the census tract level.</li>
       </ul>
       
-      <p id="vbm-asian"><b>2020 Vote by Mail Rate (Asian-American):</b> The percentage of Asian-American voters who voted by mail out of total Asian-American voters in the 2020 General Election.</p>
+      <p id="vbm-asian-20"><b>2020 Vote by Mail Rate (Asian-American):</b> The percentage of Asian-American voters who voted by mail out of total Asian-American voters in the 2020 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the Asian-American vote by dividing the number of Asian-American voters who voted by mail by the total number of Asian-American voters who voted. The direction of this variable is inverted before it enters the model score, so that areas with a high VBM rate receive lower priority for siting.</li>
@@ -263,7 +263,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: Although the model input was at the census block level, this variable is displayed on the web map at the census tract level by aggregating the proportion of total precinct voters in a block to the census tract level.</li>
       </ul>
       
-      <p id="vbm-latino"><b>2020 Vote by Mail Rate (Latino):</b> The percentage of Latino voters who voted by mail out of total Latino voters in the 2020 General Election.</p>
+      <p id="vbm-black-20"><b>2020 Vote by Mail Rate (Black):</b> The percentage of Black voters who voted by mail out of total Black voters in the 2020 General Election.</p>
+      <ul>
+        <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
+        <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the Black vote by dividing the number of Black voters who voted by mail by the total number of Black voters who voted.</li>
+        <li><i>Scale</i>: Census Tract.</li>
+        <li><i>Limitations</i>: Imperfect conversion from precinct to block level.</li>
+        <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
+      </ul>
+
+      <p id="vbm-latino-20"><b>2020 Vote by Mail Rate (Latino):</b> The percentage of Latino voters who voted by mail out of total Latino voters in the 2020 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the Latino vote by dividing the number of Latino voters who voted by mail by the total number of Latino voters who voted. The direction of this variable is inverted before it enters the model score, so that areas with a high VBM rate receive lower priority for siting.</li>
@@ -273,7 +282,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: Although the model input was at the census block level, this variable is displayed on the web map at the census tract level by aggregating the proportion of total precinct voters in a block to the census tract level.</li>
       </ul>
       
-      <p id="vbm-youth"><b>2020 Vote by Mail Rate (Youth):</b> The percentage of voters between the age of 18 and 24 years old who voted by mail out of total youth voters in the 2020 General Election.</p>
+      <p id="vbm-youth-20"><b>2020 Vote by Mail Rate (Youth):</b> The percentage of voters between the age of 18 and 24 years old who voted by mail out of total youth voters in the 2020 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the youth vote by dividing the number of youth voters who voted by mail by the total number of youth voters who voted. The direction of this variable is inverted before it enters the model score, so that areas with a high VBM rate receive lower priority for siting.</li>
@@ -283,7 +292,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: Although the model input was at the census block level, this variable is displayed on the web map at the census tract level by aggregating the proportion of total precinct voters in a block to the census tract level.</li>
       </ul>
 
-      <p id="vbm"><b>2016 Vote by Mail Rate (Total):</b> The percentage of voters who voted by mail out of total voters in the 2016 General Election.</p>
+      <p id="vbm-16"><b>2016 Vote by Mail Rate (Total):</b> The percentage of voters who voted by mail out of total voters in the 2016 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2016 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the total vote by dividing the number of voters who voted by mail by the total number of voters who voted.</li>
@@ -292,7 +301,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
 
-      <p id="vbm-asian-2016"><b>2016 Vote by Mail Rate (Asian-American):</b> The percentage of Asian-American voters who voted by mail out of total Asian-American voters in the 2016 General Election.</p>
+      <p id="vbm-asian-16"><b>2016 Vote by Mail Rate (Asian-American):</b> The percentage of Asian-American voters who voted by mail out of total Asian-American voters in the 2016 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2016 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the Asian-American vote by dividing the number of Asian-American voters who voted by mail by the total number of Asian-American voters who voted.</li>
@@ -300,8 +309,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Limitations</i>: Imperfect conversion from precinct to block level.</li>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
+
+      <p id="vbm-black-16"><b>2016 Vote by Mail Rate (Black):</b> The percentage of Black voters who voted by mail out of total Black voters in the 2016 General Election.</p>
+      <ul>
+        <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2016 General Election).</li>
+        <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the Black vote by dividing the number of Black voters who voted by mail by the total number of Black voters who voted.</li>
+        <li><i>Scale</i>: Census Tract.</li>
+        <li><i>Limitations</i>: Imperfect conversion from precinct to block level.</li>
+        <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
+      </ul>
       
-      <p id="vbm-latino-2016"><b>2016 Vote by Mail Rate (Latino):</b> The percentage of Latino voters who voted by mail out of total Latino voters in the 2016 General Election.</p>
+      <p id="vbm-latino-16"><b>2016 Vote by Mail Rate (Latino):</b> The percentage of Latino voters who voted by mail out of total Latino voters in the 2016 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2016 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the Latino vote by dividing the number of Latino voters who voted by mail by the total number of Latino voters who voted.</li>
@@ -310,7 +328,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
       
-      <p id="vbm-youth"><b>2016 Vote by Mail Rate (Youth):</b> The percentage of voters between the age of 18 and 24 years old who voted by mail out of total youth voters in the 2016 General Election.</p>
+      <p id="vbm-youth-16"><b>2016 Vote by Mail Rate (Youth):</b> The percentage of voters between the age of 18 and 24 years old who voted by mail out of total youth voters in the 2016 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2016 General Election).</li>
         <li><i>Calculation</i>: Convert from precinct to block level, calculate as percent of total vote. Calculate the VBM rate for the youth vote by dividing the number of youth voters who voted by mail by the total number of youth voters who voted.</li>
@@ -319,7 +337,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
 
-      <p id="trnt-tot"><b>2020 Registered Voter Turnout Rate (Total):</b> The percentage of total registered voters who voted in the 2020 General Election.</p>
+      <p id="trnt-tot-20"><b>2020 Registered Voter Turnout Rate (Total):</b> The percentage of total registered voters who voted in the 2020 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the total vote by dividing the total number of voters who voted by the total number of registered voters.</li>
@@ -328,7 +346,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
 
-      <p id="trnt-asian"><b>2020 Registered Voter Turnout Rate (Asian-American):</b> The percentage of Asian-American registered voters who voted in the 2020 General Election.</p>
+      <p id="trnt-black-20"><b>2020 Registered Voter Turnout Rate (Black):</b> The percentage of Black registered voters who voted in the 2020 General Election.</p>
+      <ul>
+        <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
+        <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the Black vote by dividing the number of Black voters who voted by the total number of Black registered voters.</li>
+        <li><i>Scale</i>: Census Tract.</li>
+        <li><i>Limitations</i>: Imperfect conversion from precinct to block level.</li>
+        <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
+      </ul>
+      
+      <p id="trnt-asian-20"><b>2020 Registered Voter Turnout Rate (Asian-American):</b> The percentage of Asian-American registered voters who voted in the 2020 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the Asian-American vote by dividing the number of Asian-American voters who voted by the total number of Asian-American registered voters.</li>
@@ -337,7 +364,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
       
-      <p id="trnt-latino"><b>2020 Registered Voter Turnout Rate (Latino):</b> The percentage of Latino registered voters who voted in the 2020 General Election.</p>
+      <p id="trnt-latino-20"><b>2020 Registered Voter Turnout Rate (Latino):</b> The percentage of Latino registered voters who voted in the 2020 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the Latino vote by dividing the number of Latino voters who voted by the total number of Latino registered voters.</li>
@@ -346,7 +373,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
       
-      <p id="trnt-youth"><b>2020 Registered Voter Turnout Rate (Youth):</b> The percentage of registered voters between the age of 18 and 24 years who voted in the 2020 General Election.</p>
+      <p id="trnt-youth-20"><b>2020 Registered Voter Turnout Rate (Youth):</b> The percentage of registered voters between the age of 18 and 24 years who voted in the 2020 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2020 General Election).</li>
         <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the youth vote by dividing the number of youth voters who voted by the total number of youth registered voters.</li>
@@ -355,7 +382,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
 
-      <p id="trnt-tot"><b>2016 Registered Voter Turnout Rate (Total):</b> The percentage of total registered voters who voted in the 2016 General Election.</p>
+      <p id="trnt-tot-16"><b>2016 Registered Voter Turnout Rate (Total):</b> The percentage of total registered voters who voted in the 2016 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2016 General Election).</li>
         <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the total vote by dividing the total number of voters who voted by the total number of registered voters.</li>
@@ -364,7 +391,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
 
-      <p id="trnt-asian"><b>2016 Registered Voter Turnout Rate (Asian-American):</b> The percentage of Asian-American registered voters who voted in the 2016 General Election.</p>
+      <p id="trnt-black-16"><b>2016 Registered Voter Turnout Rate (Black):</b> The percentage of Black registered voters who voted in the 2016 General Election.</p>
+      <ul>
+        <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2016 General Election).</li>
+        <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the Black vote by dividing the number of Black voters who voted by the total number of Black registered voters.</li>
+        <li><i>Scale</i>: Census Tract.</li>
+        <li><i>Limitations</i>: Imperfect conversion from precinct to block level.</li>
+        <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
+      </ul>
+
+      <p id="trnt-asian-16"><b>2016 Registered Voter Turnout Rate (Asian-American):</b> The percentage of Asian-American registered voters who voted in the 2016 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2016 General Election).</li>
         <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the Asian-American vote by dividing the number of Asian-American voters who voted by the total number of Asian-American registered voters.</li>
@@ -373,7 +409,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
       
-      <p id="trnt-latino"><b>2016 Registered Voter Turnout Rate (Latino):</b> The percentage of Latino registered voters who voted in the 2016 General Election.</p>
+      <p id="trnt-latino-16"><b>2016 Registered Voter Turnout Rate (Latino):</b> The percentage of Latino registered voters who voted in the 2016 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2016 General Election).</li>
         <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the Latino vote by dividing the number of Latino voters who voted by the total number of Latino registered voters.</li>
@@ -382,7 +418,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li><i>Note</i>: This data is included as contextual voter information only, it was not included in the model or in the scoring of the potential areas.</li>
       </ul>
       
-      <p id="trnt-youth"><b>2016 Registered Voter Turnout Rate (Youth):</b> The percentage of registered voters between the age of 18 and 24 years who voted in the 2016 General Election.</p>
+      <p id="trnt-youth-16"><b>2016 Registered Voter Turnout Rate (Youth):</b> The percentage of registered voters between the age of 18 and 24 years who voted in the 2016 General Election.</p>
       <ul>
         <li><i>Data sources</i>: UCB Statewide Database Registration and Voter Data (2016 General Election).</li>
         <li><i>Calculation</i>: Convert voting data from precinct to block level. Calculate the turnout rate for the youth vote by dividing the number of youth voters who voted by the total number of youth registered voters.</li>

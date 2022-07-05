@@ -270,6 +270,7 @@ DATA_LAYERS.four_day_sites = {
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/four_day_sites_shp.zip',
+    downloadtype: 'SHP',
     radiogroup: 'suggestedsites',
     layertype: 'sites'
 };
@@ -283,6 +284,7 @@ DATA_LAYERS.eleven_day_sites = {
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/eleven_day_sites_shp.zip',
+    downloadtype: 'SHP',
     radiogroup: 'suggestedsites',
     layertype: 'sites'
 };
@@ -295,6 +297,7 @@ DATA_LAYERS.dropbox_sites = {
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/dropbox_sites_shp.zip',
+    downloadtype: 'SHP',
     layertype: 'sites'
 };
 DATA_LAYERS.all_sites_scored = {
@@ -306,6 +309,7 @@ DATA_LAYERS.all_sites_scored = {
     mapzindex: 'medium',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/all_sites_scored_shp.zip',
+    downloadtype: 'SHP',
     layertype: 'sites'
 };
 DATA_LAYERS.additional_sites_model = {
@@ -317,6 +321,7 @@ DATA_LAYERS.additional_sites_model = {
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_model_shp.zip',
+    downloadtype: 'SHP',
     radiogroup: 'additionalsites',
     layertype: 'sites'
 };
@@ -329,6 +334,7 @@ DATA_LAYERS.additional_sites_distance = {
     mapzindex: 'high',
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_distance_shp.zip',
+    downloadtype: 'SHP',
     radiogroup: 'additionalsites',
     layertype: 'sites'
 };
@@ -440,13 +446,24 @@ DATA_LAYERS.vbm_tot_2020 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    tracts: 'tracts.json'
+    tracts: 'tracts.json',
+    accordion: 'vbm2020data',
 };
 DATA_LAYERS.vbm_asn_2020 = {
     id: 'vbm_asn_2020',
     title: "2020 Vote by Mail Rate (Asian-American)",
     scorefield:  'vbm_asn_2020',
     quantilefield: 'vbm_asn_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    tracts: 'tracts.json'
+};
+DATA_LAYERS.vbm_blk_2020 = {
+    id: 'vbm_blk_2020',
+    title: "2020 Vote by Mail Rate (Black)",
+    scorefield:  'vbm_blk_2020',
+    quantilefield: 'vbm_blk_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
@@ -480,13 +497,24 @@ DATA_LAYERS.vbm_tot_2016 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    tracts: 'tracts_2010.json'
+    tracts: 'tracts_2010.json',
+    accordion: 'vbm2016data',
 };
 DATA_LAYERS.vbm_asn_2016 = {
     id: 'vbm_asn_2016',
     title: "2016 Vote by Mail Rate (Asian-American)",
     scorefield:  'vbm_asn_2016',
     quantilefield: 'vbm_asn_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    tracts: 'tracts_2010.json'
+};
+DATA_LAYERS.vbm_blk_2016 = {
+    id: 'vbm_blk_2016',
+    title: "2016 Vote by Mail Rate (Black)",
+    scorefield:  'vbm_blk_2016',
+    quantilefield: 'vbm_blk_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
@@ -520,13 +548,24 @@ DATA_LAYERS.turnout_tot_2020 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    tracts: 'tracts.json'
+    tracts: 'tracts.json',
+    accordion: 'turnout2020data',
 };
 DATA_LAYERS.turnout_asn_2020 = {
     id: 'turnout_asn_2020',
     title: "2020 Registered Voter Turnout Rate (Asian-American)",
     scorefield:  'turnout_asn_2020',
     quantilefield: 'turnout_asn_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    tracts: 'tracts.json'
+};
+DATA_LAYERS.turnout_blk_2020 = {
+    id: 'turnout_blk_2020',
+    title: "2020 Registered Voter Turnout Rate (Black)",
+    scorefield:  'turnout_blk_2020',
+    quantilefield: 'turnout_blk_2020', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
@@ -560,13 +599,24 @@ DATA_LAYERS.turnout_tot_2016 = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    tracts: 'tracts_2010.json'
+    tracts: 'tracts_2010.json',
+    accordion: 'turnout2016data',
 };
 DATA_LAYERS.turnout_asn_2016 = {
     id: 'turnout_asn_2016',
     title: "2016 Registered Voter Turnout Rate (Asian-American)",
     scorefield:  'turnout_asn_2016',
     quantilefield: 'turnout_asn_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
+    legendformat: 'percent',
+    radiogroup: 'tractchoropleths',
+    layertype: 'indicators',
+    tracts: 'tracts_2010.json'
+};
+DATA_LAYERS.turnout_blk_2016 = {
+    id: 'turnout_blk_2016',
+    title: "2016 Registered Voter Turnout Rate (Black)",
+    scorefield:  'turnout_blk_2016',
+    quantilefield: 'turnout_blk_2016', quantilecolors: CRITERIA_COLOR_RAMP, // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
@@ -610,7 +660,8 @@ DATA_LAYERS.prc_asian = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    tracts: 'tracts.json'
+    tracts: 'tracts.json',
+    accordion: 'asiandata',
 };
 DATA_LAYERS.prc_asianindian = {
     id: 'prc_asianindian',
@@ -680,7 +731,8 @@ DATA_LAYERS.prc_latino = {
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
     layertype: 'indicators',
-    tracts: 'tracts.json'
+    tracts: 'tracts.json',
+    accordion: 'latinodata',
 };
 DATA_LAYERS.prc_mexican = {
     id: 'prc_mexican',
@@ -770,6 +822,7 @@ DATA_LAYERS.gen2020 = {
     popupnamefield: 'name',
     popuptypetext: '2020 General Voting Location',
     downloadfile: 'point_files/general_pollingplaces_2020.csv',
+    downloadtype: 'CSV',
     mapzindex: 'highest',
     layertype: 'pois'
 };
@@ -781,6 +834,7 @@ DATA_LAYERS.pripoll2020 = {
     popupnamefield: 'name',
     popuptypetext: '2020 Primary Voting Location',
     downloadfile: 'point_files/primary_pollingplaces_2020.csv',
+    downloadtype: 'CSV',
     mapzindex: 'highest',
     layertype: 'pois'
 };
@@ -792,6 +846,7 @@ DATA_LAYERS.pricenter2020 = {
     popupnamefield: 'name',
     popuptypetext: '2020 Primary Election Voting Locations',
     downloadfile: 'point_files/primary_votecenters_2020.csv',
+    downloadtype: 'CSV',
     mapzindex: 'highest',
     layertype: 'pois'
 };
@@ -801,6 +856,7 @@ DATA_LAYERS.transit_stops = {
     csvfile: 'point_files/transit_stops_latlononly.csv',
     circle: { radius: 20, color: '#008817', opacity: 1, fillColor: '#008817', fillOpacity: 1, weight: 2, },
     downloadfile: 'point_files/transit_stops.csv',
+    downloadtype: 'CSV',
     mapzindex: 'highest',
     layertype: 'pois'
 };
@@ -813,6 +869,7 @@ DATA_LAYERS.poi_govish = {
     popuptypefield: 'fclass',
     mapzindex: 'highest',
     downloadfile: 'point_files/poi_govish.csv',
+    downloadtype: 'CSV',
     layertype: 'pois'
 };
 DATA_LAYERS.poi_misc = {
@@ -824,6 +881,7 @@ DATA_LAYERS.poi_misc = {
     popuptypefield: 'fclass',
     mapzindex: 'highest',
     downloadfile: 'point_files/poi_misc.csv',
+    downloadtype: 'CSV',
     layertype: 'pois'
 };
 DATA_LAYERS.poi = {
@@ -835,6 +893,7 @@ DATA_LAYERS.poi = {
     popuptypefield: 'fclass',
     mapzindex: 'highest',
     downloadfile: 'point_files/poi.csv',
+    downloadtype: 'CSV',
     layertype: 'pois'
 };
 DATA_LAYERS.precincts = {
@@ -842,8 +901,10 @@ DATA_LAYERS.precincts = {
     title: "2020 General Election Precinct Boundaries",
     customgeojsonfile: 'point_files/precincts.geojson',
     downloadfile: 'point_files/precinctsSHP.zip',
-    style: { fill: '#969696', fillOpacity: 0, opacity: 5, color: 'black', weight: 1, interactive: true, smoothFactor: 0.5 },
-    layertype: 'pois',
+    downloadtype: 'SHP',
+    style: { fill: '#969696', fillOpacity: 0, opacity: 5, color: 'black', weight: 1, interactive: true, smoothFactor: 0.5, },
+    radiogroup: 'poilayer',
+    layertype: 'pois'
 };
 
 // and now the data profiles, which are collections of DATA_LAYERS to offer to each county
@@ -866,10 +927,10 @@ DATA_PROFILES.fullmodel = {
         DATA_LAYERS.cvapdens, 
         DATA_LAYERS.tot_elignonreg_prc,
         DATA_LAYERS.pollvoter_dens,
-        DATA_LAYERS.vbm_tot_2016, DATA_LAYERS.vbm_asn_2016, DATA_LAYERS.vbm_lat_2016, DATA_LAYERS.vbm_youth_2016,
-        DATA_LAYERS.vbm_tot_2020, DATA_LAYERS.vbm_asn_2020, DATA_LAYERS.vbm_lat_2020, DATA_LAYERS.vbm_youth_2020,
-        DATA_LAYERS.turnout_tot_2016, DATA_LAYERS.turnout_asn_2016, DATA_LAYERS.turnout_lat_2016, DATA_LAYERS.turnout_youth_2016, 
-        DATA_LAYERS.turnout_tot_2020, DATA_LAYERS.turnout_asn_2020, DATA_LAYERS.turnout_lat_2020, DATA_LAYERS.turnout_youth_2020, 
+        DATA_LAYERS.vbm_tot_2016, 
+        DATA_LAYERS.vbm_tot_2020, 
+        DATA_LAYERS.turnout_tot_2016, 
+        DATA_LAYERS.turnout_tot_2020,
     ],
     populationdata: [
         DATA_LAYERS.prc_latino, 
@@ -885,22 +946,6 @@ DATA_PROFILES.fullmodel = {
         DATA_LAYERS.prc_pov_final, 
         DATA_LAYERS.popdens,
     ],
-    latino: [
-        DATA_LAYERS.prc_mexican,
-        DATA_LAYERS.prc_puertorican,
-        DATA_LAYERS.prc_cuban,
-        DATA_LAYERS.prc_dominican,
-        DATA_LAYERS.prc_southam,
-        DATA_LAYERS.prc_centralamerican,
-    ],
-    asian: [
-        DATA_LAYERS.prc_asianindian,
-        DATA_LAYERS.prc_chinese,
-        DATA_LAYERS.prc_filipino,
-        DATA_LAYERS.prc_japanese,
-        DATA_LAYERS.prc_korean,
-        DATA_LAYERS.prc_vietnamese,
-    ],
     pointsofinterest: [
         DATA_LAYERS.precincts,
         DATA_LAYERS.gen2020,
@@ -908,6 +953,46 @@ DATA_PROFILES.fullmodel = {
         DATA_LAYERS.pricenter2020,
         DATA_LAYERS.transit_stops,
         DATA_LAYERS.poi_govish, DATA_LAYERS.poi_misc, DATA_LAYERS.poi
+    ],
+    prc_latino: [
+        DATA_LAYERS.prc_mexican,
+        DATA_LAYERS.prc_puertorican,
+        DATA_LAYERS.prc_cuban,
+        DATA_LAYERS.prc_dominican,
+        DATA_LAYERS.prc_southam,
+        DATA_LAYERS.prc_centralamerican,
+    ],
+    prc_asian: [
+        DATA_LAYERS.prc_asianindian,
+        DATA_LAYERS.prc_chinese,
+        DATA_LAYERS.prc_filipino,
+        DATA_LAYERS.prc_japanese,
+        DATA_LAYERS.prc_korean,
+        DATA_LAYERS.prc_vietnamese,
+    ],
+    vbm_tot_2016: [ 
+        DATA_LAYERS.vbm_asn_2016, 
+        DATA_LAYERS.vbm_blk_2016,
+        DATA_LAYERS.vbm_lat_2016, 
+        DATA_LAYERS.vbm_youth_2016,
+    ],
+    vbm_tot_2020: [
+        DATA_LAYERS.vbm_asn_2020,
+        DATA_LAYERS.vbm_blk_2020,
+        DATA_LAYERS.vbm_lat_2020,
+        DATA_LAYERS.vbm_youth_2020
+    ],
+    turnout_tot_2016: [
+        DATA_LAYERS.turnout_asn_2016, 
+        DATA_LAYERS.turnout_blk_2016,
+        DATA_LAYERS.turnout_lat_2016, 
+        DATA_LAYERS.turnout_youth_2016
+    ], 
+    turnout_tot_2020: [ 
+        DATA_LAYERS.turnout_asn_2020, 
+        DATA_LAYERS.turnout_blk_2020,
+        DATA_LAYERS.turnout_lat_2020, 
+        DATA_LAYERS.turnout_youth_2020,
     ],
 };
 
