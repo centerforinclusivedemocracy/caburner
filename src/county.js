@@ -1,6 +1,9 @@
 let MAP;
 let COUNTYINFO;
 let BBOX; // save county bounding box
+let TOGGLELAYER; // track whether we're toggling a layer on and off for switching county boundaries
+let COUNTYOVERLAY; // 2020 county boundaries
+let COUNTYOVERLAY2010; // 2010 county boundaries
 const QUANTILEBREAKS = {}; // contains quantile breaks by layerid
 const INDICATORS_BY_TRACT = {}; // contains indicator data by geoid
 const SITESCOREBREAKS = {}; // contains quantile breaks by site score field (displayed in characteristics of suggested area popup)
@@ -168,6 +171,7 @@ function initDownloadModal () {
 
     COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
         if (! layerinfo.downloadfile) return;
+
         if (layerinfo.downloadfile.includes('zip')) {
             const $link = $(`<a href="data/${COUNTYINFO.countyfp}/${layerinfo.downloadfile}" target="_blank">${layerinfo.title} (SHP)</a>`);
             $(`<li data-layer-id="${layerinfo.id}"></li>`).append($link).appendTo($listing);
@@ -190,7 +194,7 @@ function initLayerControls () {
     const $section_sugg = $sections.filter('[data-section="suggestedareas"]');
     const $section_addl = $sections.filter('[data-section="additionalareas"]');
     const $section_all = $sections.filter('[data-section="allareas"]');
-    const $section_vote = $sections.filter('[data-section="voterdata"]');
+    const $section_voter = $sections.filter('[data-section="voterdata"]');
     const $section_popn = $sections.filter('[data-section="populationdata"]');
     const $section_poi = $sections.filter('[data-section="pointsofinterest"]');
 
@@ -208,7 +212,7 @@ function initLayerControls () {
     });
     COUNTYINFO.datalayers.voterdata.forEach(function (layerinfo) {
         const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}">${layerinfo.title}</label></div>`);
-        $section_vote.append($cb);
+        $section_voter.append($cb);
     });
     COUNTYINFO.datalayers.populationdata.forEach(function (layerinfo) {
         if (layerinfo.id == 'prc_latino') {
@@ -243,12 +247,12 @@ function initLayerControls () {
     COUNTYINFO.datalayers.pointsofinterest.forEach(function (layerinfo) {
         if (layerinfo.id == 'precincts') {
             const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"> <label class="form-check-label" for="layercheckbox-${layerinfo.id}"><line><span>${layerinfo.title}</span></line></label></div>`);
-            $section_poi.append($cb); ; 
+            $section_poi.append($cb);
         }
         else {
             const $cb = $(`<div class="form-check"><input class="form-check-input" type="checkbox" name="layers" value="${layerinfo.id}" id="layercheckbox-${layerinfo.id}"><label class="form-check-label" style="align-self: flex-start;" for="layercheckbox-${layerinfo.id}"><i class="fa fa-circle" aria-hidden="true" style="color: ${layerinfo.circle.fillColor};  align-items: flex-start;"></i>&nbsp;${layerinfo.title}</label></div>`);
             $section_poi.append($cb);
-
+            
             // only include button if file exists or has data
             var pathToFile = `data/${COUNTYINFO.countyfp}/` + layerinfo.csvfile;
             Papa.parse(pathToFile, {
@@ -292,8 +296,8 @@ function initLayerControls () {
         $section_all.parents('div').first().remove();
     }
     if (! COUNTYINFO.datalayers.voterdata.length) {
-        $section_vote.prev('button').remove();
-        $section_vote.remove();
+        $section_voter.prev('button').remove();
+        $section_voter.remove();
     }
     if (! COUNTYINFO.datalayers.populationdata.length) {
         $section_popn.prev('button').remove();
@@ -428,15 +432,16 @@ function initCountyMap () {
     // load the statewide counties GeoJSON and filter to this one
     const gjurl = `data/counties.json`;
     $.get(gjurl, function (data) {
-        MAP.COUNTYOVERLAY = L.geoJson(data, {
+        COUNTYOVERLAY = L.geoJson(data, {
             filter: function (feature) {
                 return feature.properties.countyfp == COUNTYINFO.countyfp;
             },
             style: SINGLECOUNTY_STYLE,
+            pane: 'low',
         })
         .addTo(MAP);
 
-        BBOX = MAP.COUNTYOVERLAY.getBounds();
+        BBOX = COUNTYOVERLAY.getBounds();
         if (COUNTYINFO.countyfp === '037') {
             MAP.setView([34.1,-118.38285],9);
         } else {
@@ -475,6 +480,25 @@ function initCountyMap () {
         console.error(err);
         // alert(`Problem loading or parsing ${gjurl}`);
     });
+
+    // load the statewide counties 2010 GeoJSON and filter to this one
+    busySpinner(true);
+    const gjurl2010 = `data/counties_2010.json`;
+    $.get(gjurl2010, function (data) {
+        COUNTYOVERLAY2010 = L.geoJson(data, {
+            filter: function (feature) {
+                return feature.properties.countyfp == COUNTYINFO.countyfp;
+            },
+            style: SINGLECOUNTY_STYLE,
+            pane: 'low',
+        })
+        busySpinner(false);
+    }, 'json')
+    .fail(function (err) {
+        busySpinner(false);
+        console.error(err);
+        // alert(`Problem loading or parsing ${gjurl}`);
+    });     
 
     // a registry of layers currently in the map: layer ID => L.tileLayer or L.geoJson or L.featureGroup or whatever
     // and some panes for prioritizing them by mapzindex
@@ -593,8 +617,7 @@ function toggleSidebar (desired) {
 
     if (MAP) {
         MAP.invalidateSize();
-        MAP.fitBounds(BBOX);
-        
+        MAP.fitBounds(BBOX);      
     }
 }
 
@@ -607,7 +630,26 @@ function toggleMapLayer (layerid, visible) {
         if (MAP.OVERLAYS[layerid]) {
             MAP.removeLayer(MAP.OVERLAYS[layerid]);
             delete MAP.OVERLAYS[layerid];
-        }
+        };
+
+        // if we're turning off a layer after toggling and it's not a 2016 layer
+        // then remove the 2010 counties and add the 2020 counties
+        if (typeof TOGGLELAYER !== "undefined") {
+            if (! TOGGLELAYER.includes('2016') && MAP.hasLayer(COUNTYOVERLAY2010)) {
+                MAP.removeLayer(COUNTYOVERLAY2010);
+                COUNTYOVERLAY.addTo(MAP);
+            };
+        // if we're turing off a 2016 layer and not toggling then also remove 2010 counties
+        // but only if we're turning off indicator data
+        } else {
+            if (layerid.includes('2016') && layerinfo.layertype == 'indicators') {
+                MAP.removeLayer(COUNTYOVERLAY2010);
+                COUNTYOVERLAY.addTo(MAP);
+            };
+        };
+
+        // reset toggle layer since we've ended sequence
+        TOGGLELAYER = undefined;
 
         // well, slightly less easy because turning off vote center layers should also stop showing highlights
         // potential bug-like behavior would be turning on multiple suggested areas, highlighting one in one layer, and finding it un-highlghted when turning off the other layer
@@ -616,10 +658,9 @@ function toggleMapLayer (layerid, visible) {
         if (issuggestedarea) showSuggestedSiteInfo(null);
 
         return;
-    }
 
     // if we're turning on a layer, and it is part of a radiogroup, then turn off all others layers in that same radiogroup
-    if (visible && layerinfo.radiogroup) {
+    } else if (visible && layerinfo.radiogroup) {
         Object.keys(COUNTYINFO.datalayers).forEach(function (groupname) {
             COUNTYINFO.datalayers[groupname].forEach(function (thislayerinfo) {
                 if (thislayerinfo.radiogroup != layerinfo.radiogroup) return;  // not in the same group
@@ -627,12 +668,14 @@ function toggleMapLayer (layerid, visible) {
                 if (thislayerinfo.id == layerinfo.id) return;  // it's this-here layer we're turning on
 
                 const $uncheckme = findCheckboxForLayerId(thislayerinfo.id);
+                // keep track of which layer we're toggling on
+                TOGGLELAYER = layerinfo.id;
                 setTimeout(function () {  // use a timeout so that a failure won't block continued execution of turning on our layer
                     $uncheckme.prop('checked', false).change();
                 }, 1);
             });
         });
-    }
+    };
 
     // hand off to whichever type of layer this is:
     // site scoring indicator. tract demographics indicator, point file for GeoJSON circles, custom GeoJSON file, ...
@@ -643,6 +686,11 @@ function toggleMapLayer (layerid, visible) {
         addCsvPointFileToMap(layerinfo);
     }
     else if (layerinfo.layertype == 'indicators') {
+        // if 2016 layer then add 2010 county boundaries
+        if (layerid.includes('2016')) {
+            MAP.removeLayer(COUNTYOVERLAY);
+            COUNTYOVERLAY2010.addTo(MAP);
+        };
         addIndicatorChoroplethToMap(layerinfo);
     }
     else {
@@ -762,7 +810,7 @@ function refreshMapLegend () {
         };
 
         // add the legend entry for unreliable squares
-        $(`<div class="legend-entry"><div class="legend-swatch legend-swatch-nodata"></div> Estimates that have a high degree of uncertainty</div>`).appendTo($legend);
+        $(`<div class="legend-entry"><div class="legend-swatch legend-swatch-nodata"></div> Data source estimates with high uncertainty</div>`).appendTo($legend);
 
         // do we have a caveat footnote?
         if (COUNTYINFO.datafootnote) {
@@ -818,12 +866,12 @@ function addIndicatorChoroplethToMap (layerinfo) {
 
                 return style;
             },
+            pane: 'lowest',
         });
 
         // add to the map and to the registry
         MAP.OVERLAYS[layerinfo.id] = featuregroup;
         featuregroup.addTo(MAP);
-        
     })
     .fail(function (err) {
         busySpinner(false);
@@ -877,7 +925,6 @@ function addCsvPointFileToMap (layerinfo) {
 function addCustomGeoJsonFileToMap (layerinfo) {
     // fetch the custom GeoJSON file and add it to the map, using the given style
     busySpinner(true);
-    
     $.getJSON(`data/${COUNTYINFO.countyfp}/${layerinfo.customgeojsonfile}`, function (gjdata) {
         busySpinner(false);
         const featuregroup = L.geoJson(gjdata, {
@@ -925,7 +972,7 @@ function suggestedAreaSymbolizer (layerinfo, row) {
 
     const squareoptions = Object.assign({}, layerinfo.circle);
     squareoptions.bubblingMouseEvents = false;
-    squareoptions.pane = layerinfo.mapzindex ? layerinfo.mapzindex : 'low';
+    squareoptions.pane = layerinfo.mapzindex ? layerinfo.mapzindex : 'medium';
 
     if (squareoptions.fillColor == 'quantile') {
         const value = parseFloat(row[layerinfo.quantilefield]);
@@ -955,7 +1002,7 @@ function circleSymbolizer (layerinfo, row) {
     const circleoptions = Object.assign({}, layerinfo.circle);
     circleoptions.interactive = layerinfo.popupnamefield ? true : false;
     circleoptions.bubblingMouseEvents = false;
-    circleoptions.pane = layerinfo.mapzindex ? layerinfo.mapzindex : 'low';
+    circleoptions.pane = layerinfo.mapzindex ? layerinfo.mapzindex : 'medium';
 
     if (circleoptions.fillColor == 'quantile') {
         const value = parseFloat(row[layerinfo.quantilefield]);
@@ -976,7 +1023,7 @@ function circleSymbolizer (layerinfo, row) {
 
         const htmllines = [];
         if (type) htmllines.push(`<b>Type:</b> ${type.toTitleCase()}`);
-        if (name) htmllines.push(`<b>Name</b>: ${name}`);
+        if (name) htmllines.push(`<b>Name</b>: ${name.toTitleCase()}`);
 
         if (htmllines.length) {  // no text fields = no lines = no popup
             let popuphtml = htmllines.join('<br />');
