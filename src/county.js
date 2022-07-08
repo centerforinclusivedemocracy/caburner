@@ -67,43 +67,28 @@ function initTooltips () {
     var $tipbuttons = $('i[data-tooltip-content], span[data-tooltip-content]');
 
     $tipbuttons.each(function () {
-        if ($(this).attr('data-tooltip-content') == '#tooltips > div[data-tooltip=\"pois\"]') {
-            $(this).tooltipster({
-                trigger: 'hover',
-                autoClose: false,
-                hideOnClick: true,
-                animation: 'fade',
-                animationDuration: 150,
-                distance: 0,
-                maxWidth: 400,
-                side: [ 'right', 'bottom' ],
-                contentCloning: true,  // allow multiple i links with the same tooltip
-                interactive: true, // don't auto-dismiss on mouse activity inside, let user copy text, follow links, ...
-                functionBefore: function (instance, helper) { // close open ones before opening this one
-                    jQuery.each(jQuery.tooltipster.instances(), function(i, instance) {
-                        instance.close();
-                    });
-                },
-            });
+        if (($(this).attr('data-tooltip-content') == '#tooltips > div[data-tooltip=\"pois\"]') || (($(this).attr('data-tooltip-content') == '#tooltips > div[data-tooltip=\"voterdata\"]'))) {
+            var width = 400;
         } else {
-            $(this).tooltipster({
-                trigger: 'hover',
-                autoClose: false,
-                hideOnClick: true,
-                animation: 'fade',
-                animationDuration: 150,
-                distance: 0,
-                maxWidth: 300,
-                side: [ 'right', 'bottom' ],
-                contentCloning: true,  // allow multiple i links with the same tooltip
-                interactive: true, // don't auto-dismiss on mouse activity inside, let user copy text, follow links, ...
-                functionBefore: function (instance, helper) { // close open ones before opening this one
-                    jQuery.each(jQuery.tooltipster.instances(), function(i, instance) {
-                        instance.close();
-                    });
-                },
-            });
+            var width = 300;
         };
+        $(this).tooltipster({
+            trigger: 'hover',
+            autoClose: false,
+            hideOnClick: true,
+            animation: 'fade',
+            animationDuration: 150,
+            distance: 0,
+            maxWidth: width,
+            side: [ 'right', 'bottom' ],
+            contentCloning: true,  // allow multiple i links with the same tooltip
+            interactive: true, // don't auto-dismiss on mouse activity inside, let user copy text, follow links, ...
+            functionBefore: function (instance, helper) { // close open ones before opening this one
+                jQuery.each(jQuery.tooltipster.instances(), function(i, instance) {
+                    instance.close();
+                });
+            },
+        });
     });
 }
 
