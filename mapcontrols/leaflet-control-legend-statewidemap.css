@@ -35,6 +35,11 @@
     background-color: #fecd1b;
     opacity: 0.75;
 }
+.leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-blackvoter {
+    background-color: #fecd1b;
+    opacity: 0.75;
+}
+
 /* .leaflet-statewidemaplegend-control .legend-swatch.legend-swatch-vbm {
     background-color: #FFEE99;
 }

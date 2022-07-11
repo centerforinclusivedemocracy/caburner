@@ -63,6 +63,8 @@ function initStatewideMap () {
                         return BOUNDSTYLE_VBM;
                     case 'butte':
                         return BOUNDSTYLE_BUTTE;
+                    case 'blackvoter':
+                        return BOUNDSTYLE_VCA;
                     // case 'inprogress':
                     //     return BOUNDSTYLE_INPROGRESS;
                     default:
@@ -98,6 +100,9 @@ function initStatewideMap () {
                             break;
                         case 'butte':
                             message = "No Location Modeling Due to Recent Population Changes";
+                            break;
+                        case 'blackvoter':
+                            message = "Voter's Choice Act County";
                             break;
                         // case 'inprogress':
                         //     message = 'Modeling Update in Progress';

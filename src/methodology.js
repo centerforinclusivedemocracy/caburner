@@ -33,6 +33,9 @@ function initFillScopeLists () {
             case 'butte':
                 $targetlist = $listing_butte;
                 break;
+            case 'blackvoter':
+                $targetlist = $listing_vca;
+                break;
             default:
                 console.error(`County ${countyinfo.countyfp} has unknown profile '${countyinfo.profile}' for Scope list`);
                 break;

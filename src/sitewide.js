@@ -7,7 +7,7 @@
 // exceptlayers = skip these layers when loading the data profile, for counties to opt-out from individual layers
 const PARTICIPATING_COUNTIES = [
     //SSS// We have 3 classes for CA: lite for the 4 VBM counties, fullmodel for polling places, and fullmodel for vote centers
-    { countyfp: "001", name: "Alameda", profile: 'vca', vca: '3 & 4'},
+    { countyfp: "001", name: "Alameda", profile: 'blackvoter', vca: '3 & 4'},
     { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "005", name: "Amador", profile: 'vca', vca: '2'},
     { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Voting location modeling is currently in progress for this county."},
@@ -25,7 +25,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "031", name: "Kings", profile: 'lite', vca: '3 & 4', outoforder: "Voting location modeling is currently in progress for this county."},
     { countyfp: "033", name: "Lake", profile: 'lite', vca: '3 & 4', outoforder: "Voting location modeling is currently in progress for this county."},
     { countyfp: "035", name: "Lassen", profile: 'lite', outoforder: "Voting location modeling is currently in progress for this county. 2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
-    { countyfp: "037", name: "Los Angeles", profile: 'vca', vca: '2'},
+    { countyfp: "037", name: "Los Angeles", profile: 'blackvoter', vca: '2'},
     { countyfp: "039", name: "Madera", profile: 'vca', vca: '1'},
     { countyfp: "041", name: "Marin", profile: 'vca', vca: '3 & 4'},
     { countyfp: "043", name: "Mariposa", profile: 'vca', vca: '2'},
@@ -68,6 +68,7 @@ const PARTICIPATING_COUNTIES = [
   ];
 
   const COMPLETED_COUNTIES = [
+    { countyfp: "001", name: "Alameda", profile: 'blackvoter', vca: '3 & 4'},
     { countyfp: "003", name: "Alpine", profile: 'lite', outoforder: "This county is exclusively all vote-by-mail in every election."},
     { countyfp: "005", name: "Amador", profile: 'vca', vca: '2'},
     { countyfp: "007", name: "Butte", profile: 'lite', datafootnote: "Note: Census data may not reflect current population for this county.", outoforder: "Due to recent changes to the county population, we are not providing voting location suggestions for this county."},
@@ -85,7 +86,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "031", name: "Kings", profile: 'lite', vca: '3 & 4'},
     { countyfp: "033", name: "Lake", profile: 'lite', vca: '3 & 4'},
     { countyfp: "035", name: "Lassen", profile: 'lite', outoforder: "2020 general election vote-by-mail rates are reported by the county as 100%.", vca: '3 & 4'},
-    { countyfp: "037", name: "Los Angeles", profile: 'vca', vca: '2'},
+    { countyfp: "037", name: "Los Angeles", profile: 'blackvoter', vca: '2'},
     { countyfp: "039", name: "Madera", profile: 'vca', vca: '1'},
     { countyfp: "041", name: "Marin", profile: 'vca', vca: '3 & 4'},
     { countyfp: "043", name: "Mariposa", profile: 'vca', vca: '2'},
@@ -972,32 +973,30 @@ DATA_PROFILES.fullmodel = {
     ],
     vbm_tot_2016: [ 
         DATA_LAYERS.vbm_asn_2016, 
-        DATA_LAYERS.vbm_blk_2016,
         DATA_LAYERS.vbm_lat_2016, 
         DATA_LAYERS.vbm_youth_2016,
     ],
     vbm_tot_2020: [
         DATA_LAYERS.vbm_asn_2020,
-        DATA_LAYERS.vbm_blk_2020,
         DATA_LAYERS.vbm_lat_2020,
         DATA_LAYERS.vbm_youth_2020
     ],
     turnout_tot_2016: [
         DATA_LAYERS.turnout_asn_2016, 
-        DATA_LAYERS.turnout_blk_2016,
         DATA_LAYERS.turnout_lat_2016, 
         DATA_LAYERS.turnout_youth_2016
     ], 
     turnout_tot_2020: [ 
         DATA_LAYERS.turnout_asn_2020, 
-        DATA_LAYERS.turnout_blk_2020,
         DATA_LAYERS.turnout_lat_2020, 
         DATA_LAYERS.turnout_youth_2020,
     ],
 };
 
 DATA_PROFILES.vca = Object.assign({}, DATA_PROFILES.fullmodel);
+
 DATA_PROFILES.nonvca = Object.assign({}, DATA_PROFILES.fullmodel);
+
 DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel);
 DATA_PROFILES.lite.suggestedareas = [];
 DATA_PROFILES.lite.additionalareas = [];
@@ -1017,7 +1016,33 @@ DATA_PROFILES.fullexceptsuggested = Object.assign({}, DATA_PROFILES.fullmodel); 
 DATA_PROFILES.fullexceptsuggested.suggestedareas = [];
 DATA_PROFILES.fullexceptsuggested.additionalareas = [];
 
-// DATA_PROFILES.inprogress = Object.assign({}, DATA_PROFILES.inprogress);
+DATA_PROFILES.blackvoter = Object.assign({}, DATA_PROFILES.fullmodel);  
+DATA_PROFILES.blackvoter.vbm_tot_2016 = [ 
+    DATA_LAYERS.vbm_asn_2016, 
+    DATA_LAYERS.vbm_blk_2016,
+    DATA_LAYERS.vbm_lat_2016, 
+    DATA_LAYERS.vbm_youth_2016,
+];
+DATA_PROFILES.blackvoter.vbm_tot_2020 = [
+    DATA_LAYERS.vbm_asn_2020,
+    DATA_LAYERS.vbm_blk_2020,
+    DATA_LAYERS.vbm_lat_2020,
+    DATA_LAYERS.vbm_youth_2020
+];
+DATA_PROFILES.blackvoter.turnout_tot_2016 = [
+    DATA_LAYERS.turnout_asn_2016, 
+    DATA_LAYERS.turnout_blk_2016,
+    DATA_LAYERS.turnout_lat_2016, 
+    DATA_LAYERS.turnout_youth_2016
+];
+DATA_PROFILES.blackvoter.turnout_tot_2020 = [ 
+    DATA_LAYERS.turnout_asn_2020, 
+    DATA_LAYERS.turnout_blk_2020,
+    DATA_LAYERS.turnout_lat_2020, 
+    DATA_LAYERS.turnout_youth_2020,
+];
+
+DATA_PROFILES.inprogress = Object.assign({}, DATA_PROFILES.inprogress);
 
 
 // popup hacks: some counties need random hacks to their popup content, e.g. Los Angeles 2020 Primary Vote Center Locations has a bunch of extra fields
